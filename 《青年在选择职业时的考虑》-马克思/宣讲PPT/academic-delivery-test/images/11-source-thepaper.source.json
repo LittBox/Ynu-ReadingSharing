@@ -1,0 +1,19 @@
+{
+  "url": "https://www.thepaper.cn/newsDetail_forward_33809377",
+  "publisher": "澎湃新闻",
+  "original_data_publisher": "国家统计局",
+  "published_at": "2026-08-19 14:51",
+  "capture_method": "Unmodified live webpage screenshot, clipped to article title, byline/date/source, and first data paragraph; no DOM/text/image edits.",
+  "viewport": {
+    "width": 1100,
+    "height": 900
+  },
+  "deviceScaleFactor": 2,
+  "clip": {
+    "x": 99,
+    "y": 199,
+    "width": 634,
+    "height": 392
+  },
+  "captured_at": "2026-10-18T09:13:47.998Z"
+}

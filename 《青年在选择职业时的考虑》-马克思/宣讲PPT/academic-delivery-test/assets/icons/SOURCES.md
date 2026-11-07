@@ -1,0 +1,1 @@
+Lucide icons: flame, scale, clipboard-check. Retrieved 2026-10-18 from https://github.com/lucide-icons/lucide/tree/main/icons . Original SVGs and license retained here; deck embeds the paths with shared size, color and stroke styling.

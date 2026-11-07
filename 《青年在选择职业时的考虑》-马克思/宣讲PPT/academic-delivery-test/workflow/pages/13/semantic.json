@@ -1,0 +1,46 @@
+{
+  "page_id": "industry-demand",
+  "input_sha256": "965d24739ab44587c54e90ea164a7cefcedf082e282c9a2d08d80c1a44ec1377",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "assessments": [
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非收尾"
+    },
+    {
+      "id": "L05",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "来源与行业同量尺指数对照，凸显数据图形"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L04",
+      "eligible": false,
+      "semantic_score": 0.5,
+      "reason": "缺少量尺结构"
+    },
+    {
+      "id": "L12",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "不比较图像"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非行动"
+    }
+  ],
+  "selected_id": "L05",
+  "selection_reason": "用2018=100的可比指数承载正负变化；不伪称当期招聘。",
+  "layout_confirmed": true
+}

@@ -1,0 +1,22 @@
+{
+  "page_id": "competency-first-four",
+  "input_sha256": "b6951eedad2c529dd013394fa011db33a37630c3b969b668182c884929742e28",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "assessments": [
+    {
+      "id": "L06",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "已验收矩阵完整复用"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    }
+  ],
+  "selected_id": "L06",
+  "selection_reason": "保留所有能力词条和示意材料，四行同权，主色表头。",
+  "layout_confirmed": true
+}

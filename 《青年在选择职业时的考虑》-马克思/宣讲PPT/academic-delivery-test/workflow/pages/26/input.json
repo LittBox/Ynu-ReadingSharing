@@ -1,0 +1,27 @@
+{
+  "page_id": "organizational-experience",
+  "source_page": 26,
+  "text": "### 第 26 页｜部队两年：职业共性与组织适应\n\n- **页面标题**：两年工作经历教我的职业共性\n- **核心文字**：\n  - 层级关系\n  - 流程执行\n  - 反馈机制\n  - 责任边界\n  - 成长路径\n  - 表述边界：用“两年工作经历/组织化职业训练”表述\n- **视觉/版式**：抽象组织流程图；不使用可识别军装照；不涉及单位、番号、任务、装备、人员、时间地点。\n- **资源**：`assets/military-experience-abstract.png`\n- **口播提示**：不涉及单位、番号、任务、装备、人员、时间地点；不做负面评价和猎奇化。\n",
+  "roles": [
+    {
+      "role": "claim",
+      "text": "两年工作经历教我的职业共性",
+      "reason": "原稿个人经历概括"
+    },
+    {
+      "role": "group",
+      "text": "五类职业共性",
+      "reason": "并列观察维度"
+    }
+  ],
+  "features": {
+    "purpose": "overview",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 5,
+    "evidence": [
+      "text"
+    ]
+  },
+  "retrieval_query": "两年工作经历提炼职业共性：层级关系流程执行反馈机制责任边界成长路径。五个观察角度并列，不编造具体任务或时间地点，不画不存在的因果箭头，使用抽象结构与线形图标。"
+}

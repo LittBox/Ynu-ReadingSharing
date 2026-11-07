@@ -1,0 +1,258 @@
+{
+  "page_id": "capability-evidence",
+  "input_sha256": "d9b9e78d0bc394266589c26c437cf7991cbb3fb5a3d9bcf2b818754b0bfb0779",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "embedding": {
+    "model": "Apple NaturalLanguage zh-Hans sentenceEmbedding",
+    "revision": 1,
+    "dimension": 640
+  },
+  "channels": {
+    "keyword": "BM25 over Chinese bigrams/Latin tokens",
+    "vector": "cosine similarity of real Chinese sentence embeddings",
+    "semantic": "agent contextual analysis with per-candidate reasons; not keyword labels or a second embedding score"
+  },
+  "candidates": [
+    {
+      "id": "L02",
+      "family": "C02",
+      "name": "短并列横向论证框",
+      "keywords": [
+        "并列",
+        "三项",
+        "同权",
+        "短句",
+        "图标",
+        "横排"
+      ],
+      "semantic_description": "两到四个并列观点，各有简短说明，使用等宽同权的横向分组标题与下接论证框。核心判断独立使用主题色文字，语义图标辅助各项含义。",
+      "conditions": {
+        "relations": [
+          "parallel"
+        ],
+        "group_min": 2,
+        "group_max": 4,
+        "densities": [
+          "short"
+        ]
+      },
+      "apply": "标题条等高、内容框同权；每组保留原论点与说明。",
+      "avoid": "不用箭头暗示递进，不做两小一大，不让短句独占整页宽。",
+      "keyword_score": 8.26909,
+      "vector_cosine": 0.99424,
+      "keyword_rank": 1,
+      "vector_rank": 2,
+      "recall_rrf": 0.03252247488101534,
+      "semantic": {
+        "id": "L02",
+        "eligible": true,
+        "semantic_score": 1,
+        "reason": "三项误区类别同权横排"
+      },
+      "combined_score": 0.85
+    },
+    {
+      "id": "L07",
+      "family": "C06",
+      "name": "插图问题与行动卡",
+      "keywords": [
+        "收束",
+        "反思",
+        "问题",
+        "行动",
+        "调整",
+        "探索",
+        "配图"
+      ],
+      "semantic_description": "以一个开放问题回扣主题，并给出两到三项独立行动。左侧相关简约主题插图与问题，右侧等高行动卡，标题条下接说明，问题不填充。",
+      "conditions": {
+        "purposes": [
+          "closing"
+        ],
+        "group_min": 2,
+        "group_max": 3
+      },
+      "apply": "有反思问题、论证或行动等实质内容的收尾页，保留正文导航、透明底问题、左插图右同权行动卡，不套封面横幅。布局确认后复用合适插图，否则按用户风格生成并标示意。即使是样板最后一页也按内容判断。",
+      "avoid": "不把三项行动强行画成必经流程；不能用图取代原问题。",
+      "keyword_score": 3.83913,
+      "vector_cosine": 0.99455,
+      "keyword_rank": 2,
+      "vector_rank": 1,
+      "recall_rrf": 0.03252247488101534,
+      "semantic": {
+        "id": "L07",
+        "eligible": false,
+        "semantic_score": 0.5,
+        "reason": "不需插图收尾"
+      },
+      "combined_score": 0.65
+    },
+    {
+      "id": "L01",
+      "family": "C01",
+      "name": "封面横幅",
+      "keywords": [
+        "开场",
+        "封面",
+        "题目",
+        "书目",
+        "讲者",
+        "日期",
+        "起点"
+      ],
+      "semantic_description": "讲座首页，主标题置于加高出血横幅；上方留空，无导航、标志或文字。副标题、书目等说明全在横幅下，汇报人及时间用横向浅色圆角信息标签排列。",
+      "conditions": {
+        "purposes": [
+          "cover"
+        ]
+      },
+      "apply": "用于首页或仅感谢聆听等无实质内容的结束页；不得因页码最后就选用。有实质内容的收尾另按内容检索。出血横幅上方留空；下方说明与汇报主题、汇报人、时间分层，三个基本信息标签同级并使用space-between分布，只填已有字段。",
+      "avoid": "不要把此封面横幅规则用于正文观点句。",
+      "keyword_score": 3.03965,
+      "vector_cosine": 0.98589,
+      "keyword_rank": 3,
+      "vector_rank": 4,
+      "recall_rrf": 0.03149801587301587,
+      "semantic": {
+        "id": "L01",
+        "eligible": false,
+        "semantic_score": 0,
+        "reason": "非封面"
+      },
+      "combined_score": 0.14166666666666666
+    },
+    {
+      "id": "L11",
+      "family": "C06",
+      "name": "问题与文字行动分栏",
+      "keywords": [
+        "收束",
+        "行动",
+        "清单",
+        "问题",
+        "无图"
+      ],
+      "semantic_description": "问题和两到三项具体行动构成收尾，已有较多文字或无合适图像时采用问题与行动分栏；行动标题条与正文框统一。",
+      "conditions": {
+        "purposes": [
+          "closing"
+        ],
+        "group_min": 2,
+        "group_max": 3
+      },
+      "apply": "仅当空间利用合理且没有用户必须配图要求时采用。",
+      "avoid": "用户明确要求插图时不能用纯文字版替代。",
+      "keyword_score": 2.11395,
+      "vector_cosine": 0.98956,
+      "keyword_rank": 4,
+      "vector_rank": 3,
+      "recall_rrf": 0.03149801587301587,
+      "semantic": {
+        "id": "L11",
+        "eligible": false,
+        "semantic_score": 0.5,
+        "reason": "三误区对照比问题行动分栏合适"
+      },
+      "combined_score": 0.4
+    }
+  ],
+  "excluded": [
+    {
+      "id": "L03",
+      "reasons": [
+        "density=short not in ['long', 'mixed']"
+      ]
+    },
+    {
+      "id": "L04",
+      "reasons": [
+        "missing evidence source_image"
+      ]
+    },
+    {
+      "id": "L05",
+      "reasons": [
+        "missing evidence numeric_data",
+        "missing evidence source_image"
+      ]
+    },
+    {
+      "id": "L06",
+      "reasons": [
+        "missing evidence table"
+      ]
+    },
+    {
+      "id": "L08",
+      "reasons": [
+        "relation=parallel not in ['sequence']"
+      ]
+    },
+    {
+      "id": "L09",
+      "reasons": [
+        "relation=parallel not in ['whole_parts', 'priority']"
+      ]
+    },
+    {
+      "id": "L10",
+      "reasons": [
+        "relation=parallel not in ['causal', 'conditional']"
+      ]
+    },
+    {
+      "id": "L12",
+      "reasons": [
+        "missing evidence source_image"
+      ]
+    },
+    {
+      "id": "L13",
+      "reasons": [
+        "missing evidence illustration"
+      ]
+    },
+    {
+      "id": "L14",
+      "reasons": [
+        "too few groups"
+      ]
+    }
+  ],
+  "status": "layout_confirmed",
+  "selected_id": "L02",
+  "semantic_review": {
+    "page_id": "capability-evidence",
+    "input_sha256": "d9b9e78d0bc394266589c26c437cf7991cbb3fb5a3d9bcf2b818754b0bfb0779",
+    "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+    "assessments": [
+      {
+        "id": "L02",
+        "eligible": true,
+        "semantic_score": 1,
+        "reason": "三项误区类别同权横排"
+      },
+      {
+        "id": "L07",
+        "eligible": false,
+        "semantic_score": 0.5,
+        "reason": "不需插图收尾"
+      },
+      {
+        "id": "L01",
+        "eligible": false,
+        "semantic_score": 0,
+        "reason": "非封面"
+      },
+      {
+        "id": "L11",
+        "eligible": false,
+        "semantic_score": 0.5,
+        "reason": "三误区对照比问题行动分栏合适"
+      }
+    ],
+    "selected_id": "L02",
+    "selection_reason": "三卡标题为类别，正文保留误区与纠正，底部放使用建议。",
+    "layout_confirmed": true
+  }
+}

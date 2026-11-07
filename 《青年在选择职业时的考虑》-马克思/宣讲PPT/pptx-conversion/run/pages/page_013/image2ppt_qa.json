@@ -1,0 +1,310 @@
+{
+  "schema_version": "image2ppt-supplemental-page-qa-v1",
+  "passed": true,
+  "page_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013",
+  "state_owner": "page_jobs.json",
+  "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/manifest.json",
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "",
+    "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+    "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png",
+    "evidence": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/visual-review-evidence.json",
+    "evidence_template": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/visual-review-evidence.template.json",
+    "evidence_payload": {
+      "schema_version": "image2ppt-visual-review-evidence-v1",
+      "pages": [
+        {
+          "page_id": "page_013",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png",
+          "source_sha256": "cf4429332b29cc2d5c1920488e96e434e4634f8063e5bc64db2d504edc517e50",
+          "rendered_sha256": "0aed8b3361d84e8e67950d90839faf89700280edbfc6edc93edf85d6fd23b472",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two bordered evidence panels remain left; employment-index chart and three change summaries remain right, with matching whitespace and bottom caveat.",
+            "text_content": "Index labels 100, 151.4, 153, 88.1 and changes +51.4%, +53.0%, -11.9% remain intact; Chinese title and caveats fit without clipping.",
+            "object_completeness": "Four purple index bars and gray backgrounds, two original screenshots, chart title, three change lines and recent-observation line are visible once.",
+            "render_integrity": "Inspected LibreOffice page retains native editable chart labels and bars; clean sans typography and no duplicated source text or missing content.",
+            "raster_assets": "Statistics bureau webpage screenshot and article excerpt remain independent original images; their content and aspect ratios match source panels."
+          }
+        }
+      ]
+    }
+  },
+  "checks": {
+    "region_decomposition_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/inspect_region_decomposition.py",
+        "--manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/manifest.json",
+        "--out",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/region_decomposition_report.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-region-decomposition-report-v1\",\n  \"passed\": true,\n  \"pages\": [\n    {\n      \"manifest\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_013/manifest.json\",\n      \"passed\": true,\n      \"page_complexity\": \"structured\",\n      \"region_count\": 3,\n      \"regions\": [\n        {\n          \"id\": \"heading\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 18,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"content\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 37,\n          \"protected_anchor_count\": 10,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"footer\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 3,\n          \"protected_anchor_count\": 0,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        }\n      ],\n      \"summary\": {\n        \"manifest_objects\": 58,\n        \"assigned_objects\": 58,\n        \"protected_anchors\": 19,\n        \"compound_regions\": 0\n      },\n      \"warnings\": [],\n      \"errors\": []\n    }\n  ],\n  \"summary\": {\n    \"pages\": 1,\n    \"regions\": 3,\n    \"compound_regions\": 0\n  },\n  \"errors\": []\n}\n",
+      "stderr": ""
+    },
+    "region_decomposition": {
+      "schema_version": "image2ppt-region-decomposition-report-v1",
+      "passed": true,
+      "pages": [
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 37,
+              "protected_anchor_count": 10,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 58,
+            "assigned_objects": 58,
+            "protected_anchors": 19,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        }
+      ],
+      "summary": {
+        "pages": 1,
+        "regions": 3,
+        "compound_regions": 0
+      },
+      "errors": []
+    },
+    "arrow_postprocess_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/postprocess_manifest_arrows.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx",
+        "--manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/manifest.json",
+        "--report",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/arrow_postprocess_report.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-manifest-arrow-postprocess-v1\",\n  \"passed\": true,\n  \"pptx\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_013/page.pptx\",\n  \"manifests\": [\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_013/manifest.json\"\n  ],\n  \"operations\": [],\n  \"errors\": [],\n  \"preservation\": {\n    \"non_slide_parts_preserved\": true,\n    \"non_slide_part_count\": 14,\n    \"notes_parts_preserved\": true,\n    \"notes_part_count\": 0\n  },\n  \"input_sha256\": \"a8ac689ad73fbae1070f22e0897e43da83930d1f27bb8bcef70cfd7108ee4b18\",\n  \"output_sha256\": \"a8ac689ad73fbae1070f22e0897e43da83930d1f27bb8bcef70cfd7108ee4b18\",\n  \"summary\": {\n    \"slides\": 1,\n    \"profiled_arrows\": 0,\n    \"connectors\": 0,\n    \"filled_arrows\": 0\n  }\n}\n",
+      "stderr": ""
+    },
+    "arrow_postprocess": {
+      "schema_version": "image2ppt-manifest-arrow-postprocess-v1",
+      "passed": true,
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx",
+      "manifests": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/manifest.json"
+      ],
+      "operations": [],
+      "errors": [],
+      "preservation": {
+        "non_slide_parts_preserved": true,
+        "non_slide_part_count": 14,
+        "notes_parts_preserved": true,
+        "notes_part_count": 0
+      },
+      "input_sha256": "a8ac689ad73fbae1070f22e0897e43da83930d1f27bb8bcef70cfd7108ee4b18",
+      "output_sha256": "a8ac689ad73fbae1070f22e0897e43da83930d1f27bb8bcef70cfd7108ee4b18",
+      "summary": {
+        "slides": 1,
+        "profiled_arrows": 0,
+        "connectors": 0,
+        "filled_arrows": 0
+      }
+    },
+    "image2ppt_validation_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/cli/image2ppt/cli.py",
+        "page",
+        "validate",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013",
+        "--report",
+        "validation.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"pptx\": \"/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx\",\n  \"zip_ok\": true,\n  \"slides\": 1,\n  \"images\": 2,\n  \"editable_text_shapes\": 28,\n  \"shape_count\": 56,\n  \"all_text\": \"数据展示 开场问题 理论命题 就业数据 方向地图 能力证据 案例经历 行动反思 行业需求观察：先分清长期结构与短期变化 国家统计局 · 2025-02-27 信息软件与科研技术服务业从业变化 2023年末从业人数指数 2018年基期 100 信息软件 151.4 科研技术 153 建筑业 88.1 2018年末=100；统一满宽160 信息软件：+51.4% 科研技术：+53.0% 建筑业：−11.9% 近期观察：2026年8月，信息软件就业增加，制造业就业总体稳定。 企业法人单位从业人数是存量，不能直接回答“现在招多少人”；近期观察与五年变化率不拼接。 来源：国家统计局第五次经济普查、公报第三号；2025-02-27解读；2026-09-15答记者问。 13 / 30\",\n  \"required_text\": [\n    \"数据展示\",\n    \"开场问题\",\n    \"理论命题\",\n    \"就业数据\",\n    \"方向地图\",\n    \"能力证据\",\n    \"案例经历\",\n    \"行动反思\",\n    \"行业需求观察：先分清长期结构与短期变化\",\n    \"国家统计局 · 2025-02-27\",\n    \"信息软件与科研技术服务业从业变化\",\n    \"2023年末从业人数指数\",\n    \"2018年基期\",\n    \"100\",\n    \"信息软件\",\n    \"151.4\",\n    \"科研技术\",\n    \"153\",\n    \"建筑业\",\n    \"88.1\",\n    \"2018年末=100；统一满宽160\",\n    \"信息软件：+51.4%\",\n    \"科研技术：+53.0%\",\n    \"建筑业：−11.9%\",\n    \"近期观察：2026年8月，信息软件就业增加，制造业就业总体稳定。\",\n    \"企业法人单位从业人数是存量，不能直接回答“现在招多少人”；近期观察与五年变化率不拼接。\",\n    \"来源：国家统计局第五次经济普查、公报第三号；2025-02-27解读；2026-09-15答记者问。\",\n    \"13 / 30\"\n  ],\n  \"missing_required_text\": [],\n  \"missing_parts\": [],\n  \"missing_relationship_targets\": [],\n  \"missing_asset_provenance\": [],\n  \"missing_manifest_images\": [],\n  \"missing_provenance_sources\": [],\n  \"invalid_asset_provenance\": [],\n  \"media_hash_mismatches\": [],\n  \"asset_provenance_checked\": 2,\n  \"manifest_image_count\": 2,\n  \"media_manifest_mismatch\": false,\n  \"relationship_targets_checked\": 11,\n  \"warnings\": [],\n  \"page_contract_violations\": [],\n  \"passed\": true\n}\n",
+      "stderr": ""
+    },
+    "image2ppt_validation": {
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx",
+      "zip_ok": true,
+      "slides": 1,
+      "images": 2,
+      "editable_text_shapes": 28,
+      "shape_count": 56,
+      "all_text": "数据展示 开场问题 理论命题 就业数据 方向地图 能力证据 案例经历 行动反思 行业需求观察：先分清长期结构与短期变化 国家统计局 · 2025-02-27 信息软件与科研技术服务业从业变化 2023年末从业人数指数 2018年基期 100 信息软件 151.4 科研技术 153 建筑业 88.1 2018年末=100；统一满宽160 信息软件：+51.4% 科研技术：+53.0% 建筑业：−11.9% 近期观察：2026年8月，信息软件就业增加，制造业就业总体稳定。 企业法人单位从业人数是存量，不能直接回答“现在招多少人”；近期观察与五年变化率不拼接。 来源：国家统计局第五次经济普查、公报第三号；2025-02-27解读；2026-09-15答记者问。 13 / 30",
+      "required_text": [
+        "数据展示",
+        "开场问题",
+        "理论命题",
+        "就业数据",
+        "方向地图",
+        "能力证据",
+        "案例经历",
+        "行动反思",
+        "行业需求观察：先分清长期结构与短期变化",
+        "国家统计局 · 2025-02-27",
+        "信息软件与科研技术服务业从业变化",
+        "2023年末从业人数指数",
+        "2018年基期",
+        "100",
+        "信息软件",
+        "151.4",
+        "科研技术",
+        "153",
+        "建筑业",
+        "88.1",
+        "2018年末=100；统一满宽160",
+        "信息软件：+51.4%",
+        "科研技术：+53.0%",
+        "建筑业：−11.9%",
+        "近期观察：2026年8月，信息软件就业增加，制造业就业总体稳定。",
+        "企业法人单位从业人数是存量，不能直接回答“现在招多少人”；近期观察与五年变化率不拼接。",
+        "来源：国家统计局第五次经济普查、公报第三号；2025-02-27解读；2026-09-15答记者问。",
+        "13 / 30"
+      ],
+      "missing_required_text": [],
+      "missing_parts": [],
+      "missing_relationship_targets": [],
+      "missing_asset_provenance": [],
+      "missing_manifest_images": [],
+      "missing_provenance_sources": [],
+      "invalid_asset_provenance": [],
+      "media_hash_mismatches": [],
+      "asset_provenance_checked": 2,
+      "manifest_image_count": 2,
+      "media_manifest_mismatch": false,
+      "relationship_targets_checked": 11,
+      "warnings": [],
+      "page_contract_violations": [],
+      "passed": true
+    },
+    "arrow_inspection_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/inspect_arrow_atomicity.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx",
+        "--manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/manifest.json",
+        "--out",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/arrow_inspection_report.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-manifest-arrow-inspection-v1\",\n  \"passed\": true,\n  \"pptx\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_013/page.pptx\",\n  \"errors\": [],\n  \"summary\": {\n    \"expected_arrows\": 0,\n    \"inspected_arrows\": 0,\n    \"connectors\": 0,\n    \"filled_arrows\": 0,\n    \"fragmented_or_missing\": 0\n  },\n  \"arrows\": []\n}\n",
+      "stderr": ""
+    },
+    "arrow_inspection": {
+      "schema_version": "image2ppt-manifest-arrow-inspection-v1",
+      "passed": true,
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx",
+      "errors": [],
+      "summary": {
+        "expected_arrows": 0,
+        "inspected_arrows": 0,
+        "connectors": 0,
+        "filled_arrows": 0,
+        "fragmented_or_missing": 0
+      },
+      "arrows": []
+    },
+    "render_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/render_image2ppt_qa.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx",
+        "--out-dir",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render",
+        "--report",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render_report.json",
+        "--source",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+        "--timeout",
+        "120"
+      ],
+      "returncode": 0,
+      "stdout": "{\"status\": \"rendered\", \"report\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_013/render_report.json\"}\n",
+      "stderr": ""
+    },
+    "render": {
+      "schema_version": "image2ppt-render-qa-v1",
+      "status": "rendered",
+      "renderer": "libreoffice",
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx",
+      "out_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render",
+      "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png",
+      "rendered_slides": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png"
+      ],
+      "source_image": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+      "raw": {
+        "status": "rendered",
+        "renderer": "libreoffice",
+        "backend": "soffice-pdf-pdfium",
+        "command": [
+          "/opt/homebrew/bin/soffice",
+          "--headless",
+          "-env:UserInstallation=file:///var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-ms9gdz3b/profile",
+          "--convert-to",
+          "pdf",
+          "--outdir",
+          "/var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-ms9gdz3b",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx"
+        ],
+        "stdout": "convert /Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx as a Impress document -> /private/var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-ms9gdz3b/page.pdf using filter : impress_pdf_Export\n",
+        "stderr": "2026-10-19 11:52:35.707 soffice[6692:122624] Task policy set failed: 4 ((os/kern) invalid argument)\n",
+        "elapsed_seconds": 4.483,
+        "slides": [
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png"
+        ]
+      },
+      "diff_metrics": {
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 4.41,
+        "max_abs_rgb_diff_0_255": 250,
+        "note": "Indicative only; the page still requires visual review."
+      }
+    }
+  },
+  "errors": []
+}

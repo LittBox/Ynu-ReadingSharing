@@ -1,0 +1,1034 @@
+{
+  "id": "selection-information",
+  "title": "选拔中的紧张，来自信息不对称",
+  "size": [
+    1920,
+    1080
+  ],
+  "texts": [
+    {
+      "text": "案例与经历",
+      "box": [
+        96,
+        35.984375,
+        148.8125,
+        35
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 29.76,
+      "weight": "600",
+      "color": "#660874",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "z": 4,
+      "tag": "SPAN",
+      "cls": "ac-nav-chapter"
+    },
+    {
+      "text": "开场问题",
+      "box": [
+        375.25,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 7,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "理论命题",
+      "box": [
+        591.921875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 9,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "就业数据",
+      "box": [
+        808.609375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 11,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "方向地图",
+      "box": [
+        1025.296875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 13,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "能力证据",
+      "box": [
+        1241.984375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 15,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "案例经历",
+      "box": [
+        1458.671875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 17,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "行动反思",
+      "box": [
+        1675.359375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 19,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "选拔中的紧张，来自信息不对称",
+      "box": [
+        96,
+        132.59375,
+        831.609375,
+        71
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 59.4,
+      "weight": "600",
+      "color": "#660874",
+      "lineHeight": "77.22px",
+      "letterSpacing": "normal",
+      "z": 22,
+      "tag": "H1",
+      "cls": "ac-title"
+    },
+    {
+      "text": "用任务与作品展开交流 · AI生成示意",
+      "box": [
+        116.1875,
+        855.390625,
+        317.34375,
+        23
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 20.16,
+      "weight": "400",
+      "color": "#56515e",
+      "lineHeight": "28.224px",
+      "letterSpacing": "normal",
+      "z": 28,
+      "tag": "FIGCAPTION",
+      "cls": ""
+    },
+    {
+      "text": "01",
+      "box": [
+        974.96875,
+        262.640625,
+        40.578125,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 33,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "了解方向",
+      "box": [
+        1028.984375,
+        262.640625,
+        156.0625,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 34,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "提前核对公开信息与要",
+      "box": [
+        974.96875,
+        388.84375,
+        345.609375,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 37,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "求。",
+      "box": [
+        974.96875,
+        445.859375,
+        69.125,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 38,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "02",
+      "box": [
+        1431.65625,
+        262.640625,
+        40.578125,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 42,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "验证证据",
+      "box": [
+        1485.671875,
+        262.640625,
+        156.0625,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 43,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "准备能说明能力的材",
+      "box": [
+        1431.65625,
+        388.84375,
+        311.046875,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 46,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "料。",
+      "box": [
+        1431.65625,
+        445.859375,
+        69.125,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 47,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "03",
+      "box": [
+        974.96875,
+        608.390625,
+        40.578125,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 51,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "沟通边界",
+      "box": [
+        1028.984375,
+        608.390625,
+        156.0625,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 52,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "说清已知、未知与承担",
+      "box": [
+        974.96875,
+        734.59375,
+        345.609375,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 55,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "范围。",
+      "box": [
+        974.96875,
+        791.609375,
+        103.6875,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 56,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "04",
+      "box": [
+        1431.65625,
+        608.390625,
+        40.578125,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 60,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "可培养性",
+      "box": [
+        1485.671875,
+        608.390625,
+        156.0625,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 61,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "展示学习、反馈与调整",
+      "box": [
+        1431.65625,
+        734.59375,
+        345.609375,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 64,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "的能力。",
+      "box": [
+        1431.65625,
+        791.609375,
+        138.25,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 65,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "从信息不对称角度讨论准备，不揣测个人，不制造黑箱焦虑。",
+      "box": [
+        96,
+        952.546875,
+        622.09375,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 68,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "25 / 30",
+      "box": [
+        1752.265625,
+        952.546875,
+        71.734375,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 70,
+      "tag": "SPAN",
+      "cls": ""
+    }
+  ],
+  "shapes": [
+    {
+      "type": "fill",
+      "box": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc",
+      "radius": 0,
+      "z": 0
+    },
+    {
+      "type": "fill",
+      "box": [
+        326.39,
+        25.91,
+        197.48,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 6
+    },
+    {
+      "type": "fill",
+      "box": [
+        543.06,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 8
+    },
+    {
+      "type": "fill",
+      "box": [
+        759.75,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 10
+    },
+    {
+      "type": "fill",
+      "box": [
+        976.44,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 12
+    },
+    {
+      "type": "fill",
+      "box": [
+        1193.13,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 14
+    },
+    {
+      "type": "fill",
+      "box": [
+        1409.81,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#660874",
+      "radius": 999,
+      "z": 16
+    },
+    {
+      "type": "fill",
+      "box": [
+        1626.5,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 18
+    },
+    {
+      "type": "fill",
+      "box": [
+        96,
+        245.69,
+        795.42,
+        653.11
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 25
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        795.42,
+        653.11
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 25
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        795.42,
+        653.11
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 25
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        795.42,
+        653.11
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 25
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        795.42,
+        653.11
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 25
+    },
+    {
+      "type": "fill",
+      "box": [
+        949.02,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 30
+    },
+    {
+      "type": "border",
+      "box": [
+        949.02,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 30
+    },
+    {
+      "type": "border",
+      "box": [
+        949.02,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 30
+    },
+    {
+      "type": "border",
+      "box": [
+        949.02,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 30
+    },
+    {
+      "type": "border",
+      "box": [
+        949.02,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 30
+    },
+    {
+      "type": "fill",
+      "box": [
+        950.02,
+        246.69,
+        416.3,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 31
+    },
+    {
+      "type": "fill",
+      "box": [
+        1405.7,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 39
+    },
+    {
+      "type": "border",
+      "box": [
+        1405.7,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 39
+    },
+    {
+      "type": "border",
+      "box": [
+        1405.7,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 39
+    },
+    {
+      "type": "border",
+      "box": [
+        1405.7,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 39
+    },
+    {
+      "type": "border",
+      "box": [
+        1405.7,
+        245.69,
+        418.3,
+        307.36
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 39
+    },
+    {
+      "type": "fill",
+      "box": [
+        1406.7,
+        246.69,
+        416.3,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 40
+    },
+    {
+      "type": "fill",
+      "box": [
+        949.02,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 48
+    },
+    {
+      "type": "border",
+      "box": [
+        949.02,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 48
+    },
+    {
+      "type": "border",
+      "box": [
+        949.02,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 48
+    },
+    {
+      "type": "border",
+      "box": [
+        949.02,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 48
+    },
+    {
+      "type": "border",
+      "box": [
+        949.02,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 48
+    },
+    {
+      "type": "fill",
+      "box": [
+        950.02,
+        592.44,
+        416.3,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 49
+    },
+    {
+      "type": "fill",
+      "box": [
+        1405.7,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 57
+    },
+    {
+      "type": "border",
+      "box": [
+        1405.7,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 57
+    },
+    {
+      "type": "border",
+      "box": [
+        1405.7,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 57
+    },
+    {
+      "type": "border",
+      "box": [
+        1405.7,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 57
+    },
+    {
+      "type": "border",
+      "box": [
+        1405.7,
+        591.44,
+        418.3,
+        307.36
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 57
+    },
+    {
+      "type": "fill",
+      "box": [
+        1406.7,
+        592.44,
+        416.3,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 58
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        937.67,
+        1728,
+        45.14
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 66
+    }
+  ],
+  "images": [
+    {
+      "box": [
+        116.19,
+        262.88,
+        755.05,
+        579.72
+      ],
+      "src": "images/25-evidence-conversation.png",
+      "fit": "contain",
+      "position": "0% 50%",
+      "natural": [
+        1448,
+        1086
+      ],
+      "alt": "用任务与作品展开交流 · AI生成示意",
+      "z": 26
+    }
+  ],
+  "svgs": []
+}

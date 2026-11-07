@@ -1,0 +1,28 @@
+{
+  "page_id": "competency-framework",
+  "input_sha256": "4b64825c49d2796d1658b7784e9fb679e131f4cec269e0c7a126a4e02a5fb455",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "assessments": [
+    {
+      "id": "L06",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "四列表格解释统一维度，对应后续矩阵"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L02",
+      "eligible": false,
+      "semantic_score": 0.6,
+      "reason": "卡片会弱化与后两页统一表格映射"
+    }
+  ],
+  "selected_id": "L06",
+  "selection_reason": "四列等宽，主色表头；保留自查边界。",
+  "layout_confirmed": true
+}

@@ -1,0 +1,22 @@
+{
+  "page_id": "career-directions",
+  "input_sha256": "247633dd2d40cb3d5aa08a0b480495d17e99c36829267aabe81670272e7a302a",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "assessments": [
+    {
+      "id": "L14",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "8个短类别同级总览，适合4×2网格"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    }
+  ],
+  "selected_id": "L14",
+  "selection_reason": "八格等权、无箭头，采用官方Lucide线形图标。",
+  "layout_confirmed": true
+}

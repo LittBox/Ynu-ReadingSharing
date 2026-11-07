@@ -1,0 +1,21 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_030",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_030/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_030/render/rendered.png",
+      "source_sha256": "bf4b8aa4cb756880f036caef097973006177675fb182c21ac002aa02ca8176c4",
+      "rendered_sha256": "60b607173bbede8dbc5ea0f1d70bb9034c7830a2f87326c339828be5478c5539",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Left career-exploration illustration and two-line question keep their source composition; three right-side action cards retain equal widths, header strips and original vertical spacing.",
+        "text_content": "Closing title, three numbered actions, numeric targets 3 directions/2 facts, two-line question and source footer remain complete with no body clipping.",
+        "object_completeness": "Twenty-five editable text boxes, twenty-eight native layout shapes and one original illustration retain all source objects including emphasis on 重新理解.",
+        "render_integrity": "Compared actual LibreOffice render with source: no illustration distortion, text-card overlap, missing action line or duplicated question content.",
+        "raster_assets": "Original woman-at-fork illustration is reused under explicit approval; person, suitcase and three-way path preserve original image framing, color and proportions."
+      },
+      "pptx_sha256": "dc7731326c01e534bbc61616bfc288f323fc3890fb5cd9019c8affb06f4521d9"
+    }
+  ]
+}

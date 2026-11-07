@@ -1,0 +1,877 @@
+{
+  "id": "employment-news",
+  "title": "开场新闻：青年就业环境",
+  "size": [
+    1920,
+    1080
+  ],
+  "texts": [
+    {
+      "text": "开场引入",
+      "box": [
+        96,
+        35.984375,
+        119.046875,
+        35
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 29.76,
+      "weight": "600",
+      "color": "#660874",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "z": 4,
+      "tag": "SPAN",
+      "cls": "ac-nav-chapter"
+    },
+    {
+      "text": "开场问题",
+      "box": [
+        375.25,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 7,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "理论命题",
+      "box": [
+        591.921875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 9,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "就业数据",
+      "box": [
+        808.609375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 11,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "方向地图",
+      "box": [
+        1025.296875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 13,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "能力证据",
+      "box": [
+        1241.984375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 15,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "案例经历",
+      "box": [
+        1458.671875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 17,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "行动反思",
+      "box": [
+        1675.359375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 19,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "开场新闻：青年就业环境",
+      "box": [
+        96,
+        132.59375,
+        653.40625,
+        71
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 59.4,
+      "weight": "600",
+      "color": "#660874",
+      "lineHeight": "77.22px",
+      "letterSpacing": "normal",
+      "z": 22,
+      "tag": "H1",
+      "cls": "ac-title"
+    },
+    {
+      "text": "国家统计局 · 2026-09-15",
+      "box": [
+        116.1875,
+        571.40625,
+        222.984375,
+        23
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 20.16,
+      "weight": "400",
+      "color": "#56515e",
+      "lineHeight": "28.224px",
+      "letterSpacing": "normal",
+      "z": 30,
+      "tag": "FIGCAPTION",
+      "cls": ""
+    },
+    {
+      "text": "答记者问就业段落 · 原网页截图",
+      "box": [
+        116.1875,
+        956.71875,
+        278.90625,
+        23
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 20.16,
+      "weight": "400",
+      "color": "#56515e",
+      "lineHeight": "28.224px",
+      "letterSpacing": "normal",
+      "z": 35,
+      "tag": "FIGCAPTION",
+      "cls": ""
+    },
+    {
+      "text": "新闻事实",
+      "box": [
+        956.46875,
+        262.640625,
+        145.921875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 39,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "2026年8月，全国城镇调查失业率为5.3%，较上月上升",
+      "box": [
+        956.46875,
+        353.265625,
+        835.328125,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 42,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "0.1个百分点。",
+      "box": [
+        956.46875,
+        410.28125,
+        220.84375,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 43,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "国家统计局指出，主要受新毕业学生集中进入劳动力市",
+      "box": [
+        956.46875,
+        483.484375,
+        829.453125,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 45,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "场的季节性影响。",
+      "box": [
+        956.46875,
+        540.5,
+        276.484375,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 46,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "思考入口",
+      "box": [
+        956.46875,
+        650.65625,
+        145.921875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 49,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "当环境变化时，我们如何理解自己的选择？",
+      "box": [
+        956.46875,
+        794.3125,
+        746.890625,
+        47
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 39.312,
+      "weight": "600",
+      "color": "#660874",
+      "lineHeight": "58.968px",
+      "letterSpacing": "normal",
+      "z": 52,
+      "tag": "P",
+      "cls": "fd-takeaway"
+    },
+    {
+      "text": "这里是全国城镇总体指标，不是青年专属失业率。",
+      "box": [
+        956.46875,
+        872.46875,
+        760.328125,
+        40
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 34.56,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "57.024px",
+      "letterSpacing": "normal",
+      "z": 54,
+      "tag": "P",
+      "cls": ""
+    },
+    {
+      "text": "来源：",
+      "box": [
+        96,
+        952.546875,
+        69.125,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 57,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "国家统计局，2026-09-15",
+      "box": [
+        165.125,
+        952.546875,
+        258.65625,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 59,
+      "tag": "A",
+      "cls": ""
+    },
+    {
+      "text": "。",
+      "box": [
+        423.78125,
+        952.546875,
+        23.046875,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 60,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "02 / 30",
+      "box": [
+        1752.265625,
+        952.546875,
+        71.734375,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 62,
+      "tag": "SPAN",
+      "cls": ""
+    }
+  ],
+  "shapes": [
+    {
+      "type": "fill",
+      "box": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc",
+      "radius": 0,
+      "z": 0
+    },
+    {
+      "type": "fill",
+      "box": [
+        326.39,
+        25.91,
+        197.48,
+        56.16
+      ],
+      "fill": "#660874",
+      "radius": 999,
+      "z": 6
+    },
+    {
+      "type": "fill",
+      "box": [
+        543.06,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 8
+    },
+    {
+      "type": "fill",
+      "box": [
+        759.75,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 10
+    },
+    {
+      "type": "fill",
+      "box": [
+        976.44,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 12
+    },
+    {
+      "type": "fill",
+      "box": [
+        1193.13,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 14
+    },
+    {
+      "type": "fill",
+      "box": [
+        1409.81,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 16
+    },
+    {
+      "type": "fill",
+      "box": [
+        1626.5,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 18
+    },
+    {
+      "type": "fill",
+      "box": [
+        96,
+        245.69,
+        776.92,
+        369.13
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 26
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        776.92,
+        369.13
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 26
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        776.92,
+        369.13
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 26
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        776.92,
+        369.13
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 26
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        776.92,
+        369.13
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 26
+    },
+    {
+      "type": "fill",
+      "box": [
+        96,
+        631,
+        776.92,
+        369.13
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 31
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        631,
+        776.92,
+        369.13
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 31
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        631,
+        776.92,
+        369.13
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 31
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        631,
+        776.92,
+        369.13
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 31
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        631,
+        776.92,
+        369.13
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 31
+    },
+    {
+      "type": "fill",
+      "box": [
+        930.52,
+        245.69,
+        893.47,
+        366.42
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 37
+    },
+    {
+      "type": "border",
+      "box": [
+        930.52,
+        245.69,
+        893.47,
+        366.42
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 37
+    },
+    {
+      "type": "border",
+      "box": [
+        930.52,
+        245.69,
+        893.47,
+        366.42
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 37
+    },
+    {
+      "type": "border",
+      "box": [
+        930.52,
+        245.69,
+        893.47,
+        366.42
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 37
+    },
+    {
+      "type": "border",
+      "box": [
+        930.52,
+        245.69,
+        893.47,
+        366.42
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 37
+    },
+    {
+      "type": "fill",
+      "box": [
+        931.52,
+        246.69,
+        891.47,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 38
+    },
+    {
+      "type": "fill",
+      "box": [
+        930.52,
+        633.7,
+        893.47,
+        366.42
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 47
+    },
+    {
+      "type": "border",
+      "box": [
+        930.52,
+        633.7,
+        893.47,
+        366.42
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 47
+    },
+    {
+      "type": "border",
+      "box": [
+        930.52,
+        633.7,
+        893.47,
+        366.42
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 47
+    },
+    {
+      "type": "border",
+      "box": [
+        930.52,
+        633.7,
+        893.47,
+        366.42
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 47
+    },
+    {
+      "type": "border",
+      "box": [
+        930.52,
+        633.7,
+        893.47,
+        366.42
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 47
+    },
+    {
+      "type": "fill",
+      "box": [
+        931.52,
+        634.7,
+        891.47,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 48
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        937.67,
+        1728,
+        45.14
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 55
+    }
+  ],
+  "images": [
+    {
+      "box": [
+        116.19,
+        262.88,
+        736.55,
+        295.73
+      ],
+      "src": "images/02-nbs-source-header.png",
+      "fit": "contain",
+      "position": "0% 50%",
+      "natural": [
+        1800,
+        1200
+      ],
+      "alt": "国家统计局 · 2026-09-15",
+      "z": 28,
+      "path": "assets/image_0.png",
+      "source": "assets/image_0.png",
+      "source_sha256": "c29df649ebd06fb1bc24ed5c5a2253008c704cfba5acad0651a58b2d8fb20deb",
+      "asset_sha256": "c29df649ebd06fb1bc24ed5c5a2253008c704cfba5acad0651a58b2d8fb20deb"
+    },
+    {
+      "box": [
+        116.19,
+        648.19,
+        736.55,
+        295.73
+      ],
+      "src": "images/02-nbs-source.png",
+      "fit": "contain",
+      "position": "0% 50%",
+      "natural": [
+        1626,
+        570
+      ],
+      "alt": "答记者问就业段落 · 原网页截图",
+      "z": 33,
+      "path": "assets/image_1.png",
+      "source": "assets/image_1.png",
+      "source_sha256": "0fea9486c64341bbd17974c381ed76949f8c8b7d9200b5238dd87c57ac48a623",
+      "asset_sha256": "0fea9486c64341bbd17974c381ed76949f8c8b7d9200b5238dd87c57ac48a623"
+    }
+  ],
+  "svgs": []
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_010",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/render/rendered.png",
+      "source_sha256": "62dda800883e81541053a3af87a733e50bf94653b268619ee150ca77a41835d3",
+      "rendered_sha256": "2e4631aa653ae8a4369024c73ca3b4c1c3f1cd03ae583c716311fa63e87f8166",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Four tall proposition cards maintain equal widths and original spacing; the lower takeaway sequence sits on its source baseline above the footer.",
+        "text_content": "Four proposition headings and statements remain unchanged; takeaway wording is split into four native labels without losing any words, and the footer qualification stays intact.",
+        "object_completeness": "Four cards, four takeaway labels and three individual right-pointing connectors appear once; all seven navigation pills and page 10 / 30 remain present.",
+        "render_integrity": "Actual fresh LibreOffice render shows clear sans CJK and no clipping; arrow replacements do not overlap adjacent labels or introduce duplicate glyphs.",
+        "arrow_geometry": "Three thin native straight connectors replace source arrow glyphs at measured x187–222,327–362,546–580 and y873; open medium heads point right and match original inline arrow proportions, each is one object."
+      },
+      "pptx_sha256": "5a31703c3821c7b053c725e4b840011e79d6d15dbad484930f0c309106bd38d4"
+    }
+  ]
+}

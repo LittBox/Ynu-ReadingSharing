@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_013",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png",
+      "source_sha256": "cf4429332b29cc2d5c1920488e96e434e4634f8063e5bc64db2d504edc517e50",
+      "rendered_sha256": "0aed8b3361d84e8e67950d90839faf89700280edbfc6edc93edf85d6fd23b472",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two bordered evidence panels remain left; employment-index chart and three change summaries remain right, with matching whitespace and bottom caveat.",
+        "text_content": "Index labels 100, 151.4, 153, 88.1 and changes +51.4%, +53.0%, -11.9% remain intact; Chinese title and caveats fit without clipping.",
+        "object_completeness": "Four purple index bars and gray backgrounds, two original screenshots, chart title, three change lines and recent-observation line are visible once.",
+        "render_integrity": "Inspected LibreOffice page retains native editable chart labels and bars; clean sans typography and no duplicated source text or missing content.",
+        "raster_assets": "Statistics bureau webpage screenshot and article excerpt remain independent original images; their content and aspect ratios match source panels."
+      }
+    }
+  ]
+}

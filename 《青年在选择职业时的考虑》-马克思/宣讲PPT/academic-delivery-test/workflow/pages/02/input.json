@@ -1,0 +1,28 @@
+{
+  "page_id": "employment-news",
+  "source_page": 2,
+  "text": "### 第 2 页｜开场新闻\n\n- **页面标题**：开场新闻：青年就业环境\n- **核心文字**：\n  - 一条与青年就业相关的新闻事实\n  - 一句追问：当环境变化时，我们如何理解自己的选择？\n  - 素材说明：正式制作时替换为选定的近期新闻素材\n- **视觉/版式**：新闻卡片式排版；左侧新闻事实，右侧追问；底部留来源与日期位置。\n- **资源**：`assets/opening-data-or-news.png`\n- **口播提示**：用选定的新闻把听众带入择业环境，不急于下结论。\n",
+  "roles": [
+    {
+      "role": "evidence",
+      "text": "8月全国城镇调查失业率5.3%",
+      "reason": "公开统计事实"
+    },
+    {
+      "role": "question",
+      "text": "当环境变化时，我们如何理解自己的选择？",
+      "reason": "开放追问"
+    }
+  ],
+  "features": {
+    "purpose": "source_reading",
+    "relation": "whole_parts",
+    "density": "mixed",
+    "group_count": 2,
+    "evidence": [
+      "source_image",
+      "text"
+    ]
+  },
+  "retrieval_query": "用国家统计局2026年8月答记者问的新闻事实进入就业话题；左真实网站证据截图，右新闻事实和开放追问，不将总体失业率冒充青年失业率。"
+}

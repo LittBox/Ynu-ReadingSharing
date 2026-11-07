@@ -1,0 +1,28 @@
+{
+  "page_id": "study-grassroots",
+  "source_page": 19,
+  "text": "### 第 19 页｜升学深造与基层项目\n\n- **页面标题**：延迟选择与下沉选择\n- **核心文字**：\n  - 升学深造：国内考研、境外申请、直博/科研助理\n  - 基层项目：西部计划、三支一扶、社区工作者\n- **视觉/版式**：上下双栏或左右双栏；强调两类都不是“退路”，而是不同路径。\n- **资源**：`assets/career-study-grassroots.png`\n- **口播提示**：说明这两类都不是“退路”，而是不同路径。\n",
+  "roles": [
+    {
+      "role": "section",
+      "text": "延迟选择与下沉选择",
+      "reason": "沿用原纲路径分类"
+    },
+    {
+      "role": "group",
+      "text": "升学深造／基层项目",
+      "reason": "并列"
+    }
+  ],
+  "features": {
+    "purpose": "comparison",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 2,
+    "evidence": [
+      "text",
+      "illustration"
+    ]
+  },
+  "retrieval_query": "升学深造与基层项目两种同级路径，国内考研境外申请直博科研助理，与西部计划三支一扶社区工作者。左生成学习研究与社区服务简约双情境，右两栏入口，不把任何一类称为退路。"
+}

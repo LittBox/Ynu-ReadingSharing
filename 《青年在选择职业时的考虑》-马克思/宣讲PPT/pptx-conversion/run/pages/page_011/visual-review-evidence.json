@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_011",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_011/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_011/render/rendered.png",
+      "source_sha256": "63d6ef39490b68c96caf90d3bb1198bfccebcdced7fc0c5073049d82001eb14e",
+      "rendered_sha256": "58b936c82aff5ae71fc5728d3bd6828fd6510e9160bd9485a4fcfe92fdffb3df",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "News screenshot remains left and the two age-group comparisons right, preserving title, navigation, reading note and footer positions.",
+        "text_content": "Native labels retain 14.9%, 17.9%, 7.1%, 7.2% and age groups; Source Han Sans SC is a clean sans substitute with minor spacing differences and no clipping.",
+        "object_completeness": "All four bar lengths, four gray tracks, all labels and one news screenshot appear once; June fills corrected to source #ad83b5 and July retained purple.",
+        "render_integrity": "Inspected actual LibreOffice output: native text/chart edges are sharp, screenshot separately placed, no duplicated source text or full-slide bitmap.",
+        "raster_assets": "Original article screenshot retained at measured left-panel bounds with full headline and body; source asset hash is recorded and preserved."
+      }
+    }
+  ]
+}

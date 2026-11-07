@@ -1,0 +1,40 @@
+{
+  "page_id": "employment-news",
+  "input_sha256": "dcf8dbd130a15a6116c6e21a13987c4dc9bf32e31ae9aa293c68425dbc07451b",
+  "rules_sha256": "11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424",
+  "assessments": [
+    {
+      "id": "L04",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "新闻原文证据与概括、追问分栏，源与解读分清。"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "不是收尾行动页"
+    },
+    {
+      "id": "L12",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "并非两组对比"
+    },
+    {
+      "id": "L09",
+      "eligible": false,
+      "semantic_score": 0.5,
+      "reason": "总分缺少证据展示槽"
+    }
+  ],
+  "selected_id": "L04",
+  "selection_reason": "左侧真实新闻截图，右两层概括与追问；保留统计总体口径。",
+  "layout_confirmed": true
+}

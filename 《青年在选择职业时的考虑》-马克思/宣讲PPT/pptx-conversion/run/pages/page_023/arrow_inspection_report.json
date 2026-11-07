@@ -1,0 +1,14 @@
+{
+  "schema_version": "image2ppt-manifest-arrow-inspection-v1",
+  "passed": true,
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/page.pptx",
+  "errors": [],
+  "summary": {
+    "expected_arrows": 0,
+    "inspected_arrows": 0,
+    "connectors": 0,
+    "filled_arrows": 0,
+    "fragmented_or_missing": 0
+  },
+  "arrows": []
+}

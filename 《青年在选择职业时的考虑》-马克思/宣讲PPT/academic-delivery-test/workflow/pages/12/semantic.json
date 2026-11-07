@@ -1,0 +1,46 @@
+{
+  "page_id": "graduate-destinations",
+  "input_sha256": "d17796616eded0efeb098c88fe2a5b21c2dace0c9aa0ca39ccdc4caf4dcbcbf8",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "assessments": [
+    {
+      "id": "L05",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "两组独立量化数据，左真实来源右两图区分别标明总体和量尺"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非收尾"
+    },
+    {
+      "id": "L12",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "不是只比较图片"
+    },
+    {
+      "id": "L04",
+      "eligible": false,
+      "semantic_score": 0.5,
+      "reason": "不足以表达量化数据"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非行动"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    }
+  ],
+  "selected_id": "L05",
+  "selection_reason": "左来源两图，右上规模以1300万人为满量程，右下去向100%量尺；不混同总体。",
+  "layout_confirmed": true
+}

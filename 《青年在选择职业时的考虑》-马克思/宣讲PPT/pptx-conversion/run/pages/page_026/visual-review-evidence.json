@@ -1,0 +1,21 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_026",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_026/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_026/render/rendered.png",
+      "source_sha256": "ec8e0333117ad919f2abcb56d7a058d4f5094d63d6c168288ded6ca7bcb7e453",
+      "rendered_sha256": "bcff16e591fe1100994cf1fe7ece73ac05b36806c8406a6e2471a2f22d9921d9",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Five narrow equal-width cards retain source positions, purple headers, icon centers and two-line descriptions, with takeaway and footer below.",
+        "text_content": "Title and five career-commonality headings and descriptions match the source; 01–05 numbering, bottom conclusion and boundary note stay legible.",
+        "object_completeness": "Thirty-two native text boxes, forty layout shapes and five separately replaceable original icons account for every source element.",
+        "render_integrity": "Actual rebuilt LibreOffice render inspected after SVG CSS repair; no black icon fallback, duplicated content, clipping or missing CJK characters.",
+        "raster_assets": "Five source SVG icons retain paths and inherited purple #660874 stroke with source 1.5 width; original building, clipboard, globe, shield and cap silhouettes are intact."
+      },
+      "pptx_sha256": "38737414904be36cfb81a18534acee18660f1608b0c3faae94140dfacd4e6214"
+    }
+  ]
+}

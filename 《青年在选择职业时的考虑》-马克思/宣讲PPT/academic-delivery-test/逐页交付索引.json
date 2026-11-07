@@ -1,0 +1,242 @@
+[
+  {
+    "page": 1,
+    "id": "opening-cover",
+    "title": "第一份工作，只是起点",
+    "layout": "L01",
+    "image_action": "not_needed",
+    "minutes": 0.5
+  },
+  {
+    "page": 2,
+    "id": "employment-news",
+    "title": "开场新闻：青年就业环境",
+    "layout": "L04",
+    "image_action": "capture_source",
+    "minutes": 1.5
+  },
+  {
+    "page": 3,
+    "id": "choice-question",
+    "title": "你更怕选错，还是更怕没得选？",
+    "layout": "L02",
+    "image_action": "not_needed",
+    "minutes": 2.0
+  },
+  {
+    "page": 4,
+    "id": "why-read-marx",
+    "title": "一篇17岁的文章，为什么今天还要读",
+    "layout": "L04",
+    "image_action": "reuse_evidence",
+    "minutes": 1.0
+  },
+  {
+    "page": 5,
+    "id": "passion-and-examination",
+    "title": "热情需要冷静考察，才能成为选择依据",
+    "layout": "L02",
+    "image_action": "reuse_icons",
+    "minutes": 1.5
+  },
+  {
+    "page": 6,
+    "id": "calm-examination",
+    "title": "冷静考察：不保证唯一答案，但不可放弃",
+    "layout": "L02",
+    "image_action": "not_needed",
+    "minutes": 2.0
+  },
+  {
+    "page": 7,
+    "id": "reality-constraints",
+    "title": "不是所有“适合”，都会在第一次选择时出现",
+    "layout": "L13",
+    "image_action": "generate",
+    "minutes": 1.5
+  },
+  {
+    "page": 8,
+    "id": "happiness-and-perfection",
+    "title": "个人幸福与自身完善，不是二选一",
+    "layout": "L02",
+    "image_action": "not_needed",
+    "minutes": 1.5
+  },
+  {
+    "page": 9,
+    "id": "original-passages",
+    "title": "职业选择需要考察自身、现实与整体利益",
+    "layout": "L04",
+    "image_action": "reuse_evidence",
+    "minutes": 1.5
+  },
+  {
+    "page": 10,
+    "id": "four-propositions",
+    "title": "从热情到实践：四个命题连成一条线",
+    "layout": "L08",
+    "image_action": "not_needed",
+    "minutes": 1.0
+  },
+  {
+    "page": 11,
+    "id": "youth-employment-baseline",
+    "title": "16—24岁失业率环比上升3个百分点",
+    "layout": "L05",
+    "image_action": "reuse_evidence",
+    "minutes": 2.0
+  },
+  {
+    "page": 12,
+    "id": "graduate-destinations",
+    "title": "毕业生规模与去向",
+    "layout": "L05",
+    "image_action": "capture_source",
+    "minutes": 2.0
+  },
+  {
+    "page": 13,
+    "id": "industry-demand",
+    "title": "行业需求观察：先分清长期结构与短期变化",
+    "layout": "L05",
+    "image_action": "capture_source",
+    "minutes": 2.0
+  },
+  {
+    "page": 14,
+    "id": "study-public-exam-trends",
+    "title": "升学与体制内热度的变化",
+    "layout": "L05",
+    "image_action": "capture_source",
+    "minutes": 1.5
+  },
+  {
+    "page": 15,
+    "id": "data-boundaries",
+    "title": "数据告诉我们什么，不告诉我们什么",
+    "layout": "L08",
+    "image_action": "not_needed",
+    "minutes": 0.5
+  },
+  {
+    "page": 16,
+    "id": "career-directions",
+    "title": "青年就业的八类方向",
+    "layout": "L14",
+    "image_action": "reuse_icons",
+    "minutes": 1.0
+  },
+  {
+    "page": 17,
+    "id": "public-sector-soe",
+    "title": "稳定型路径的典型入口",
+    "layout": "L13",
+    "image_action": "generate",
+    "minutes": 1.5
+  },
+  {
+    "page": 18,
+    "id": "private-foreign-enterprises",
+    "title": "市场化路径的典型入口",
+    "layout": "L02",
+    "image_action": "reuse_icons",
+    "minutes": 1.5
+  },
+  {
+    "page": 19,
+    "id": "study-grassroots",
+    "title": "延迟选择与下沉选择",
+    "layout": "L13",
+    "image_action": "generate",
+    "minutes": 1.25
+  },
+  {
+    "page": 20,
+    "id": "freelance-uniformed",
+    "title": "非典型路径的典型入口",
+    "layout": "L02",
+    "image_action": "reuse_icons",
+    "minutes": 1.25
+  },
+  {
+    "page": 21,
+    "id": "competency-framework",
+    "title": "方向—能力—证据—误区",
+    "layout": "L06",
+    "image_action": "not_needed",
+    "minutes": 1.0
+  },
+  {
+    "page": 22,
+    "id": "competency-first-four",
+    "title": "四类职业方向，需要怎样的能力证据",
+    "layout": "L06",
+    "image_action": "not_needed",
+    "minutes": 2.0
+  },
+  {
+    "page": 23,
+    "id": "competency-last-four",
+    "title": "后四类职业方向，需要怎样的能力证据",
+    "layout": "L06",
+    "image_action": "not_needed",
+    "minutes": 2.0
+  },
+  {
+    "page": 24,
+    "id": "capability-evidence",
+    "title": "把“我喜欢”转成“我做过什么、能证明什么”",
+    "layout": "L02",
+    "image_action": "not_needed",
+    "minutes": 1.0
+  },
+  {
+    "page": 25,
+    "id": "selection-information",
+    "title": "选拔中的紧张，来自信息不对称",
+    "layout": "L13",
+    "image_action": "generate",
+    "minutes": 1.5
+  },
+  {
+    "page": 26,
+    "id": "organizational-experience",
+    "title": "两年工作经历教我的职业共性",
+    "layout": "L14",
+    "image_action": "reuse_icons",
+    "minutes": 2.0
+  },
+  {
+    "page": 27,
+    "id": "luo-career-recognition",
+    "title": "选择时不喜欢，后来为什么喜欢了",
+    "layout": "L04",
+    "image_action": "capture_source",
+    "minutes": 2.0
+  },
+  {
+    "page": 28,
+    "id": "practice-takeaway",
+    "title": "从“选对”到“做对”",
+    "layout": "L08",
+    "image_action": "not_needed",
+    "minutes": 1.0
+  },
+  {
+    "page": 29,
+    "id": "theory-return",
+    "title": "马克思给的不是答案，是考察方法",
+    "layout": "L08",
+    "image_action": "not_needed",
+    "minutes": 1.0
+  },
+  {
+    "page": 30,
+    "id": "closing-question",
+    "title": "离场前，带走一个问题",
+    "layout": "L07",
+    "image_action": "reuse_illustration",
+    "minutes": 3.0
+  }
+]

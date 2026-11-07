@@ -1,0 +1,1039 @@
+{
+  "id": "graduate-destinations",
+  "title": "毕业生规模与去向",
+  "size": [
+    1920,
+    1080
+  ],
+  "texts": [
+    {
+      "text": "数据展示",
+      "box": [
+        96,
+        35.984375,
+        119.046875,
+        35
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 29.76,
+      "weight": "600",
+      "color": "#660874",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "z": 4,
+      "tag": "SPAN",
+      "cls": "ac-nav-chapter"
+    },
+    {
+      "text": "开场问题",
+      "box": [
+        375.25,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 7,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "理论命题",
+      "box": [
+        591.921875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 9,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "就业数据",
+      "box": [
+        808.609375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 11,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "方向地图",
+      "box": [
+        1025.296875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 13,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "能力证据",
+      "box": [
+        1241.984375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 15,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "案例经历",
+      "box": [
+        1458.671875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 17,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "行动反思",
+      "box": [
+        1675.359375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 19,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "毕业生规模与去向",
+      "box": [
+        96,
+        132.59375,
+        475.203125,
+        71
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 59.4,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "77.22px",
+      "letterSpacing": "normal",
+      "z": 22,
+      "tag": "H1",
+      "cls": "ac-title"
+    },
+    {
+      "text": "教育部转载新华社 · 2026届预计规模",
+      "box": [
+        116.1875,
+        494.09375,
+        323.734375,
+        23
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 20.16,
+      "weight": "400",
+      "color": "#56515e",
+      "lineHeight": "28.224px",
+      "letterSpacing": "normal",
+      "z": 31,
+      "tag": "FIGCAPTION",
+      "cls": ""
+    },
+    {
+      "text": "黄河科技学院质量报告 · PDF第18页",
+      "box": [
+        116.1875,
+        802.109375,
+        319.984375,
+        23
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 20.16,
+      "weight": "400",
+      "color": "#56515e",
+      "lineHeight": "28.224px",
+      "letterSpacing": "normal",
+      "z": 36,
+      "tag": "FIGCAPTION",
+      "cls": ""
+    },
+    {
+      "text": "全国普通高校毕业生预计规模",
+      "box": [
+        905.265625,
+        252.6875,
+        486.59375,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 37.44,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "58.032px",
+      "letterSpacing": "normal",
+      "z": 41,
+      "tag": "H3",
+      "cls": ""
+    },
+    {
+      "text": "2024届",
+      "box": [
+        905.265625,
+        322.1875,
+        89.765625,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 44,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "1179",
+      "box": [
+        1708.8125,
+        322.1875,
+        61.921875,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 48,
+      "tag": "STRONG",
+      "cls": ""
+    },
+    {
+      "text": "2025届",
+      "box": [
+        905.265625,
+        372.359375,
+        89.765625,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 51,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "1222",
+      "box": [
+        1708.8125,
+        372.359375,
+        61.921875,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 55,
+      "tag": "STRONG",
+      "cls": ""
+    },
+    {
+      "text": "2026届",
+      "box": [
+        905.265625,
+        422.53125,
+        89.765625,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 58,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "1270",
+      "box": [
+        1708.8125,
+        422.53125,
+        61.921875,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 62,
+      "tag": "STRONG",
+      "cls": ""
+    },
+    {
+      "text": "单位：万人；满宽1300万人",
+      "box": [
+        905.265625,
+        470.703125,
+        258.171875,
+        24
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 21.12,
+      "weight": "400",
+      "color": "#56515e",
+      "lineHeight": "31.68px",
+      "letterSpacing": "normal",
+      "z": 64,
+      "tag": "P",
+      "cls": "fd-data-note"
+    },
+    {
+      "text": "单校案例：2024届本科去向",
+      "box": [
+        905.265625,
+        548.640625,
+        457.546875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 37.44,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "58.032px",
+      "letterSpacing": "normal",
+      "z": 67,
+      "tag": "H3",
+      "cls": ""
+    },
+    {
+      "text": "就业",
+      "box": [
+        905.265625,
+        618.140625,
+        55.6875,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 70,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "78.93%",
+      "box": [
+        1708.8125,
+        618.140625,
+        97.5,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 74,
+      "tag": "STRONG",
+      "cls": ""
+    },
+    {
+      "text": "升学",
+      "box": [
+        905.265625,
+        668.3125,
+        55.6875,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 77,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "5.52%",
+      "box": [
+        1708.8125,
+        668.3125,
+        82.03125,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 81,
+      "tag": "STRONG",
+      "cls": ""
+    },
+    {
+      "text": "创业",
+      "box": [
+        905.265625,
+        718.484375,
+        55.6875,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 84,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "0.72%",
+      "box": [
+        1708.8125,
+        718.484375,
+        82.03125,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 88,
+      "tag": "STRONG",
+      "cls": ""
+    },
+    {
+      "text": "未落实",
+      "box": [
+        905.265625,
+        768.65625,
+        83.53125,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "400",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 91,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "14.83%",
+      "box": [
+        1708.8125,
+        768.65625,
+        97.5,
+        33
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 27.84,
+      "weight": "600",
+      "color": "#25232a",
+      "lineHeight": "43.152px",
+      "letterSpacing": "normal",
+      "z": 95,
+      "tag": "STRONG",
+      "cls": ""
+    },
+    {
+      "text": "黄河科技学院，截至2024-08-31；满宽100%",
+      "box": [
+        905.265625,
+        816.828125,
+        420.171875,
+        24
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 21.12,
+      "weight": "400",
+      "color": "#56515e",
+      "lineHeight": "31.68px",
+      "letterSpacing": "normal",
+      "z": 97,
+      "tag": "P",
+      "cls": "fd-data-note"
+    },
+    {
+      "text": "单校去向不代表全国；未落实14.83%=100%−85.17%，不等同失业率。",
+      "box": [
+        96,
+        870.109375,
+        673.140625,
+        24
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 21.12,
+      "weight": "400",
+      "color": "#56515e",
+      "lineHeight": "31.68px",
+      "letterSpacing": "normal",
+      "z": 99,
+      "tag": "P",
+      "cls": "fd-data-note"
+    },
+    {
+      "text": "来源：教育部2024—2026届预计规模；黄河科技学院2023—2024学年本科教学质量报告。",
+      "box": [
+        96,
+        952.546875,
+        919.21875,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 102,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "12 / 30",
+      "box": [
+        1752.265625,
+        952.546875,
+        71.734375,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 104,
+      "tag": "SPAN",
+      "cls": ""
+    }
+  ],
+  "shapes": [
+    {
+      "type": "fill",
+      "box": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc",
+      "radius": 0,
+      "z": 0
+    },
+    {
+      "type": "fill",
+      "box": [
+        326.39,
+        25.91,
+        197.48,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 6
+    },
+    {
+      "type": "fill",
+      "box": [
+        543.06,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 8
+    },
+    {
+      "type": "fill",
+      "box": [
+        759.75,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#660874",
+      "radius": 999,
+      "z": 10
+    },
+    {
+      "type": "fill",
+      "box": [
+        976.44,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 12
+    },
+    {
+      "type": "fill",
+      "box": [
+        1193.13,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 14
+    },
+    {
+      "type": "fill",
+      "box": [
+        1409.81,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 16
+    },
+    {
+      "type": "fill",
+      "box": [
+        1626.5,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 18
+    },
+    {
+      "type": "fill",
+      "box": [
+        96,
+        245.69,
+        751.67,
+        291.81
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 27
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        751.67,
+        291.81
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 27
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        751.67,
+        291.81
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 27
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        751.67,
+        291.81
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 27
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        245.69,
+        751.67,
+        291.81
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 27
+    },
+    {
+      "type": "fill",
+      "box": [
+        96,
+        553.69,
+        751.67,
+        291.83
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 32
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        553.69,
+        751.67,
+        291.83
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 32
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        553.69,
+        751.67,
+        291.83
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 32
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        553.69,
+        751.67,
+        291.83
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 32
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        553.69,
+        751.67,
+        291.83
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 32
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        323.64,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9",
+      "radius": 0,
+      "z": 45
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        323.64,
+        554.64,
+        30.23
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 46
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        373.81,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9",
+      "radius": 0,
+      "z": 52
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        373.81,
+        574.88,
+        30.23
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 53
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        423.98,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9",
+      "radius": 0,
+      "z": 59
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        423.98,
+        597.45,
+        30.23
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 60
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        619.59,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9",
+      "radius": 0,
+      "z": 71
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        619.59,
+        482.7,
+        30.23
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 72
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        669.77,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9",
+      "radius": 0,
+      "z": 78
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        669.77,
+        33.75,
+        30.23
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 79
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        719.94,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9",
+      "radius": 0,
+      "z": 85
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        719.94,
+        4.39,
+        30.23
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 86
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        770.11,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9",
+      "radius": 0,
+      "z": 92
+    },
+    {
+      "type": "fill",
+      "box": [
+        1078.05,
+        770.11,
+        90.69,
+        30.23
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 93
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        937.67,
+        1728,
+        45.14
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d5d5d9",
+      "style": "solid",
+      "z": 100
+    }
+  ],
+  "images": [
+    {
+      "box": [
+        116.19,
+        262.88,
+        711.3,
+        218.42
+      ],
+      "src": "images/12-graduates-source.png",
+      "fit": "contain",
+      "position": "0% 50%",
+      "natural": [
+        1260,
+        570
+      ],
+      "alt": "教育部转载新华社 · 2026届预计规模",
+      "z": 29
+    },
+    {
+      "box": [
+        116.19,
+        570.88,
+        711.3,
+        218.44
+      ],
+      "src": "images/12-destination-source.png",
+      "fit": "contain",
+      "position": "0% 50%",
+      "natural": [
+        990,
+        1400
+      ],
+      "alt": "黄河科技学院质量报告 · PDF第18页",
+      "z": 34
+    }
+  ],
+  "svgs": []
+}

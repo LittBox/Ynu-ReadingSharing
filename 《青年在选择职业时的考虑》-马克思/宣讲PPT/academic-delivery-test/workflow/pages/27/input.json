@@ -1,0 +1,28 @@
+{
+  "page_id": "luo-career-recognition",
+  "source_page": 27,
+  "text": "### 第 27 页｜罗翔案例：学着学着喜欢了\n\n- **页面标题**：选择时不喜欢，后来为什么喜欢了\n- **核心文字**：\n  - 据公开访谈中罗翔曾提到，自己选择法律专业并非因为喜欢\n  - 后来在学习和实践中逐渐喜欢\n  - 重点在“职业认知会在实践中变化”\n- **视觉/版式**：左侧人物访谈图片占位，右侧概括文字；不写精确引语。\n- **资源**：`assets/robin-interview.webp`\n- **口播提示**：资源未核实前用概括表述，不写精确引语，不伪造节目名称与期数。\n",
+  "roles": [
+    {
+      "role": "evidence",
+      "text": "2020-05-04南方都市报访谈",
+      "reason": "公开本人回答"
+    },
+    {
+      "role": "claim",
+      "text": "职业认知会在学习实践中变化",
+      "reason": "宣讲提炼非原话"
+    }
+  ],
+  "features": {
+    "purpose": "source_reading",
+    "relation": "sequence",
+    "density": "mixed",
+    "group_count": 2,
+    "evidence": [
+      "source_image",
+      "text"
+    ]
+  },
+  "retrieval_query": "罗翔公开访谈概括：父母选择法律，当时不了解法律；刑法课有趣后喜欢学。左真实南方都市报南方加访谈网页截图，右先选择后学习的两个阶段；宣讲提炼实践重塑认知，不编造鲁豫节目语录。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_019",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_019/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_019/render/rendered.png",
+      "source_sha256": "1e11d67eb3400b347a0e8cadf2ee33531d50e1e258b173ae592699a3c46f63a5",
+      "rendered_sha256": "0c00834816c464828a449d71b812e53c6df0f8bcf1411e77fc500c124efce494",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Original study/community illustration remains left; two stacked study and grassroots-entry cards preserve right-side layout and purple title hierarchy.",
+        "text_content": "All six entries including 国内考研, 境外申请, 直博/科研助理, 西部计划, 三支一扶, 社区工作者 remain native text with source wording.",
+        "object_completeness": "One complete illustration, two category cards, all six body labels, title, caption and final disclaimer appear once.",
+        "render_integrity": "Inspected real LibreOffice output: no clipped text or overlapping regions; explanatory caption and footer remain readable below the illustration.",
+        "raster_assets": "Original illustration retains student, books, community meeting and purple visual palette, placed at original aspect ratio inside the measured left panel."
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "news": {
+    "title": "2026年8月份国民经济运行答记者问",
+    "publisher": "国家统计局",
+    "date": "2026-09-15",
+    "url": "https://www.stats.gov.cn/sj/zxfbhjd/202609/t20260915_1965332.html",
+    "verified_support": "8月全国城镇调查失业率5.3%，较7月升0.1个百分点；主要受新毕业学生集中进入劳动力市场的季节性影响。",
+    "checked_on": "2026-10-17"
+  },
+  "youth": {
+    "title": "7月份分年龄组失业率",
+    "publisher": "国家统计局数据；澎湃新闻记者报道",
+    "date": "2026-08-19",
+    "url": "https://www.thepaper.cn/newsDetail_forward_33809377",
+    "verified_support": "7月16—24岁17.9%，较6月升3个百分点；25—29岁7.2%，较6月升0.1个百分点。均为城镇、不含在校生的劳动力失业率。6月14.9%及7.1%由公布的环比差推算。",
+    "checked_on": "2026-10-17"
+  },
+  "g24": {
+    "title": "2024届高校毕业生规模",
+    "publisher": "教育部",
+    "date": "2024-03-14",
+    "url": "https://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt01/gzbs/gzbs_gzdt/202403/t20240314_1120394.html",
+    "verified_support": "2024届全国普通高校毕业生预计1179万人。",
+    "checked_on": "2026-10-17"
+  },
+  "g25": {
+    "title": "2025届高校毕业生预计达1222万人",
+    "publisher": "教育部中国大学生在线",
+    "date": "2024-11-15",
+    "url": "https://dxs.moe.gov.cn/zx/a/jobs_dtqy/241115/1979052.shtml",
+    "verified_support": "2025届预计1222万人。",
+    "checked_on": "2026-10-17"
+  },
+  "g26": {
+    "title": "扩大岗位供给 提升服务效能",
+    "publisher": "教育部转载新华社",
+    "date": "2026-06-11",
+    "url": "https://www.moe.gov.cn/jyb_xwfb/s5147/202606/t20260615_1440719.html",
+    "verified_support": "2026届预计1270万人。",
+    "checked_on": "2026-10-17"
+  },
+  "dest": {
+    "title": "2023—2024学年本科教学质量报告",
+    "publisher": "黄河科技学院",
+    "date": "2024-11",
+    "url": "https://xxgk.hhstu.edu.cn/__local/6/E6/CC/5E0A47F0BDA80B8416062B957EC_37D9C5C4_6A80E.pdf",
+    "verified_support": "印刷页15（PDF第18页）：截至2024-08-31，2024届本科生就业78.93%、升学5.52%、创业0.72%；去向落实85.17%。未落实14.83%=100%-85.17%，为补足分布的计算值，不等同失业率。仅该校案例，不能代表全国。",
+    "checked_on": "2026-10-17"
+  },
+  "industry1": {
+    "title": "第五次全国经济普查公报（第四号）",
+    "publisher": "国家统计局",
+    "date": "2024-12-26",
+    "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202412/t20241226_1957894.html",
+    "verified_support": "2023年末信息传输、软件和信息技术服务业企业法人单位从业人数较2018年末增51.4%。",
+    "checked_on": "2026-10-17"
+  },
+  "industry2": {
+    "title": "第三产业规模扩大质量提升",
+    "publisher": "国家统计局",
+    "date": "2025-02-27",
+    "url": "https://www.stats.gov.cn/sj/sjjd/202502/t20250227_1958813.html",
+    "verified_support": "科学研究和技术服务业企业法人单位从业人数2023年末较2018年末增53.0%。",
+    "checked_on": "2026-10-17"
+  },
+  "industry3": {
+    "title": "第五次全国经济普查公报（第三号）",
+    "publisher": "国家统计局",
+    "date": "2024-12-26",
+    "url": "https://www.stats.gov.cn/zwfwck/sjfb/202412/t20241226_1957895.html",
+    "verified_support": "建筑业企业法人单位从业人数2023年末较2018年末降11.9%。从业存量变化不直接等于岗位招聘流量。",
+    "checked_on": "2026-10-17"
+  },
+  "recent": {
+    "title": "2026年8月国民经济运行答记者问",
+    "publisher": "国家统计局",
+    "date": "2026-09-15",
+    "url": "https://www.stats.gov.cn/sj/zxfbhjd/202609/t20260915_1965332.html",
+    "verified_support": "近期信息软件服务就业增加、制造业就业总体稳定；这属于短期补充观察，不与普查五年变化率拼接。",
+    "checked_on": "2026-10-17"
+  },
+  "m24": {
+    "title": "2024年研考安全工作会议",
+    "publisher": "教育部中国大学生在线",
+    "date": "2023-11-23",
+    "url": "https://dxs.moe.gov.cn/zx/a/jj/231123/1867039.shtml",
+    "verified_support": "2024考试年度报名438万人。",
+    "checked_on": "2026-10-17"
+  },
+  "m25": {
+    "title": "2025年研考安全工作会议",
+    "publisher": "教育部中国大学生在线",
+    "date": "2024-11-21",
+    "url": "https://dxs.moe.gov.cn/zx/a/jj/241121/1979690.shtml",
+    "verified_support": "2025考试年度报名388万人。",
+    "checked_on": "2026-10-17"
+  },
+  "m26": {
+    "title": "2026年研考安全工作部署",
+    "publisher": "教育部",
+    "date": "2025-11-24",
+    "url": "https://www.moe.gov.cn/jyb_zzjg/huodong/202511/t20251124_1421370.html",
+    "verified_support": "2026考试年度报名343万人。",
+    "checked_on": "2026-10-17"
+  },
+  "c24": {
+    "title": "国考报名与实际参考人数",
+    "publisher": "央视网（据国家公务员局）",
+    "date": "2023-11-28",
+    "url": "https://edu.cctv.cn/2023/11/28/ARTIAsHmxbkV7vHvlF3cDPdH231128.shtml",
+    "verified_support": "2024考试年度资格审查通过303.3万人。",
+    "checked_on": "2026-10-17"
+  },
+  "c25": {
+    "title": "2025年国考今开考",
+    "publisher": "新华网转载中国新闻网",
+    "date": "2024-12-01",
+    "url": "https://app.xinhuanet.com/news/article.html?articleId=11ca509b95e2cf824fc4e925929cc546",
+    "verified_support": "2025考试年度资格审查通过341.6万人。",
+    "checked_on": "2026-10-17"
+  },
+  "c26": {
+    "title": "2026年度国考",
+    "publisher": "新华网（据国家公务员局）",
+    "date": "2025-11-30",
+    "url": "https://www.news.cn/20251130/c73b3f1f982741b7aff9ce9df8a154b2/c.html",
+    "verified_support": "2026考试年度资格审查通过371.8万人。",
+    "checked_on": "2026-10-17"
+  },
+  "marx": {
+    "title": "青年在选择职业时的考虑",
+    "publisher": "中文马克思主义文库网页译文",
+    "date": "1835-08（写作）",
+    "url": "https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1835-8.htm",
+    "verified_support": "本地PDF为此网页2022-06-09打印稿，共4页。批注007对应PDF第2页，009对应第3页。纸本译本、译者与纸本页码未载，不虚构。另与文库《全集》第一卷047篇同段核对。",
+    "checked_on": "2026-10-17"
+  },
+  "marx2": {
+    "title": "《马克思恩格斯全集》第一卷：青年在选择职业时的考虑",
+    "publisher": "中文马克思主义文库",
+    "date": "1835-08-12（写作）",
+    "url": "https://www.marxists.org/chinese/marx-engels/01/047.htm",
+    "verified_support": "网页称中文根据1975年历史考证版第1部分第1卷翻译；此说明不是纸本中文版本的完整版权页。四命题大意分别对应第4—8、11、12、26段（不含副标题）。",
+    "checked_on": "2026-10-17"
+  },
+  "luo": {
+    "title": "网红法学教授罗翔：“学法的人不要当刺猬，要做狐狸”",
+    "publisher": "南方周末账号／南方+",
+    "date": "2020-05-04",
+    "url": "https://static.nfnews.com/content/202005/04/c3489050.html",
+    "verified_support": "本人回答：父母选择法律，自己当时不了解法律；刑法课有趣，就喜欢学。本页只作概括，不引精确语录；实践重塑认知是宣讲提炼。鲁豫访谈拼接截图与版权未完成核验，本稿不采用。",
+    "checked_on": "2026-10-18"
+  }
+}

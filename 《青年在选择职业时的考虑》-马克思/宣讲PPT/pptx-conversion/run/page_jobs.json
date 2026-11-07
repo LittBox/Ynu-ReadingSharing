@@ -1,0 +1,1360 @@
+{
+  "schema_version": 1,
+  "run_id": "run",
+  "run_status": "complete",
+  "max_concurrent_pages": 3,
+  "created_at": "2026-10-19T03:39:56Z",
+  "updated_at": "2026-10-19T04:10:08Z",
+  "pages": [
+    {
+      "page_id": "page_001",
+      "page_index": 1,
+      "status": "accepted",
+      "page_dir": "pages/page_001",
+      "source": "pages/page_001/source.png",
+      "page_request": "pages/page_001/page_request.json",
+      "manifest": "pages/page_001/manifest.json",
+      "validation": "pages/page_001/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_001/worker-prompt.md",
+        "prompt_sha256": "f2487ab4842f7299de2f6a0bd54c65139e10df0970f7b9ecb42c828299130433",
+        "page_request_sha256": "b59a56bb1bb3fea762defb77a89aacc9a9c67636d4e1b84a461629d6d3dfbb1a",
+        "dispatched_at": "2026-10-19T03:45:19Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:49:58Z",
+        "outputs": {
+          "page_manifest": "pages/page_001/manifest.json",
+          "imagegen_jobs": "pages/page_001/imagegen-jobs.json",
+          "page_pptx": "pages/page_001/page.pptx",
+          "preview": "pages/page_001/preview.png",
+          "contact_sheet": "pages/page_001/split_assets_contact.png",
+          "validation": "pages/page_001/validation.json",
+          "page_result": "pages/page_001/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "6e458913f29e2545a881574796587c8bad90f2e474c0fd6ef821063fe0f6e0c8",
+          "imagegen_jobs": "33961a6db2fbfaa085eb925953f550d37c26c220c28b62cb4615649988e5e197",
+          "page_pptx": "eca278b6c18894e1118670a0e5bcf47f96d6e4dd8e71849d79f6f203118a440c",
+          "preview": "8b9a19ecc1a040472d122795f0733134bf4dd47f723c7745c63d31cddcc7bdef",
+          "contact_sheet": "d3f6c96c7783d6f03977b0db84396e61ab15ee310645430451c7b42b543a8794",
+          "validation": "dafd32edf5547c23ed96613ba7a614183cc51091f35f13941df3e3cfa4c1a0bf",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_002",
+      "page_index": 2,
+      "status": "accepted",
+      "page_dir": "pages/page_002",
+      "source": "pages/page_002/source.png",
+      "page_request": "pages/page_002/page_request.json",
+      "manifest": "pages/page_002/manifest.json",
+      "validation": "pages/page_002/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_002/worker-prompt.md",
+        "prompt_sha256": "b9b6fa1feb0e00bb540bcb470f3f77c50e71b06bdadf29c4c9727279d8c0659b",
+        "page_request_sha256": "bdc57e3df247c8735bbbe66d8c3d21b018003119a0e48609b8247ee9296b64cc",
+        "dispatched_at": "2026-10-19T03:50:25Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:52:42Z",
+        "outputs": {
+          "page_manifest": "pages/page_002/manifest.json",
+          "imagegen_jobs": "pages/page_002/imagegen-jobs.json",
+          "page_pptx": "pages/page_002/page.pptx",
+          "preview": "pages/page_002/preview.png",
+          "contact_sheet": "pages/page_002/split_assets_contact.png",
+          "validation": "pages/page_002/validation.json",
+          "page_result": "pages/page_002/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "56ff8931e9f9049196051ebc7f805c172cce21cbbcdfe1bd981335bebcc0f923",
+          "imagegen_jobs": "a1ee6944b94199060e12f051700b55111f8c5f61eafe24c0a6bba8ce472b6a5e",
+          "page_pptx": "aae3759c62060a9efc7b78ff128fa5db17ff4d17629536d4d723f83e03852a2d",
+          "preview": "c5cad5c79f46fcaaf377d4acb5b92c710557bd041ec67c8133d331bf66a2991d",
+          "contact_sheet": "8e9594338dfda191b9e0db04ea2a3035a1332c25e2d17cb9738e7d67dba5e6e9",
+          "validation": "6ad0149854a71fb19d5c642bb3f1183054d2639eebf49ef6bfcec7b0ececbe77",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_003",
+      "page_index": 3,
+      "status": "accepted",
+      "page_dir": "pages/page_003",
+      "source": "pages/page_003/source.png",
+      "page_request": "pages/page_003/page_request.json",
+      "manifest": "pages/page_003/manifest.json",
+      "validation": "pages/page_003/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_003/worker-prompt.md",
+        "prompt_sha256": "7de7cdcc4372d181b2c7710fc11e6e1e652cf82d7e8eb94eb70b5e262feaab01",
+        "page_request_sha256": "4923b1c25a3edc718dd8371a5c6964c4fa3e8fde07706492ff065cf0a03cbea7",
+        "dispatched_at": "2026-10-19T03:53:06Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:54:08Z",
+        "outputs": {
+          "page_manifest": "pages/page_003/manifest.json",
+          "imagegen_jobs": "pages/page_003/imagegen-jobs.json",
+          "page_pptx": "pages/page_003/page.pptx",
+          "preview": "pages/page_003/preview.png",
+          "contact_sheet": "pages/page_003/split_assets_contact.png",
+          "validation": "pages/page_003/validation.json",
+          "page_result": "pages/page_003/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "b8a796809938d5295423d2730f8eee541afa4c2997f8d7dbe908e9b94def72e5",
+          "imagegen_jobs": "f7e25dc380c61bcf8cec66a206323d70ae9abb801237b658723cc4ce9fb1fd6d",
+          "page_pptx": "6c517934dea51a6832b7d3cba9328dbfc571e63abeae566dcf389d208578f0da",
+          "preview": "5d499756f976d8c9c67007e01f8a7f346dc3e0afb07a7aa27fb10497803b0678",
+          "contact_sheet": "a14eeab8ed7fef2905f78c079b9d3b0024c2e28016fbe8a7a37e5a756d1bdcee",
+          "validation": "6d6b6c228bc570877374c0d1958c43143fc78c8b24796afc7884b45364430c4c",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_004",
+      "page_index": 4,
+      "status": "accepted",
+      "page_dir": "pages/page_004",
+      "source": "pages/page_004/source.png",
+      "page_request": "pages/page_004/page_request.json",
+      "manifest": "pages/page_004/manifest.json",
+      "validation": "pages/page_004/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_004/worker-prompt.md",
+        "prompt_sha256": "84021114206bbe4d50ac4141bc4760fd96812fe082e6e02f9c0b696519367267",
+        "page_request_sha256": "4d08c0a50f92a08bed286080bf7fab67032f01c31c2856f33e5bf5ab47cb3fe6",
+        "dispatched_at": "2026-10-19T03:54:08Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:55:25Z",
+        "outputs": {
+          "page_manifest": "pages/page_004/manifest.json",
+          "imagegen_jobs": "pages/page_004/imagegen-jobs.json",
+          "page_pptx": "pages/page_004/page.pptx",
+          "preview": "pages/page_004/preview.png",
+          "contact_sheet": "pages/page_004/split_assets_contact.png",
+          "validation": "pages/page_004/validation.json",
+          "page_result": "pages/page_004/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "96fb0d06205cd818676d6c3fe93350752f4b10eb305a704b8034ca43b767cc56",
+          "imagegen_jobs": "0b4e82e9a9fba977fbbb251583c2f8fc1e31b563ae8976a7e14c55621778da05",
+          "page_pptx": "466e286f36a37f0491b8672f5eb278b5feb053a1038a73d53f36cf7a6886c06c",
+          "preview": "8e8a6f1c00a96e2d1a6dda29cfd70f8ecbfb38414fbe4391e1bde788fe9b6343",
+          "contact_sheet": "89976fd7c40c40507712ac6382b128705a10d35bb0e637f9281726a60e3244cf",
+          "validation": "c3185f1905e8f241ec65ec27c5fe8df749a5ceb4ce067195a027fe6b30ea0e78",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_005",
+      "page_index": 5,
+      "status": "accepted",
+      "page_dir": "pages/page_005",
+      "source": "pages/page_005/source.png",
+      "page_request": "pages/page_005/page_request.json",
+      "manifest": "pages/page_005/manifest.json",
+      "validation": "pages/page_005/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_005/worker-prompt.md",
+        "prompt_sha256": "42e2aac41538c96b2a00e9793c83b12392e11949b4474f77b6688612a96cac07",
+        "page_request_sha256": "7b231b358f4341ff155aa92eb11ca9df6fb4afdbb0937144c987e142f2799e7f",
+        "dispatched_at": "2026-10-19T03:55:26Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:58:22Z",
+        "outputs": {
+          "page_manifest": "pages/page_005/manifest.json",
+          "imagegen_jobs": "pages/page_005/imagegen-jobs.json",
+          "page_pptx": "pages/page_005/page.pptx",
+          "preview": "pages/page_005/preview.png",
+          "contact_sheet": "pages/page_005/split_assets_contact.png",
+          "validation": "pages/page_005/validation.json",
+          "page_result": "pages/page_005/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "45e52a5c5619f774438ad5e304877e80149e67f2da1626c57800c69a72eb61c0",
+          "imagegen_jobs": "85c7b2820e38b3ab33b53bfb4b3ffe207767c8962b5e2fda7edde68fe2d3a587",
+          "page_pptx": "ad56d012cd3c3e552050de2ea26d982eed4784fc2814c3a57ca082976e620069",
+          "preview": "7fc49e78c6b8d0cba7497f1b8d8f53ce99d93348e925654250018d84a56c1aed",
+          "contact_sheet": "b2f25cc71e16987de0aa8f7e43734f35ef39e0ca1564511ffad59e1a598c7b1e",
+          "validation": "f657b40ad8626b00abaafe7c9d7a4ebf957097ea692659d1fef28a7d4d82fcda",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_006",
+      "page_index": 6,
+      "status": "accepted",
+      "page_dir": "pages/page_006",
+      "source": "pages/page_006/source.png",
+      "page_request": "pages/page_006/page_request.json",
+      "manifest": "pages/page_006/manifest.json",
+      "validation": "pages/page_006/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_006/worker-prompt.md",
+        "prompt_sha256": "707156882e5f73cedc3a3da5a7394bb59a420b5608e9d9aa58ed3d4d65b0df57",
+        "page_request_sha256": "840a7aea8dd8755089235d841639760c0d4149b7336aacde564f86615ece96d6",
+        "dispatched_at": "2026-10-19T03:58:22Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:59:22Z",
+        "outputs": {
+          "page_manifest": "pages/page_006/manifest.json",
+          "imagegen_jobs": "pages/page_006/imagegen-jobs.json",
+          "page_pptx": "pages/page_006/page.pptx",
+          "preview": "pages/page_006/preview.png",
+          "contact_sheet": "pages/page_006/split_assets_contact.png",
+          "validation": "pages/page_006/validation.json",
+          "page_result": "pages/page_006/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "4a6a68bc80bac027cb3a5925e2eeb119bcde4eaebc3c8d48c37f76265011bb4f",
+          "imagegen_jobs": "c8afc2493fab1d099f35a9f46dc0366a078ce2a19a29183dace1ba76c640a7fd",
+          "page_pptx": "dbf1cdbdcd04f0bb468f4c79562ffc9dab52181abe88b1d1525e256f993b562c",
+          "preview": "34f29c78a68b2af366632748412b87ee31a45d3c9833747a68726f89ad465408",
+          "contact_sheet": "df901c876bc0ea7bffbc3f8b566cf741becaa8c0f011b7dae47048ac1cc0bc45",
+          "validation": "8baa1b4dbce021025dd6a6406647bfcd9c47ca3ebe4c8466b1ef5834efa43d86",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_007",
+      "page_index": 7,
+      "status": "accepted",
+      "page_dir": "pages/page_007",
+      "source": "pages/page_007/source.png",
+      "page_request": "pages/page_007/page_request.json",
+      "manifest": "pages/page_007/manifest.json",
+      "validation": "pages/page_007/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_007/worker-prompt.md",
+        "prompt_sha256": "7bd6efc9baf52a6f197f6355bf4a9d0257e7b68c89d8475ad61ceb9627acfc06",
+        "page_request_sha256": "0fcfbff576f326c971b8abdb6f96cb87f37c9f77889823820bdace894c869fce",
+        "dispatched_at": "2026-10-19T03:59:22Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:00:20Z",
+        "outputs": {
+          "page_manifest": "pages/page_007/manifest.json",
+          "imagegen_jobs": "pages/page_007/imagegen-jobs.json",
+          "page_pptx": "pages/page_007/page.pptx",
+          "preview": "pages/page_007/preview.png",
+          "contact_sheet": "pages/page_007/split_assets_contact.png",
+          "validation": "pages/page_007/validation.json",
+          "page_result": "pages/page_007/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "4494734dc9d9d0697c64d7d6859ec5abaec0fa37a651e9504483d84e8dfa46ba",
+          "imagegen_jobs": "93300ef6e11623a59eabdf78c20cb9444e4a9ae6cb6a0f7d4cbed2e2f7bf035d",
+          "page_pptx": "bf8d10e6bb51c1baa0603553a1afb8c5b712feec028702c75884333d7c196e97",
+          "preview": "85c27c7ed9bf52c4a3467370dc6369996f2b4093c4edc388d62a147361035e09",
+          "contact_sheet": "38ec7bcc495837913854842c65e8a8b9e4a171da6594c829e6418a973ea21bcf",
+          "validation": "dd1d019ea50367a4fd88a9c31bc0dddd7851a9bb104515638f682b30750ff159",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_008",
+      "page_index": 8,
+      "status": "accepted",
+      "page_dir": "pages/page_008",
+      "source": "pages/page_008/source.png",
+      "page_request": "pages/page_008/page_request.json",
+      "manifest": "pages/page_008/manifest.json",
+      "validation": "pages/page_008/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_008/worker-prompt.md",
+        "prompt_sha256": "8ea23f8ccf9987c0fddbb8d397cce633941542e6b9b01363e12382b94459caa8",
+        "page_request_sha256": "47d36c4f2fa01b3b146501896d004ced92d038bda999acb3e580702007270f89",
+        "dispatched_at": "2026-10-19T04:00:21Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:01:22Z",
+        "outputs": {
+          "page_manifest": "pages/page_008/manifest.json",
+          "imagegen_jobs": "pages/page_008/imagegen-jobs.json",
+          "page_pptx": "pages/page_008/page.pptx",
+          "preview": "pages/page_008/preview.png",
+          "contact_sheet": "pages/page_008/split_assets_contact.png",
+          "validation": "pages/page_008/validation.json",
+          "page_result": "pages/page_008/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "871a145cb1dd74e1425cfdd18758b7c5375b3f078c7a63d8fe027896a6977f5c",
+          "imagegen_jobs": "3297c9991dbe77decc4d1edc18453fb1c0e19a07282cd410bc32ce85fa355f8d",
+          "page_pptx": "f4f3e2eeacb0373801feffde6f2f3b72f75ed765baa4920831e33f518cffa5cb",
+          "preview": "dacec033a77573135ae6058435651e2070ef24eefad2742b93323680efa25adb",
+          "contact_sheet": "6479f1a7eaeffd12f69a637468fbbfd4cbdc7d24e38d7797c54963c0783f716a",
+          "validation": "c327d4cc57b981e30e3e92ecbfd97d5d4b4a1c539705a6e8eca23aa4009bdad0",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_009",
+      "page_index": 9,
+      "status": "accepted",
+      "page_dir": "pages/page_009",
+      "source": "pages/page_009/source.png",
+      "page_request": "pages/page_009/page_request.json",
+      "manifest": "pages/page_009/manifest.json",
+      "validation": "pages/page_009/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_009/worker-prompt.md",
+        "prompt_sha256": "730fc9bf929dbcc057d8cce872ce8dfad80d4c33e4208e583815f97383b9f2ed",
+        "page_request_sha256": "fdd83a16ab1cbf58b13d27f8396ffe3995858f679080b91cca6e3d1bb718ca07",
+        "dispatched_at": "2026-10-19T04:01:22Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:02:15Z",
+        "outputs": {
+          "page_manifest": "pages/page_009/manifest.json",
+          "imagegen_jobs": "pages/page_009/imagegen-jobs.json",
+          "page_pptx": "pages/page_009/page.pptx",
+          "preview": "pages/page_009/preview.png",
+          "contact_sheet": "pages/page_009/split_assets_contact.png",
+          "validation": "pages/page_009/validation.json",
+          "page_result": "pages/page_009/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "d12b1ba691c2b3f7afde8612418d90c7278da9e38cb2dd333f177beca6310d5c",
+          "imagegen_jobs": "e1dfea2aff3f6322715ce003f44e3d3a31f230a4e89368cf0108c5f3e0f95c6f",
+          "page_pptx": "b629f1f1e58fa2b8a27776d1fcf087d4bcc83b46ca1188b2155cee507f0e2f28",
+          "preview": "c91033abba49935d031b3999ff803409d4789b66e2b1b4848a82e81392402fc4",
+          "contact_sheet": "e12b6d8f2445e894b4b9bdb4572093410b2e780bd2515bba2f0b15754339c149",
+          "validation": "79b9fcca5928707ebb7f690b7c92f8f957fe71b0be1c3ed4766379edb4b06f8c",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_010",
+      "page_index": 10,
+      "status": "accepted",
+      "page_dir": "pages/page_010",
+      "source": "pages/page_010/source.png",
+      "page_request": "pages/page_010/page_request.json",
+      "manifest": "pages/page_010/manifest.json",
+      "validation": "pages/page_010/validation.json",
+      "dispatch": {
+        "agent_id": "runtime_contract",
+        "agent_nickname": null,
+        "prompt": "pages/page_010/worker-prompt.md",
+        "prompt_sha256": "f54c738b7fde088dc0bed496e31181cb90858a1279d0ddfe7fa071b2f82d8a50",
+        "page_request_sha256": "f8a0f43d9b122bc4a3496a2ca60239c260e218f33cab4fd6a276911d5dc783cf",
+        "dispatched_at": "2026-10-19T04:02:15Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "runtime_contract",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:05:55Z",
+        "outputs": {
+          "page_manifest": "pages/page_010/manifest.json",
+          "imagegen_jobs": "pages/page_010/imagegen-jobs.json",
+          "page_pptx": "pages/page_010/page.pptx",
+          "preview": "pages/page_010/preview.png",
+          "contact_sheet": "pages/page_010/split_assets_contact.png",
+          "validation": "pages/page_010/validation.json",
+          "page_result": "pages/page_010/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "6d6a343a7c83e39eef348e79fe46d2368dbe9c2aa800850f47ec760f9e977743",
+          "imagegen_jobs": "7546e8f05d3a9ff325be5dcbd1c31c49d3479b5ea31641be9e5e249bd5ffbcd2",
+          "page_pptx": "5a31703c3821c7b053c725e4b840011e79d6d15dbad484930f0c309106bd38d4",
+          "preview": "1bac177da1952067b6f2b985cea252c0ab9931ced61a992c2e69f887dbe78f31",
+          "contact_sheet": "a50a0d8e8cc311b50f0fbc0c80c5cb87fc633b01adb1604e875ee4e9a1ba4e73",
+          "validation": "b7a70e947a1f14fc441f35d5538a190061897159f1af5285e38799c2f400ecc8",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_011",
+      "page_index": 11,
+      "status": "accepted",
+      "page_dir": "pages/page_011",
+      "source": "pages/page_011/source.png",
+      "page_request": "pages/page_011/page_request.json",
+      "manifest": "pages/page_011/manifest.json",
+      "validation": "pages/page_011/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_011/worker-prompt.md",
+        "prompt_sha256": "2b3ed48f414a36dda28263f7c3b5bbfcfe09b4aad835ad64d0157fd4ef27d4b5",
+        "page_request_sha256": "1eba0f8c63df004d04b027491bf41d83d1e7fef463975798d24f6fe5df6e513c",
+        "dispatched_at": "2026-10-19T03:47:48Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:50:43Z",
+        "outputs": {
+          "page_manifest": "pages/page_011/manifest.json",
+          "imagegen_jobs": "pages/page_011/imagegen-jobs.json",
+          "page_pptx": "pages/page_011/page.pptx",
+          "preview": "pages/page_011/preview.png",
+          "contact_sheet": "pages/page_011/split_assets_contact.png",
+          "validation": "pages/page_011/validation.json",
+          "page_result": "pages/page_011/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "f4c1dc9115a0d252ab7911a05ac1c260a96d9147035a02024c66c20f0e9c418c",
+          "imagegen_jobs": "6202870f49d670f1e374af1c351e61e37ba759b1e4b03def328215da588c08e5",
+          "page_pptx": "48dd1c566dafcba4e7a2c63bc35c3fc13eca9b82838558c351b13f233f4939c9",
+          "preview": "e7ea22dd85744c18eae24e84417f4e60386b1d73c796e3bd967bdcd0bcff18ba",
+          "contact_sheet": "51c20b2acafebaba443ca8660229a0ec2654d7815d9af98d39b360f46901ba3d",
+          "validation": "d44c8ed67dd7118de7e1f59277909c04391440f6c70a1ca2b28489f536c6f374",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_012",
+      "page_index": 12,
+      "status": "accepted",
+      "page_dir": "pages/page_012",
+      "source": "pages/page_012/source.png",
+      "page_request": "pages/page_012/page_request.json",
+      "manifest": "pages/page_012/manifest.json",
+      "validation": "pages/page_012/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_012/worker-prompt.md",
+        "prompt_sha256": "dc14fd5823cf7385e6b403753493e996d2e40f9f01047c109e6b1b6022112e0c",
+        "page_request_sha256": "5ca8247c2bb2378f6963f64466e8cdc91fe2a3c626e15b14726d134e2b6335f3",
+        "dispatched_at": "2026-10-19T03:51:12Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:51:50Z",
+        "outputs": {
+          "page_manifest": "pages/page_012/manifest.json",
+          "imagegen_jobs": "pages/page_012/imagegen-jobs.json",
+          "page_pptx": "pages/page_012/page.pptx",
+          "preview": "pages/page_012/preview.png",
+          "contact_sheet": "pages/page_012/split_assets_contact.png",
+          "validation": "pages/page_012/validation.json",
+          "page_result": "pages/page_012/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "ac716d54c6cce217ef5d5e0f70d6d77d04e3b5856064005e8bffa8420907af7d",
+          "imagegen_jobs": "22a1fd98a973e5c9c805db5885ed8243128e1c89dc5405086cf9945f6a0d8367",
+          "page_pptx": "c3f9530a206f179b286e831c4191aec6a560c7ffd70823ad486e8b34356e5ec0",
+          "preview": "9d58bae5cfaf2c7cb040b6980e44d8b8f476a9cf49c395588a2043d7b8868185",
+          "contact_sheet": "d754dcfe13b6e6fbf57466a9b8ea8023f242e154c528620b58b609f04b778a75",
+          "validation": "eb0f96b939d354607cab750b6e205104f93aae52c93f534b19e973b5a5c7db79",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_013",
+      "page_index": 13,
+      "status": "accepted",
+      "page_dir": "pages/page_013",
+      "source": "pages/page_013/source.png",
+      "page_request": "pages/page_013/page_request.json",
+      "manifest": "pages/page_013/manifest.json",
+      "validation": "pages/page_013/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_013/worker-prompt.md",
+        "prompt_sha256": "44f959bcd9706895db7141f1f0d73d7c2359916d653c84721607232a9ecdabc3",
+        "page_request_sha256": "9f34aaf3e85e0845e69423446d9fcd92732d2ec0d281499413648ff2bcbabf0f",
+        "dispatched_at": "2026-10-19T03:52:05Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:52:38Z",
+        "outputs": {
+          "page_manifest": "pages/page_013/manifest.json",
+          "imagegen_jobs": "pages/page_013/imagegen-jobs.json",
+          "page_pptx": "pages/page_013/page.pptx",
+          "preview": "pages/page_013/preview.png",
+          "contact_sheet": "pages/page_013/split_assets_contact.png",
+          "validation": "pages/page_013/validation.json",
+          "page_result": "pages/page_013/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "30a5f4fb4d3d4fc1cbf8c80842b4cafa011f667c7031baeabb513289fd429336",
+          "imagegen_jobs": "cf9886cfa30450ab0aa58592dfafa3dda3d4c3c32ab6b828bbb84eecc823ef9f",
+          "page_pptx": "a8ac689ad73fbae1070f22e0897e43da83930d1f27bb8bcef70cfd7108ee4b18",
+          "preview": "a62a0b7ef90a11b9c8cd9693f106eaeedc5d65a0e29d86efdf5d0efb54def6ff",
+          "contact_sheet": "560598d91bd64125046ca744e26e2a23a61679aa9a994a64e28a4988a7138fdc",
+          "validation": "3ac8dbc9771211d9b41073a4b694c7c9efca550693a04677ed2b64a7a1db4012",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_014",
+      "page_index": 14,
+      "status": "accepted",
+      "page_dir": "pages/page_014",
+      "source": "pages/page_014/source.png",
+      "page_request": "pages/page_014/page_request.json",
+      "manifest": "pages/page_014/manifest.json",
+      "validation": "pages/page_014/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_014/worker-prompt.md",
+        "prompt_sha256": "39df7c17283dd8eed1aad56b35ec692f5bd621b92eedb5419432b7f544739c6a",
+        "page_request_sha256": "cdfbfd19a2dc299f2e34a056adbdf7a8a8ea0d3a9e4b3ae40b8c26867327c1e4",
+        "dispatched_at": "2026-10-19T03:53:06Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:53:35Z",
+        "outputs": {
+          "page_manifest": "pages/page_014/manifest.json",
+          "imagegen_jobs": "pages/page_014/imagegen-jobs.json",
+          "page_pptx": "pages/page_014/page.pptx",
+          "preview": "pages/page_014/preview.png",
+          "contact_sheet": "pages/page_014/split_assets_contact.png",
+          "validation": "pages/page_014/validation.json",
+          "page_result": "pages/page_014/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "bd8fb8058556b6395573a8c834589f7646237b681ac358fc3fcb29a8cf145ea6",
+          "imagegen_jobs": "fa358ef96a285e15e991d43c4f7cccbbabc223e16683610c2b8cbcba58b9b718",
+          "page_pptx": "3150fd9bd2a42507579b1060960183c17f84ed6f32dbe8c7c13d8d40e556248e",
+          "preview": "d8e1a04b5ff231d12dd622b46f1952bd5530eb7e826b5a0ed3dd8b7a45c9c61e",
+          "contact_sheet": "0c1bc8766d5cda851fe670cddd0d05ad39a5846349a0bd11b6d1795a2f2ed4f5",
+          "validation": "7a608516a3cf063b6ce27cc076c1e37581543f39523d9b254f577ae12ac386a5",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_015",
+      "page_index": 15,
+      "status": "accepted",
+      "page_dir": "pages/page_015",
+      "source": "pages/page_015/source.png",
+      "page_request": "pages/page_015/page_request.json",
+      "manifest": "pages/page_015/manifest.json",
+      "validation": "pages/page_015/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_015/worker-prompt.md",
+        "prompt_sha256": "388ad0f2d35520c5cfa818135f3c6a44679e4b30ac767286b1b9b10bfbca7bba",
+        "page_request_sha256": "1574bea7cc4f48e28173901cfd9abbd65f4f2c336315cff79c63d5ab07d79477",
+        "dispatched_at": "2026-10-19T03:54:03Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:55:52Z",
+        "outputs": {
+          "page_manifest": "pages/page_015/manifest.json",
+          "imagegen_jobs": "pages/page_015/imagegen-jobs.json",
+          "page_pptx": "pages/page_015/page.pptx",
+          "preview": "pages/page_015/preview.png",
+          "contact_sheet": "pages/page_015/split_assets_contact.png",
+          "validation": "pages/page_015/validation.json",
+          "page_result": "pages/page_015/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "cbe24c209031706e5fb0376b895205c1ffc8f7549d34a71e425ac8cd9d36b4af",
+          "imagegen_jobs": "fd1c6c9b189cdfc1c83c5e2a29c41fa31842c3941394585a2f5c99360d6d8bc2",
+          "page_pptx": "009ffc13950f1712a1bcc3b3131537915c7f242adbb8790aada85bd1122c1b20",
+          "preview": "fccc88f1a52a3d5cd733cac519c0d57782b3f54227de1ba04b8b2117c59c440a",
+          "contact_sheet": "d01fb94a9e8e2f5fc7718d11b0acf11af1e9538e6033fb9121f1c81633f191ac",
+          "validation": "71d162e32aef58e96dc08c775cb0917827cfbe74955417ff16e75fde45b97068",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_016",
+      "page_index": 16,
+      "status": "accepted",
+      "page_dir": "pages/page_016",
+      "source": "pages/page_016/source.png",
+      "page_request": "pages/page_016/page_request.json",
+      "manifest": "pages/page_016/manifest.json",
+      "validation": "pages/page_016/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_016/worker-prompt.md",
+        "prompt_sha256": "76590f1af91e00601a527798bce770ca6843b09c2a48d6895d216c7ff2d7cc45",
+        "page_request_sha256": "25e2aa9635eb8754320e16a9ce388fae30e5dd0f8d1b723f4defd85ade1912ca",
+        "dispatched_at": "2026-10-19T03:56:29Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:58:25Z",
+        "outputs": {
+          "page_manifest": "pages/page_016/manifest.json",
+          "imagegen_jobs": "pages/page_016/imagegen-jobs.json",
+          "page_pptx": "pages/page_016/page.pptx",
+          "preview": "pages/page_016/preview.png",
+          "contact_sheet": "pages/page_016/split_assets_contact.png",
+          "validation": "pages/page_016/validation.json",
+          "page_result": "pages/page_016/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "6e806728a41a54dc41f6da4db148d12146f1afd3455ad5ee5424ce261e9ad68a",
+          "imagegen_jobs": "5b8264b38a3081d24817318a5fb63828a6ae2168e35ca633e541261af1f445ea",
+          "page_pptx": "6e68ffc01968cdaa15b2216ce185486740040377535f51350ad2d8a61132f9d0",
+          "preview": "38177d527fcbeb5361ef10b5f9c9ea6ee4ffc6bdf99737a7dc8979b7b2a6be61",
+          "contact_sheet": "84b47acce5ad84c6559a1e354fa3b871df465f9cc961fb758fd851acae9a35b6",
+          "validation": "509b5ae8c525fe58a634f70e2a0ef2051f9567846ed9c100c95b9fafe5268194",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_017",
+      "page_index": 17,
+      "status": "accepted",
+      "page_dir": "pages/page_017",
+      "source": "pages/page_017/source.png",
+      "page_request": "pages/page_017/page_request.json",
+      "manifest": "pages/page_017/manifest.json",
+      "validation": "pages/page_017/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_017/worker-prompt.md",
+        "prompt_sha256": "6c7527dc3bd9fb5adcb52ba9a1a43eb6acd7a62d5ee76604212ac134e74b60d5",
+        "page_request_sha256": "0f54e5147d2ad256edc3bf030dc1025938a0b2c785feb933ae8241c458d674a6",
+        "dispatched_at": "2026-10-19T03:58:40Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:59:08Z",
+        "outputs": {
+          "page_manifest": "pages/page_017/manifest.json",
+          "imagegen_jobs": "pages/page_017/imagegen-jobs.json",
+          "page_pptx": "pages/page_017/page.pptx",
+          "preview": "pages/page_017/preview.png",
+          "contact_sheet": "pages/page_017/split_assets_contact.png",
+          "validation": "pages/page_017/validation.json",
+          "page_result": "pages/page_017/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "37d173546f94278d78395ca889e093df6b12431f81aa079a3cfb07d51283efd5",
+          "imagegen_jobs": "026b49404d66028aadb73b9e32fc8f96a9b0d96cbfc0426c741e9a2cb4bb8aa9",
+          "page_pptx": "86851329133a60b236d23e17f8b06aacbc3c1789666c402b629781191554db14",
+          "preview": "4704426048cc1ab0f9842366dd1d72e604ffd12ca932f9481ac3a61b9ad4a517",
+          "contact_sheet": "f4b18f69c8399e4de539e1e1524efc64f1b13f251d8aac942933782a84d23cb4",
+          "validation": "9619e3069db053bda605fda61104bbd17fe0ba230ea53a04435805e377fc7020",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_018",
+      "page_index": 18,
+      "status": "accepted",
+      "page_dir": "pages/page_018",
+      "source": "pages/page_018/source.png",
+      "page_request": "pages/page_018/page_request.json",
+      "manifest": "pages/page_018/manifest.json",
+      "validation": "pages/page_018/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_018/worker-prompt.md",
+        "prompt_sha256": "85615fcb27af3ced73ec73278c689078bb8d7a6688b741438140c4d02cc2fa5f",
+        "page_request_sha256": "b4e08b2e449a3217c0349e4a66dc16d8bd16a22c032557fad63bcdb93f3532ea",
+        "dispatched_at": "2026-10-19T03:59:42Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:00:12Z",
+        "outputs": {
+          "page_manifest": "pages/page_018/manifest.json",
+          "imagegen_jobs": "pages/page_018/imagegen-jobs.json",
+          "page_pptx": "pages/page_018/page.pptx",
+          "preview": "pages/page_018/preview.png",
+          "contact_sheet": "pages/page_018/split_assets_contact.png",
+          "validation": "pages/page_018/validation.json",
+          "page_result": "pages/page_018/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "30a26b54e521799a050d18feb985082f20fe2af68bcdda58d5b9f0b84b703206",
+          "imagegen_jobs": "07af5f0009c35766f87b140f159a789de7772f97c1a1f31007ef6a001c0c8a72",
+          "page_pptx": "94213ad42e045b01e59a79c08330715d2b6c828de9395cbf5fc776a9c7948d7e",
+          "preview": "5e9fc10d08d24ae3472bec0c7d196785ee316ff6d665ddc6b06be25fd7e0ed78",
+          "contact_sheet": "6e0097e047d336ae9c8ca7ca5d833ef6d76ee974ea944142f3d62987e47d996a",
+          "validation": "7b4d329f0612658bc8210da5ceb85ab6380f87e35193140e2f028402fdd443da",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_019",
+      "page_index": 19,
+      "status": "accepted",
+      "page_dir": "pages/page_019",
+      "source": "pages/page_019/source.png",
+      "page_request": "pages/page_019/page_request.json",
+      "manifest": "pages/page_019/manifest.json",
+      "validation": "pages/page_019/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_019/worker-prompt.md",
+        "prompt_sha256": "569dc6ffb87599c901ae7993fc4464f996dd2a85412def154c8217490b404239",
+        "page_request_sha256": "22785cc8965f28c60ba9404682100cc05eadd04f838e73efe1f858b238b7e162",
+        "dispatched_at": "2026-10-19T04:00:31Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:01:02Z",
+        "outputs": {
+          "page_manifest": "pages/page_019/manifest.json",
+          "imagegen_jobs": "pages/page_019/imagegen-jobs.json",
+          "page_pptx": "pages/page_019/page.pptx",
+          "preview": "pages/page_019/preview.png",
+          "contact_sheet": "pages/page_019/split_assets_contact.png",
+          "validation": "pages/page_019/validation.json",
+          "page_result": "pages/page_019/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "b7d3b1776e634d34f28a6f1fbf57b3733fd8d647f1cd71e18edc639c40218526",
+          "imagegen_jobs": "f40cffd39b89de750f809dfd62091af0250e388df756904f0df6cdc6b024b527",
+          "page_pptx": "82785da6f8136ec683d168606c1e4c0ab147720b5db9570f7500244463ab9af6",
+          "preview": "f826ded108ff38ce82b332a9a3e09cfcd1a8851a288b29302ad5b7f34c24f7d9",
+          "contact_sheet": "b889fe47056b4cecaca437d6bd814e1e577656d4c0de9d3b8653de7c3623fdcc",
+          "validation": "aed499e6822180fb6b68407334db28451c817c1d1c27701adf33a57b2abb5688",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_020",
+      "page_index": 20,
+      "status": "accepted",
+      "page_dir": "pages/page_020",
+      "source": "pages/page_020/source.png",
+      "page_request": "pages/page_020/page_request.json",
+      "manifest": "pages/page_020/manifest.json",
+      "validation": "pages/page_020/validation.json",
+      "dispatch": {
+        "agent_id": "pages_11_20",
+        "agent_nickname": null,
+        "prompt": "pages/page_020/worker-prompt.md",
+        "prompt_sha256": "c188eeacd7e660598294fd9a2002e8e20f604062c16670802ba91419e4cf9aae",
+        "page_request_sha256": "f54982afae4bacfa40c416b2823484635241caa738cb2fdba46049644fa2ce62",
+        "dispatched_at": "2026-10-19T04:01:22Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_11_20",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:01:55Z",
+        "outputs": {
+          "page_manifest": "pages/page_020/manifest.json",
+          "imagegen_jobs": "pages/page_020/imagegen-jobs.json",
+          "page_pptx": "pages/page_020/page.pptx",
+          "preview": "pages/page_020/preview.png",
+          "contact_sheet": "pages/page_020/split_assets_contact.png",
+          "validation": "pages/page_020/validation.json",
+          "page_result": "pages/page_020/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "a8c0008078c3e692f5dc09a092d0da6463089c891f70f9aac48c3fa5856752d0",
+          "imagegen_jobs": "637250616eef82ec4918a6dfcbeca687629da375e41788146af3dbd7e956e7c1",
+          "page_pptx": "336f7e66399418f5d7efd38093d22f5076e46404b76349cdad791497eb7c3d5f",
+          "preview": "300551102c9e448d6c444a6594f9b62e67117228ae1b602170bc53cc34ca1687",
+          "contact_sheet": "092ae9bf43809980a5257d37345ddb09d710cda998562527e18c9ff1b685e0c0",
+          "validation": "81a8bc6de9dd97556f21f16b929cf2199e4fb9265e9072d7349b8d27b788a425",
+          "page_result": "e26e42cd4dd163973129ef04f77fe9ba2d3f84ba87ca595d316d5d30a088f468"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_021",
+      "page_index": 21,
+      "status": "accepted",
+      "page_dir": "pages/page_021",
+      "source": "pages/page_021/source.png",
+      "page_request": "pages/page_021/page_request.json",
+      "manifest": "pages/page_021/manifest.json",
+      "validation": "pages/page_021/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_021/worker-prompt.md",
+        "prompt_sha256": "f7419ec7a0f87a1995a9f08bacf9705d3f8ab2f52d401a34f62c82b0245b80e1",
+        "page_request_sha256": "7a8972c43034219aca2e5afaeb7be1c3a61f0e0af1e61ca6e09c9fb61f027e3d",
+        "dispatched_at": "2026-10-19T03:47:55Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:52:47Z",
+        "outputs": {
+          "page_manifest": "pages/page_021/manifest.json",
+          "imagegen_jobs": "pages/page_021/imagegen-jobs.json",
+          "page_pptx": "pages/page_021/page.pptx",
+          "preview": "pages/page_021/preview.png",
+          "contact_sheet": "pages/page_021/split_assets_contact.png",
+          "validation": "pages/page_021/validation.json",
+          "page_result": "pages/page_021/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "8a9398a9cad10e6ed5072d2046731fa1e14805789387cbbc65f4090b98786ac9",
+          "imagegen_jobs": "366e511d577ca40eec596565e8464c876a916d0186640bbfa78f2a1733dbca99",
+          "page_pptx": "be1c2f86c89fb524b28d0dc67721a26a707aecaf05f336cfc9abb4995e743c48",
+          "preview": "53b761f77e1aed025bc95a635c05517a4ad03e7858d6804157554215b5b0d282",
+          "contact_sheet": "0de8e0ca01eb5316acda1f53fb1eeb8bd4f6bb227e2a5ef0fcc247a5bed9b91a",
+          "validation": "66c546f6758f08740fd4c252d92ce557ea748a40ac9f2db16800f25cd6b23928",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_022",
+      "page_index": 22,
+      "status": "accepted",
+      "page_dir": "pages/page_022",
+      "source": "pages/page_022/source.png",
+      "page_request": "pages/page_022/page_request.json",
+      "manifest": "pages/page_022/manifest.json",
+      "validation": "pages/page_022/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_022/worker-prompt.md",
+        "prompt_sha256": "af803b57ec6a7dab48ce821ae5f34c1309b8021b914e36d997cbbeca5ff11ebb",
+        "page_request_sha256": "f363f7fed05ab010de2caa8e5ffef75594c16be5fbf4226da445bb7ae54f50c8",
+        "dispatched_at": "2026-10-19T03:53:04Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:53:52Z",
+        "outputs": {
+          "page_manifest": "pages/page_022/manifest.json",
+          "imagegen_jobs": "pages/page_022/imagegen-jobs.json",
+          "page_pptx": "pages/page_022/page.pptx",
+          "preview": "pages/page_022/preview.png",
+          "contact_sheet": "pages/page_022/split_assets_contact.png",
+          "validation": "pages/page_022/validation.json",
+          "page_result": "pages/page_022/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "354e3b9564c599572806fdeeebe661b09db9be151b91d210577d26cdb708bf34",
+          "imagegen_jobs": "3f9567690592c00bfa8e8d5523293447c54ca777b9017cfa21c5e7d2831593ac",
+          "page_pptx": "663a976395b8f215bbdf6af07d9ac6f8ecd5e47c3d33998004de4a8c9cab8a39",
+          "preview": "cefb137324a8b2a1950aa696fc0036a4ae6e0e4bfa24cbbebeeed1e7d5a4e8ef",
+          "contact_sheet": "3320acfaec8747e690274166c0be14c2f50459905e67b605b0702705bd46dd05",
+          "validation": "0a1b1db39d151726bbd393d6a361d27b31454d1d7469e6cdeb4123f6a061c8c4",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_023",
+      "page_index": 23,
+      "status": "accepted",
+      "page_dir": "pages/page_023",
+      "source": "pages/page_023/source.png",
+      "page_request": "pages/page_023/page_request.json",
+      "manifest": "pages/page_023/manifest.json",
+      "validation": "pages/page_023/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_023/worker-prompt.md",
+        "prompt_sha256": "c82d33458ea95bba83a97b6c2cc68b2f557e2381f87228ab5e368a615982d2a1",
+        "page_request_sha256": "ce40bf80a05ca4185219da6ce9628177b535520629e08e9505c2d0efae4fa76e",
+        "dispatched_at": "2026-10-19T03:54:10Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:55:09Z",
+        "outputs": {
+          "page_manifest": "pages/page_023/manifest.json",
+          "imagegen_jobs": "pages/page_023/imagegen-jobs.json",
+          "page_pptx": "pages/page_023/page.pptx",
+          "preview": "pages/page_023/preview.png",
+          "contact_sheet": "pages/page_023/split_assets_contact.png",
+          "validation": "pages/page_023/validation.json",
+          "page_result": "pages/page_023/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "08c11b9ad999bb038d8cc0ca0663b9203d70ff089b5cad4cb28c947e576d7f0e",
+          "imagegen_jobs": "2119f6afa092decf764ecbc9bbdaeda0feea73b652b758cc74883901f6e38438",
+          "page_pptx": "2b434841ed9b8c39a8f1cc806c561640fe566b53257d9c2eb8d231eec7de0860",
+          "preview": "e2779a8d7d7a4157af1515e2f064a867e96944d48ea140aafbc5f9725f15cd5c",
+          "contact_sheet": "131ab616c901ea6197454535906a5224375dfcc9de5362c35292785b415445dd",
+          "validation": "fb4dd745b1474caab590d63e6d164db6d63a3b2dd5f097870b1cbb00d22f9af2",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_024",
+      "page_index": 24,
+      "status": "accepted",
+      "page_dir": "pages/page_024",
+      "source": "pages/page_024/source.png",
+      "page_request": "pages/page_024/page_request.json",
+      "manifest": "pages/page_024/manifest.json",
+      "validation": "pages/page_024/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_024/worker-prompt.md",
+        "prompt_sha256": "4f35edf1cec441435a78c07faf02addd17ed840bf92a7177d658e1a73ff3ab30",
+        "page_request_sha256": "41953f4b7a13582c424623fdddd0f6ca1f30b2df5ec303b0a1f20839576c4c88",
+        "dispatched_at": "2026-10-19T03:55:21Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:55:53Z",
+        "outputs": {
+          "page_manifest": "pages/page_024/manifest.json",
+          "imagegen_jobs": "pages/page_024/imagegen-jobs.json",
+          "page_pptx": "pages/page_024/page.pptx",
+          "preview": "pages/page_024/preview.png",
+          "contact_sheet": "pages/page_024/split_assets_contact.png",
+          "validation": "pages/page_024/validation.json",
+          "page_result": "pages/page_024/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "f86b978118f57eba20efec769969eb75e5d1c765af748902cbeb7b121ac5a32c",
+          "imagegen_jobs": "44304085b7237a78f0678c3ab30efa2ee15a59405253fdecb7fb708e48df1c6b",
+          "page_pptx": "4d676822c58afcf215c1a5fe5bbab147a5f6922fa104fe6713c92a36dbf4d31c",
+          "preview": "4a01d540843a7cc395c05e4ccbe2e4535b6c4cb7c5dcd81761ffca5fbe158704",
+          "contact_sheet": "fa3c494010b7ca677521daef880ee312c1ec161f5090bde7399fe920da6266f7",
+          "validation": "444ebecc5c38e8a074cb22ab6e27a0b58cc8475974fdafa58471191b239f51d7",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_025",
+      "page_index": 25,
+      "status": "accepted",
+      "page_dir": "pages/page_025",
+      "source": "pages/page_025/source.png",
+      "page_request": "pages/page_025/page_request.json",
+      "manifest": "pages/page_025/manifest.json",
+      "validation": "pages/page_025/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_025/worker-prompt.md",
+        "prompt_sha256": "be752c545fba675de4263a28c8f7746be0c50ff65ec1b4e41738bfe7fdffe955",
+        "page_request_sha256": "80eafea0149aaf1ca2e00846ac5e0d9a51b6802add753319a54c54b2bb23f04c",
+        "dispatched_at": "2026-10-19T03:56:11Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:56:48Z",
+        "outputs": {
+          "page_manifest": "pages/page_025/manifest.json",
+          "imagegen_jobs": "pages/page_025/imagegen-jobs.json",
+          "page_pptx": "pages/page_025/page.pptx",
+          "preview": "pages/page_025/preview.png",
+          "contact_sheet": "pages/page_025/split_assets_contact.png",
+          "validation": "pages/page_025/validation.json",
+          "page_result": "pages/page_025/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "00106fe966035cd455ece429350984a7c79c735e0aeb4cc4804d72febc29cb58",
+          "imagegen_jobs": "54f538e048c864a8b1c071f3fddf40265b16c78098cdc15f6ba09487dcf57d8a",
+          "page_pptx": "94fc3b3d4a81b8ede7bebc82d6b2b14b516f0aca4e2395abb777172a74848168",
+          "preview": "835bcfe818a3d690f94e5a5322e84da4ffdde97b448e393ec792a72b252afa3f",
+          "contact_sheet": "5113ec3e80206bb3739a78e01d6104cc69c4a6077631e32babc857aa878b4f5d",
+          "validation": "0cd1922355b8ba35862ddb2def9d237a3ae2a7fe9b0ab8bf853414b0f18f8598",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_026",
+      "page_index": 26,
+      "status": "accepted",
+      "page_dir": "pages/page_026",
+      "source": "pages/page_026/source.png",
+      "page_request": "pages/page_026/page_request.json",
+      "manifest": "pages/page_026/manifest.json",
+      "validation": "pages/page_026/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_026/worker-prompt.md",
+        "prompt_sha256": "6c2b5d8a81d10f6cfe0d61c30c888e04b2fe08306db54c1dde4e289c89040418",
+        "page_request_sha256": "5359bc0e7cc8f39ce7ae12d5088c1e3788efbd627c97b8022021c3137463dd48",
+        "dispatched_at": "2026-10-19T03:57:24Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T03:59:39Z",
+        "outputs": {
+          "page_manifest": "pages/page_026/manifest.json",
+          "imagegen_jobs": "pages/page_026/imagegen-jobs.json",
+          "page_pptx": "pages/page_026/page.pptx",
+          "preview": "pages/page_026/preview.png",
+          "contact_sheet": "pages/page_026/split_assets_contact.png",
+          "validation": "pages/page_026/validation.json",
+          "page_result": "pages/page_026/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "7e15a6e119edd313a41f553ebe1b885c8c68bcfa52fff0dc4612206994f79b44",
+          "imagegen_jobs": "5c0f4bdff5b01d7ed677501b78fe3a0788dfae039eb459d53fd280f3f508c7bb",
+          "page_pptx": "38737414904be36cfb81a18534acee18660f1608b0c3faae94140dfacd4e6214",
+          "preview": "756f94145fb5db9e09962c3b66f0d18031c52861a0715369acb4795a96462eac",
+          "contact_sheet": "300209f17d1ed782dc258f87bffbf9db694e851fd83c7d6d0b0e07247af9c42d",
+          "validation": "371e2301f2f74266a9ac03b7c73de938c0a88eda790695ff8c79a9ad254cdd96",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_027",
+      "page_index": 27,
+      "status": "accepted",
+      "page_dir": "pages/page_027",
+      "source": "pages/page_027/source.png",
+      "page_request": "pages/page_027/page_request.json",
+      "manifest": "pages/page_027/manifest.json",
+      "validation": "pages/page_027/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_027/worker-prompt.md",
+        "prompt_sha256": "982f97544045d0f1443f089b005555ad3185a829e8d0de338913128650103e8e",
+        "page_request_sha256": "0975dd3c8df51ae3505e21b595c38fc3f3e48e511e35f683128be6873565c26f",
+        "dispatched_at": "2026-10-19T04:00:01Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:03:42Z",
+        "outputs": {
+          "page_manifest": "pages/page_027/manifest.json",
+          "imagegen_jobs": "pages/page_027/imagegen-jobs.json",
+          "page_pptx": "pages/page_027/page.pptx",
+          "preview": "pages/page_027/preview.png",
+          "contact_sheet": "pages/page_027/split_assets_contact.png",
+          "validation": "pages/page_027/validation.json",
+          "page_result": "pages/page_027/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "52022a7ed178bc16d4e75aade732a5fdbf441ca87df2a0ce200c38f1d139fbaa",
+          "imagegen_jobs": "bc46ae161ee80ca965920e5d0bc793c455c19ba1bafe20617255a9ec4989b5df",
+          "page_pptx": "3e9a945441b1963989b71bbaac307f4690cc2848495da69da6b1d7d08809aaf9",
+          "preview": "b3b93bfc17e432ba9f331d0719235f2f6f2fcc0cda16097d550d8d1286889a79",
+          "contact_sheet": "a0e04217edb3b1b2331c686bd9d13ae63b62cfdb1a18e648a68e015d34e60ea5",
+          "validation": "9a27577442805ec5345c67fb06570edb725c9d7029b037051210a37e0c533b25",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_028",
+      "page_index": 28,
+      "status": "accepted",
+      "page_dir": "pages/page_028",
+      "source": "pages/page_028/source.png",
+      "page_request": "pages/page_028/page_request.json",
+      "manifest": "pages/page_028/manifest.json",
+      "validation": "pages/page_028/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_028/worker-prompt.md",
+        "prompt_sha256": "a5f7e018c8f44dd168a4a2c9c8c55607f0dade9a4ea172f46611e45845ca5b36",
+        "page_request_sha256": "bfb19b8ff3e69ec727cf2238858e4b42ac29dfb211a8d148dbe2c27f9fffaf42",
+        "dispatched_at": "2026-10-19T04:04:05Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:05:23Z",
+        "outputs": {
+          "page_manifest": "pages/page_028/manifest.json",
+          "imagegen_jobs": "pages/page_028/imagegen-jobs.json",
+          "page_pptx": "pages/page_028/page.pptx",
+          "preview": "pages/page_028/preview.png",
+          "contact_sheet": "pages/page_028/split_assets_contact.png",
+          "validation": "pages/page_028/validation.json",
+          "page_result": "pages/page_028/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "0b9b2fd5f266e953a49b9d87bfb5b4a7aa5927b9b628a37c7ee66dbc9fc927ca",
+          "imagegen_jobs": "72d45345e97dfb9ad82f8d49b66f5c2ba4095957c4e30507a5b849f252d5a34c",
+          "page_pptx": "c16b72db75d3a0a5cad56f572595d22697573531c9755c39ebd3b1b7919e0b43",
+          "preview": "d5c0e25035ed10dc4ed691adac65f60fecc0a4caee0fa4d9da9a801dc404433e",
+          "contact_sheet": "6be7a8ec7fee5daa3ab4327c5a536491859689d20f59a17f19c38509c5b8e761",
+          "validation": "8a54bb60c4933ceb3aab612194ceb471593f5ce3d40aeb4da28814fc18b24f4c",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_029",
+      "page_index": 29,
+      "status": "accepted",
+      "page_dir": "pages/page_029",
+      "source": "pages/page_029/source.png",
+      "page_request": "pages/page_029/page_request.json",
+      "manifest": "pages/page_029/manifest.json",
+      "validation": "pages/page_029/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_029/worker-prompt.md",
+        "prompt_sha256": "7ad7c9a68be6ce12045d64710d45e178d5d0acc251e6f7098196b17019115e30",
+        "page_request_sha256": "722591614fc39010a438c6e429f2274866e8ef78901d44351e69d5daffcfa132",
+        "dispatched_at": "2026-10-19T04:05:44Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:06:42Z",
+        "outputs": {
+          "page_manifest": "pages/page_029/manifest.json",
+          "imagegen_jobs": "pages/page_029/imagegen-jobs.json",
+          "page_pptx": "pages/page_029/page.pptx",
+          "preview": "pages/page_029/preview.png",
+          "contact_sheet": "pages/page_029/split_assets_contact.png",
+          "validation": "pages/page_029/validation.json",
+          "page_result": "pages/page_029/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "dffa69c98158e707520b836c59b2dc9310c1bfbfc587ef13bc656d38495cbfc0",
+          "imagegen_jobs": "15b76e1b1c5efd98d6a697ab876175673576efe3acec7a842d49c5b0e842454b",
+          "page_pptx": "69586798e21a087a227d7c3ba6274db81ff3bcccedd87d2f572f4df62b8dafa5",
+          "preview": "298d64275231fedfd475f4e43d5316170e16caf0672c08b9e40c2c12e5e73c2e",
+          "contact_sheet": "c6985699dd4319c61174f6b09fcce899b9cec7524c3d22ad9f71fe693b886c8f",
+          "validation": "602b579a1e4613b7f84f312d066067cc886de4eca1fcbb9f7ca39ca5bffb5487",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    },
+    {
+      "page_id": "page_030",
+      "page_index": 30,
+      "status": "accepted",
+      "page_dir": "pages/page_030",
+      "source": "pages/page_030/source.png",
+      "page_request": "pages/page_030/page_request.json",
+      "manifest": "pages/page_030/manifest.json",
+      "validation": "pages/page_030/validation.json",
+      "dispatch": {
+        "agent_id": "pages_21_30",
+        "agent_nickname": null,
+        "prompt": "pages/page_030/worker-prompt.md",
+        "prompt_sha256": "72d4e4f936c3a34c06303beb05d6b003259e00c9e081389da5006d43d75b2f5b",
+        "page_request_sha256": "d419b8b57d30180bfe87922c8e368e4574af589a06f9ec8ae3312f63ed792a0f",
+        "dispatched_at": "2026-10-19T04:07:33Z",
+        "execution_mode": "worker"
+      },
+      "result": {
+        "agent_id": "pages_21_30",
+        "record_mode": "dispatched-worker",
+        "recorded_at": "2026-10-19T04:09:36Z",
+        "outputs": {
+          "page_manifest": "pages/page_030/manifest.json",
+          "imagegen_jobs": "pages/page_030/imagegen-jobs.json",
+          "page_pptx": "pages/page_030/page.pptx",
+          "preview": "pages/page_030/preview.png",
+          "contact_sheet": "pages/page_030/split_assets_contact.png",
+          "validation": "pages/page_030/validation.json",
+          "page_result": "pages/page_030/page_result.json"
+        },
+        "hashes": {
+          "page_manifest": "b391e17d75f7b47f7f8d474eebc0a6fcbe71e35497a5d7af91a14d2058362555",
+          "imagegen_jobs": "4db7ecfa6aab0a4969b2ce22e9ef65005366567c4983aff868e7026f877e4027",
+          "page_pptx": "dc7731326c01e534bbc61616bfc288f323fc3890fb5cd9019c8affb06f4521d9",
+          "preview": "9bc25871478c86e5dcc01157da283fed88b60a7e2ebab4117c530179a8b1c7c9",
+          "contact_sheet": "dc52578b40ae1908e2a20ef1fe69723bdbda1c688777b9aa9b0bc6c04cd342fe",
+          "validation": "75335cae0f446152c981474c30dd89073c2682f352d262a918d47dc9b7824066",
+          "page_result": "948d22c96cf9aee5a056ec43ea13727467c5e2b6067ae2cb6ef6ccd0095b2ca5"
+        },
+        "validation_passed": true
+      },
+      "accepted": true,
+      "accepted_at": "2026-10-19T04:10:08Z"
+    }
+  ]
+}

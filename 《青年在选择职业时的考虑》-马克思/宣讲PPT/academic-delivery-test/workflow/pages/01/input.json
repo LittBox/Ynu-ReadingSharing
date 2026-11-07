@@ -1,0 +1,22 @@
+{
+  "page_id": "opening-cover",
+  "source_page": 1,
+  "text": "### 第 1 页｜封面\n\n- **页面标题**：第一份工作，只是起点\n- **核心文字**：\n  - 主标题：第一份工作，只是起点\n  - 副标题：青年择业中的热情、冷静与重新喜欢\n  - 书目行：读马克思《青年在选择职业时的考虑》\n  - 分享人：曾湘雨\n  - 日期：2026-10-17\n- **视觉/版式**：Style B 网格；左对齐；主标题可占两行；深墨蓝主标题、暖橙副标题；背景使用 `assets/style-a/indigo-porcelain.webp`。\n- **资源**：`assets/style-a/indigo-porcelain.webp`\n- **口播提示**：简短问候，点明今天从一本书、一些数据和几段经历，聊青年择业。\n",
+  "roles": [
+    {
+      "role": "cover_title",
+      "text": "第一份工作，只是起点",
+      "reason": "封面主题"
+    }
+  ],
+  "features": {
+    "purpose": "cover",
+    "relation": "intro",
+    "density": "short",
+    "group_count": 1,
+    "evidence": [
+      "text"
+    ]
+  },
+  "retrieval_query": "用户人工验收的首页横幅，无导航，书目读书有感与三个基本信息标签；直接复用已验收构图，不生成装饰图。"
+}

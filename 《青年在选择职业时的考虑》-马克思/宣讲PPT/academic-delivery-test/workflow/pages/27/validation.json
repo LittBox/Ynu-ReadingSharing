@@ -1,0 +1,20 @@
+{
+  "structural": {
+    "static": "pass",
+    "rendered": "not_run",
+    "visualReview": "pending",
+    "slides": 27,
+    "errors": [],
+    "warnings": [],
+    "scope": "C structure/roles only; run presenter validator and inspect rendered pages separately."
+  },
+  "visual": "pending: automated local HTML access was previously blocked; no bypass attempted",
+  "html_sha256": "8bfb2cb4443b22c246bbabc11f3cab26d12f4578823795ac4b6ae427a60c47f2",
+  "final_revision": {
+    "slide_sha256": "8fd59de1925cfd7a976776b77a10c3daaa4c9727527068a1753faa390839f625",
+    "notes_sha256": "9e9b78e9540190db19493bb2956eb5ae269f4d890dba3aea7b2f4f2cb4cd4fea",
+    "structure": "pass",
+    "rendered": "not_run",
+    "visual_review": "pending"
+  }
+}

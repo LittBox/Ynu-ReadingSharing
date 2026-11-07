@@ -1,0 +1,34 @@
+{
+  "page_id": "practice-takeaway",
+  "input_sha256": "191eb487d8be22e4a75767b19b2e84c503b2bed2612fbd8313b78e8638b6e1e7",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "assessments": [
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L08",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "选择到实践到可能转化有原纲递进依据"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.4,
+      "reason": "不是最终行动"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "不需问题行动分栏"
+    }
+  ],
+  "selected_id": "L08",
+  "selection_reason": "三个等宽节点，保持可能性限定，不许画必然成功路径。",
+  "layout_confirmed": true
+}

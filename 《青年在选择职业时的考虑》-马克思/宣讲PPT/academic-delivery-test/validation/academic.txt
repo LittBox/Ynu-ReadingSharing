@@ -1,0 +1,9 @@
+{
+  "static": "pass",
+  "rendered": "not_run",
+  "visualReview": "pending",
+  "slides": 30,
+  "errors": [],
+  "warnings": [],
+  "scope": "C structure/roles only; run presenter validator and inspect rendered pages separately."
+}

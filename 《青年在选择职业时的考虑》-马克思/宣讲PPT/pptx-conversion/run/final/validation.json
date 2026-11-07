@@ -1,0 +1,16 @@
+{
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+  "deck_manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/deck_manifest.json",
+  "expected_pages": 30,
+  "slides": 30,
+  "page_manifests_missing": [],
+  "page_validation_missing": [],
+  "failed_page_validations": [],
+  "page_contract_violations": [],
+  "notes_expected": 30,
+  "notes_found": 30,
+  "notes_hash_mismatches": [],
+  "missing_parts": [],
+  "warnings": [],
+  "passed": true
+}

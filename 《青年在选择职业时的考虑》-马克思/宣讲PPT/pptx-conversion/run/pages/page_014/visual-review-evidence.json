@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_014",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render/rendered.png",
+      "source_sha256": "6701ca98c2beed9d47d6bdcb7f793649eac91cf7099f51f2d1d0ce6d0ebe0607",
+      "rendered_sha256": "43adecf283ade86ebe734003083d353a3c0534bdd96e6638364b90d8997d75e8",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two evidence screenshots stacked left match source placement; postgraduate and civil-service charts remain separate groups right with wide source spacing.",
+        "text_content": "All years 2024–2026 and counts 438, 388, 343, 303.3, 341.6, 371.8 retained as native text; qualification wording and caution remain unclipped.",
+        "object_completeness": "Six bars and tracks, two screenshots with captions, title, units and original caution are each present; downward and upward chart patterns preserved.",
+        "render_integrity": "Real LibreOffice rendering preserves strong sans hierarchy, text stays within source regions and screenshots do not replace native chart labels.",
+        "raster_assets": "Education Ministry and Xinhua original screenshots retain blue header identity, text content and left-aligned contain geometry without distortion."
+      }
+    }
+  ]
+}

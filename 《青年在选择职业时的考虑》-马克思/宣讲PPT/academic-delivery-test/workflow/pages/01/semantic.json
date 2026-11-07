@@ -1,0 +1,16 @@
+{
+  "page_id": "opening-cover",
+  "input_sha256": "513a89855bb6573105bd794f58f52f4f1bf15ad50e5ba11d3ee98fc1b6e8a314",
+  "rules_sha256": "11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424",
+  "assessments": [
+    {
+      "id": "L01",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "主题介绍与基本信息，无正文论证；复用用户验收封面。"
+    }
+  ],
+  "selected_id": "L01",
+  "selection_reason": "保留样板首页全部几何与文字。",
+  "layout_confirmed": true
+}

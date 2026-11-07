@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_029",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/render/rendered.png",
+      "source_sha256": "9d9f00ab3f4f4fadb239b3cb06db4cfc53831d5aaacdbc1b9f0cd10d7f31252c",
+      "rendered_sha256": "7dc8f48444e4281bc0822e866c8d107cf264989319866f88660d75a232e8c82d",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "arrow_geometry": ""
+      }
+    }
+  ]
+}

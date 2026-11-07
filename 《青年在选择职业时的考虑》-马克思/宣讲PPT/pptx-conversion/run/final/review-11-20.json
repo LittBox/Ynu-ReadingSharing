@@ -1,0 +1,155 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_011",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_011/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_11.png",
+      "source_sha256": "63d6ef39490b68c96caf90d3bb1198bfccebcdced7fc0c5073049d82001eb14e",
+      "rendered_sha256": "58b936c82aff5ae71fc5728d3bd6828fd6510e9160bd9485a4fcfe92fdffb3df",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "News screenshot remains left and the two age-group comparisons right, preserving title, navigation, reading note and footer positions.",
+        "text_content": "Native labels retain 14.9%, 17.9%, 7.1%, 7.2% and age groups; Source Han Sans SC is a clean sans substitute with minor spacing differences and no clipping.",
+        "object_completeness": "All four bar lengths, four gray tracks, all labels and one news screenshot appear once; June fills corrected to source #ad83b5 and July retained purple.",
+        "render_integrity": "Final assembled slide keeps the corrected light-purple June bars and dark-purple July bars, with all four percentages clearly displayed. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "raster_assets": "Original article screenshot retained at measured left-panel bounds with full headline and body; source asset hash is recorded and preserved."
+      }
+    },
+    {
+      "page_id": "page_012",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_012/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_12.png",
+      "source_sha256": "77d8fe060c8940f903e072522d856fd57a58270a18f8ebb5085bc08cff18b14b",
+      "rendered_sha256": "ec2b32551aacccbe28e62375b595bf335ed8da08e45dcd89be7d67768099b5b1",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two source-document panels stay stacked on the left and two bar-chart groups stay on the right with original title/footer hierarchy.",
+        "text_content": "All graduate counts 1179, 1222, 1270 and outcomes 78.93%, 5.52%, 0.72%, 14.83% remain readable native text with intact explanatory footnote.",
+        "object_completeness": "Seven purple bars, seven gray tracks, two source panels, labels and navigation are all present with proportional lengths.",
+        "render_integrity": "Final assembled slide keeps all three graduate counts and four outcome bars, source panels and caution footnote without any overlap. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "raster_assets": "Both original supplied documentary screenshots retain their aspect ratios, left aligned source positions and full content inside separate thin-border panels."
+      }
+    },
+    {
+      "page_id": "page_013",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_13.png",
+      "source_sha256": "cf4429332b29cc2d5c1920488e96e434e4634f8063e5bc64db2d504edc517e50",
+      "rendered_sha256": "118085deb20c1901c061c7222007547db210d23db2e77e393e23c4ec151a2fe9",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two bordered evidence panels remain left; employment-index chart and three change summaries remain right, with matching whitespace and bottom caveat.",
+        "text_content": "Index labels 100, 151.4, 153, 88.1 and changes +51.4%, +53.0%, -11.9% remain intact; Chinese title and caveats fit without clipping.",
+        "object_completeness": "Four purple index bars and gray backgrounds, two original screenshots, chart title, three change lines and recent-observation line are visible once.",
+        "render_integrity": "Final assembled slide keeps the four index bars, three percentage changes and original statistics-bureau screenshots intact. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "raster_assets": "Statistics bureau webpage screenshot and article excerpt remain independent original images; their content and aspect ratios match source panels."
+      }
+    },
+    {
+      "page_id": "page_014",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_14.png",
+      "source_sha256": "6701ca98c2beed9d47d6bdcb7f793649eac91cf7099f51f2d1d0ce6d0ebe0607",
+      "rendered_sha256": "00467cc5e31644a0cd2289467c4ef432345c670f11740d0590391e5421938242",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two evidence screenshots stacked left match source placement; postgraduate and civil-service charts remain separate groups right with wide source spacing.",
+        "text_content": "All years 2024–2026 and counts 438, 388, 343, 303.3, 341.6, 371.8 retained as native text; qualification wording and caution remain unclipped.",
+        "object_completeness": "Six bars and tracks, two screenshots with captions, title, units and original caution are each present; downward and upward chart patterns preserved.",
+        "render_integrity": "Final assembled slide keeps the decreasing postgraduate counts and increasing civil-service qualification counts, with both source screenshots unchanged. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "raster_assets": "Education Ministry and Xinhua original screenshots retain blue header identity, text content and left-aligned contain geometry without distortion."
+      }
+    },
+    {
+      "page_id": "page_015",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_015/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_15.png",
+      "source_sha256": "961013a5523e297ff04adffa2d38bbd8f74ace1e89f5d21f2ab71cb0ad5124f8",
+      "rendered_sha256": "4c993f16e4229f985d7108a99e8da7a9ff0e68af57147fec000a783425dc8792",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Three equal bordered cards with purple header strips match source, retaining central body text and the bottom three-stage takeaway.",
+        "text_content": "All three headings and complete body sentences remain native text with original source line breaks; bottom wording split into three editable phrase spans.",
+        "object_completeness": "Three card frames and headers, numbered labels, body text, title, footer and two progression arrows all appear once.",
+        "render_integrity": "Final assembled slide keeps all three white/purple cards and both right-pointing native connectors between the original takeaway phrases. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "arrow_geometry": "Two thin native connectors at source x266–302 and x484–520, y873 point right between the three phrases; each owns its small triangle head on one object."
+      }
+    },
+    {
+      "page_id": "page_016",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_016/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_16.png",
+      "source_sha256": "c82eac055037898d7b786c9401cf672f42c92eaa8b370c4ce7974b93ab5e4b05",
+      "rendered_sha256": "244d26c170214d6b98bed0824a3b468bd94727f6cdd16355c05294c869f0afd7",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Eight equal career cards remain in two rows of four, with purple title banner and header strips; source spacing and bottom takeaway preserved.",
+        "text_content": "Eight career-direction labels, title, disclaimer and Lucide attribution remain native editable Chinese text and fit their original areas.",
+        "object_completeness": "All eight distinct icons are present once in correct category cards, with eight card frames, headings and complete navigation/footer.",
+        "render_integrity": "Final assembled slide keeps all eight purple source icons in the correct two-row/four-column cards, with matching thin stroke styles. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "raster_assets": "Original SVG paths were normalized with actual source CSS purple #660874 stroke and 1.6 width, correcting first render; all eight shapes, proportions and original positions now match."
+      }
+    },
+    {
+      "page_id": "page_017",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_017/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_17.png",
+      "source_sha256": "7136d984798fa51525f04b00791e0e449e5b46b929235dfdf36f9223f55e0591",
+      "rendered_sha256": "d258e89c42de5cb99c823aad9fc36fe99bebee5413dd8e6c58fcffa459163927",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Large career illustration remains in the left bordered panel; civil-service and state-enterprise entry panels remain stacked on the right.",
+        "text_content": "Title plus 公务员, 事业单位, 选调生, 央企, 地方国企, 国企管培 remain editable with matching hierarchy and source line spacing.",
+        "object_completeness": "One original illustration, two white cards with purple headings, all six entry labels, explanatory caption and disclaimer appear once.",
+        "render_integrity": "Final assembled slide keeps the original illustration at left and both six-entry public-sector/state-enterprise panels at right with no clipping. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "raster_assets": "Original purple public-service/enterprise collaboration illustration is reused unchanged, retains all people and equipment, and matches left source-panel bounds."
+      }
+    },
+    {
+      "page_id": "page_018",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_018/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_18.png",
+      "source_sha256": "3c02b9eb37149c39e9fe43429c83bd3379f97c571228bae3935bbb229d399a43",
+      "rendered_sha256": "03ff3035b05d70447523d71af38eb754bf66f47cfcf8c897b3a87668b129dba1",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two broad equal cards retain source private-enterprise left and foreign-enterprise right placement, centered icons and bottom purple takeaway.",
+        "text_content": "Category headings, industry-leading/growth/startup phrase and management-trainee/technical/regional phrase retain wording as native text without clipping.",
+        "object_completeness": "Briefcase and globe icons appear once in their correct cards; two headers, card outlines, body lines, title and footer are complete.",
+        "render_integrity": "Final assembled slide keeps the briefcase and globe icons purple, body text readable and original equal-width card layout intact. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "raster_assets": "Two original SVG icons normalized with actual purple stroke and 1.6 source width preserve original paths, shape identity and measured placements."
+      }
+    },
+    {
+      "page_id": "page_019",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_019/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_19.png",
+      "source_sha256": "1e11d67eb3400b347a0e8cadf2ee33531d50e1e258b173ae592699a3c46f63a5",
+      "rendered_sha256": "e4086da7a82838f7b87029ce2098456124a548c2b20593f279b70dc0c6c6260e",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Original study/community illustration remains left; two stacked study and grassroots-entry cards preserve right-side layout and purple title hierarchy.",
+        "text_content": "All six entries including 国内考研, 境外申请, 直博/科研助理, 西部计划, 三支一扶, 社区工作者 remain native text with source wording.",
+        "object_completeness": "One complete illustration, two category cards, all six body labels, title, caption and final disclaimer appear once.",
+        "render_integrity": "Final assembled slide keeps the study/community illustration and all six study/grassroots entries with original panel composition intact. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "raster_assets": "Original illustration retains student, books, community meeting and purple visual palette, placed at original aspect ratio inside the measured left panel."
+      }
+    },
+    {
+      "page_id": "page_020",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_020/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_20.png",
+      "source_sha256": "af63fa56463ab899ceed6e27a2a6f722ff0796787cf365eb9aa47b6d6845036f",
+      "rendered_sha256": "2aa71b74bd539e44c55fe79301bb0fdca4b0c470ddcd49ff201f089bcf5770da",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Freelance and military/police entry cards remain side by side with centered icons, purple headings and original bottom takeaway spacing.",
+        "text_content": "Body phrases 内容创作/设计咨询/技术外包 and 军官/士官/公安/消防等 preserve wording; title, takeaway and scope disclaimer remain native and unclipped.",
+        "object_completeness": "Laptop and shield icons, two complete cards, two body lines, title, navigation, takeaway and footer each appear once.",
+        "render_integrity": "Final assembled slide keeps the laptop/shield icons purple, both career-path descriptions and lower purple takeaway fully readable. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+        "raster_assets": "Original laptop and shield SVG paths use source purple #660874 and 1.6 stroke normalization, retaining matching silhouettes and centered positions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": "image2ppt-region-decomposition-report-v1",
+  "passed": true,
+  "pages": [
+    {
+      "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json",
+      "passed": true,
+      "page_complexity": "structured",
+      "region_count": 3,
+      "regions": [
+        {
+          "id": "heading",
+          "strategy": "mixed-reconstruction",
+          "risk_level": "medium",
+          "manifest_object_count": 18,
+          "protected_anchor_count": 9,
+          "compound_diagram": false,
+          "passed": true,
+          "errors": []
+        },
+        {
+          "id": "content",
+          "strategy": "mixed-reconstruction",
+          "risk_level": "medium",
+          "manifest_object_count": 43,
+          "protected_anchor_count": 14,
+          "compound_diagram": false,
+          "passed": true,
+          "errors": []
+        },
+        {
+          "id": "footer",
+          "strategy": "mixed-reconstruction",
+          "risk_level": "medium",
+          "manifest_object_count": 3,
+          "protected_anchor_count": 0,
+          "compound_diagram": false,
+          "passed": true,
+          "errors": []
+        }
+      ],
+      "summary": {
+        "manifest_objects": 64,
+        "assigned_objects": 64,
+        "protected_anchors": 23,
+        "compound_regions": 0
+      },
+      "warnings": [],
+      "errors": []
+    }
+  ],
+  "summary": {
+    "pages": 1,
+    "regions": 3,
+    "compound_regions": 0
+  },
+  "errors": []
+}

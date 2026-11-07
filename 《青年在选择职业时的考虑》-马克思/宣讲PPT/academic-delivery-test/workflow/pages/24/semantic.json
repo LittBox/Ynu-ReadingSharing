@@ -1,0 +1,34 @@
+{
+  "page_id": "capability-evidence",
+  "input_sha256": "d9b9e78d0bc394266589c26c437cf7991cbb3fb5a3d9bcf2b818754b0bfb0779",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "assessments": [
+    {
+      "id": "L02",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "三项误区类别同权横排"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.5,
+      "reason": "不需插图收尾"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0.5,
+      "reason": "三误区对照比问题行动分栏合适"
+    }
+  ],
+  "selected_id": "L02",
+  "selection_reason": "三卡标题为类别，正文保留误区与纠正，底部放使用建议。",
+  "layout_confirmed": true
+}

@@ -1,0 +1,23 @@
+{
+  "page_id": "study-public-exam-trends",
+  "source_page": 14,
+  "text": "### 第 14 页｜升学与体制内热度\n\n- **页面标题**：升学与体制内热度的变化\n- **核心文字**：\n  - 考研报名规模变化\n  - 考公报名规模变化\n  - 一句解读与来源脚注\n- **视觉/版式**：双折线图；不评价“热”的好坏，只呈现选择集中度。\n- **资源**：`assets/postgrad-civil-exam-trend.png`\n- **口播提示**：不评价“热”好坏，只呈现选择集中度。\n",
+  "roles": [
+    {
+      "role": "data",
+      "text": "考研报名／国考资格审查通过",
+      "reason": "两种不同报名口径分别展示"
+    }
+  ],
+  "features": {
+    "purpose": "data",
+    "relation": "comparison",
+    "density": "mixed",
+    "group_count": 2,
+    "evidence": [
+      "source_image",
+      "numeric_data"
+    ]
+  },
+  "retrieval_query": "2024至2026考试年度考研报名438/388/343万人与国考资格审查通过303.3/341.6/371.8万人变化，左两类来源网页截图，右两组三年同500万人量尺。不同口径不能算总人数或相互替代关系。"
+}

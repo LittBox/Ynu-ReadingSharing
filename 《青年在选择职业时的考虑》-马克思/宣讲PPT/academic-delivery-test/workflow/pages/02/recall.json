@@ -1,0 +1,198 @@
+{
+  "page_id": "employment-news",
+  "input_sha256": "dcf8dbd130a15a6116c6e21a13987c4dc9bf32e31ae9aa293c68425dbc07451b",
+  "rules_sha256": "11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424",
+  "embedding": {
+    "model": "Apple NaturalLanguage zh-Hans sentenceEmbedding",
+    "revision": 1,
+    "dimension": 640
+  },
+  "channels": {
+    "keyword": "BM25 over Chinese bigrams/Latin tokens",
+    "vector": "cosine similarity of real Chinese sentence embeddings",
+    "semantic": "pending agent analysis"
+  },
+  "candidates": [
+    {
+      "id": "L04",
+      "family": "C03",
+      "name": "概括与原文证据分栏",
+      "keywords": [
+        "引用",
+        "原文",
+        "批注",
+        "截图",
+        "高亮",
+        "解读",
+        "概括"
+      ],
+      "semantic_description": "一侧列出对原文的若干概括，另一侧保留原始段落截图和出处。概括不是直引，证据图完整呈现文字与高亮，图文占比依据材料容量。",
+      "conditions": {
+        "purposes": [
+          "source_reading"
+        ],
+        "evidence_all": [
+          "source_image"
+        ]
+      },
+      "apply": "概括栏编号清楚、正文左对齐；按文字容量分配栏宽，不固定为窄栏。左右采用共同外边界，首项顶边与首图框顶边对齐、末项底边与末图框底边对齐；同级概括等高分布。保真图contain，来源就近呈现。",
+      "avoid": "禁止重画原文、裁关键内容；不得生成插图替代引用证据。",
+      "keyword_score": 3.32937,
+      "vector_cosine": 0.98173,
+      "keyword_rank": 1,
+      "vector_rank": 2,
+      "recall_rrf": 0.03252247488101534
+    },
+    {
+      "id": "L01",
+      "family": "C01",
+      "name": "封面横幅",
+      "keywords": [
+        "开场",
+        "封面",
+        "题目",
+        "书目",
+        "讲者",
+        "日期",
+        "起点"
+      ],
+      "semantic_description": "讲座首页，主标题置于加高出血横幅；上方留空，无导航、标志或文字。副标题、书目等说明全在横幅下，汇报人及时间用横向浅色圆角信息标签排列。",
+      "conditions": {
+        "purposes": [
+          "cover"
+        ]
+      },
+      "apply": "用于首页或仅感谢聆听等无实质内容的结束页；不得因页码最后就选用。有实质内容的收尾另按内容检索。出血横幅上方留空；下方说明与汇报主题、汇报人、时间分层，三个基本信息标签同级并使用space-between分布，只填已有字段。",
+      "avoid": "不要把此封面横幅规则用于正文观点句。",
+      "keyword_score": 0.0,
+      "vector_cosine": 0.98752,
+      "keyword_rank": 5,
+      "vector_rank": 1,
+      "recall_rrf": 0.03177805800756621
+    },
+    {
+      "id": "L07",
+      "family": "C06",
+      "name": "插图问题与行动卡",
+      "keywords": [
+        "收束",
+        "反思",
+        "问题",
+        "行动",
+        "调整",
+        "探索",
+        "配图"
+      ],
+      "semantic_description": "以一个开放问题回扣主题，并给出两到三项独立行动。左侧相关简约主题插图与问题，右侧等高行动卡，标题条下接说明，问题不填充。",
+      "conditions": {
+        "purposes": [
+          "closing"
+        ],
+        "group_min": 2,
+        "group_max": 3
+      },
+      "apply": "有反思问题、论证或行动等实质内容的收尾页，保留正文导航、透明底问题、左插图右同权行动卡，不套封面横幅。布局确认后复用合适插图，否则按用户风格生成并标示意。即使是样板最后一页也按内容判断。",
+      "avoid": "不把三项行动强行画成必经流程；不能用图取代原问题。",
+      "keyword_score": 2.17668,
+      "vector_cosine": 0.97879,
+      "keyword_rank": 2,
+      "vector_rank": 4,
+      "recall_rrf": 0.031754032258064516
+    },
+    {
+      "id": "L12",
+      "family": "C03",
+      "name": "双证据等权对照",
+      "keywords": [
+        "对照",
+        "两组",
+        "证据",
+        "图像",
+        "比较"
+      ],
+      "semantic_description": "两张同级证据图或两组材料需要直接比较，使用同尺寸图槽和同层级标签，保持比例与来源，解释差异而不制造优先级。",
+      "conditions": {
+        "purposes": [
+          "evidence_comparison"
+        ],
+        "evidence_all": [
+          "source_image"
+        ]
+      },
+      "apply": "图槽同高、原图完整；对照条件必须可比。",
+      "avoid": "不能为了两栏对称裁去关键图文或改变比例。",
+      "keyword_score": 1.5046,
+      "vector_cosine": 0.98068,
+      "keyword_rank": 3,
+      "vector_rank": 3,
+      "recall_rrf": 0.031746031746031744
+    },
+    {
+      "id": "L09",
+      "family": "C02",
+      "name": "总分结构与主次区域",
+      "keywords": [
+        "总分",
+        "主要",
+        "次要",
+        "不对称",
+        "大小",
+        "解释"
+      ],
+      "semantic_description": "一个总述统领多个分项，或已有明确证据支持的主次关系，按论述作用分配不同面积；同级分项仍保持同权。",
+      "conditions": {
+        "relations": [
+          "whole_parts",
+          "priority"
+        ]
+      },
+      "apply": "先说明何处是真正主次，再采用宽窄或上下错落区域。",
+      "avoid": "不把用户偏好不对称解释为每页必须不对称。",
+      "keyword_score": 1.13615,
+      "vector_cosine": 0.97672,
+      "keyword_rank": 4,
+      "vector_rank": 5,
+      "recall_rrf": 0.031009615384615385
+    }
+  ],
+  "excluded": [
+    {
+      "id": "L02",
+      "reasons": [
+        "relation=whole_parts not in ['parallel']",
+        "density=mixed not in ['short']"
+      ]
+    },
+    {
+      "id": "L03",
+      "reasons": [
+        "relation=whole_parts not in ['parallel']"
+      ]
+    },
+    {
+      "id": "L05",
+      "reasons": [
+        "missing evidence numeric_data"
+      ]
+    },
+    {
+      "id": "L06",
+      "reasons": [
+        "missing evidence table"
+      ]
+    },
+    {
+      "id": "L08",
+      "reasons": [
+        "relation=whole_parts not in ['sequence']"
+      ]
+    },
+    {
+      "id": "L10",
+      "reasons": [
+        "relation=whole_parts not in ['causal', 'conditional']"
+      ]
+    }
+  ],
+  "status": "requires_semantic_review"
+}

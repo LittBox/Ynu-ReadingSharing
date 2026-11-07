@@ -1,0 +1,7 @@
+{
+  "action": "capture_source",
+  "source": "国家统计局",
+  "url": "https://www.stats.gov.cn/sj/zxfbhjd/202609/t20260915_1965332.html",
+  "slot": "left 4:3",
+  "reason": "新闻事实需要真实来源，不生成新闻截图。"
+}

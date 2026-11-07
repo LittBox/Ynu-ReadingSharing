@@ -1,0 +1,1175 @@
+{
+  "schema_version": "1.1.0",
+  "collection": "云上书屋宣讲图片资源",
+  "updated_at": "2026-10-17T11:12:37+08:00",
+  "timezone": "Asia/Shanghai",
+  "asset_count": 12,
+  "naming_convention": "ys_img_三位序号_主题描述.原始扩展名",
+  "path_base": "所有relative_path均相对于本JSON所在目录",
+  "management_notes": [
+    "原始文件仅复制并重命名，保留原始格式、像素与字节内容；SHA-256可用于校验与去重。",
+    "资源ID与序号固定；新增资源按下一可用序号追加，避免重用已有ID。",
+    "visible_text_lines记录图片可见文字，不代表已核实的名人语录或原始访谈记录。",
+    "summary、tags、suggested_usage和layout_notes属于整理者的概括与使用建议。",
+    "未确认的信息使用null，避免凭外貌猜测人物身份或凭水印推断版权归属。",
+    "后续裁切或编辑版本应另存文件，并登记所引用的原始资源ID。",
+    "书籍批注资源同时保存截图原行、连续原文和高亮字符范围；未高亮文字作为上下文保留，不以概括替代原文。",
+    "书籍批注图片命名为ys_img_三位序号_原文批注_主题描述.png，延续现有全局序号。",
+    "访谈图片001—005在文件名主题前增加“罗翔鲁豫访谈”场景标识；来源依据用户说明，资源ID保持不变。"
+  ],
+  "assets": [
+    {
+      "id": "ys-img-001",
+      "original_filename": "codex-clipboard-b09a91ed-1525-48e8-b51b-aabcc1c938f0.png",
+      "filename": "ys_img_001_罗翔鲁豫访谈_命运与行动的平衡.png",
+      "title": "命运与行动的平衡",
+      "tags": [
+        "命运",
+        "行动",
+        "中道",
+        "自我责任",
+        "访谈",
+        "字幕拼接",
+        "罗翔",
+        "鲁豫",
+        "罗翔鲁豫访谈"
+      ],
+      "summary": "讨论如何在承认命运不可预测与主动尽责之间寻找平衡。",
+      "visible_text_lines": [
+        "我从来认为人不可能狂妄到",
+        "觉得自己可以改变命运",
+        "但是人又不能够消极",
+        "一味等待天上掉馅饼",
+        "我们要在两者之间",
+        "寻找合乎中道的平衡",
+        "既要相信命运的神秘莫测",
+        "同时也要相信自己",
+        "尽好自己的本分"
+      ],
+      "visual_details": {
+        "subjects": "一位戴眼镜、穿灰米色开衫的人物坐在麦克风前。",
+        "setting": "罗翔与鲁豫的室内访谈场景，人物面对麦克风交谈，背景为棕色陈设与暖黄色灯光。",
+        "composition": "竖向手机截图；上方为人物半身主画面，下方叠接多个字幕画面条带。",
+        "palette": [
+          "黑色",
+          "棕色",
+          "灰米色",
+          "暖黄色",
+          "白色"
+        ],
+        "text_style": "白色中文字幕，位于人物画面下半部和拼接条带中。",
+        "borders_and_ui": "顶部与底部有大面积黑边；底部有手机手势横条。",
+        "watermark_text": [],
+        "quality_notes": [
+          "原图为手机长截图，黑边占用较多空间。",
+          "字幕区存在明显重复条带拼接。"
+        ],
+        "subject_context": "罗翔与鲁豫访谈中的人物画面；节目参与者由用户说明，保留原有外观描述。"
+      },
+      "suggested_usage": [
+        "行动与不确定性主题页",
+        "个人责任或结尾反思页"
+      ],
+      "layout_notes": [
+        "适合侧栏配图；整图放入横版PPT时字幕可能偏小。",
+        "如后续制作裁切版本，应单独保存，并保留当前原图。"
+      ],
+      "file": {
+        "relative_path": "ys_img_001_罗翔鲁豫访谈_命运与行动的平衡.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1125,
+        "height_px": 2436,
+        "aspect_ratio_width_over_height": 0.461823,
+        "orientation": "portrait",
+        "color_mode": "RGBA",
+        "size_bytes": 1859089,
+        "sha256": "07b856b37b9a45934d4d3ca5235a328fccb4ee4da4ec372de7b0156c9b273bf9"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 1,
+        "source_url": null,
+        "original_program": "罗翔与鲁豫的访谈节目（具体节目名称及期数未提供）",
+        "people_identity": null,
+        "original_publication_date": null,
+        "platform_clue": null,
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "访谈来源由用户说明；具体节目名称、期数、原始链接及图片文字与节目音频的一致性尚未核验。",
+        "program_participants": [
+          "罗翔",
+          "鲁豫"
+        ],
+        "attribution_basis": "用户提供：这些图片来源于罗翔与鲁豫的访谈节目。"
+      },
+      "transcription_method": "人工读图；按视觉顺序逐行记录，保留可见原文",
+      "asset_type": "访谈画面字幕拼接图",
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      },
+      "scene": "罗翔与鲁豫的访谈节目对谈场景"
+    },
+    {
+      "id": "ys-img-002",
+      "original_filename": "codex-clipboard-a02d35aa-cb75-4b53-8854-8615da2cea30.jpg",
+      "filename": "ys_img_002_罗翔鲁豫访谈_谋生谋道与赋予价值.jpg",
+      "title": "谋生谋道与赋予价值",
+      "tags": [
+        "谋生",
+        "谋道",
+        "价值",
+        "坚持",
+        "职业选择",
+        "访谈",
+        "字幕拼接",
+        "罗翔",
+        "鲁豫",
+        "罗翔鲁豫访谈"
+      ],
+      "summary": "围绕谋生与谋道的平衡，以及为长期坚持的事情赋予价值展开。",
+      "visible_text_lines": [
+        "在谋生和谋道中寻找平衡",
+        "这些东西都是最难的",
+        "后来你就慢慢地你要赋予它价值",
+        "因为如果你要坚持一件事情",
+        "你一定要赋予它价值",
+        "否则你是非常痛苦的"
+      ],
+      "visual_details": {
+        "subjects": "一位戴眼镜、穿灰米色开衫的人物在麦克风前说话并做手势。",
+        "setting": "罗翔与鲁豫的室内访谈场景，人物面对麦克风交谈，背景为棕色陈设与暖黄色灯光。",
+        "composition": "竖幅；上部为半身人物，下部为多个横向字幕画面条带。",
+        "palette": [
+          "棕色",
+          "灰米色",
+          "暖黄色",
+          "黑色",
+          "白色"
+        ],
+        "text_style": "白色中文字幕，居中排列在各拼接条带上。",
+        "borders_and_ui": "没有明显手机系统界面或大面积黑边。",
+        "watermark_text": [
+          "小红书",
+          "rednote ID: 601493323"
+        ],
+        "quality_notes": [
+          "下半部为重复画面拼接。",
+          "人物和字幕略有柔化，右下角有平台水印。"
+        ],
+        "subject_context": "罗翔与鲁豫访谈中的人物画面；节目参与者由用户说明，保留原有外观描述。"
+      },
+      "suggested_usage": [
+        "职业选择与价值追求页",
+        "长期坚持的动机页"
+      ],
+      "layout_notes": [
+        "适合竖幅配图与左文右图版式。",
+        "引用时保留原字幕语义与来源线索。"
+      ],
+      "file": {
+        "relative_path": "ys_img_002_罗翔鲁豫访谈_谋生谋道与赋予价值.jpg",
+        "format": "JPEG",
+        "mime_type": "image/jpeg",
+        "width_px": 1440,
+        "height_px": 1920,
+        "aspect_ratio_width_over_height": 0.75,
+        "orientation": "portrait",
+        "color_mode": "RGB",
+        "size_bytes": 287731,
+        "sha256": "152b11b9db72d3a12b09bb1b7630445eeeb2f7ef77c90420c1e8f7c93945f3a1"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 2,
+        "source_url": null,
+        "original_program": "罗翔与鲁豫的访谈节目（具体节目名称及期数未提供）",
+        "people_identity": null,
+        "original_publication_date": null,
+        "platform_clue": "小红书（仅依据可见水印）",
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "访谈来源由用户说明；具体节目名称、期数、原始链接及图片文字与节目音频的一致性尚未核验。",
+        "program_participants": [
+          "罗翔",
+          "鲁豫"
+        ],
+        "attribution_basis": "用户提供：这些图片来源于罗翔与鲁豫的访谈节目。"
+      },
+      "transcription_method": "人工读图；按视觉顺序逐行记录，保留可见原文",
+      "asset_type": "访谈画面字幕拼接图",
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      },
+      "scene": "罗翔与鲁豫的访谈节目对谈场景"
+    },
+    {
+      "id": "ys-img-003",
+      "original_filename": "codex-clipboard-ded26f9b-1c8f-41c3-9b29-26112e06ca1f.jpg",
+      "filename": "ys_img_003_罗翔鲁豫访谈_向内求与泰然若素.jpg",
+      "title": "向内求与泰然若素",
+      "tags": [
+        "改变自己",
+        "向内求",
+        "成功",
+        "生命",
+        "泰然若素",
+        "访谈",
+        "字幕拼接",
+        "罗翔",
+        "鲁豫",
+        "罗翔鲁豫访谈"
+      ],
+      "summary": "强调改变自己、向内求，并将成功或生命的绽放联系到内在的泰然若素。",
+      "visible_text_lines": [
+        "最重要的是改变自己",
+        "而不是改变别人",
+        "最重要的是向内求",
+        "而不是向外显",
+        "就是我真正意味上的成功",
+        "或者说生命的绽放",
+        "是能够做到一种",
+        "内在的一种泰然若素"
+      ],
+      "visual_details": {
+        "subjects": "主画面人物戴眼镜、穿灰米色开衫，双手置于胸前附近；部分下方条带出现蓝色连帽衫。",
+        "setting": "罗翔与鲁豫的室内访谈场景，人物面对麦克风交谈，背景为棕色陈设与暖黄色灯光。",
+        "composition": "竖幅；上方是人物主画面，下方多条字幕画面混合拼接。",
+        "palette": [
+          "灰米色",
+          "棕色",
+          "暖黄色",
+          "蓝色",
+          "黑色",
+          "白色"
+        ],
+        "text_style": "白色中文字幕，各行分布在独立的横向画面条带上。",
+        "borders_and_ui": "没有明显手机系统界面或大面积黑边。",
+        "watermark_text": [
+          "小红书",
+          "rednote ID: 601493323"
+        ],
+        "quality_notes": [
+          "拼接区包含不同人物画面的局部，不能据此判定每行字幕的实际说话者。",
+          "右下角有平台水印。"
+        ],
+        "subject_context": "罗翔与鲁豫访谈中的人物画面；节目参与者由用户说明，保留原有外观描述。"
+      },
+      "transcription_notes": [
+        "按图保留“意味”“向外显”“泰然若素”，未按常见表达改写；字幕是否准确对应原始音频未核验。"
+      ],
+      "suggested_usage": [
+        "自我成长与反思页",
+        "成功观或内在价值页"
+      ],
+      "layout_notes": [
+        "适合竖幅配图；引用字幕时避免将所有条带直接归于同一人物。"
+      ],
+      "file": {
+        "relative_path": "ys_img_003_罗翔鲁豫访谈_向内求与泰然若素.jpg",
+        "format": "JPEG",
+        "mime_type": "image/jpeg",
+        "width_px": 1440,
+        "height_px": 1920,
+        "aspect_ratio_width_over_height": 0.75,
+        "orientation": "portrait",
+        "color_mode": "RGB",
+        "size_bytes": 322845,
+        "sha256": "5af063f1d30ff11e87b26a832de60e8b634951faabd1b0e1fc267f18c563cf55"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 3,
+        "source_url": null,
+        "original_program": "罗翔与鲁豫的访谈节目（具体节目名称及期数未提供）",
+        "people_identity": null,
+        "original_publication_date": null,
+        "platform_clue": "小红书（仅依据可见水印）",
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "访谈来源由用户说明；具体节目名称、期数、原始链接及图片文字与节目音频的一致性尚未核验。",
+        "program_participants": [
+          "罗翔",
+          "鲁豫"
+        ],
+        "attribution_basis": "用户提供：这些图片来源于罗翔与鲁豫的访谈节目。"
+      },
+      "transcription_method": "人工读图；按视觉顺序逐行记录，保留可见原文",
+      "asset_type": "访谈画面字幕拼接图",
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      },
+      "scene": "罗翔与鲁豫的访谈节目对谈场景"
+    },
+    {
+      "id": "ys-img-004",
+      "original_filename": "codex-clipboard-a0ba7e71-579c-45ce-b0b0-c9118c227cce.png",
+      "filename": "ys_img_004_罗翔鲁豫访谈_长期眼光与选择价值.png",
+      "title": "长期眼光与选择价值",
+      "tags": [
+        "长期主义",
+        "职业选择",
+        "未来",
+        "焦虑",
+        "功利标准",
+        "访谈",
+        "字幕拼接",
+        "罗翔",
+        "鲁豫",
+        "罗翔鲁豫访谈"
+      ],
+      "summary": "拉长观察时间，不因眼前的低估与冷落否定选择的未来价值。",
+      "visible_text_lines": [
+        "三十年河东",
+        "三十年河西",
+        "现在被低估、被冷落的选择",
+        "不代表没有未来",
+        "只是时机未到",
+        "人不必被当下的功利标准困住",
+        "眼光拉长到五年、十年",
+        "很多焦虑，自然迎刃而解"
+      ],
+      "visual_details": {
+        "subjects": "一位留齐刘海短发、穿蓝色图案连帽衫的人物坐在白色座椅上，旁边有黑色麦克风。",
+        "setting": "罗翔与鲁豫的室内访谈场景，人物面对麦克风交谈，背景为棕色陈设与暖黄色灯光。",
+        "composition": "接近方形的竖幅；上部为人物，下部为重复拼接条带及大字号文字。",
+        "palette": [
+          "蓝色",
+          "棕色",
+          "暖黄色",
+          "白色",
+          "黑色"
+        ],
+        "text_style": "白色大字号中文，居中覆盖人物与拼接条带。",
+        "incidental_text": [
+          "衣服上可见“NEW YORK”字样，局部被叠字遮挡。"
+        ],
+        "borders_and_ui": "没有明显手机系统界面或黑边。",
+        "watermark_text": [],
+        "quality_notes": [
+          "大字号文字覆盖人物下半部。",
+          "叠加文案是否为原始访谈逐字字幕尚未核验。"
+        ],
+        "subject_context": "罗翔与鲁豫访谈中的人物画面；节目参与者由用户说明，保留原有外观描述。"
+      },
+      "suggested_usage": [
+        "职业选择与长期视角页",
+        "缓解选择焦虑的讨论页"
+      ],
+      "layout_notes": [
+        "接近方形，适合双栏排版。",
+        "作为图片文案使用；未核验前不标注为画中人物的原话。"
+      ],
+      "file": {
+        "relative_path": "ys_img_004_罗翔鲁豫访谈_长期眼光与选择价值.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1121,
+        "height_px": 1192,
+        "aspect_ratio_width_over_height": 0.940436,
+        "orientation": "portrait",
+        "color_mode": "RGBA",
+        "size_bytes": 1626915,
+        "sha256": "0fad69c07b6520c503d868761a02c3cde0352d45eb8b9dbc16167641e60d7b5f"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 4,
+        "source_url": null,
+        "original_program": "罗翔与鲁豫的访谈节目（具体节目名称及期数未提供）",
+        "people_identity": null,
+        "original_publication_date": null,
+        "platform_clue": null,
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "访谈来源由用户说明；具体节目名称、期数、原始链接及图片文字与节目音频的一致性尚未核验。",
+        "program_participants": [
+          "罗翔",
+          "鲁豫"
+        ],
+        "attribution_basis": "用户提供：这些图片来源于罗翔与鲁豫的访谈节目。"
+      },
+      "transcription_method": "人工读图；按视觉顺序逐行记录，保留可见原文",
+      "asset_type": "访谈画面字幕拼接图",
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      },
+      "scene": "罗翔与鲁豫的访谈节目对谈场景"
+    },
+    {
+      "id": "ys-img-005",
+      "original_filename": "codex-clipboard-3a82cc4b-d17b-421e-9b45-82719a9632ba.png",
+      "filename": "ys_img_005_罗翔鲁豫访谈_未知天命中尽力而为.png",
+      "title": "未知天命中尽力而为",
+      "tags": [
+        "天命",
+        "不确定性",
+        "尽力而为",
+        "行动",
+        "访谈",
+        "字幕拼接",
+        "罗翔",
+        "鲁豫",
+        "罗翔鲁豫访谈"
+      ],
+      "summary": "讨论人可能始终无法明确天命，但仍可在未知中尽力而为。",
+      "visible_text_lines": [
+        "天命会逐渐地给你揭示",
+        "但是也许终其一生",
+        "到生命的终点",
+        "你都不知道天命具体是什么",
+        "你只能够",
+        "在神秘的天命中 尽力而为"
+      ],
+      "visual_details": {
+        "subjects": "一位戴眼镜、穿灰米色开衫的人物坐在麦克风前，麦克风支架从画面左侧伸入。",
+        "setting": "罗翔与鲁豫的室内访谈场景，人物面对麦克风交谈，背景为棕色陈设与暖黄色灯光。",
+        "composition": "横幅；人物偏右，左侧支架形成斜线，下半部为字幕画面拼接条带。",
+        "palette": [
+          "棕色",
+          "灰米色",
+          "暖黄色",
+          "黑色",
+          "白色"
+        ],
+        "text_style": "白色中文配黑色描边，居中排列。",
+        "borders_and_ui": "没有明显手机系统界面或大面积黑边。",
+        "watermark_text": [],
+        "quality_notes": [
+          "字幕描边较强、对比清晰。",
+          "下半部存在重复条带拼接；画幅并非16:9。"
+        ],
+        "subject_context": "罗翔与鲁豫访谈中的人物画面；节目参与者由用户说明，保留原有外观描述。"
+      },
+      "suggested_usage": [
+        "面对不确定性的行动页",
+        "结束语或讨论引导页"
+      ],
+      "layout_notes": [
+        "横幅适合横版PPT中的图片卡片，但不宜直接拉伸到16:9。"
+      ],
+      "file": {
+        "relative_path": "ys_img_005_罗翔鲁豫访谈_未知天命中尽力而为.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1121,
+        "height_px": 796,
+        "aspect_ratio_width_over_height": 1.408291,
+        "orientation": "landscape",
+        "color_mode": "RGBA",
+        "size_bytes": 1035267,
+        "sha256": "54d2b7844ca9f30e4be6bec6328a9db64f5b2fddb87bbe118bb0478ae182796e"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 5,
+        "source_url": null,
+        "original_program": "罗翔与鲁豫的访谈节目（具体节目名称及期数未提供）",
+        "people_identity": null,
+        "original_publication_date": null,
+        "platform_clue": null,
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "访谈来源由用户说明；具体节目名称、期数、原始链接及图片文字与节目音频的一致性尚未核验。",
+        "program_participants": [
+          "罗翔",
+          "鲁豫"
+        ],
+        "attribution_basis": "用户提供：这些图片来源于罗翔与鲁豫的访谈节目。"
+      },
+      "transcription_method": "人工读图；按视觉顺序逐行记录，保留可见原文",
+      "asset_type": "访谈画面字幕拼接图",
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      },
+      "scene": "罗翔与鲁豫的访谈节目对谈场景"
+    },
+    {
+      "id": "ys-img-006",
+      "original_filename": "codex-clipboard-7288de61-eaaf-404a-8217-3e6fcb90ec18.png",
+      "filename": "ys_img_006_原文批注_职业炫耀与热情消退.png",
+      "title": "职业炫耀与热情消退",
+      "asset_type": "书籍段落高亮批注截图",
+      "batch_id": "book-excerpts-2026-10-17-01",
+      "tags": [
+        "书籍原文",
+        "段落批注",
+        "黄色高亮",
+        "职业选择",
+        "炫耀",
+        "热情",
+        "愿望",
+        "理想"
+      ],
+      "visible_text_lines": [
+        "我们的使命决不是求得一个最足以炫耀的职业，因为它不是那种可能由我们长期从",
+        "事，但始终不会使我们感到厌倦、始终不会使我们劲头低落、始终不会使我们的热情冷却",
+        "的职业，相反，我们很快就会觉得，我们的愿望没有得到满足，我们的理想没有实现，我",
+        "们就将怨天尤人。"
+      ],
+      "raw_text": "我们的使命决不是求得一个最足以炫耀的职业，因为它不是那种可能由我们长期从事，但始终不会使我们感到厌倦、始终不会使我们劲头低落、始终不会使我们的热情冷却的职业，相反，我们很快就会觉得，我们的愿望没有得到满足，我们的理想没有实现，我们就将怨天尤人。",
+      "transcription_method": "人工读图；visible_text_lines保留截图换行，raw_text仅合并视觉换行，不改写措辞",
+      "transcription_notes": [
+        "记录的是截图中可见的中文文本，未与原书版本或译文逐字校对。",
+        "title和tags为管理用途，不属于书籍原文。"
+      ],
+      "annotations": {
+        "type": "highlight",
+        "color": "黄色",
+        "coverage": "partial",
+        "description": "部分高亮：从第二行“但始终”至末尾；开头的使命与职业判断保留白底。",
+        "offset_convention": "针对raw_text的Unicode字符索引，从0开始，start包含、end不包含",
+        "highlighted_spans": [
+          {
+            "text": "但始终不会使我们感到厌倦、始终不会使我们劲头低落、始终不会使我们的热情冷却的职业，相反，我们很快就会觉得，我们的愿望没有得到满足，我们的理想没有实现，我们就将怨天尤人。",
+            "start": 38,
+            "end": 122
+          }
+        ],
+        "unhighlighted_context": {
+          "before": "我们的使命决不是求得一个最足以炫耀的职业，因为它不是那种可能由我们长期从事，",
+          "after": ""
+        },
+        "handwritten_notes": null
+      },
+      "visual_details": {
+        "composition": "横向窄幅段落截图，共4行正文，白底黑字。",
+        "palette": [
+          "白色",
+          "黑色",
+          "黄色"
+        ],
+        "text_style": "黑色中文印刷体，黄色矩形高亮覆盖选中正文。",
+        "borders_and_ui": "无可见阅读器界面、页码、书名或章节标题。",
+        "watermark_text": [],
+        "quality_notes": [
+          "文字清晰，截图换行可能切分词语。",
+          "仅保留局部段落，段落外上下文未显示。"
+        ]
+      },
+      "file": {
+        "relative_path": "ys_img_006_原文批注_职业炫耀与热情消退.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1100,
+        "height_px": 214,
+        "aspect_ratio_width_over_height": 5.140187,
+        "orientation": "landscape",
+        "color_mode": "RGBA",
+        "size_bytes": 104358,
+        "sha256": "a8fe6f85f6a954a9aae599f26dae7ad08fdb7d051be4c0f08b3004ce5993b52d"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 1,
+        "source_url": null,
+        "book_title": null,
+        "author": null,
+        "edition": null,
+        "translator": null,
+        "page_number": null,
+        "contextual_candidate_title": "青年在选择职业时的考虑",
+        "candidate_basis": "当前项目已有同名阅读材料，截图主题亦为职业选择；仅作待核验线索，图片本身未显示书名。",
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "已读图登记原文和高亮范围；原书出处、版本及页码尚未核验"
+      },
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      }
+    },
+    {
+      "id": "ys-img-007",
+      "original_filename": "codex-clipboard-f3637e67-92ad-474f-a9fb-39d6e330ab7c.png",
+      "filename": "ys_img_007_原文批注_冷静考察与职业热爱.png",
+      "title": "冷静考察与职业热爱",
+      "asset_type": "书籍段落高亮批注截图",
+      "batch_id": "book-excerpts-2026-10-17-01",
+      "tags": [
+        "书籍原文",
+        "段落批注",
+        "黄色高亮",
+        "职业选择",
+        "冷静考察",
+        "困难",
+        "热情",
+        "适合"
+      ],
+      "visible_text_lines": [
+        "如果我们经过冷静的考察，认清了所选择的职业的全部分量，了解它的困难以后，仍",
+        "然对它充满热情，仍然爱它，觉得自己适合于它，那时我们就可以选择它，那时我们既不",
+        "会受热情的欺骗，也不会仓促从事。"
+      ],
+      "raw_text": "如果我们经过冷静的考察，认清了所选择的职业的全部分量，了解它的困难以后，仍然对它充满热情，仍然爱它，觉得自己适合于它，那时我们就可以选择它，那时我们既不会受热情的欺骗，也不会仓促从事。",
+      "transcription_method": "人工读图；visible_text_lines保留截图换行，raw_text仅合并视觉换行，不改写措辞",
+      "transcription_notes": [
+        "记录的是截图中可见的中文文本，未与原书版本或译文逐字校对。",
+        "title和tags为管理用途，不属于书籍原文。"
+      ],
+      "annotations": {
+        "type": "highlight",
+        "color": "黄色",
+        "coverage": "full",
+        "description": "全部可见正文均以黄色高亮。",
+        "offset_convention": "针对raw_text的Unicode字符索引，从0开始，start包含、end不包含",
+        "highlighted_spans": [
+          {
+            "text": "如果我们经过冷静的考察，认清了所选择的职业的全部分量，了解它的困难以后，仍然对它充满热情，仍然爱它，觉得自己适合于它，那时我们就可以选择它，那时我们既不会受热情的欺骗，也不会仓促从事。",
+            "start": 0,
+            "end": 92
+          }
+        ],
+        "unhighlighted_context": {
+          "before": "",
+          "after": ""
+        },
+        "handwritten_notes": null
+      },
+      "visual_details": {
+        "composition": "横向窄幅段落截图，共3行正文，白底黑字。",
+        "palette": [
+          "白色",
+          "黑色",
+          "黄色"
+        ],
+        "text_style": "黑色中文印刷体，黄色矩形高亮覆盖选中正文。",
+        "borders_and_ui": "无可见阅读器界面、页码、书名或章节标题。",
+        "watermark_text": [],
+        "quality_notes": [
+          "文字清晰，截图换行可能切分词语。",
+          "仅保留局部段落，段落外上下文未显示。"
+        ]
+      },
+      "file": {
+        "relative_path": "ys_img_007_原文批注_冷静考察与职业热爱.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1268,
+        "height_px": 192,
+        "aspect_ratio_width_over_height": 6.604167,
+        "orientation": "landscape",
+        "color_mode": "RGBA",
+        "size_bytes": 59274,
+        "sha256": "a4908efe229099fa9b067f3c1876968354208c6b2ab666c9e30e6848a24a9d43"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 2,
+        "source_url": null,
+        "book_title": null,
+        "author": null,
+        "edition": null,
+        "translator": null,
+        "page_number": null,
+        "contextual_candidate_title": "青年在选择职业时的考虑",
+        "candidate_basis": "当前项目已有同名阅读材料，截图主题亦为职业选择；仅作待核验线索，图片本身未显示书名。",
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "已读图登记原文和高亮范围；原书出处、版本及页码尚未核验"
+      },
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      }
+    },
+    {
+      "id": "ys-img-008",
+      "original_filename": "codex-clipboard-f46b6aef-b41e-4961-b4ef-04a8763c6ffe.png",
+      "filename": "ys_img_008_原文批注_职业选择与社会关系约束.png",
+      "title": "职业选择与社会关系约束",
+      "asset_type": "书籍段落高亮批注截图",
+      "batch_id": "book-excerpts-2026-10-17-01",
+      "tags": [
+        "书籍原文",
+        "段落批注",
+        "黄色高亮",
+        "职业选择",
+        "社会关系",
+        "现实条件",
+        "约束"
+      ],
+      "visible_text_lines": [
+        "但是，我们并不总是能够选择我们自认为适合的职业；我们在社会上的关系，还在我",
+        "们有能力决定它们以前就已经在某种程度上开始确立了。"
+      ],
+      "raw_text": "但是，我们并不总是能够选择我们自认为适合的职业；我们在社会上的关系，还在我们有能力决定它们以前就已经在某种程度上开始确立了。",
+      "transcription_method": "人工读图；visible_text_lines保留截图换行，raw_text仅合并视觉换行，不改写措辞",
+      "transcription_notes": [
+        "记录的是截图中可见的中文文本，未与原书版本或译文逐字校对。",
+        "title和tags为管理用途，不属于书籍原文。"
+      ],
+      "annotations": {
+        "type": "highlight",
+        "color": "黄色",
+        "coverage": "partial",
+        "description": "仅第一句至分号高亮；其后的社会关系说明保留白底。",
+        "offset_convention": "针对raw_text的Unicode字符索引，从0开始，start包含、end不包含",
+        "highlighted_spans": [
+          {
+            "text": "但是，我们并不总是能够选择我们自认为适合的职业；",
+            "start": 0,
+            "end": 24
+          }
+        ],
+        "unhighlighted_context": {
+          "before": "",
+          "after": "我们在社会上的关系，还在我们有能力决定它们以前就已经在某种程度上开始确立了。"
+        },
+        "handwritten_notes": null
+      },
+      "visual_details": {
+        "composition": "横向窄幅段落截图，共2行正文，白底黑字。",
+        "palette": [
+          "白色",
+          "黑色",
+          "黄色"
+        ],
+        "text_style": "黑色中文印刷体，黄色矩形高亮覆盖选中正文。",
+        "borders_and_ui": "无可见阅读器界面、页码、书名或章节标题。",
+        "watermark_text": [],
+        "quality_notes": [
+          "文字清晰，截图换行可能切分词语。",
+          "仅保留局部段落，段落外上下文未显示。"
+        ]
+      },
+      "file": {
+        "relative_path": "ys_img_008_原文批注_职业选择与社会关系约束.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1132,
+        "height_px": 114,
+        "aspect_ratio_width_over_height": 9.929825,
+        "orientation": "landscape",
+        "color_mode": "RGBA",
+        "size_bytes": 41384,
+        "sha256": "39d737d48c1c73bce64fa5ef5394e08c88fd8e1a9cfbc67aa61fc7cc2af08450"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 3,
+        "source_url": null,
+        "book_title": null,
+        "author": null,
+        "edition": null,
+        "translator": null,
+        "page_number": null,
+        "contextual_candidate_title": "青年在选择职业时的考虑",
+        "candidate_basis": "当前项目已有同名阅读材料，截图主题亦为职业选择；仅作待核验线索，图片本身未显示书名。",
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "已读图登记原文和高亮范围；原书出处、版本及页码尚未核验"
+      },
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      }
+    },
+    {
+      "id": "ys-img-009",
+      "original_filename": "codex-clipboard-8337fcc5-abae-451f-901a-4b6d901a73d5.png",
+      "filename": "ys_img_009_原文批注_人类幸福与自身完善.png",
+      "title": "人类幸福与自身完善",
+      "asset_type": "书籍段落高亮批注截图",
+      "batch_id": "book-excerpts-2026-10-17-01",
+      "tags": [
+        "书籍原文",
+        "段落批注",
+        "黄色高亮",
+        "职业选择",
+        "人类幸福",
+        "自身完善",
+        "公共利益",
+        "个人成长"
+      ],
+      "visible_text_lines": [
+        "在选择职业时，我们应该遵守的主要指针是人类的幸福和我们自身的完善。不应认",
+        "为，这两种利益会彼此敌对、互相冲突，一种利益必定消灭另一种利益；相反，人的本性",
+        "是这样的：人只有为同时代人的完美、为他们的幸福而工作，自己才能达到完美。"
+      ],
+      "raw_text": "在选择职业时，我们应该遵守的主要指针是人类的幸福和我们自身的完善。不应认为，这两种利益会彼此敌对、互相冲突，一种利益必定消灭另一种利益；相反，人的本性是这样的：人只有为同时代人的完美、为他们的幸福而工作，自己才能达到完美。",
+      "transcription_method": "人工读图；visible_text_lines保留截图换行，raw_text仅合并视觉换行，不改写措辞",
+      "transcription_notes": [
+        "记录的是截图中可见的中文文本，未与原书版本或译文逐字校对。",
+        "title和tags为管理用途，不属于书籍原文。"
+      ],
+      "annotations": {
+        "type": "highlight",
+        "color": "黄色",
+        "coverage": "partial",
+        "description": "从开头至“另一种利益；”高亮；“相反”及其后解释保留白底。",
+        "offset_convention": "针对raw_text的Unicode字符索引，从0开始，start包含、end不包含",
+        "highlighted_spans": [
+          {
+            "text": "在选择职业时，我们应该遵守的主要指针是人类的幸福和我们自身的完善。不应认为，这两种利益会彼此敌对、互相冲突，一种利益必定消灭另一种利益；",
+            "start": 0,
+            "end": 68
+          }
+        ],
+        "unhighlighted_context": {
+          "before": "",
+          "after": "相反，人的本性是这样的：人只有为同时代人的完美、为他们的幸福而工作，自己才能达到完美。"
+        },
+        "handwritten_notes": null
+      },
+      "visual_details": {
+        "composition": "横向窄幅段落截图，共3行正文，白底黑字。",
+        "palette": [
+          "白色",
+          "黑色",
+          "黄色"
+        ],
+        "text_style": "黑色中文印刷体，黄色矩形高亮覆盖选中正文。",
+        "borders_and_ui": "无可见阅读器界面、页码、书名或章节标题。",
+        "watermark_text": [],
+        "quality_notes": [
+          "文字清晰，截图换行可能切分词语。",
+          "仅保留局部段落，段落外上下文未显示。"
+        ]
+      },
+      "file": {
+        "relative_path": "ys_img_009_原文批注_人类幸福与自身完善.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1138,
+        "height_px": 178,
+        "aspect_ratio_width_over_height": 6.393258,
+        "orientation": "landscape",
+        "color_mode": "RGBA",
+        "size_bytes": 64436,
+        "sha256": "68a7747be343f0081ce4964bc571c3f43ac561bd0dc99801615670855c50d926"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 4,
+        "source_url": null,
+        "book_title": null,
+        "author": null,
+        "edition": null,
+        "translator": null,
+        "page_number": null,
+        "contextual_candidate_title": "青年在选择职业时的考虑",
+        "candidate_basis": "当前项目已有同名阅读材料，截图主题亦为职业选择；仅作待核验线索，图片本身未显示书名。",
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "已读图登记原文和高亮范围；原书出处、版本及页码尚未核验"
+      },
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      }
+    },
+    {
+      "id": "ys-img-010",
+      "original_filename": "codex-clipboard-f5794391-90e1-45e2-88a9-1642cddadfe5.png",
+      "filename": "ys_img_010_原文批注_个人劳动与伟大人格.png",
+      "title": "个人劳动与伟大人格",
+      "asset_type": "书籍段落高亮批注截图",
+      "batch_id": "book-excerpts-2026-10-17-01",
+      "tags": [
+        "书籍原文",
+        "段落批注",
+        "黄色高亮",
+        "劳动",
+        "自我",
+        "完美",
+        "伟大人格"
+      ],
+      "visible_text_lines": [
+        "如果一个人只为自己劳动，他也许能够成为著名的学者、伟大的哲人、卓越的诗人，",
+        "然而他永远不能成为完美的、真正伟大的人物。"
+      ],
+      "raw_text": "如果一个人只为自己劳动，他也许能够成为著名的学者、伟大的哲人、卓越的诗人，然而他永远不能成为完美的、真正伟大的人物。",
+      "transcription_method": "人工读图；visible_text_lines保留截图换行，raw_text仅合并视觉换行，不改写措辞",
+      "transcription_notes": [
+        "记录的是截图中可见的中文文本，未与原书版本或译文逐字校对。",
+        "title和tags为管理用途，不属于书籍原文。"
+      ],
+      "annotations": {
+        "type": "highlight",
+        "color": "黄色",
+        "coverage": "full",
+        "description": "全部可见正文均以黄色高亮。",
+        "offset_convention": "针对raw_text的Unicode字符索引，从0开始，start包含、end不包含",
+        "highlighted_spans": [
+          {
+            "text": "如果一个人只为自己劳动，他也许能够成为著名的学者、伟大的哲人、卓越的诗人，然而他永远不能成为完美的、真正伟大的人物。",
+            "start": 0,
+            "end": 58
+          }
+        ],
+        "unhighlighted_context": {
+          "before": "",
+          "after": ""
+        },
+        "handwritten_notes": null
+      },
+      "visual_details": {
+        "composition": "横向窄幅段落截图，共2行正文，白底黑字。",
+        "palette": [
+          "白色",
+          "黑色",
+          "黄色"
+        ],
+        "text_style": "黑色中文印刷体，黄色矩形高亮覆盖选中正文。",
+        "borders_and_ui": "无可见阅读器界面、页码、书名或章节标题。",
+        "watermark_text": [],
+        "quality_notes": [
+          "文字清晰，截图换行可能切分词语。",
+          "仅保留局部段落，段落外上下文未显示。"
+        ]
+      },
+      "file": {
+        "relative_path": "ys_img_010_原文批注_个人劳动与伟大人格.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1130,
+        "height_px": 100,
+        "aspect_ratio_width_over_height": 11.3,
+        "orientation": "landscape",
+        "color_mode": "RGBA",
+        "size_bytes": 31287,
+        "sha256": "3b871d991a1b326b05bc82e5aba3368b26ee7033bfda59100d500f093357ff31"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 5,
+        "source_url": null,
+        "book_title": null,
+        "author": null,
+        "edition": null,
+        "translator": null,
+        "page_number": null,
+        "contextual_candidate_title": "青年在选择职业时的考虑",
+        "candidate_basis": "当前项目已有同名阅读材料，截图主题亦为职业选择；仅作待核验线索，图片本身未显示书名。",
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "已读图登记原文和高亮范围；原书出处、版本及页码尚未核验"
+      },
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      }
+    },
+    {
+      "id": "ys-img-011",
+      "original_filename": "codex-clipboard-e17cd9fc-5e56-4e55-8d4b-69aa6d6cc883.png",
+      "filename": "ys_img_011_原文批注_为人类工作与事业长存.png",
+      "title": "为人类工作与事业长存",
+      "asset_type": "书籍段落高亮批注截图",
+      "batch_id": "book-excerpts-2026-10-17-01",
+      "tags": [
+        "书籍原文",
+        "段落批注",
+        "黄色高亮",
+        "为人类工作",
+        "牺牲",
+        "幸福",
+        "事业",
+        "长远价值"
+      ],
+      "visible_text_lines": [
+        "如果我们选择了最能为人类而工作的职业，那么，重担就不能把我们压倒，因为这是",
+        "为大家作出的牺牲；那时我们所享受的就不是可怜的、有限的、自私的乐趣，我们的幸福",
+        "将属于千百万人，我们的事业将悄然无声地存在下去，但是它会永远发挥作用，而面对我",
+        "们的骨灰，高尚的人们将洒下热泪。"
+      ],
+      "raw_text": "如果我们选择了最能为人类而工作的职业，那么，重担就不能把我们压倒，因为这是为大家作出的牺牲；那时我们所享受的就不是可怜的、有限的、自私的乐趣，我们的幸福将属于千百万人，我们的事业将悄然无声地存在下去，但是它会永远发挥作用，而面对我们的骨灰，高尚的人们将洒下热泪。",
+      "transcription_method": "人工读图；visible_text_lines保留截图换行，raw_text仅合并视觉换行，不改写措辞",
+      "transcription_notes": [
+        "记录的是截图中可见的中文文本，未与原书版本或译文逐字校对。",
+        "title和tags为管理用途，不属于书籍原文。"
+      ],
+      "annotations": {
+        "type": "highlight",
+        "color": "黄色",
+        "coverage": "partial",
+        "description": "从第三行“我们的事业”至末尾高亮；此前职业、牺牲与幸福的上下文保留白底。",
+        "offset_convention": "针对raw_text的Unicode字符索引，从0开始，start包含、end不包含",
+        "highlighted_spans": [
+          {
+            "text": "我们的事业将悄然无声地存在下去，但是它会永远发挥作用，而面对我们的骨灰，高尚的人们将洒下热泪。",
+            "start": 84,
+            "end": 131
+          }
+        ],
+        "unhighlighted_context": {
+          "before": "如果我们选择了最能为人类而工作的职业，那么，重担就不能把我们压倒，因为这是为大家作出的牺牲；那时我们所享受的就不是可怜的、有限的、自私的乐趣，我们的幸福将属于千百万人，",
+          "after": ""
+        },
+        "handwritten_notes": null
+      },
+      "visual_details": {
+        "composition": "横向窄幅段落截图，共4行正文，白底黑字。",
+        "palette": [
+          "白色",
+          "黑色",
+          "黄色"
+        ],
+        "text_style": "黑色中文印刷体，黄色矩形高亮覆盖选中正文。",
+        "borders_and_ui": "无可见阅读器界面、页码、书名或章节标题。",
+        "watermark_text": [],
+        "quality_notes": [
+          "文字清晰，截图换行可能切分词语。",
+          "仅保留局部段落，段落外上下文未显示。"
+        ]
+      },
+      "file": {
+        "relative_path": "ys_img_011_原文批注_为人类工作与事业长存.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1124,
+        "height_px": 222,
+        "aspect_ratio_width_over_height": 5.063063,
+        "orientation": "landscape",
+        "color_mode": "RGBA",
+        "size_bytes": 83476,
+        "sha256": "6dfd841cc6d8fd0de86ae1a55fb58c8ee62a37654a69a315e169617cf3f512ca"
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 6,
+        "source_url": null,
+        "book_title": null,
+        "author": null,
+        "edition": null,
+        "translator": null,
+        "page_number": null,
+        "contextual_candidate_title": "青年在选择职业时的考虑",
+        "candidate_basis": "当前项目已有同名阅读材料，截图主题亦为职业选择；仅作待核验线索，图片本身未显示书名。",
+        "copyright_holder": null,
+        "license": null,
+        "verification_status": "已读图登记原文和高亮范围；原书出处、版本及页码尚未核验"
+      },
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      }
+    },
+    {
+      "id": "ys-img-012",
+      "original_filename": "codex-clipboard-e856abd4-ba3b-4ef1-947c-3b6de28b6ec6.png",
+      "filename": "ys_img_012_人物阅读插画_持书半身像.png",
+      "title": "持书人物水彩半身插画",
+      "asset_type": "透明背景人物插画",
+      "scene": "人物双手持打开的书本，面向画面左侧，背景透明。",
+      "tags": [
+        "人物插画",
+        "水彩风格",
+        "阅读",
+        "书籍",
+        "半身像",
+        "透明背景",
+        "复古服饰"
+      ],
+      "summary": "水彩质感的人物半身插画：卷发、浓密胡须，穿白衬衫和深色马甲，系黑色领结，双手持一本展开的红棕色书。",
+      "visible_text_lines": [],
+      "transcription_method": "人工读图；画面未见可辨识文字。",
+      "visual_details": {
+        "subjects": "卷曲棕色头发、浓密胡须的人物，穿白色长袖衬衫、深色有领马甲和黑色领结。",
+        "pose_and_gaze": "半身三分之二侧面，面部朝画面左侧，视线略向左前方；双手在胸腹前捧住打开的书。",
+        "objects": "红棕色封面的展开书本，书页为米黄色，没有可辨识的书名或正文。",
+        "setting": "独立人物素材，无具体空间背景；PNG透明区域可叠放在其他背景上。",
+        "composition": "画幅接近正方形、略宽于高；人物集中在中部至右侧，书本向左下方展开，左上方留有较大透明区域；发顶和身体下部接近画布边缘。",
+        "style": "水彩与手绘插画质感，可见笔触、纸感及不规则轮廓。",
+        "palette": [
+          "深棕色",
+          "黑灰色",
+          "米白色",
+          "肤色",
+          "红棕色",
+          "米黄色"
+        ],
+        "text_style": null,
+        "watermark_text": [],
+        "borders_and_ui": "无可见应用界面、边框或文字水印。",
+        "quality_notes": [
+          "文件真实包含Alpha透明通道，预览显示的黑色底区域不能据此视为实心黑底。",
+          "部分轮廓附近可见细小红黄色边缘像素，配合最终PPT背景检查显示效果。",
+          "原始尺寸1286×1223，放大使用时需关注清晰度。"
+        ]
+      },
+      "suggested_usage": [
+        "阅读主题封面或章节页的人物配图",
+        "书籍导读、作者背景或引文页面的装饰插画"
+      ],
+      "layout_notes": [
+        "适合放在页面右侧，与左侧标题或引文搭配；人物朝向可自然引导视线到左侧内容。",
+        "保留原始宽高比，不拉伸；发顶和书本边缘已有紧凑裁切，避免进一步挤压。",
+        "透明PNG可直接叠放背景；具体人物身份未确认，作者介绍页面使用前需补充身份来源。"
+      ],
+      "file": {
+        "relative_path": "ys_img_012_人物阅读插画_持书半身像.png",
+        "format": "PNG",
+        "mime_type": "image/png",
+        "width_px": 1286,
+        "height_px": 1223,
+        "aspect_ratio_width_over_height": 1.051513,
+        "orientation": "landscape",
+        "color_mode": "RGBA",
+        "size_bytes": 1992817,
+        "sha256": "bae352f6c2e3fcdc2c93e3745638eec1c42cb192b4be24d161820e75595c4cb1",
+        "has_alpha_channel": true,
+        "has_transparency": true,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "fully_transparent_pixels": 743549,
+        "partially_transparent_pixels": 829079,
+        "fully_opaque_pixels": 150,
+        "fully_transparent_fraction": 0.472762,
+        "nontransparent_bbox_xyxy": [
+          0,
+          0,
+          1270,
+          1223
+        ]
+      },
+      "source": {
+        "provided_by": "用户上传",
+        "attachment_number": 1,
+        "source_url": null,
+        "creator": null,
+        "depicted_person": null,
+        "copyright_holder": null,
+        "license": null,
+        "generation_method": null,
+        "verification_status": "已核对图像外观、文件尺寸与透明通道；作者、人物身份、创作方式和原始出处未提供。"
+      },
+      "processing": {
+        "original_bytes_preserved": true,
+        "renamed_only": true,
+        "cropped": false,
+        "reencoded": false
+      }
+    }
+  ]
+}

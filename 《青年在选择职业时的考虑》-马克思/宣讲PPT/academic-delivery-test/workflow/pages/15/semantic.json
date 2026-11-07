@@ -1,0 +1,34 @@
+{
+  "page_id": "data-boundaries",
+  "input_sha256": "4a83f1323a241e20592a6975d02b7f209d34441a5bdb876aa44654169662f48b",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "assessments": [
+    {
+      "id": "L08",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "环境到边界再到考察是本页明确推论"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "非最终行动页"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0.4,
+      "reason": "缺少数据边界的推论结构"
+    }
+  ],
+  "selected_id": "L08",
+  "selection_reason": "三节点横向推论，等权标题条，结论不额外填色。",
+  "layout_confirmed": true
+}

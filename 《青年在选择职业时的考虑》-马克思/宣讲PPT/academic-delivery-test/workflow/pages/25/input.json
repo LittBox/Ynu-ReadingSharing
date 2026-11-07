@@ -1,0 +1,28 @@
+{
+  "page_id": "selection-information",
+  "source_page": 25,
+  "text": "### 第 25 页｜选拔中的信息不对称\n\n- **页面标题**：选拔中的紧张，来自信息不对称\n- **核心文字**：\n  - 提前了解方向\n  - 准备可验证证据\n  - 沟通边界\n  - 展示可培养性\n  - 不揣测个人，不制造黑箱焦虑\n- **视觉/版式**：左右对照：左侧“信息不对称”，右侧“可做的准备”；中间用箭头连接。\n- **资源**：`assets/selection-psychology.png`\n- **口播提示**：讲“如何降低信息不对称”，不讲“内部规则”。\n",
+  "roles": [
+    {
+      "role": "claim",
+      "text": "选拔中的紧张，来自信息不对称",
+      "reason": "原稿的分析角度，不是唯一成因"
+    },
+    {
+      "role": "group",
+      "text": "方向信息／证据／边界／可培养性",
+      "reason": "四项同级准备"
+    }
+  ],
+  "features": {
+    "purpose": "argument",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 4,
+    "evidence": [
+      "text",
+      "illustration"
+    ]
+  },
+  "retrieval_query": "信息不对称主题，左侧青年与评估者通过作品和任务记录交流的简约示意，右四项准备：提前了解方向、准备可验证证据、沟通边界、展示可培养性。不揣测个人或宣称内部规则。"
+}

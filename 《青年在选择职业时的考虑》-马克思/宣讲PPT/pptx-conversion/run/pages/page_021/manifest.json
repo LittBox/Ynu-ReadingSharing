@@ -1,0 +1,1505 @@
+{
+  "schema_version": 2,
+  "slide": {
+    "width": 13.333,
+    "height": 7.5,
+    "size_mode": "wide",
+    "background": "#fbfafc"
+  },
+  "content_box": {
+    "left": 0,
+    "top": 9.374999999955946e-05,
+    "width": 13.333,
+    "height": 7.499812500000001,
+    "fit": "contain"
+  },
+  "source": {
+    "path": "source.png",
+    "width_px": 1920,
+    "height_px": 1080
+  },
+  "page_strategy": "Retain measured source composition; editable text and layout primitives; explicitly approved original visual assets.",
+  "text_inventory": [
+    "能力矩阵",
+    "开场问题",
+    "理论命题",
+    "就业数据",
+    "方向地图",
+    "能力证据",
+    "案例经历",
+    "行动反思",
+    "方向—能力—证据—误区",
+    "方向",
+    "核心能力",
+    "可证明材料",
+    "常见误区",
+    "去哪里",
+    "需要什么",
+    "如何证明",
+    "常见误判",
+    "先选具体方向，再考察入",
+    "口",
+    "能力项按方向单写，不强行",
+    "统一成一套词",
+    "把能力转成能被他人查看的",
+    "作品、记录或结果",
+    "区分兴趣、证书、传闻与实",
+    "际能力",
+    "职业方向是起点",
+    "同一能力在不同方向权重不",
+    "同",
+    "证据形式随方向变化",
+    "矩阵用于自查，不是招聘标",
+    "准",
+    "方向不同，能力与证据的对应方式也不同。",
+    "内容依据：原始宣讲大纲。",
+    "21 / 30"
+  ],
+  "visual_inventory": [
+    {
+      "id": "native-layout",
+      "kind": "native-structure",
+      "representation": "native",
+      "description": "Measured editable solid panels, borders, table rows, and page navigation."
+    }
+  ],
+  "background_strategy": {
+    "mode": "native-or-script",
+    "source_consistency_contract": "Solid source fills, measured panel bounds, original purple palette and positions are preserved.",
+    "removed_foreground": "No flattened source background; all readable HTML text is represented by native text boxes.",
+    "comparison_note": "Solid background and panel fills are measured directly from source HTML."
+  },
+  "quality_checks": {
+    "font_size_calibrated": true,
+    "visual_inventory_matched": true,
+    "background_strategy_checked": true,
+    "shape_corner_geometry_checked": true
+  },
+  "quality_evidence": {
+    "font_size_calibrated": {
+      "observation": "Text sizes and line positions measured from browser DOM at 1920 by 1080; native point sizes use slide physical scale.",
+      "artifact": "source-dom.json"
+    },
+    "visual_inventory_matched": {
+      "observation": "All 0 source visual assets and 32 layout shapes are inventoried individually.",
+      "artifact": "source-dom.json"
+    },
+    "background_strategy_checked": {
+      "observation": "Source solid background and panel colors retained as native fills, without full-slide source image.",
+      "artifact": "source-dom.json"
+    },
+    "shape_corner_geometry_checked": {
+      "observation": "Round rectangles use measured CSS radius constrained to source dimensions; table lines remain straight.",
+      "artifact": "source-dom.json"
+    }
+  },
+  "text_boxes": [
+    {
+      "id": "text_000",
+      "text": "能力矩阵",
+      "box_px": [
+        96,
+        35.984375,
+        124.046875,
+        38
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 14.88,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 45
+    },
+    {
+      "id": "text_001",
+      "text": "开场问题",
+      "box_px": [
+        375.25,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 75
+    },
+    {
+      "id": "text_002",
+      "text": "理论命题",
+      "box_px": [
+        591.921875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 95
+    },
+    {
+      "id": "text_003",
+      "text": "就业数据",
+      "box_px": [
+        808.609375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 115
+    },
+    {
+      "id": "text_004",
+      "text": "方向地图",
+      "box_px": [
+        1025.296875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 135
+    },
+    {
+      "id": "text_005",
+      "text": "能力证据",
+      "box_px": [
+        1241.984375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 155
+    },
+    {
+      "id": "text_006",
+      "text": "案例经历",
+      "box_px": [
+        1458.671875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 175
+    },
+    {
+      "id": "text_007",
+      "text": "行动反思",
+      "box_px": [
+        1675.359375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 195
+    },
+    {
+      "id": "text_008",
+      "text": "方向—能力—证据—误区",
+      "box_px": [
+        96,
+        132.59375,
+        658.40625,
+        74
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 29.699,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 225
+    },
+    {
+      "id": "text_009",
+      "text": "方向",
+      "box_px": [
+        119.03125,
+        263.640625,
+        68.28125,
+        41
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 295
+    },
+    {
+      "id": "text_010",
+      "text": "核心能力",
+      "box_px": [
+        551.03125,
+        263.640625,
+        131.5625,
+        41
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 315
+    },
+    {
+      "id": "text_011",
+      "text": "可证明材料",
+      "box_px": [
+        983.03125,
+        263.640625,
+        163.203125,
+        41
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 335
+    },
+    {
+      "id": "text_012",
+      "text": "常见误区",
+      "box_px": [
+        1415.03125,
+        263.640625,
+        131.5625,
+        41
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 355
+    },
+    {
+      "id": "text_013",
+      "text": "去哪里",
+      "box_px": [
+        119.03125,
+        357.671875,
+        108.6875,
+        44
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 17.28,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 395
+    },
+    {
+      "id": "text_014",
+      "text": "需要什么",
+      "box_px": [
+        551.03125,
+        359.890625,
+        131.5625,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 415
+    },
+    {
+      "id": "text_015",
+      "text": "如何证明",
+      "box_px": [
+        983.03125,
+        359.890625,
+        131.5625,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 435
+    },
+    {
+      "id": "text_016",
+      "text": "常见误判",
+      "box_px": [
+        1415.03125,
+        359.890625,
+        131.5625,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 455
+    },
+    {
+      "id": "text_017",
+      "text": "先选具体方向，再考察入",
+      "box_px": [
+        119.03125,
+        484.9375,
+        385.171875,
+        44
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 17.28,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 485
+    },
+    {
+      "id": "text_018",
+      "text": "口",
+      "box_px": [
+        119.03125,
+        537.46875,
+        39.5625,
+        44
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 17.28,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 495
+    },
+    {
+      "id": "text_019",
+      "text": "能力项按方向单写，不强行",
+      "box_px": [
+        551.03125,
+        489.375,
+        384.6875,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 515
+    },
+    {
+      "id": "text_020",
+      "text": "统一成一套词",
+      "box_px": [
+        551.03125,
+        537.46875,
+        194.84375,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 525
+    },
+    {
+      "id": "text_021",
+      "text": "把能力转成能被他人查看的",
+      "box_px": [
+        983.03125,
+        489.375,
+        384.6875,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 545
+    },
+    {
+      "id": "text_022",
+      "text": "作品、记录或结果",
+      "box_px": [
+        983.03125,
+        537.46875,
+        258.125,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 555
+    },
+    {
+      "id": "text_023",
+      "text": "区分兴趣、证书、传闻与实",
+      "box_px": [
+        1415.03125,
+        489.375,
+        384.6875,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 575
+    },
+    {
+      "id": "text_024",
+      "text": "际能力",
+      "box_px": [
+        1415.03125,
+        537.46875,
+        99.921875,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 585
+    },
+    {
+      "id": "text_025",
+      "text": "职业方向是起点",
+      "box_px": [
+        119.03125,
+        696.328125,
+        246.921875,
+        44
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 17.28,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 615
+    },
+    {
+      "id": "text_026",
+      "text": "同一能力在不同方向权重不",
+      "box_px": [
+        551.03125,
+        674.5,
+        384.6875,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 635
+    },
+    {
+      "id": "text_027",
+      "text": "同",
+      "box_px": [
+        551.03125,
+        722.59375,
+        36.640625,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 645
+    },
+    {
+      "id": "text_028",
+      "text": "证据形式随方向变化",
+      "box_px": [
+        983.03125,
+        698.546875,
+        289.765625,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 665
+    },
+    {
+      "id": "text_029",
+      "text": "矩阵用于自查，不是招聘标",
+      "box_px": [
+        1415.03125,
+        674.5,
+        384.6875,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 685
+    },
+    {
+      "id": "text_030",
+      "text": "准",
+      "box_px": [
+        1415.03125,
+        722.59375,
+        36.640625,
+        40
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 15.822,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 695
+    },
+    {
+      "id": "text_031",
+      "text": "方向不同，能力与证据的对应方式也不同。",
+      "box_px": [
+        96,
+        844.828125,
+        751.890625,
+        50
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 19.656,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 715
+    },
+    {
+      "id": "text_032",
+      "text": "内容依据：原始宣讲大纲。",
+      "box_px": [
+        96,
+        952.546875,
+        281.484375,
+        30
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 745
+    },
+    {
+      "id": "text_033",
+      "text": "21 / 30",
+      "box_px": [
+        1752.265625,
+        952.546875,
+        76.734375,
+        30
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 765
+    }
+  ],
+  "shapes": [
+    {
+      "id": "shape_000",
+      "z_index": 0,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc"
+    },
+    {
+      "id": "shape_001",
+      "z_index": 60,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        326.39,
+        25.91,
+        197.48,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_002",
+      "z_index": 80,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        543.06,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_003",
+      "z_index": 100,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        759.75,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_004",
+      "z_index": 120,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        976.44,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_005",
+      "z_index": 140,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1193.13,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#660874",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "chapter_marker_5",
+      "type": "rect",
+      "box_px": [
+        1229.9700000000003,
+        81.07,
+        21.12,
+        11.34
+      ],
+      "polygon_px": [
+        [
+          1229.9700000000003,
+          81.07
+        ],
+        [
+          1251.0900000000001,
+          81.07
+        ],
+        [
+          1240.5300000000002,
+          92.41
+        ]
+      ],
+      "fill": "#660874",
+      "stroke": "none",
+      "z_index": 141
+    },
+    {
+      "id": "shape_006",
+      "z_index": 160,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1409.81,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_007",
+      "z_index": 180,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1626.5,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_008",
+      "z_index": 250,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        245.69,
+        1728,
+        561.75
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_009",
+      "z_index": 280,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        245.69,
+        432,
+        75
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_010",
+      "z_index": 280,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        320.69,
+        528,
+        320.69
+      ],
+      "stroke_width": 0.999975
+    },
+    {
+      "id": "shape_011",
+      "z_index": 300,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        528,
+        245.69,
+        432,
+        75
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_012",
+      "z_index": 300,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        528,
+        320.69,
+        960,
+        320.69
+      ],
+      "stroke_width": 0.999975
+    },
+    {
+      "id": "shape_013",
+      "z_index": 320,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        960,
+        245.69,
+        432,
+        75
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_014",
+      "z_index": 320,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        960,
+        320.69,
+        1392,
+        320.69
+      ],
+      "stroke_width": 0.999975
+    },
+    {
+      "id": "shape_015",
+      "z_index": 340,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1392,
+        245.69,
+        432,
+        75
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_016",
+      "z_index": 340,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1392,
+        320.69,
+        1824,
+        320.69
+      ],
+      "stroke_width": 0.999975
+    },
+    {
+      "id": "shape_017",
+      "z_index": 380,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        436.71,
+        528,
+        436.71
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_018",
+      "z_index": 400,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        528,
+        436.71,
+        960,
+        436.71
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_019",
+      "z_index": 420,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        960,
+        436.71,
+        1392,
+        436.71
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_020",
+      "z_index": 440,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1392,
+        436.71,
+        1824,
+        436.71
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_021",
+      "z_index": 460,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        436.7,
+        1728,
+        191.55
+      ],
+      "fill": "#f2edf5"
+    },
+    {
+      "id": "shape_022",
+      "z_index": 470,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        628.25,
+        528,
+        628.25
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_023",
+      "z_index": 500,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        528,
+        628.25,
+        960,
+        628.25
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_024",
+      "z_index": 530,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        960,
+        628.25,
+        1392,
+        628.25
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_025",
+      "z_index": 560,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1392,
+        628.25,
+        1824,
+        628.25
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_026",
+      "z_index": 600,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        806.94,
+        528,
+        806.94
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_027",
+      "z_index": 620,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        528,
+        806.94,
+        960,
+        806.94
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_028",
+      "z_index": 650,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        960,
+        806.94,
+        1392,
+        806.94
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_029",
+      "z_index": 670,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1392,
+        806.94,
+        1824,
+        806.94
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_030",
+      "z_index": 720,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        937.67,
+        1824,
+        937.67
+      ],
+      "stroke_width": 0.4999875
+    }
+  ],
+  "images": [],
+  "asset_provenance": [],
+  "image2ppt_region_decomposition": {
+    "schema_version": "image2ppt-region-decomposition-v1",
+    "page_complexity": "structured",
+    "source_size_px": [
+      1920,
+      1080
+    ],
+    "regions": [
+      {
+        "id": "heading",
+        "label": "Chapter navigation and title",
+        "source_bbox_px": [
+          0,
+          0,
+          1920,
+          235
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_000",
+            "shape_001",
+            "shape_002",
+            "shape_003",
+            "shape_004",
+            "shape_005",
+            "chapter_marker_5",
+            "shape_006",
+            "shape_007"
+          ],
+          "text_boxes": [
+            "text_000",
+            "text_001",
+            "text_002",
+            "text_003",
+            "text_004",
+            "text_005",
+            "text_006",
+            "text_007",
+            "text_008"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_000",
+            "kind": "card-edge",
+            "manifest_id": "shape_000",
+            "source_bbox_px": [
+              0,
+              0,
+              1920,
+              1080
+            ]
+          },
+          {
+            "id": "anchor_shape_001",
+            "kind": "card-edge",
+            "manifest_id": "shape_001",
+            "source_bbox_px": [
+              326.39,
+              25.91,
+              197.48,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_002",
+            "kind": "card-edge",
+            "manifest_id": "shape_002",
+            "source_bbox_px": [
+              543.06,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_003",
+            "kind": "card-edge",
+            "manifest_id": "shape_003",
+            "source_bbox_px": [
+              759.75,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_004",
+            "kind": "card-edge",
+            "manifest_id": "shape_004",
+            "source_bbox_px": [
+              976.44,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_005",
+            "kind": "card-edge",
+            "manifest_id": "shape_005",
+            "source_bbox_px": [
+              1193.13,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_chapter_marker_5",
+            "kind": "card-edge",
+            "manifest_id": "chapter_marker_5",
+            "source_bbox_px": [
+              1229.9700000000003,
+              81.07,
+              21.12,
+              11.34
+            ]
+          },
+          {
+            "id": "anchor_shape_006",
+            "kind": "card-edge",
+            "manifest_id": "shape_006",
+            "source_bbox_px": [
+              1409.81,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_007",
+            "kind": "card-edge",
+            "manifest_id": "shape_007",
+            "source_bbox_px": [
+              1626.5,
+              25.91,
+              197.5,
+              56.16
+            ]
+          }
+        ]
+      },
+      {
+        "id": "content",
+        "label": "Main content and source visuals",
+        "source_bbox_px": [
+          0,
+          235,
+          1920,
+          695
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_008",
+            "shape_009",
+            "shape_010",
+            "shape_011",
+            "shape_012",
+            "shape_013",
+            "shape_014",
+            "shape_015",
+            "shape_016",
+            "shape_017",
+            "shape_018",
+            "shape_019",
+            "shape_020",
+            "shape_021",
+            "shape_022",
+            "shape_023",
+            "shape_024",
+            "shape_025",
+            "shape_026",
+            "shape_027",
+            "shape_028",
+            "shape_029"
+          ],
+          "text_boxes": [
+            "text_009",
+            "text_010",
+            "text_011",
+            "text_012",
+            "text_013",
+            "text_014",
+            "text_015",
+            "text_016",
+            "text_017",
+            "text_018",
+            "text_019",
+            "text_020",
+            "text_021",
+            "text_022",
+            "text_023",
+            "text_024",
+            "text_025",
+            "text_026",
+            "text_027",
+            "text_028",
+            "text_029",
+            "text_030",
+            "text_031"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_008",
+            "kind": "card-edge",
+            "manifest_id": "shape_008",
+            "source_bbox_px": [
+              96,
+              245.69,
+              1728,
+              561.75
+            ]
+          },
+          {
+            "id": "anchor_shape_009",
+            "kind": "card-edge",
+            "manifest_id": "shape_009",
+            "source_bbox_px": [
+              96,
+              245.69,
+              432,
+              75
+            ]
+          },
+          {
+            "id": "anchor_shape_011",
+            "kind": "card-edge",
+            "manifest_id": "shape_011",
+            "source_bbox_px": [
+              528,
+              245.69,
+              432,
+              75
+            ]
+          },
+          {
+            "id": "anchor_shape_013",
+            "kind": "card-edge",
+            "manifest_id": "shape_013",
+            "source_bbox_px": [
+              960,
+              245.69,
+              432,
+              75
+            ]
+          },
+          {
+            "id": "anchor_shape_015",
+            "kind": "card-edge",
+            "manifest_id": "shape_015",
+            "source_bbox_px": [
+              1392,
+              245.69,
+              432,
+              75
+            ]
+          },
+          {
+            "id": "anchor_shape_021",
+            "kind": "card-edge",
+            "manifest_id": "shape_021",
+            "source_bbox_px": [
+              96,
+              436.7,
+              1728,
+              191.55
+            ]
+          }
+        ]
+      },
+      {
+        "id": "footer",
+        "label": "Source citation and page number",
+        "source_bbox_px": [
+          0,
+          930,
+          1920,
+          150
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_030"
+          ],
+          "text_boxes": [
+            "text_032",
+            "text_033"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": []
+      }
+    ]
+  }
+}

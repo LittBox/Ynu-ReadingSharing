@@ -1,0 +1,151 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_001",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_001/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_01.png",
+      "source_sha256": "0e1654a97122e5180335d2254650864a4de728886d0ee12adcd330900627aa78",
+      "rendered_sha256": "465153d086ab640c59a8f57df0844881df1c853166d9728e76dd756a5f2b611f",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Purple horizontal title band, white top margin, left subtitle rule and three lower information pills occupy the same source positions.",
+        "text_content": "All eight source strings including first-job title, book name, presenter, 2026-10-17 and 01 / 30 are visible without clipping; Source Han Sans replaces the unavailable PingFang with a close sans-serif family.",
+        "object_completeness": "Seven native filled panels and rules plus eight text boxes reproduce the cover; the source has no foreground imagery or arrows.",
+        "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render shows clean purple and pale backgrounds, intact CJK glyphs and no baked screenshot text or duplicated objects. Final image is byte-identical to the accepted page render."
+      }
+    },
+    {
+      "page_id": "page_002",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_002/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_02.png",
+      "source_sha256": "86f4ff8e0f787efe9d47413748f2267145804fd33fd4d1fda2910ee9a525e067",
+      "rendered_sha256": "3e8b0eed15c8dbcf228014d7d13715dc563407f8ff70d0cdfa7b6eacc5b572ad",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Original two-column news composition retained; lower screenshot and caption moved above footer to repair overlap already present in HTML, with all content intact.",
+        "text_content": "News values 5.3 percent and 0.1 percentage point, question and statistical-scope clarification remain native and readable; right paragraph reduced four percent as one group to fit original lines.",
+        "object_completeness": "Both original National Bureau screenshots, seven navigation pills, two purple right-card headers and all captions are present once.",
+        "render_integrity": "Final assembled deck render visually inspected: LibreOffice render has clean Source Han CJK, no missing glyphs or generated substitute imagery; footer source citation and screenshot caption no longer overlap. Final image is byte-identical to the accepted page render.",
+        "raster_assets": "Two news screenshots use approved original PNG bytes and preserve embedded content and aspect ratios; only lower screenshot position changed to clear its caption."
+      }
+    },
+    {
+      "page_id": "page_003",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_003/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_03.png",
+      "source_sha256": "97c3f1a3ca0c3e290d2d1bd9cccdb9bbc415e72aaf0310249a8d931feac71fa8",
+      "rendered_sha256": "024f3d2ad2bb1cbcc91f0ce28638b14e0e8fdb59c46dcef966bb1367f21acad6",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two equal A/B choice cards retain purple headers, aligned card edges and the large shared blank response areas from the source.",
+        "text_content": "The question, choice A and B labels, two concerns and closing Marx-at-17 sentence match the source and remain visible native text without clipping.",
+        "object_completeness": "All seven navigation pills, both choice panels, title, closing sentence and 03 / 30 footer appear once; this source has no raster assets.",
+        "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render preserves pale background, clean sans CJK and clear separators without missing glyphs, duplicated source text or overlay images. Final image is byte-identical to the accepted page render."
+      }
+    },
+    {
+      "page_id": "page_004",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_004/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_04.png",
+      "source_sha256": "083199a4e0cd5d6bf3e0733de1e020db308f21b6fc9fd11e6209fcb52488d305",
+      "rendered_sha256": "0229cac5e79a8eecf96aa6aec81ef655308dabb51bae843f08fbdc96b87b0aeb",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two stacked original excerpt panels at left and three purple-header argument cards at right retain source alignment and vertical spacing.",
+        "text_content": "Title about reading the seventeen-year-old article, three numbered argument headings, all explanatory lines and source footer remain complete and unclipped.",
+        "object_completeness": "Both highlighted quotations, three explanation cards, seven navigation pills and page number 04 / 30 are all present once.",
+        "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render preserves yellow highlights as original imagery and native sans-serif surrounding text; no duplicate quotations or clipped panels. Final image is byte-identical to the accepted page render.",
+        "raster_assets": "Two original source-excerpt PNG assets are reused unchanged with their highlighted lines and intrinsic aspect ratios; captions remain separate editable text."
+      }
+    },
+    {
+      "page_id": "page_005",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_005/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_05.png",
+      "source_sha256": "45675b8526cd8da3bbdba2293154999bd5d5b420312ac3bd5f1ab7746071eca9",
+      "rendered_sha256": "f680e603934e44b8ff5567f9484468d329144bc4b7a89c5865e75acaf8127ad7",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Three equally sized argument cards keep their original purple header bands, left-anchored icons, aligned claims and lower takeaway.",
+        "text_content": "The passion and calm-examination title, all three claim/body pairs and the final takeaway remain editable, complete and within the original card boundaries.",
+        "object_completeness": "Flame, scale and clipboard icons appear once in the correct cards; navigation, numbered headings and 05 / 30 footer match the source.",
+        "render_integrity": "Final assembled deck render visually inspected: Genuine LibreOffice render preserves clear native CJK and three clean original icon silhouettes, without text overlap or source-page underlay. Final image is byte-identical to the accepted page render.",
+        "raster_assets": "All three original SVG paths retained; resolved source CSS stroke width 1.5 is baked into normalization and visually matches the original thinner purple strokes."
+      }
+    },
+    {
+      "page_id": "page_006",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_006/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_06.png",
+      "source_sha256": "9695eba4c07879760bccbef769d078054a85eec817d9aaf91f14635959f29aab",
+      "rendered_sha256": "7a4adf80ebd54c941d7e4cd2f8872e2f5674055be557f6f6c1f55d984fca8e50",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Four equal rectangular cards retain the original two-by-two grid, purple heading bands and wide horizontal gutter.",
+        "text_content": "Ability, conditions, consequences and others happiness questions all remain complete native lines; title, caution statement and methodological footer are legible.",
+        "object_completeness": "Four numbered headings and all four questions, active theory navigation and page 06 / 30 footer are present once; source contains no icons or relationships.",
+        "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render shows intact sans CJK and clean card borders, with no text spill, duplicate text or image underlay. Final image is byte-identical to the accepted page render."
+      }
+    },
+    {
+      "page_id": "page_007",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_007/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_07.png",
+      "source_sha256": "8568bee8f0cdbb3605a81fa85f581942f820b432f45a4ee002c84d0e025830ca",
+      "rendered_sha256": "aab54beb296c2b30b92654c8c0e81d5347164e23bfd0551380811058764c6c47",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Large career-path illustration remains left of three stacked numbered cards with matching purple header bands and the same whitespace.",
+        "text_content": "The suitability title, reality limits, job mismatch and continued adjustment paragraphs remain fully editable with unchanged meaning and original line breaks.",
+        "object_completeness": "Original career illustration, its AI-generated-source caption, three cards, theory navigation and 07 / 30 footer are all present once.",
+        "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render keeps clear CJK text and intact panels; no source-page underlay or duplicated body content is present. Final image is byte-identical to the accepted page render.",
+        "raster_assets": "Original career illustration PNG is unchanged, including student, three illustrated routes and destination scenes; its original proportions and bounded left-panel placement are preserved."
+      }
+    },
+    {
+      "page_id": "page_008",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_08.png",
+      "source_sha256": "4c58cbbd5e862aa719837fc4f9e3cb6eb9634a49938933908d50507aaf58e61a",
+      "rendered_sha256": "0034a5ddc2d17f58177b207ec6ee4056dbebc619b84594bf948542746bec32ac",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Three tall evenly spaced cards preserve the original respect-self, others and career-practice columns with purple top bands.",
+        "text_content": "Personal happiness title, three explanations with source two-line breaks and the concluding unity sentence remain editable and fully visible.",
+        "object_completeness": "All three numbered headings, six body lines, concluding sentence and page 08 / 30 footer are present; no pictorial content was expected.",
+        "render_integrity": "Final assembled deck render visually inspected: Real LibreOffice render shows stable source-style card geometry and clear sans CJK; text remains inside each card without clipping or duplicate layers. Final image is byte-identical to the accepted page render."
+      }
+    },
+    {
+      "page_id": "page_009",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_009/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_09.png",
+      "source_sha256": "d13ef1035e08dad58f8082cafeba7529f6a61da7f7e8e1fade053d33433a2724",
+      "rendered_sha256": "ac691f8485eb4684cfb7a425718c08befce469f12e40aff6cd072ec5b1e1407f",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Four numbered summary rows at left align with two highlighted excerpt panels at right, retaining source white margins and purple headings.",
+        "text_content": "Title, four summary labels and explanations, quotation captions and footer distinction between paraphrase and quotation are complete and readable.",
+        "object_completeness": "All four rounded number badges, four summary cards, two original quotation images and 09 / 30 footer appear once.",
+        "render_integrity": "Final assembled deck render visually inspected: LibreOffice render has clean sans CJK and no clipped captions; native text stays separate from source quotation imagery, with only minor badge-shadow differences. Final image is byte-identical to the accepted page render.",
+        "raster_assets": "Both highlighted excerpt PNGs are original approved assets; highlighting, quotation text and image aspect ratios match the source."
+      }
+    },
+    {
+      "page_id": "page_010",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_10.png",
+      "source_sha256": "62dda800883e81541053a3af87a733e50bf94653b268619ee150ca77a41835d3",
+      "rendered_sha256": "2e4631aa653ae8a4369024c73ca3b4c1c3f1cd03ae583c716311fa63e87f8166",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Four tall proposition cards maintain equal widths and original spacing; the lower takeaway sequence sits on its source baseline above the footer.",
+        "text_content": "Four proposition headings and statements remain unchanged; takeaway wording is split into four native labels without losing any words, and the footer qualification stays intact.",
+        "object_completeness": "Four cards, four takeaway labels and three individual right-pointing connectors appear once; all seven navigation pills and page 10 / 30 remain present.",
+        "render_integrity": "Final assembled deck render visually inspected: Actual fresh LibreOffice render shows clear sans CJK and no clipping; arrow replacements do not overlap adjacent labels or introduce duplicate glyphs. Final image is byte-identical to the accepted page render.",
+        "arrow_geometry": "Three thin native straight connectors replace source arrow glyphs at measured x187–222,327–362,546–580 and y873; open medium heads point right and match original inline arrow proportions, each is one object."
+      }
+    }
+  ]
+}

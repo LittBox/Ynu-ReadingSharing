@@ -1,0 +1,312 @@
+{
+  "schema_version": "image2ppt-supplemental-page-qa-v1",
+  "passed": true,
+  "page_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014",
+  "state_owner": "page_jobs.json",
+  "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json",
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "",
+    "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+    "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render/rendered.png",
+    "evidence": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/visual-review-evidence.json",
+    "evidence_template": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/visual-review-evidence.template.json",
+    "evidence_payload": {
+      "schema_version": "image2ppt-visual-review-evidence-v1",
+      "pages": [
+        {
+          "page_id": "page_014",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render/rendered.png",
+          "source_sha256": "6701ca98c2beed9d47d6bdcb7f793649eac91cf7099f51f2d1d0ce6d0ebe0607",
+          "rendered_sha256": "43adecf283ade86ebe734003083d353a3c0534bdd96e6638364b90d8997d75e8",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two evidence screenshots stacked left match source placement; postgraduate and civil-service charts remain separate groups right with wide source spacing.",
+            "text_content": "All years 2024–2026 and counts 438, 388, 343, 303.3, 341.6, 371.8 retained as native text; qualification wording and caution remain unclipped.",
+            "object_completeness": "Six bars and tracks, two screenshots with captions, title, units and original caution are each present; downward and upward chart patterns preserved.",
+            "render_integrity": "Real LibreOffice rendering preserves strong sans hierarchy, text stays within source regions and screenshots do not replace native chart labels.",
+            "raster_assets": "Education Ministry and Xinhua original screenshots retain blue header identity, text content and left-aligned contain geometry without distortion."
+          }
+        }
+      ]
+    }
+  },
+  "checks": {
+    "region_decomposition_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/inspect_region_decomposition.py",
+        "--manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json",
+        "--out",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/region_decomposition_report.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-region-decomposition-report-v1\",\n  \"passed\": true,\n  \"pages\": [\n    {\n      \"manifest\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_014/manifest.json\",\n      \"passed\": true,\n      \"page_complexity\": \"structured\",\n      \"region_count\": 3,\n      \"regions\": [\n        {\n          \"id\": \"heading\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 18,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"content\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 43,\n          \"protected_anchor_count\": 14,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"footer\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 3,\n          \"protected_anchor_count\": 0,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        }\n      ],\n      \"summary\": {\n        \"manifest_objects\": 64,\n        \"assigned_objects\": 64,\n        \"protected_anchors\": 23,\n        \"compound_regions\": 0\n      },\n      \"warnings\": [],\n      \"errors\": []\n    }\n  ],\n  \"summary\": {\n    \"pages\": 1,\n    \"regions\": 3,\n    \"compound_regions\": 0\n  },\n  \"errors\": []\n}\n",
+      "stderr": ""
+    },
+    "region_decomposition": {
+      "schema_version": "image2ppt-region-decomposition-report-v1",
+      "passed": true,
+      "pages": [
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 43,
+              "protected_anchor_count": 14,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 64,
+            "assigned_objects": 64,
+            "protected_anchors": 23,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        }
+      ],
+      "summary": {
+        "pages": 1,
+        "regions": 3,
+        "compound_regions": 0
+      },
+      "errors": []
+    },
+    "arrow_postprocess_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/postprocess_manifest_arrows.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx",
+        "--manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json",
+        "--report",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/arrow_postprocess_report.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-manifest-arrow-postprocess-v1\",\n  \"passed\": true,\n  \"pptx\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_014/page.pptx\",\n  \"manifests\": [\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_014/manifest.json\"\n  ],\n  \"operations\": [],\n  \"errors\": [],\n  \"preservation\": {\n    \"non_slide_parts_preserved\": true,\n    \"non_slide_part_count\": 14,\n    \"notes_parts_preserved\": true,\n    \"notes_part_count\": 0\n  },\n  \"input_sha256\": \"3150fd9bd2a42507579b1060960183c17f84ed6f32dbe8c7c13d8d40e556248e\",\n  \"output_sha256\": \"3150fd9bd2a42507579b1060960183c17f84ed6f32dbe8c7c13d8d40e556248e\",\n  \"summary\": {\n    \"slides\": 1,\n    \"profiled_arrows\": 0,\n    \"connectors\": 0,\n    \"filled_arrows\": 0\n  }\n}\n",
+      "stderr": ""
+    },
+    "arrow_postprocess": {
+      "schema_version": "image2ppt-manifest-arrow-postprocess-v1",
+      "passed": true,
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx",
+      "manifests": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json"
+      ],
+      "operations": [],
+      "errors": [],
+      "preservation": {
+        "non_slide_parts_preserved": true,
+        "non_slide_part_count": 14,
+        "notes_parts_preserved": true,
+        "notes_part_count": 0
+      },
+      "input_sha256": "3150fd9bd2a42507579b1060960183c17f84ed6f32dbe8c7c13d8d40e556248e",
+      "output_sha256": "3150fd9bd2a42507579b1060960183c17f84ed6f32dbe8c7c13d8d40e556248e",
+      "summary": {
+        "slides": 1,
+        "profiled_arrows": 0,
+        "connectors": 0,
+        "filled_arrows": 0
+      }
+    },
+    "image2ppt_validation_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/cli/image2ppt/cli.py",
+        "page",
+        "validate",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014",
+        "--report",
+        "validation.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"pptx\": \"/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx\",\n  \"zip_ok\": true,\n  \"slides\": 1,\n  \"images\": 2,\n  \"editable_text_shapes\": 30,\n  \"shape_count\": 62,\n  \"all_text\": \"数据展示 开场问题 理论命题 就业数据 方向地图 能力证据 案例经历 行动反思 升学与体制内热度的变化 教育部 · 2025-11-24，2026研考报名 新华社 · 2025-11-30，2026国考 考研：报名人数 2024 438 2025 388 2026 343 万人，按考试年度 国考：资格审查通过人数 2024 303.3 2025 341.6 2026 371.8 万人，非实际参考人数；两图满宽均500万人 不同报考群体可能重叠，口径不同；不加总人数，不据此评价某种选择的好坏。 来源：教育部、中国大学生在线、央视网、新华网，2024—2026考试年度；详见来源记录。 14 / 30\",\n  \"required_text\": [\n    \"数据展示\",\n    \"开场问题\",\n    \"理论命题\",\n    \"就业数据\",\n    \"方向地图\",\n    \"能力证据\",\n    \"案例经历\",\n    \"行动反思\",\n    \"升学与体制内热度的变化\",\n    \"教育部 · 2025-11-24，2026研考报名\",\n    \"新华社 · 2025-11-30，2026国考\",\n    \"考研：报名人数\",\n    \"2024\",\n    \"438\",\n    \"2025\",\n    \"388\",\n    \"2026\",\n    \"343\",\n    \"万人，按考试年度\",\n    \"国考：资格审查通过人数\",\n    \"2024\",\n    \"303.3\",\n    \"2025\",\n    \"341.6\",\n    \"2026\",\n    \"371.8\",\n    \"万人，非实际参考人数；两图满宽均500万人\",\n    \"不同报考群体可能重叠，口径不同；不加总人数，不据此评价某种选择的好坏。\",\n    \"来源：教育部、中国大学生在线、央视网、新华网，2024—2026考试年度；详见来源记录。\",\n    \"14 / 30\"\n  ],\n  \"missing_required_text\": [],\n  \"missing_parts\": [],\n  \"missing_relationship_targets\": [],\n  \"missing_asset_provenance\": [],\n  \"missing_manifest_images\": [],\n  \"missing_provenance_sources\": [],\n  \"invalid_asset_provenance\": [],\n  \"media_hash_mismatches\": [],\n  \"asset_provenance_checked\": 2,\n  \"manifest_image_count\": 2,\n  \"media_manifest_mismatch\": false,\n  \"relationship_targets_checked\": 11,\n  \"warnings\": [],\n  \"page_contract_violations\": [],\n  \"passed\": true\n}\n",
+      "stderr": ""
+    },
+    "image2ppt_validation": {
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx",
+      "zip_ok": true,
+      "slides": 1,
+      "images": 2,
+      "editable_text_shapes": 30,
+      "shape_count": 62,
+      "all_text": "数据展示 开场问题 理论命题 就业数据 方向地图 能力证据 案例经历 行动反思 升学与体制内热度的变化 教育部 · 2025-11-24，2026研考报名 新华社 · 2025-11-30，2026国考 考研：报名人数 2024 438 2025 388 2026 343 万人，按考试年度 国考：资格审查通过人数 2024 303.3 2025 341.6 2026 371.8 万人，非实际参考人数；两图满宽均500万人 不同报考群体可能重叠，口径不同；不加总人数，不据此评价某种选择的好坏。 来源：教育部、中国大学生在线、央视网、新华网，2024—2026考试年度；详见来源记录。 14 / 30",
+      "required_text": [
+        "数据展示",
+        "开场问题",
+        "理论命题",
+        "就业数据",
+        "方向地图",
+        "能力证据",
+        "案例经历",
+        "行动反思",
+        "升学与体制内热度的变化",
+        "教育部 · 2025-11-24，2026研考报名",
+        "新华社 · 2025-11-30，2026国考",
+        "考研：报名人数",
+        "2024",
+        "438",
+        "2025",
+        "388",
+        "2026",
+        "343",
+        "万人，按考试年度",
+        "国考：资格审查通过人数",
+        "2024",
+        "303.3",
+        "2025",
+        "341.6",
+        "2026",
+        "371.8",
+        "万人，非实际参考人数；两图满宽均500万人",
+        "不同报考群体可能重叠，口径不同；不加总人数，不据此评价某种选择的好坏。",
+        "来源：教育部、中国大学生在线、央视网、新华网，2024—2026考试年度；详见来源记录。",
+        "14 / 30"
+      ],
+      "missing_required_text": [],
+      "missing_parts": [],
+      "missing_relationship_targets": [],
+      "missing_asset_provenance": [],
+      "missing_manifest_images": [],
+      "missing_provenance_sources": [],
+      "invalid_asset_provenance": [],
+      "media_hash_mismatches": [],
+      "asset_provenance_checked": 2,
+      "manifest_image_count": 2,
+      "media_manifest_mismatch": false,
+      "relationship_targets_checked": 11,
+      "warnings": [],
+      "page_contract_violations": [],
+      "passed": true
+    },
+    "arrow_inspection_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/inspect_arrow_atomicity.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx",
+        "--manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json",
+        "--out",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/arrow_inspection_report.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-manifest-arrow-inspection-v1\",\n  \"passed\": true,\n  \"pptx\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_014/page.pptx\",\n  \"errors\": [],\n  \"summary\": {\n    \"expected_arrows\": 0,\n    \"inspected_arrows\": 0,\n    \"connectors\": 0,\n    \"filled_arrows\": 0,\n    \"fragmented_or_missing\": 0\n  },\n  \"arrows\": []\n}\n",
+      "stderr": ""
+    },
+    "arrow_inspection": {
+      "schema_version": "image2ppt-manifest-arrow-inspection-v1",
+      "passed": true,
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx",
+      "errors": [],
+      "summary": {
+        "expected_arrows": 0,
+        "inspected_arrows": 0,
+        "connectors": 0,
+        "filled_arrows": 0,
+        "fragmented_or_missing": 0
+      },
+      "arrows": []
+    },
+    "render_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/render_image2ppt_qa.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx",
+        "--out-dir",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render",
+        "--report",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render_report.json",
+        "--source",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+        "--timeout",
+        "120"
+      ],
+      "returncode": 0,
+      "stdout": "{\"status\": \"rendered\", \"report\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_014/render_report.json\"}\n",
+      "stderr": ""
+    },
+    "render": {
+      "schema_version": "image2ppt-render-qa-v1",
+      "status": "rendered",
+      "renderer": "libreoffice",
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx",
+      "out_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render",
+      "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render/rendered.png",
+      "rendered_slides": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render/rendered.png"
+      ],
+      "source_image": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+      "raw": {
+        "status": "rendered",
+        "renderer": "libreoffice",
+        "backend": "soffice-pdf-pdfium",
+        "command": [
+          "/opt/homebrew/bin/soffice",
+          "--headless",
+          "-env:UserInstallation=file:///var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-dq7gy393/profile",
+          "--convert-to",
+          "pdf",
+          "--outdir",
+          "/var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-dq7gy393",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx"
+        ],
+        "stdout": "convert /Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/page.pptx as a Impress document -> /private/var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-dq7gy393/page.pdf using filter : impress_pdf_Export\n",
+        "stderr": "2026-10-19 11:53:33.052 soffice[6827:124373] Task policy set failed: 4 ((os/kern) invalid argument)\n",
+        "elapsed_seconds": 5.335,
+        "slides": [
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render/rendered.png"
+        ]
+      },
+      "diff_metrics": {
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/render/rendered.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.36,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      }
+    }
+  },
+  "errors": []
+}

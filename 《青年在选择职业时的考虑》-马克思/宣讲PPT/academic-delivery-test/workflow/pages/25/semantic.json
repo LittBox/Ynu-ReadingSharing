@@ -1,0 +1,28 @@
+{
+  "page_id": "selection-information",
+  "input_sha256": "978f261318887bafaaabf6177ffaf4d7f96b286f8821a987b78ddd5a4dccb12c",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "assessments": [
+    {
+      "id": "L13",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "交流场景示意帮助理解信息不对称，四准备同权"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L02",
+      "eligible": false,
+      "semantic_score": 0.7,
+      "reason": "四卡可用但缺少沟通情境图"
+    }
+  ],
+  "selected_id": "L13",
+  "selection_reason": "左4:3交流插图、右2×2四项准备，图像无文字无身份暗示。",
+  "layout_confirmed": true
+}

@@ -1,0 +1,27 @@
+{
+  "page_id": "passion-and-examination",
+  "source_page": 5,
+  "text": "### 第 5 页｜命题一：热情是驱动，但不是决定性因素\n\n- **页面标题**：热情能点火，但不能导航\n- **核心文字**：\n  - 热情是起点\n  - 只靠热情容易高估自己、低估现实\n  - 热情需要进入冷静考察\n- **视觉/版式**：标题句加大；三条要点纵向排列；可配“火焰/指南针”抽象图。\n- **资源**：`assets/theme-passion.png`\n- **口播提示**：结合青年择业中“我喜欢所以选”的常见思路展开。\n",
+  "roles": [
+    {
+      "role": "claim",
+      "text": "热情需要冷静考察，才能成为选择依据",
+      "reason": "核心判断"
+    },
+    {
+      "role": "group",
+      "text": "选择动力／判断局限／理性检验",
+      "reason": "并列角度"
+    }
+  ],
+  "features": {
+    "purpose": "argument",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 3,
+    "evidence": [
+      "text"
+    ]
+  },
+  "retrieval_query": "已验收的热情判断样板，三项同权横排：选择动力、判断局限、理性检验；三个线形图标与标题条下接论证框，核心句不填充。"
+}

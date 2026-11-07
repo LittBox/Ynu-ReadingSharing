@@ -1,0 +1,48 @@
+{
+  "schema_version": "image2ppt-render-qa-v1",
+  "status": "rendered",
+  "renderer": "libreoffice",
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx",
+  "out_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render",
+  "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png",
+  "rendered_slides": [
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png"
+  ],
+  "source_image": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+  "raw": {
+    "status": "rendered",
+    "renderer": "libreoffice",
+    "backend": "soffice-pdf-pdfium",
+    "command": [
+      "/opt/homebrew/bin/soffice",
+      "--headless",
+      "-env:UserInstallation=file:///var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-ms9gdz3b/profile",
+      "--convert-to",
+      "pdf",
+      "--outdir",
+      "/var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-ms9gdz3b",
+      "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx"
+    ],
+    "stdout": "convert /Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/page.pptx as a Impress document -> /private/var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-ms9gdz3b/page.pdf using filter : impress_pdf_Export\n",
+    "stderr": "2026-10-19 11:52:35.707 soffice[6692:122624] Task policy set failed: 4 ((os/kern) invalid argument)\n",
+    "elapsed_seconds": 4.483,
+    "slides": [
+      "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png"
+    ]
+  },
+  "diff_metrics": {
+    "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+    "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/render/rendered.png",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "rendered_original_size": [
+      2000,
+      1125
+    ],
+    "mean_abs_rgb_diff_0_255": 4.41,
+    "max_abs_rgb_diff_0_255": 250,
+    "note": "Indicative only; the page still requires visual review."
+  }
+}

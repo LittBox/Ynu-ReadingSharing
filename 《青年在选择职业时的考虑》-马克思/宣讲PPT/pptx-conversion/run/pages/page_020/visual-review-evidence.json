@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_020",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_020/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_020/render/rendered.png",
+      "source_sha256": "af63fa56463ab899ceed6e27a2a6f722ff0796787cf365eb9aa47b6d6845036f",
+      "rendered_sha256": "9b6b09f24c50132d7c0a4943e9dcae144b3811caca24c97929fa96de384dc1b2",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Freelance and military/police entry cards remain side by side with centered icons, purple headings and original bottom takeaway spacing.",
+        "text_content": "Body phrases 内容创作/设计咨询/技术外包 and 军官/士官/公安/消防等 preserve wording; title, takeaway and scope disclaimer remain native and unclipped.",
+        "object_completeness": "Laptop and shield icons, two complete cards, two body lines, title, navigation, takeaway and footer each appear once.",
+        "render_integrity": "Inspected current LibreOffice output: cards preserve native edges and white space; sans text remains legible with no overlap or source-text duplication.",
+        "raster_assets": "Original laptop and shield SVG paths use source purple #660874 and 1.6 stroke normalization, retaining matching silhouettes and centered positions."
+      }
+    }
+  ]
+}

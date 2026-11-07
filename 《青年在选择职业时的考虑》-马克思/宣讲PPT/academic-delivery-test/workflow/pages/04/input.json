@@ -1,0 +1,28 @@
+{
+  "page_id": "why-read-marx",
+  "source_page": 4,
+  "text": "### 第 4 页｜为什么读这篇文章\n\n- **页面标题**：一篇 17 岁的文章，为什么今天还要读\n- **核心文字**：\n  - 文章篇幅短，问题真实\n  - 不是给标准答案，而是给考察方法\n  - 今天不逐段讲课文，而是用四个命题回应择业困惑\n- **视觉/版式**：左文右图；原文页面图片可做低透明度背景；文字区加半透明暖白底板。\n- **资源**：`assets/marx-original-page.webp`\n- **口播提示**：说明今天不是逐段讲课文，而是用四个命题回应择业困惑。\n",
+  "roles": [
+    {
+      "role": "question",
+      "text": "一篇17岁的文章，为什么今天还要读",
+      "reason": "阅读动机问题"
+    },
+    {
+      "role": "group",
+      "text": "问题／方法／读法",
+      "reason": "三个解释角度"
+    }
+  ],
+  "features": {
+    "purpose": "source_reading",
+    "relation": "whole_parts",
+    "density": "mixed",
+    "group_count": 3,
+    "evidence": [
+      "source_image",
+      "text"
+    ]
+  },
+  "retrieval_query": "介绍为什么读青年在选择职业时的考虑，三项理由与真实批注原文对应：篇幅短问题真实、考察方法、四命题回应困惑。左原文截图右三项说明，原文保持完整。"
+}

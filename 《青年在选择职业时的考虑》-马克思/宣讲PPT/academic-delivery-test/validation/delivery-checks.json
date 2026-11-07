@@ -1,0 +1,166 @@
+{
+  "status": "static_pass_visual_pending",
+  "checks": {
+    "30_pages_order_and_ids": {
+      "passed": true,
+      "detail": [
+        "opening-cover",
+        "employment-news",
+        "choice-question",
+        "why-read-marx",
+        "passion-and-examination",
+        "calm-examination",
+        "reality-constraints",
+        "happiness-and-perfection",
+        "original-passages",
+        "four-propositions",
+        "youth-employment-baseline",
+        "graduate-destinations",
+        "industry-demand",
+        "study-public-exam-trends",
+        "data-boundaries",
+        "career-directions",
+        "public-sector-soe",
+        "private-foreign-enterprises",
+        "study-grassroots",
+        "freelance-uniformed",
+        "competency-framework",
+        "competency-first-four",
+        "competency-last-four",
+        "capability-evidence",
+        "selection-information",
+        "organizational-experience",
+        "luo-career-recognition",
+        "practice-takeaway",
+        "theory-return",
+        "closing-question"
+      ]
+    },
+    "notes_aligned": {
+      "passed": true,
+      "detail": null
+    },
+    "45_minutes": {
+      "passed": true,
+      "detail": null
+    },
+    "seven_original_chapters": {
+      "passed": true,
+      "detail": null
+    },
+    "relative_assets_exist": {
+      "passed": true,
+      "detail": [
+        "images/02-nbs-source-header.png",
+        "images/02-nbs-source.png",
+        "images/07-career-paths.png",
+        "images/09-marx-examination.png",
+        "images/09-marx-humanity.png",
+        "images/11-source-thepaper.png",
+        "images/12-destination-source.png",
+        "images/12-graduates-source.png",
+        "images/13-industry-source-header.png",
+        "images/13-industry-source.png",
+        "images/14-civil-source-header.png",
+        "images/14-postgrad-source-header.png",
+        "images/17-public-and-enterprise.png",
+        "images/19-study-and-community.png",
+        "images/25-evidence-conversation.png",
+        "images/27-luo-interview-source-header.png",
+        "images/27-luo-interview-source.png",
+        "images/30-career-exploration-minimal.png"
+      ]
+    },
+    "image_slots_and_alt": {
+      "passed": true,
+      "detail": 20
+    },
+    "motion_local_fallback": {
+      "passed": true,
+      "detail": null
+    },
+    "no_unfilled_deck_placeholder": {
+      "passed": true,
+      "detail": null
+    },
+    "seven_chapter_navigation_static": {
+      "passed": true,
+      "detail": null
+    },
+    "all_page_footers": {
+      "passed": true,
+      "detail": null
+    },
+    "30_independent_retrieval_decisions": {
+      "passed": true,
+      "detail": null
+    },
+    "four_new_generated_images": {
+      "passed": true,
+      "detail": [
+        7,
+        17,
+        19,
+        25
+      ]
+    },
+    "generation_asset_7": {
+      "passed": true,
+      "detail": null
+    },
+    "generation_asset_17": {
+      "passed": true,
+      "detail": null
+    },
+    "generation_asset_19": {
+      "passed": true,
+      "detail": null
+    },
+    "generation_asset_25": {
+      "passed": true,
+      "detail": null
+    },
+    "runtime_unchanged_except_notes": {
+      "passed": true,
+      "detail": 8
+    },
+    "javascript_syntax": {
+      "passed": true,
+      "detail": null
+    },
+    "preserved_09-marx-examination.png": {
+      "passed": true,
+      "detail": null
+    },
+    "preserved_09-marx-humanity.png": {
+      "passed": true,
+      "detail": null
+    },
+    "preserved_11-source-thepaper.png": {
+      "passed": true,
+      "detail": null
+    },
+    "preserved_30-career-exploration-minimal.png": {
+      "passed": true,
+      "detail": null
+    },
+    "academic_validator": {
+      "passed": true,
+      "detail": "{\n  \"static\": \"pass\",\n  \"rendered\": \"not_run\",\n  \"visualReview\": \"pending\",\n  \"slides\": 30,\n  \"errors\": [],\n  \"warnings\": [],\n  \"scope\": \"C structure/roles only; run presenter validator and inspect rendered pages separately.\"\n}"
+    },
+    "presenter_validator": {
+      "passed": true,
+      "detail": "Presenter validation: 30 slides, 30 notes, 45.0 planned minutes, 0 errors, 0 warnings."
+    },
+    "runtime-sync_validator": {
+      "passed": true,
+      "detail": "PASS  presenter CSS is byte-identical across 3 templates.\nPASS  presenter JavaScript is byte-identical across 3 templates."
+    }
+  },
+  "errors": [],
+  "visual_and_interaction": {
+    "status": "not_run",
+    "reason": "此前本地HTML自动访问被URL/自动审批策略拒绝；未使用其它URL或浏览器绕过。用户已验收六页样板，不等于验收本次30页。"
+  },
+  "html_sha256": "26f6df9681753b683bacdd457c12bb720b924f3b7a2fb03617fd9c97ca85cfaa"
+}

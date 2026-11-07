@@ -1,0 +1,40 @@
+{
+  "page_id": "luo-career-recognition",
+  "input_sha256": "d5ef12b3482c5c2988974ca95de35cdadb5f71b34448432f39b57435eff9ff70",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "assessments": [
+    {
+      "id": "L04",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "真实访谈截图配两阶段概括，来源和提炼分开"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L08",
+      "eligible": false,
+      "semantic_score": 0.7,
+      "reason": "时间顺序存在但缺少访谈证据图槽"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "非收尾行动"
+    },
+    {
+      "id": "L12",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "不做两张图片比较"
+    }
+  ],
+  "selected_id": "L04",
+  "selection_reason": "左访谈来源标题和原文截图，右选择时与学习后两个阶段，底部注明宣讲提炼。",
+  "layout_confirmed": true
+}

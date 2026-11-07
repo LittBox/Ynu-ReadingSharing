@@ -1,0 +1,1297 @@
+{
+  "id": "career-directions",
+  "title": "青年就业的八类方向",
+  "size": [
+    1920,
+    1080
+  ],
+  "texts": [
+    {
+      "text": "就业方向地图",
+      "box": [
+        96,
+        35.984375,
+        178.5625,
+        35
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 29.76,
+      "weight": "600",
+      "color": "#660874",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "z": 4,
+      "tag": "SPAN",
+      "cls": "ac-nav-chapter"
+    },
+    {
+      "text": "开场问题",
+      "box": [
+        375.25,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 7,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "理论命题",
+      "box": [
+        591.921875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 9,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "就业数据",
+      "box": [
+        808.609375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 11,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "方向地图",
+      "box": [
+        1025.296875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 13,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "能力证据",
+      "box": [
+        1241.984375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 15,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "案例经历",
+      "box": [
+        1458.671875,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 17,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "行动反思",
+      "box": [
+        1675.359375,
+        38.765625,
+        99.765625,
+        29
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 24.948,
+      "weight": "500",
+      "color": "#56515e",
+      "lineHeight": "32.4324px",
+      "letterSpacing": "normal",
+      "z": 19,
+      "tag": "BUTTON",
+      "cls": "ac-nav-bubble"
+    },
+    {
+      "text": "青年就业的八类方向",
+      "box": [
+        117.109375,
+        141.765625,
+        534.609375,
+        71
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 59.4,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "77.22px",
+      "letterSpacing": "normal",
+      "z": 22,
+      "tag": "H1",
+      "cls": "ac-title"
+    },
+    {
+      "text": "体制内",
+      "box": [
+        121.953125,
+        280.984375,
+        109.453125,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 28,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "国企",
+      "box": [
+        563.546875,
+        280.984375,
+        72.96875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 33,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "民企",
+      "box": [
+        1005.140625,
+        280.984375,
+        72.96875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 38,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "外企",
+      "box": [
+        1446.734375,
+        280.984375,
+        72.96875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 43,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "升学深造",
+      "box": [
+        121.953125,
+        571.875,
+        145.921875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 48,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "基层项目",
+      "box": [
+        563.546875,
+        571.875,
+        145.921875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 53,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "自由职业",
+      "box": [
+        1005.140625,
+        571.875,
+        145.921875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 58,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "军警",
+      "box": [
+        1446.734375,
+        571.875,
+        72.96875,
+        44
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 36.48,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "51.072px",
+      "letterSpacing": "normal",
+      "z": 63,
+      "tag": "H3",
+      "cls": "fd-card-heading"
+    },
+    {
+      "text": "先建立方向地图，再逐类考察入口与能力。",
+      "box": [
+        96,
+        844.828125,
+        746.890625,
+        47
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 39.312,
+      "weight": "600",
+      "color": "#660874",
+      "lineHeight": "58.968px",
+      "letterSpacing": "normal",
+      "z": 67,
+      "tag": "P",
+      "cls": "fd-takeaway"
+    },
+    {
+      "text": "分类沿用大纲，不是岗位推荐或排名。图标：Lucide（ISC）。",
+      "box": [
+        96,
+        952.546875,
+        625.078125,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 70,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "16 / 30",
+      "box": [
+        1752.265625,
+        952.546875,
+        71.734375,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 72,
+      "tag": "SPAN",
+      "cls": ""
+    }
+  ],
+  "shapes": [
+    {
+      "type": "fill",
+      "box": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc",
+      "radius": 0,
+      "z": 0
+    },
+    {
+      "type": "fill",
+      "box": [
+        326.39,
+        25.91,
+        197.48,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 6
+    },
+    {
+      "type": "fill",
+      "box": [
+        543.06,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 8
+    },
+    {
+      "type": "fill",
+      "box": [
+        759.75,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 10
+    },
+    {
+      "type": "fill",
+      "box": [
+        976.44,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#660874",
+      "radius": 999,
+      "z": 12
+    },
+    {
+      "type": "fill",
+      "box": [
+        1193.13,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 14
+    },
+    {
+      "type": "fill",
+      "box": [
+        1409.81,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 16
+    },
+    {
+      "type": "fill",
+      "box": [
+        1626.5,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 18
+    },
+    {
+      "type": "fill",
+      "box": [
+        96,
+        129.59,
+        576.83,
+        95.56
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 21
+    },
+    {
+      "type": "fill",
+      "box": [
+        96,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 26
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 26
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 26
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 26
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 26
+    },
+    {
+      "type": "fill",
+      "box": [
+        97,
+        265.03,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 27
+    },
+    {
+      "type": "fill",
+      "box": [
+        537.59,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 31
+    },
+    {
+      "type": "border",
+      "box": [
+        537.59,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 31
+    },
+    {
+      "type": "border",
+      "box": [
+        537.59,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 31
+    },
+    {
+      "type": "border",
+      "box": [
+        537.59,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 31
+    },
+    {
+      "type": "border",
+      "box": [
+        537.59,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 31
+    },
+    {
+      "type": "fill",
+      "box": [
+        538.59,
+        265.03,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 32
+    },
+    {
+      "type": "fill",
+      "box": [
+        979.19,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 36
+    },
+    {
+      "type": "border",
+      "box": [
+        979.19,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 36
+    },
+    {
+      "type": "border",
+      "box": [
+        979.19,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 36
+    },
+    {
+      "type": "border",
+      "box": [
+        979.19,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 36
+    },
+    {
+      "type": "border",
+      "box": [
+        979.19,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 36
+    },
+    {
+      "type": "fill",
+      "box": [
+        980.19,
+        265.03,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 37
+    },
+    {
+      "type": "fill",
+      "box": [
+        1420.78,
+        264.03,
+        403.22,
+        252.5
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 41
+    },
+    {
+      "type": "border",
+      "box": [
+        1420.78,
+        264.03,
+        403.22,
+        252.5
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 41
+    },
+    {
+      "type": "border",
+      "box": [
+        1420.78,
+        264.03,
+        403.22,
+        252.5
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 41
+    },
+    {
+      "type": "border",
+      "box": [
+        1420.78,
+        264.03,
+        403.22,
+        252.5
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 41
+    },
+    {
+      "type": "border",
+      "box": [
+        1420.78,
+        264.03,
+        403.22,
+        252.5
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 41
+    },
+    {
+      "type": "fill",
+      "box": [
+        1421.78,
+        265.03,
+        401.22,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 42
+    },
+    {
+      "type": "fill",
+      "box": [
+        96,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 46
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 46
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 46
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 46
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 46
+    },
+    {
+      "type": "fill",
+      "box": [
+        97,
+        555.92,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 47
+    },
+    {
+      "type": "fill",
+      "box": [
+        537.59,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 51
+    },
+    {
+      "type": "border",
+      "box": [
+        537.59,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 51
+    },
+    {
+      "type": "border",
+      "box": [
+        537.59,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 51
+    },
+    {
+      "type": "border",
+      "box": [
+        537.59,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 51
+    },
+    {
+      "type": "border",
+      "box": [
+        537.59,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 51
+    },
+    {
+      "type": "fill",
+      "box": [
+        538.59,
+        555.92,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 52
+    },
+    {
+      "type": "fill",
+      "box": [
+        979.19,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 56
+    },
+    {
+      "type": "border",
+      "box": [
+        979.19,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 56
+    },
+    {
+      "type": "border",
+      "box": [
+        979.19,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 56
+    },
+    {
+      "type": "border",
+      "box": [
+        979.19,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 56
+    },
+    {
+      "type": "border",
+      "box": [
+        979.19,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 56
+    },
+    {
+      "type": "fill",
+      "box": [
+        980.19,
+        555.92,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 57
+    },
+    {
+      "type": "fill",
+      "box": [
+        1420.78,
+        554.92,
+        403.22,
+        252.52
+      ],
+      "fill": "#ffffff",
+      "radius": 0,
+      "z": 61
+    },
+    {
+      "type": "border",
+      "box": [
+        1420.78,
+        554.92,
+        403.22,
+        252.52
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 61
+    },
+    {
+      "type": "border",
+      "box": [
+        1420.78,
+        554.92,
+        403.22,
+        252.52
+      ],
+      "edge": "Right",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 61
+    },
+    {
+      "type": "border",
+      "box": [
+        1420.78,
+        554.92,
+        403.22,
+        252.52
+      ],
+      "edge": "Bottom",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 61
+    },
+    {
+      "type": "border",
+      "box": [
+        1420.78,
+        554.92,
+        403.22,
+        252.52
+      ],
+      "edge": "Left",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 61
+    },
+    {
+      "type": "fill",
+      "box": [
+        1421.78,
+        555.92,
+        401.22,
+        76.98
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 62
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        937.67,
+        1728,
+        45.14
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 68
+    }
+  ],
+  "images": [],
+  "svgs": [
+    {
+      "box": [
+        240,
+        371.17,
+        115.19,
+        115.19
+      ],
+      "xml": "<svg class=\"fd-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M10 18v-7\"/>\n  <path d=\"M11.119 2.205a2 2 0 0 1 1.762 0l7.84 3.846A.5.5 0 0 1 20.5 7h-17a.5.5 0 0 1-.22-.949z\"/>\n  <path d=\"M14 18v-7\"/>\n  <path d=\"M18 18v-7\"/>\n  <path d=\"M3 22h18\"/>\n  <path d=\"M6 18v-7\"/>\n</svg>",
+      "color": "rgb(37, 35, 42)",
+      "z": 30,
+      "path": "assets/icon_0.png",
+      "source": "assets/icon_0.svg",
+      "source_sha256": "d0eb9702301621224ff4e7d6cdb1120ee83a92fb0eb6223a640a273222ce8f7d",
+      "asset_sha256": "2dda751c4872016b4cdf8248614974af7dd46bd40a39ab478e1d2a396aab9db9",
+      "resolved_css": {
+        "stroke": "#660874",
+        "strokeWidth": 1.6,
+        "fill": "none"
+      }
+    },
+    {
+      "box": [
+        681.59,
+        371.17,
+        115.19,
+        115.19
+      ],
+      "xml": "<svg class=\"fd-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z\"/>\n  <path d=\"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2\"/>\n  <path d=\"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2\"/>\n  <path d=\"M10 6h4\"/>\n  <path d=\"M10 10h4\"/>\n  <path d=\"M10 14h4\"/>\n  <path d=\"M10 18h4\"/>\n</svg>",
+      "color": "rgb(37, 35, 42)",
+      "z": 35,
+      "path": "assets/icon_1.png",
+      "source": "assets/icon_1.svg",
+      "source_sha256": "427282a68ff7573d187742bb3ac404f375e0319e116774134bf54271ce4a0bf5",
+      "asset_sha256": "c601727626168364858fd2b98a73490a932538646395a036c9e197c56418a782",
+      "resolved_css": {
+        "stroke": "#660874",
+        "strokeWidth": 1.6,
+        "fill": "none"
+      }
+    },
+    {
+      "box": [
+        1123.19,
+        371.17,
+        115.19,
+        115.19
+      ],
+      "xml": "<svg class=\"fd-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M12 12h.01\"/>\n  <path d=\"M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2\"/>\n  <path d=\"M22 13a18.15 18.15 0 0 1-20 0\"/>\n  <rect width=\"20\" height=\"14\" x=\"2\" y=\"6\" rx=\"2\"/>\n</svg>",
+      "color": "rgb(37, 35, 42)",
+      "z": 40,
+      "path": "assets/icon_2.png",
+      "source": "assets/icon_2.svg",
+      "source_sha256": "bc9087b79f506e1f541339d16f4ff2d6ae49c6c1c530150614c843d2a875c440",
+      "asset_sha256": "0464c7135a8997cae0383d782004770041293583010bc7a28be6dc601aec7998",
+      "resolved_css": {
+        "stroke": "#660874",
+        "strokeWidth": 1.6,
+        "fill": "none"
+      }
+    },
+    {
+      "box": [
+        1564.8,
+        371.17,
+        115.19,
+        115.19
+      ],
+      "xml": "<svg class=\"fd-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20\"/>\n  <path d=\"M2 12h20\"/>\n</svg>",
+      "color": "rgb(37, 35, 42)",
+      "z": 45,
+      "path": "assets/icon_3.png",
+      "source": "assets/icon_3.svg",
+      "source_sha256": "e34aa211d71d1f4c467eddd8995bc2f94f29fce413f0d03dc43bfef038244b8e",
+      "asset_sha256": "6b6c238c6ad698b55e0c2c5563eddf3823bfeff8f5b161559bf9e7f5be27763f",
+      "resolved_css": {
+        "stroke": "#660874",
+        "strokeWidth": 1.6,
+        "fill": "none"
+      }
+    },
+    {
+      "box": [
+        240,
+        662.08,
+        115.19,
+        115.19
+      ],
+      "xml": "<svg class=\"fd-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z\"/>\n  <path d=\"M22 10v6\"/>\n  <path d=\"M6 12.5V16a6 3 0 0 0 12 0v-3.5\"/>\n</svg>",
+      "color": "rgb(37, 35, 42)",
+      "z": 50,
+      "path": "assets/icon_4.png",
+      "source": "assets/icon_4.svg",
+      "source_sha256": "2018eda581c02fb2977904da312d7567d1ddfc421d454bd107a9d09c64114cbd",
+      "asset_sha256": "f63f74e4fe03809e968d7cdd269cabc343b9c99e86d08727dc40ea151395bfe0",
+      "resolved_css": {
+        "stroke": "#660874",
+        "strokeWidth": 1.6,
+        "fill": "none"
+      }
+    },
+    {
+      "box": [
+        681.59,
+        662.08,
+        115.19,
+        115.19
+      ],
+      "xml": "<svg class=\"fd-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M15 22a1 1 0 0 1-1-1v-4a1 1 0 0 1 .445-.832l3-2a1 1 0 0 1 1.11 0l3 2A1 1 0 0 1 22 17v4a1 1 0 0 1-1 1z\"/>\n  <path d=\"M18 10a8 8 0 0 0-16 0c0 4.993 5.539 10.193 7.399 11.799a1 1 0 0 0 .601.2\"/>\n  <path d=\"M18 22v-3\"/>\n  <circle cx=\"10\" cy=\"10\" r=\"3\"/>\n</svg>",
+      "color": "rgb(37, 35, 42)",
+      "z": 55,
+      "path": "assets/icon_5.png",
+      "source": "assets/icon_5.svg",
+      "source_sha256": "de64ab7df7d96a760b99040687037f1dfd78b4f73e4ac6336708a81dbf734fd3",
+      "asset_sha256": "7d330a3e81803a927151eb3ec3b375d797ebed70225290995203c0a92e1c1a13",
+      "resolved_css": {
+        "stroke": "#660874",
+        "strokeWidth": 1.6,
+        "fill": "none"
+      }
+    },
+    {
+      "box": [
+        1123.19,
+        662.08,
+        115.19,
+        115.19
+      ],
+      "xml": "<svg class=\"fd-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M20 16V7a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v9m16 0H4m16 0 1.28 2.55a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45L4 16\"/>\n</svg>",
+      "color": "rgb(37, 35, 42)",
+      "z": 60,
+      "path": "assets/icon_6.png",
+      "source": "assets/icon_6.svg",
+      "source_sha256": "6d606607d51cba8ddb510ef488046bebdfaf87ef2ed734361e331b5ee54d447b",
+      "asset_sha256": "13987ca2078d5fd3b6e1b243509fa6b6cd41b5b1b9b84312e9edd0c9a906207d",
+      "resolved_css": {
+        "stroke": "#660874",
+        "strokeWidth": 1.6,
+        "fill": "none"
+      }
+    },
+    {
+      "box": [
+        1564.8,
+        662.08,
+        115.19,
+        115.19
+      ],
+      "xml": "<svg class=\"fd-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z\"/>\n  <path d=\"m9 12 2 2 4-4\"/>\n</svg>",
+      "color": "rgb(37, 35, 42)",
+      "z": 65,
+      "path": "assets/icon_7.png",
+      "source": "assets/icon_7.svg",
+      "source_sha256": "4963dcbff4b3580bf1fdec28a6a09f33d037df9b28fc0685f82adcb7da18b2b9",
+      "asset_sha256": "9a99a950bd1e9563cd5c9dd6ebea1ca26c54ed2803e6668e34eef9c1aeb8958c",
+      "resolved_css": {
+        "stroke": "#660874",
+        "strokeWidth": 1.6,
+        "fill": "none"
+      }
+    }
+  ]
+}

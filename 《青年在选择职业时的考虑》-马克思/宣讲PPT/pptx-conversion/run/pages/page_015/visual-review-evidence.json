@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_015",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_015/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_015/render/rendered.png",
+      "source_sha256": "961013a5523e297ff04adffa2d38bbd8f74ace1e89f5d21f2ab71cb0ad5124f8",
+      "rendered_sha256": "571f76509680f686d651798c39f3ebca87ca6d06b961f7b240958694b4d52960",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Three equal bordered cards with purple header strips match source, retaining central body text and the bottom three-stage takeaway.",
+        "text_content": "All three headings and complete body sentences remain native text with original source line breaks; bottom wording split into three editable phrase spans.",
+        "object_completeness": "Three card frames and headers, numbered labels, body text, title, footer and two progression arrows all appear once.",
+        "render_integrity": "Actual LibreOffice output has clean sans Chinese, no overflow or duplicate glyphs; this page is entirely native text and geometry.",
+        "arrow_geometry": "Two thin native connectors at source x266–302 and x484–520, y873 point right between the three phrases; each owns its small triangle head on one object."
+      }
+    }
+  ]
+}

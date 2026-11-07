@@ -1,0 +1,1337 @@
+{
+  "schema_version": 2,
+  "slide": {
+    "width": 13.333,
+    "height": 7.5,
+    "size_mode": "wide",
+    "background": "#fbfafc"
+  },
+  "content_box": {
+    "left": 0,
+    "top": 9.374999999955946e-05,
+    "width": 13.333,
+    "height": 7.499812500000001,
+    "fit": "contain"
+  },
+  "source": {
+    "path": "source.png",
+    "width_px": 1920,
+    "height_px": 1080
+  },
+  "page_strategy": "Retain measured source composition; editable text and layout primitives; explicitly approved original visual assets.",
+  "text_inventory": [
+    "开场引入",
+    "开场问题",
+    "理论命题",
+    "就业数据",
+    "方向地图",
+    "能力证据",
+    "案例经历",
+    "行动反思",
+    "开场新闻：青年就业环境",
+    "国家统计局 · 2026-09-15",
+    "答记者问就业段落 · 原网页截图",
+    "新闻事实",
+    "2026年8月，全国城镇调查失业率为5.3%，较上月上升",
+    "0.1个百分点。",
+    "国家统计局指出，主要受新毕业学生集中进入劳动力市",
+    "场的季节性影响。",
+    "思考入口",
+    "当环境变化时，我们如何理解自己的选择？",
+    "这里是全国城镇总体指标，不是青年专属失业率。",
+    "来源：",
+    "国家统计局，2026-09-15",
+    "。",
+    "02 / 30"
+  ],
+  "visual_inventory": [
+    {
+      "id": "asset_000",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/image_0.png",
+      "description": "国家统计局 · 2026-09-15"
+    },
+    {
+      "id": "asset_001",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/image_1.png",
+      "description": "答记者问就业段落 · 原网页截图"
+    },
+    {
+      "id": "native-layout",
+      "kind": "native-structure",
+      "representation": "native",
+      "description": "Measured editable solid panels, borders, table rows, and page navigation."
+    }
+  ],
+  "background_strategy": {
+    "mode": "native-or-script",
+    "source_consistency_contract": "Solid source fills, measured panel bounds, original purple palette and positions are preserved.",
+    "removed_foreground": "No flattened source background; all readable HTML text is represented by native text boxes.",
+    "comparison_note": "Solid background and panel fills are measured directly from source HTML."
+  },
+  "quality_checks": {
+    "font_size_calibrated": true,
+    "visual_inventory_matched": true,
+    "background_strategy_checked": true,
+    "shape_corner_geometry_checked": true
+  },
+  "quality_evidence": {
+    "font_size_calibrated": {
+      "observation": "Source Han Sans metrics verified in render; news paragraph size reduced four percent together to retain its original two-line wrapping within the right card.",
+      "artifact": "source-dom.json"
+    },
+    "visual_inventory_matched": {
+      "observation": "All 2 source visual assets and 32 layout shapes are inventoried individually.",
+      "artifact": "source-dom.json"
+    },
+    "background_strategy_checked": {
+      "observation": "Source two-column composition retained; lower panels end above footer and screenshot caption moved up to remove overlap already present in HTML.",
+      "artifact": "source-dom.json"
+    },
+    "shape_corner_geometry_checked": {
+      "observation": "Round rectangles use measured CSS radius constrained to source dimensions; table lines remain straight.",
+      "artifact": "source-dom.json"
+    }
+  },
+  "text_boxes": [
+    {
+      "id": "text_000",
+      "text": "开场引入",
+      "box_px": [
+        96,
+        35.984375,
+        124.046875,
+        38
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 14.88,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 45
+    },
+    {
+      "id": "text_001",
+      "text": "开场问题",
+      "box_px": [
+        375.25,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 75
+    },
+    {
+      "id": "text_002",
+      "text": "理论命题",
+      "box_px": [
+        591.921875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 95
+    },
+    {
+      "id": "text_003",
+      "text": "就业数据",
+      "box_px": [
+        808.609375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 115
+    },
+    {
+      "id": "text_004",
+      "text": "方向地图",
+      "box_px": [
+        1025.296875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 135
+    },
+    {
+      "id": "text_005",
+      "text": "能力证据",
+      "box_px": [
+        1241.984375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 155
+    },
+    {
+      "id": "text_006",
+      "text": "案例经历",
+      "box_px": [
+        1458.671875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 175
+    },
+    {
+      "id": "text_007",
+      "text": "行动反思",
+      "box_px": [
+        1675.359375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 195
+    },
+    {
+      "id": "text_008",
+      "text": "开场新闻：青年就业环境",
+      "box_px": [
+        96,
+        132.59375,
+        658.40625,
+        74
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 29.699,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 225
+    },
+    {
+      "id": "text_009",
+      "text": "国家统计局 · 2026-09-15",
+      "box_px": [
+        116.1875,
+        571.40625,
+        227.984375,
+        26
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.08,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 305
+    },
+    {
+      "id": "text_010",
+      "text": "答记者问就业段落 · 原网页截图",
+      "box_px": [
+        116.1875,
+        905,
+        283.90625,
+        26
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.08,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 355
+    },
+    {
+      "id": "text_011",
+      "text": "新闻事实",
+      "box_px": [
+        956.46875,
+        262.640625,
+        150.921875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 395
+    },
+    {
+      "id": "text_012",
+      "text": "2026年8月，全国城镇调查失业率为5.3%，较上月上升",
+      "box_px": [
+        956.46875,
+        353.265625,
+        840.328125,
+        43
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 16.59,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 425
+    },
+    {
+      "id": "text_013",
+      "text": "0.1个百分点。",
+      "box_px": [
+        956.46875,
+        410.28125,
+        225.84375,
+        43
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 16.59,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 435
+    },
+    {
+      "id": "text_014",
+      "text": "国家统计局指出，主要受新毕业学生集中进入劳动力市",
+      "box_px": [
+        956.46875,
+        483.484375,
+        834.453125,
+        43
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 16.59,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 455
+    },
+    {
+      "id": "text_015",
+      "text": "场的季节性影响。",
+      "box_px": [
+        956.46875,
+        540.5,
+        281.484375,
+        43
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 16.59,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 465
+    },
+    {
+      "id": "text_016",
+      "text": "思考入口",
+      "box_px": [
+        956.46875,
+        650.65625,
+        150.921875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 495
+    },
+    {
+      "id": "text_017",
+      "text": "当环境变化时，我们如何理解自己的选择？",
+      "box_px": [
+        956.46875,
+        794.3125,
+        751.890625,
+        50
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 19.656,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 525
+    },
+    {
+      "id": "text_018",
+      "text": "这里是全国城镇总体指标，不是青年专属失业率。",
+      "box_px": [
+        956.46875,
+        872.46875,
+        765.328125,
+        43
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 17.28,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 545
+    },
+    {
+      "id": "text_019",
+      "text": "来源：",
+      "box_px": [
+        96,
+        952.546875,
+        74.125,
+        30
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 575
+    },
+    {
+      "id": "text_020",
+      "text": "国家统计局，2026-09-15",
+      "box_px": [
+        165.125,
+        952.546875,
+        263.65625,
+        30
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 595
+    },
+    {
+      "id": "text_021",
+      "text": "。",
+      "box_px": [
+        423.78125,
+        952.546875,
+        28.046875,
+        30
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 605
+    },
+    {
+      "id": "text_022",
+      "text": "02 / 30",
+      "box_px": [
+        1752.265625,
+        952.546875,
+        76.734375,
+        30
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 625
+    }
+  ],
+  "shapes": [
+    {
+      "id": "shape_000",
+      "z_index": 0,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc"
+    },
+    {
+      "id": "shape_001",
+      "z_index": 60,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        326.39,
+        25.91,
+        197.48,
+        56.16
+      ],
+      "fill": "#660874",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "chapter_marker_1",
+      "type": "rect",
+      "box_px": [
+        363.2252,
+        81.07,
+        21.12,
+        11.34
+      ],
+      "polygon_px": [
+        [
+          363.2252,
+          81.07
+        ],
+        [
+          384.3452,
+          81.07
+        ],
+        [
+          373.7852,
+          92.41
+        ]
+      ],
+      "fill": "#660874",
+      "stroke": "none",
+      "z_index": 61
+    },
+    {
+      "id": "shape_002",
+      "z_index": 80,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        543.06,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_003",
+      "z_index": 100,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        759.75,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_004",
+      "z_index": 120,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        976.44,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_005",
+      "z_index": 140,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1193.13,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_006",
+      "z_index": 160,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1409.81,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_007",
+      "z_index": 180,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1626.5,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_008",
+      "z_index": 260,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        245.69,
+        776.92,
+        369.13
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_009",
+      "z_index": 260,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        245.69,
+        872.92,
+        245.69
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_010",
+      "z_index": 260,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        872.92,
+        245.69,
+        872.92,
+        614.8199999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_011",
+      "z_index": 260,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        614.8199999999999,
+        872.92,
+        614.8199999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_012",
+      "z_index": 260,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        245.69,
+        96,
+        614.8199999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_013",
+      "z_index": 310,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        631,
+        776.92,
+        294
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_014",
+      "z_index": 310,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        631,
+        872.92,
+        631
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_015",
+      "z_index": 310,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        872.92,
+        631,
+        872.92,
+        925
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_016",
+      "z_index": 310,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        925,
+        872.92,
+        925
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_017",
+      "z_index": 310,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        631,
+        96,
+        925
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_018",
+      "z_index": 370,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        930.52,
+        245.69,
+        893.47,
+        366.42
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_019",
+      "z_index": 370,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        930.52,
+        245.69,
+        1823.99,
+        245.69
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_020",
+      "z_index": 370,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1823.99,
+        245.69,
+        1823.99,
+        612.11
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_021",
+      "z_index": 370,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        930.52,
+        612.11,
+        1823.99,
+        612.11
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_022",
+      "z_index": 370,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        930.52,
+        245.69,
+        930.52,
+        612.11
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_023",
+      "z_index": 380,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        931.52,
+        246.69,
+        891.47,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_024",
+      "z_index": 470,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        930.52,
+        633.7,
+        893.47,
+        291.29999999999995
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_025",
+      "z_index": 470,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        930.52,
+        633.7,
+        1823.99,
+        633.7
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_026",
+      "z_index": 470,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1823.99,
+        633.7,
+        1823.99,
+        925
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_027",
+      "z_index": 470,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        930.52,
+        925,
+        1823.99,
+        925
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_028",
+      "z_index": 470,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        930.52,
+        633.7,
+        930.52,
+        925
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_029",
+      "z_index": 480,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        931.52,
+        634.7,
+        891.47,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_030",
+      "z_index": 550,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        937.67,
+        1824,
+        937.67
+      ],
+      "stroke_width": 0.4999875
+    }
+  ],
+  "images": [
+    {
+      "id": "asset_000",
+      "path": "assets/image_0.png",
+      "box_px": [
+        116.19,
+        262.88,
+        443.595,
+        295.73
+      ],
+      "alt": "国家统计局 · 2026-09-15",
+      "z_index": 282
+    },
+    {
+      "id": "asset_001",
+      "path": "assets/image_1.png",
+      "box_px": [
+        116.19,
+        641,
+        736.55,
+        258.200184501845
+      ],
+      "alt": "答记者问就业段落 · 原网页截图",
+      "z_index": 332
+    }
+  ],
+  "asset_provenance": [
+    {
+      "path": "assets/image_0.png",
+      "source": "assets/image_0.png",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "c29df649ebd06fb1bc24ed5c5a2253008c704cfba5acad0651a58b2d8fb20deb",
+      "asset_sha256": "c29df649ebd06fb1bc24ed5c5a2253008c704cfba5acad0651a58b2d8fb20deb",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions."
+    },
+    {
+      "path": "assets/image_1.png",
+      "source": "assets/image_1.png",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "0fea9486c64341bbd17974c381ed76949f8c8b7d9200b5238dd87c57ac48a623",
+      "asset_sha256": "0fea9486c64341bbd17974c381ed76949f8c8b7d9200b5238dd87c57ac48a623",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions."
+    }
+  ],
+  "image2ppt_region_decomposition": {
+    "schema_version": "image2ppt-region-decomposition-v1",
+    "page_complexity": "structured",
+    "source_size_px": [
+      1920,
+      1080
+    ],
+    "regions": [
+      {
+        "id": "heading",
+        "label": "Chapter navigation and title",
+        "source_bbox_px": [
+          0,
+          0,
+          1920,
+          235
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_000",
+            "shape_001",
+            "chapter_marker_1",
+            "shape_002",
+            "shape_003",
+            "shape_004",
+            "shape_005",
+            "shape_006",
+            "shape_007"
+          ],
+          "text_boxes": [
+            "text_000",
+            "text_001",
+            "text_002",
+            "text_003",
+            "text_004",
+            "text_005",
+            "text_006",
+            "text_007",
+            "text_008"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_000",
+            "kind": "card-edge",
+            "manifest_id": "shape_000",
+            "source_bbox_px": [
+              0,
+              0,
+              1920,
+              1080
+            ]
+          },
+          {
+            "id": "anchor_shape_001",
+            "kind": "card-edge",
+            "manifest_id": "shape_001",
+            "source_bbox_px": [
+              326.39,
+              25.91,
+              197.48,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_chapter_marker_1",
+            "kind": "card-edge",
+            "manifest_id": "chapter_marker_1",
+            "source_bbox_px": [
+              363.2252,
+              81.07,
+              21.12,
+              11.34
+            ]
+          },
+          {
+            "id": "anchor_shape_002",
+            "kind": "card-edge",
+            "manifest_id": "shape_002",
+            "source_bbox_px": [
+              543.06,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_003",
+            "kind": "card-edge",
+            "manifest_id": "shape_003",
+            "source_bbox_px": [
+              759.75,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_004",
+            "kind": "card-edge",
+            "manifest_id": "shape_004",
+            "source_bbox_px": [
+              976.44,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_005",
+            "kind": "card-edge",
+            "manifest_id": "shape_005",
+            "source_bbox_px": [
+              1193.13,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_006",
+            "kind": "card-edge",
+            "manifest_id": "shape_006",
+            "source_bbox_px": [
+              1409.81,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_007",
+            "kind": "card-edge",
+            "manifest_id": "shape_007",
+            "source_bbox_px": [
+              1626.5,
+              25.91,
+              197.5,
+              56.16
+            ]
+          }
+        ]
+      },
+      {
+        "id": "content",
+        "label": "Main content and source visuals",
+        "source_bbox_px": [
+          0,
+          235,
+          1920,
+          695
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_008",
+            "shape_009",
+            "shape_010",
+            "shape_011",
+            "shape_012",
+            "shape_013",
+            "shape_014",
+            "shape_015",
+            "shape_017",
+            "shape_018",
+            "shape_019",
+            "shape_020",
+            "shape_021",
+            "shape_022",
+            "shape_023",
+            "shape_024",
+            "shape_025",
+            "shape_026",
+            "shape_028",
+            "shape_029"
+          ],
+          "text_boxes": [
+            "text_009",
+            "text_011",
+            "text_012",
+            "text_013",
+            "text_014",
+            "text_015",
+            "text_016",
+            "text_017",
+            "text_018",
+            "text_010"
+          ],
+          "images": [
+            "asset_000",
+            "asset_001"
+          ]
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_008",
+            "kind": "card-edge",
+            "manifest_id": "shape_008",
+            "source_bbox_px": [
+              96,
+              245.69,
+              776.92,
+              369.13
+            ]
+          },
+          {
+            "id": "anchor_shape_013",
+            "kind": "card-edge",
+            "manifest_id": "shape_013",
+            "source_bbox_px": [
+              96,
+              631,
+              776.92,
+              294
+            ]
+          },
+          {
+            "id": "anchor_shape_018",
+            "kind": "card-edge",
+            "manifest_id": "shape_018",
+            "source_bbox_px": [
+              930.52,
+              245.69,
+              893.47,
+              366.42
+            ]
+          },
+          {
+            "id": "anchor_shape_023",
+            "kind": "card-edge",
+            "manifest_id": "shape_023",
+            "source_bbox_px": [
+              931.52,
+              246.69,
+              891.47,
+              76.98
+            ]
+          },
+          {
+            "id": "anchor_shape_024",
+            "kind": "card-edge",
+            "manifest_id": "shape_024",
+            "source_bbox_px": [
+              930.52,
+              633.7,
+              893.47,
+              291.29999999999995
+            ]
+          },
+          {
+            "id": "anchor_shape_029",
+            "kind": "card-edge",
+            "manifest_id": "shape_029",
+            "source_bbox_px": [
+              931.52,
+              634.7,
+              891.47,
+              76.98
+            ]
+          }
+        ]
+      },
+      {
+        "id": "footer",
+        "label": "Source citation and page number",
+        "source_bbox_px": [
+          0,
+          930,
+          1920,
+          150
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_016",
+            "shape_027",
+            "shape_030"
+          ],
+          "text_boxes": [
+            "text_019",
+            "text_020",
+            "text_021",
+            "text_022"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,1605 @@
+{
+  "title": "第一份工作，只是起点",
+  "format": "native HTML presentation",
+  "pages": 30,
+  "minutes": 45,
+  "validation": "static_pass_visual_pending",
+  "cleanup_date": "2026-10-19",
+  "files": [
+    {
+      "path": "assets/icons/FULL-DECK-SOURCES.md",
+      "bytes": 114,
+      "sha256": "8d8caebe479aa9f255d07bac77a8ca8f04d591c9c4cec71c09323d635da5d2bc"
+    },
+    {
+      "path": "assets/icons/LICENSE",
+      "bytes": 3208,
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+    },
+    {
+      "path": "assets/icons/SOURCES.md",
+      "bytes": 235,
+      "sha256": "d9c603854b5889d7496b61ceb6e10f4963b027216227a67e5367b3dbcdc9195b"
+    },
+    {
+      "path": "assets/icons/briefcase-business.svg",
+      "bytes": 478,
+      "sha256": "ec4df49eaa2cfd561c6eadb64e37e8adc40dd37ea42f780dd194fa8329434082"
+    },
+    {
+      "path": "assets/icons/building-2.svg",
+      "bytes": 553,
+      "sha256": "b8e1a849a72553128b8f4e565033ab756daf2160de3ec9ec41ccd47058942d47"
+    },
+    {
+      "path": "assets/icons/clipboard-check.svg",
+      "bytes": 383,
+      "sha256": "e2bac86a6b24caa0d7d0dcc2719ec6b7870ec5eef2d21afae498d8cb5eefda96"
+    },
+    {
+      "path": "assets/icons/flame.svg",
+      "bytes": 314,
+      "sha256": "cede1462a46a7a3b3daf9d101f0b59484b1d882a4c42a75670810a6d4f8d42fb"
+    },
+    {
+      "path": "assets/icons/globe.svg",
+      "bytes": 408,
+      "sha256": "c3543ac3883a0841aa5d37ff974708fbc37d9c6afe64e14b03d56ed798b0b788"
+    },
+    {
+      "path": "assets/icons/graduation-cap.svg",
+      "bytes": 498,
+      "sha256": "334449ffe064e5cfdc2746ad45a8a4674949b15827e72ad7944d9e88cabefdb5"
+    },
+    {
+      "path": "assets/icons/landmark.svg",
+      "bytes": 432,
+      "sha256": "28408ef995796bffc390e8f217cdaa61e383627789d66300d4ff839248a3f144"
+    },
+    {
+      "path": "assets/icons/laptop.svg",
+      "bytes": 410,
+      "sha256": "76082a476fdd7c6762dc750d75c51c15952e08bb4bad75bebce87403bfea9e77"
+    },
+    {
+      "path": "assets/icons/map-pin-house.svg",
+      "bytes": 558,
+      "sha256": "49d05b116006e0b8837de428240f9e95cc307b1d5a59185975eb11077ba2f3de"
+    },
+    {
+      "path": "assets/icons/scale.svg",
+      "bytes": 395,
+      "sha256": "a7faa238b153311b18aaffb14ade8989128eaac35a92482edb7a7ee04c7333de"
+    },
+    {
+      "path": "assets/icons/shield-check.svg",
+      "bytes": 499,
+      "sha256": "0e9116845c6053cd3bfa09a3e4c232f5fb28c3abab75792287d2aed31c24ebe7"
+    },
+    {
+      "path": "assets/motion.min.js",
+      "bytes": 64206,
+      "sha256": "45615c1e7639fb9828942d0689c897e745690b0f6df13022223c9409fc01557c"
+    },
+    {
+      "path": "images/02-nbs-source-header.png",
+      "bytes": 761334,
+      "sha256": "c29df649ebd06fb1bc24ed5c5a2253008c704cfba5acad0651a58b2d8fb20deb"
+    },
+    {
+      "path": "images/02-nbs-source.png",
+      "bytes": 253544,
+      "sha256": "0fea9486c64341bbd17974c381ed76949f8c8b7d9200b5238dd87c57ac48a623"
+    },
+    {
+      "path": "images/02-nbs-source.png.json",
+      "bytes": 189,
+      "sha256": "fae580dca701acb43b1267c6a67198dec7cf9df03a52f99a1814354178db100a"
+    },
+    {
+      "path": "images/07-career-paths.png",
+      "bytes": 1397153,
+      "sha256": "9edb43a9a3f43f1b44f2aa7808279453bcb8e924709a6e986d9f81cbd8f9abaa"
+    },
+    {
+      "path": "images/07-career-paths.prompt.txt",
+      "bytes": 625,
+      "sha256": "907867ad5f7069817ba44e55cae6674e14687368c7c6066bdec0f4da4e261adb"
+    },
+    {
+      "path": "images/09-marx-examination.png",
+      "bytes": 59274,
+      "sha256": "a4908efe229099fa9b067f3c1876968354208c6b2ab666c9e30e6848a24a9d43"
+    },
+    {
+      "path": "images/09-marx-humanity.png",
+      "bytes": 64436,
+      "sha256": "68a7747be343f0081ce4964bc571c3f43ac561bd0dc99801615670855c50d926"
+    },
+    {
+      "path": "images/11-source-thepaper.png",
+      "bytes": 160047,
+      "sha256": "8df8015177b25ef37c1a4fa44ad8cfe0bb6f96da35373e3ebb29a5b69337e305"
+    },
+    {
+      "path": "images/11-source-thepaper.source.json",
+      "bytes": 548,
+      "sha256": "b100d9b31b56ca5f9366667f3b284c8c4ff064f6a97ed8ea33f7d2f7452e1957"
+    },
+    {
+      "path": "images/12-destination-source.png",
+      "bytes": 400271,
+      "sha256": "15a1fe28cb30763b1dd22cb1762104e019cffeca17e8f17e4df8238201190e00"
+    },
+    {
+      "path": "images/12-graduates-source.png",
+      "bytes": 102589,
+      "sha256": "9495f76d047e9293d61769ccafebf6a1886aaddb004f553341b5e3401807ca80"
+    },
+    {
+      "path": "images/12-graduates-source.png.json",
+      "bytes": 191,
+      "sha256": "9f08eec17206758990019498bb57c8fedd21eb722209810e3595887345000325"
+    },
+    {
+      "path": "images/13-industry-source-header.png",
+      "bytes": 581710,
+      "sha256": "d66a7fc00f3e64259b1fdd1f1e860d5886a706e4cbf0ea4555647d79ecfbb7c7"
+    },
+    {
+      "path": "images/13-industry-source.png",
+      "bytes": 150472,
+      "sha256": "f0e3f6398453aad67b6f688887133a3983f18d11a1732be2ddce458deb22eecd"
+    },
+    {
+      "path": "images/13-industry-source.png.json",
+      "bytes": 187,
+      "sha256": "22c4133fbee3cf9582c82ae90535cf440f403cab88ce916aa6a2901903a5adc4"
+    },
+    {
+      "path": "images/14-civil-source-header.png",
+      "bytes": 447646,
+      "sha256": "865d1e4652cc1fb76a85c4e25643b983b64f722d8f5b62d123ab9bc0f3842be0"
+    },
+    {
+      "path": "images/14-civil-source.png.json",
+      "bytes": 193,
+      "sha256": "3038cf733a45f00f44cfccb7bb296012f7651d66057ea6638508b0bac76f63a4"
+    },
+    {
+      "path": "images/14-postgrad-source-header.png",
+      "bytes": 527619,
+      "sha256": "50fb397ffc78308465cc86beec36c9ccde04a8253871433ab94d1140dcd40a62"
+    },
+    {
+      "path": "images/14-postgrad-source.png.json",
+      "bytes": 192,
+      "sha256": "4a3dd737d8d294e45305fa0d7bc23747c6b0f748d037c77a17a777bf98667374"
+    },
+    {
+      "path": "images/17-public-and-enterprise.png",
+      "bytes": 1407387,
+      "sha256": "6864c1910c58d18e5546986be084096994bbdc9a4794b48d2d682fa360ae56fd"
+    },
+    {
+      "path": "images/17-public-and-enterprise.prompt.txt",
+      "bytes": 601,
+      "sha256": "db2c8c80dc5232bb5320429b8df706a7a84517fb7a9f8c701b84f1fd6e1b947d"
+    },
+    {
+      "path": "images/19-study-and-community.png",
+      "bytes": 1486413,
+      "sha256": "c1cd0198747ee7e5fe843efd37d6cdb2a526c25608336331763b2b74969d471e"
+    },
+    {
+      "path": "images/19-study-and-community.prompt.txt",
+      "bytes": 619,
+      "sha256": "45026613ea873020857f44edb870230d5d0cf72f39881edcd86b973b2630dd68"
+    },
+    {
+      "path": "images/25-evidence-conversation.png",
+      "bytes": 1529761,
+      "sha256": "357697d4d6de330307c597c3f9ea9a32c9da993692e2c483959e508cbb95b208"
+    },
+    {
+      "path": "images/25-evidence-conversation.prompt.txt",
+      "bytes": 656,
+      "sha256": "c24ec1d41f71ee40fbe40d60af1a47a45c1fd12143d55252c19090e7c377b49b"
+    },
+    {
+      "path": "images/27-luo-interview-source-header.png",
+      "bytes": 118623,
+      "sha256": "938d718e422e05eb98583ed5ad505e878be4184dc1443697f4a8858d0b33b2c1"
+    },
+    {
+      "path": "images/27-luo-interview-source.png",
+      "bytes": 84713,
+      "sha256": "81ae308fd94b8077b3c7e928820e0499d4778c70915857ed89491650db9ee738"
+    },
+    {
+      "path": "images/27-luo-interview-source.png.json",
+      "bytes": 375,
+      "sha256": "04e239b9adc2f3f595170161313010dd90d503725d40a8c7506d5a0bc4d614d7"
+    },
+    {
+      "path": "images/30-career-exploration-minimal.png",
+      "bytes": 1186714,
+      "sha256": "9db63f0ea71b2a80aa5e1c940099ab0cf40c10d7c0fd5e49c32112d4b5b7cb46"
+    },
+    {
+      "path": "images/30-career-exploration-minimal.prompt.md",
+      "bytes": 1484,
+      "sha256": "a5f2a26e89a094d961c4ad05d14d7754e31527c100312b1f99fafac23cc170c1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 281325,
+      "sha256": "26f6df9681753b683bacdd457c12bb720b924f3b7a2fb03617fd9c97ca85cfaa"
+    },
+    {
+      "path": "validation/academic.txt",
+      "bytes": 228,
+      "sha256": "9cf21570b96cf1dfbc6ac1ffac21b689bddab32bb653ff9bfba592ad9ca520d6"
+    },
+    {
+      "path": "validation/delivery-checks.json",
+      "bytes": 4716,
+      "sha256": "265f4e99a0b54560ee77928e3a7cbde7eda82baff85de7d3a80ec000055b0ff4"
+    },
+    {
+      "path": "validation/presenter.txt",
+      "bytes": 87,
+      "sha256": "8aea5f99c3fb2ef0e9e5e5fb5515e8175fb2ee2074b3e4f8d50f0d74bfeae860"
+    },
+    {
+      "path": "validation/runtime-sync.txt",
+      "bytes": 123,
+      "sha256": "36cbbdeb5724c01abede6184497e684d09044fc2c6e06383116c7e0b4aa86a3d"
+    },
+    {
+      "path": "workflow/academic-hierarchy.md",
+      "bytes": 6318,
+      "sha256": "bc25899e5fdf61e30976a4101bfcdd07584132a118d73b2eb8eca7305414faa7"
+    },
+    {
+      "path": "workflow/academic-retrieval.md",
+      "bytes": 3228,
+      "sha256": "b494903292cd0860d37587e186c5f4e371bb26b3966e92a80600932a0804b8a8"
+    },
+    {
+      "path": "workflow/academic-style.md",
+      "bytes": 7163,
+      "sha256": "051a1f235ccbf20ec3af396c4d67e26d3f1dba6d5e6673304a5a7a9afd10010e"
+    },
+    {
+      "path": "workflow/design-input.json",
+      "bytes": 1331,
+      "sha256": "348799048393d33462781077a8b395f9471aa2ee4683686978f8c22a65ea452d"
+    },
+    {
+      "path": "workflow/layout-index.json",
+      "bytes": 210127,
+      "sha256": "e4e6688ef78e88f1fd8b5b1ab018d85788cef06229b9b70ff1a9a31b02fd541d"
+    },
+    {
+      "path": "workflow/pages/01/decision.json",
+      "bytes": 3834,
+      "sha256": "9b86815ded45a133cdedba36c4e33d8167d0c010043a212f6499bda9d931ad20"
+    },
+    {
+      "path": "workflow/pages/01/image-decision.json",
+      "bytes": 105,
+      "sha256": "135b83504722d8b0bdcde2622625e95b7cb230f85c3ee3136b919abc80e832bd"
+    },
+    {
+      "path": "workflow/pages/01/input.json",
+      "bytes": 1205,
+      "sha256": "188677730d55e9ff3e6fea536a5041a56e9af750b15a9ea3106a00418a5cbcac"
+    },
+    {
+      "path": "workflow/pages/01/notes.json",
+      "bytes": 518,
+      "sha256": "edf4dcc11fdcf97d36ba099b8f9a4bc838d2bbacb3cfff005dcaa807fc7cf9d2"
+    },
+    {
+      "path": "workflow/pages/01/recall.json",
+      "bytes": 2933,
+      "sha256": "34143176b31d714c6acefcae3405f8d11cf0a94d10db49c5386173524937ff40"
+    },
+    {
+      "path": "workflow/pages/01/semantic.json",
+      "bytes": 525,
+      "sha256": "9f0b6641e78f0679f8fe0f50cf56dec3fd82aee1bc4bfae8669887cf6a48d901"
+    },
+    {
+      "path": "workflow/pages/01/slide.html",
+      "bytes": 968,
+      "sha256": "9453ec7700702b76d739c1ef230af0d8102e77dd60fa507fdcceb93152aff9d0"
+    },
+    {
+      "path": "workflow/pages/01/validation.json",
+      "bytes": 730,
+      "sha256": "452c02fe56188b915e7a07a7e60917e1e2b8ac895fbd2e462c52851bef81b90a"
+    },
+    {
+      "path": "workflow/pages/02/decision.json",
+      "bytes": 8631,
+      "sha256": "980660ec8937591715fa1af2f890fe059a69a06a6c5009736623513a533354db"
+    },
+    {
+      "path": "workflow/pages/02/image-decision.json",
+      "bytes": 237,
+      "sha256": "1a9d35c40cd2f6bc406ecb806ef268feb888f111e92742480274500ed9df4313"
+    },
+    {
+      "path": "workflow/pages/02/input.json",
+      "bytes": 1328,
+      "sha256": "733f20e6404c6e8b656e3bfbb46d388e52e92d0a8d1aeb566f860f590c3c435c"
+    },
+    {
+      "path": "workflow/pages/02/notes.json",
+      "bytes": 688,
+      "sha256": "9e76c177a0d56a8fb73fc0aeb4d3ce4ebf2053eb78f30c08e4fb104437a96ec5"
+    },
+    {
+      "path": "workflow/pages/02/recall.json",
+      "bytes": 6411,
+      "sha256": "a1085c218a01dde9015a71e95c5960e384f1dd14dfef8a0ce7072b659b87e69f"
+    },
+    {
+      "path": "workflow/pages/02/semantic.json",
+      "bytes": 1050,
+      "sha256": "1231fc6c61371b15c2abf9bfb452d93f0bb754336304be6b9605b07c6ebd6438"
+    },
+    {
+      "path": "workflow/pages/02/slide.html",
+      "bytes": 2714,
+      "sha256": "7c119a91ae50ae2016397088fa2ec5280bb93adec941915025a84e1a2ee964e4"
+    },
+    {
+      "path": "workflow/pages/02/validation.json",
+      "bytes": 730,
+      "sha256": "6c7493df5f2d3f89181ce6349d3b7964a1b98b33c97770e8b324550cb9578cca"
+    },
+    {
+      "path": "workflow/pages/03/decision.json",
+      "bytes": 7365,
+      "sha256": "76a85c276cbf7bed5388e586259d5221bb98a5ee361271dc56f8bbb5232e1b5f"
+    },
+    {
+      "path": "workflow/pages/03/image-decision.json",
+      "bytes": 102,
+      "sha256": "cc85a3b3946f065fa389747e01251c4c54989687355d3c224874d41c9a68121b"
+    },
+    {
+      "path": "workflow/pages/03/input.json",
+      "bytes": 1189,
+      "sha256": "e2d80e3815609e32f3c15b925e3852c7befaa71098d0059ccd4377fbd50192f6"
+    },
+    {
+      "path": "workflow/pages/03/notes.json",
+      "bytes": 600,
+      "sha256": "d37014ff01f2d7486ff1757e89e2fe281a18e1eb3638f0f2583c01b084301ccf"
+    },
+    {
+      "path": "workflow/pages/03/recall.json",
+      "bytes": 5555,
+      "sha256": "c4a51d929aec8c4c72a504e72f3a4f1539e5b59b84b57dac21c4686a1f946a6f"
+    },
+    {
+      "path": "workflow/pages/03/semantic.json",
+      "bytes": 891,
+      "sha256": "54ca659dc084cc584b5c0c4a94df8b5856d52796e93271aa2cf4d2910395e7c9"
+    },
+    {
+      "path": "workflow/pages/03/slide.html",
+      "bytes": 1741,
+      "sha256": "eb3c6530853ac87b49682d56c7cc8d429546a8ffbadf26dbea99cfdd846613f5"
+    },
+    {
+      "path": "workflow/pages/03/validation.json",
+      "bytes": 730,
+      "sha256": "597a2b3e061419f92cf65f75f0ca14c0622e0264de753a0819178eaf2f47e1f0"
+    },
+    {
+      "path": "workflow/pages/04/decision.json",
+      "bytes": 9794,
+      "sha256": "ff09819899a16b1e2c392f80c2463ef72d81d0fc55c3dedf2ce04ec980dc2e6e"
+    },
+    {
+      "path": "workflow/pages/04/image-decision.json",
+      "bytes": 188,
+      "sha256": "aac303c4cff9dc87994884d241c77acf9ba9979b2732d042353ade3b8dabc35e"
+    },
+    {
+      "path": "workflow/pages/04/input.json",
+      "bytes": 1336,
+      "sha256": "0d13b3081864661e3fac1431049fe8beb8053d87f2de8d6833ca50cdff2ad6f6"
+    },
+    {
+      "path": "workflow/pages/04/notes.json",
+      "bytes": 526,
+      "sha256": "ea5486b9296ec2147d5300bff66e63020d39aafdcbe1cba85146fa938bd755ab"
+    },
+    {
+      "path": "workflow/pages/04/recall.json",
+      "bytes": 7267,
+      "sha256": "f41cb582eb62a99a968c7304829cadaa72f8106a24a0cb2b0d138f21062468cb"
+    },
+    {
+      "path": "workflow/pages/04/semantic.json",
+      "bytes": 1174,
+      "sha256": "9c6143f7935d67020ebac1613317292de22136192e2337f2d8922361a200d242"
+    },
+    {
+      "path": "workflow/pages/04/slide.html",
+      "bytes": 2536,
+      "sha256": "40da10343337d1422070c35978c8873d2ece95c78585502781a4fbb071185675"
+    },
+    {
+      "path": "workflow/pages/04/validation.json",
+      "bytes": 730,
+      "sha256": "ab2a8028baebc0c02ea2fdd217127c2335359be06ac4b6a7c253285cafb37901"
+    },
+    {
+      "path": "workflow/pages/05/decision.json",
+      "bytes": 7371,
+      "sha256": "ea437dbfc069f227490b1d7aee1fc6f1b99928ed35cce2fa78b701a40a5d09b4"
+    },
+    {
+      "path": "workflow/pages/05/image-decision.json",
+      "bytes": 112,
+      "sha256": "2460c7d61c67b43970b84609d7b92ef2592b1aed80d67b29637f0ca3e42144aa"
+    },
+    {
+      "path": "workflow/pages/05/input.json",
+      "bytes": 1214,
+      "sha256": "83ffca41f7badf718548fee4f285208ee44388e785f05a18f97af8555ca6b71c"
+    },
+    {
+      "path": "workflow/pages/05/notes.json",
+      "bytes": 576,
+      "sha256": "8e9ae7ddac41b3c6791e2dcfa45966e98d84ae6386933ba0686e09a62ee45c34"
+    },
+    {
+      "path": "workflow/pages/05/recall.json",
+      "bytes": 5560,
+      "sha256": "16800e79afa10addac7dc97a5b5ccb94d31f8ca40de0c8bad766632762ba6312"
+    },
+    {
+      "path": "workflow/pages/05/semantic.json",
+      "bytes": 890,
+      "sha256": "4650cc4870cfef0f5787add74ef79657a498edd33a64cde0ea0198da5a5071d5"
+    },
+    {
+      "path": "workflow/pages/05/slide.html",
+      "bytes": 3615,
+      "sha256": "e49162fcaa9dbdcab9bd34570d6228198c76c6d0067463dc0d7fe70fc0312a5a"
+    },
+    {
+      "path": "workflow/pages/05/validation.json",
+      "bytes": 730,
+      "sha256": "a8a5509f18e5748cc27396b277798fdf82435f92f6f9cd3527b4f5f8879e405e"
+    },
+    {
+      "path": "workflow/pages/06/decision.json",
+      "bytes": 4916,
+      "sha256": "b0d4b21a0e18d1e756c1272165ab40cea5cb7bb29b4c43ab89929a10cfb2c8f9"
+    },
+    {
+      "path": "workflow/pages/06/image-decision.json",
+      "bytes": 108,
+      "sha256": "b400188cd3c37fe5b98fc49c3a05d892ebc62ad35d76cb12b18fc7368153e650"
+    },
+    {
+      "path": "workflow/pages/06/input.json",
+      "bytes": 1339,
+      "sha256": "394827c962f76e99556f800a4fb6ee1afefc819a17d7127a971685e3a2a720cb"
+    },
+    {
+      "path": "workflow/pages/06/notes.json",
+      "bytes": 743,
+      "sha256": "564e0b8146388bfb00ecd0dfac0e1048783ac5fe8b20e5e3d69fb7b62292aae9"
+    },
+    {
+      "path": "workflow/pages/06/recall.json",
+      "bytes": 3742,
+      "sha256": "2305fcfd27d4194f1b61292d5da785416595b93587b55fac6b2ea5213370c070"
+    },
+    {
+      "path": "workflow/pages/06/semantic.json",
+      "bytes": 650,
+      "sha256": "db00d85008b00dff45936d4654791e139e472c834b9fdac936b3d07723715ab6"
+    },
+    {
+      "path": "workflow/pages/06/slide.html",
+      "bytes": 2270,
+      "sha256": "b426f77785423f5a236204511df012eaf286186e3dcc3cd7ce4fbb8948f2e9e5"
+    },
+    {
+      "path": "workflow/pages/06/validation.json",
+      "bytes": 730,
+      "sha256": "f0223a7f6c20c4d08245b8b5588a37433bb4bae398411c8b7da0231b99260e68"
+    },
+    {
+      "path": "workflow/pages/07/decision.json",
+      "bytes": 8778,
+      "sha256": "dd1f7065ff0f3277f253a7f7cf4fe31366b0ecebefbacba35f5c4c1476d27de8"
+    },
+    {
+      "path": "workflow/pages/07/image-decision.json",
+      "bytes": 266,
+      "sha256": "f706e34225fb4626e3fcfe7545d0d997497abfa5a6082e0a4c36b8444e4aae81"
+    },
+    {
+      "path": "workflow/pages/07/input.json",
+      "bytes": 1304,
+      "sha256": "e7003ce7903e0122675f566e25ca502886e41e36be73ea8abbe6a415a0b451d6"
+    },
+    {
+      "path": "workflow/pages/07/notes.json",
+      "bytes": 614,
+      "sha256": "0b9c6694fead3dba61d63cf65486d251bbdafa8055e2d9bfc2937bbbc0b78813"
+    },
+    {
+      "path": "workflow/pages/07/recall.json",
+      "bytes": 6540,
+      "sha256": "b5c6383463e877ee803fb2f9a398f0ebbbb28222eea47d0acea36a17dd47caeb"
+    },
+    {
+      "path": "workflow/pages/07/semantic.json",
+      "bytes": 1073,
+      "sha256": "d93f7677a00dcbfbce0bf740f3c950f8560752f81c48f4993eced7a3a780584c"
+    },
+    {
+      "path": "workflow/pages/07/slide.html",
+      "bytes": 2204,
+      "sha256": "b1663ec14202eabfbda2665c34be0862a033f8225bcc0282026e82df87d931ca"
+    },
+    {
+      "path": "workflow/pages/07/validation.json",
+      "bytes": 730,
+      "sha256": "c931cf36da0513adbc92582123ffba120ca6a1b6803125cb48ffaabeb33ffacf"
+    },
+    {
+      "path": "workflow/pages/08/decision.json",
+      "bytes": 7522,
+      "sha256": "59adfafd504a2d7ddc5d95d33fb60e72b293d55903cc0802c77088d562020370"
+    },
+    {
+      "path": "workflow/pages/08/image-decision.json",
+      "bytes": 126,
+      "sha256": "d3deb2d6d655d7c43b54c3bdff61f3f93ff11dde083bbd7f1e8eaf01058f25c8"
+    },
+    {
+      "path": "workflow/pages/08/input.json",
+      "bytes": 1251,
+      "sha256": "a14c9c5e02ecf60cc7570bdc71980d791003561555231039e50154cb8458b2c4"
+    },
+    {
+      "path": "workflow/pages/08/notes.json",
+      "bytes": 589,
+      "sha256": "40293ffc51981475999572db34ac0c38a761e9f7f1c40c0946e2520778aca1c0"
+    },
+    {
+      "path": "workflow/pages/08/recall.json",
+      "bytes": 5677,
+      "sha256": "4175f6e5f6486df18ccf21f4e0a339a2c096ade993557c0035d23002c696d742"
+    },
+    {
+      "path": "workflow/pages/08/semantic.json",
+      "bytes": 909,
+      "sha256": "f1ff4e936ac7a9f95a49d8ec2228cd5958d0463aaf9bf73958514c38d80a6f11"
+    },
+    {
+      "path": "workflow/pages/08/slide.html",
+      "bytes": 2060,
+      "sha256": "8aa9c79ebb680dcb9a9e00afa319547228883f04f5a1dafa82566ef1ed87dc2e"
+    },
+    {
+      "path": "workflow/pages/08/validation.json",
+      "bytes": 730,
+      "sha256": "f18487f5531e23077830057cca6680b182b4e7e37a28abed6afa6b9f0845c0a0"
+    },
+    {
+      "path": "workflow/pages/09/decision.json",
+      "bytes": 7338,
+      "sha256": "99554dbf2683d84d916e9fb05640997f48181a1c6557236c555e31781352e333"
+    },
+    {
+      "path": "workflow/pages/09/image-decision.json",
+      "bytes": 167,
+      "sha256": "c23eca6b44278e74217924f0310dc574c6578530ac1fa5356cbd8b048f4c0455"
+    },
+    {
+      "path": "workflow/pages/09/input.json",
+      "bytes": 1293,
+      "sha256": "add71f86581d1242bf002e2343390c308900e3abc506eeade011dc6bd9341134"
+    },
+    {
+      "path": "workflow/pages/09/notes.json",
+      "bytes": 615,
+      "sha256": "a67c16797bab23e772ee393fd3b4bbef5c7b01031a2e61069f258b7c036a9007"
+    },
+    {
+      "path": "workflow/pages/09/recall.json",
+      "bytes": 5490,
+      "sha256": "0c0253438ad3c7d7d0479994760d2040a8821f9d34c9703419a4142ddb04439d"
+    },
+    {
+      "path": "workflow/pages/09/semantic.json",
+      "bytes": 896,
+      "sha256": "e5ed2dca72204f3cec3cb7dbec9226b26923c957ea8517ba9f058dd395f468a3"
+    },
+    {
+      "path": "workflow/pages/09/slide.html",
+      "bytes": 3301,
+      "sha256": "bdb9653d550bac91bdc2f16d3241321d03dd1fffbf18cd1ab0d0eebed184d32a"
+    },
+    {
+      "path": "workflow/pages/09/validation.json",
+      "bytes": 730,
+      "sha256": "94523d8c8d64ccdfcb273ca8521c25737a82e91f09bbc2fae45b7fb7b3785d0a"
+    },
+    {
+      "path": "workflow/pages/10/decision.json",
+      "bytes": 4949,
+      "sha256": "59d48a583c3b7c79b4a080342df0054cc545af85bd8e823f85e85dbb706e840b"
+    },
+    {
+      "path": "workflow/pages/10/image-decision.json",
+      "bytes": 108,
+      "sha256": "b7a298348f5b03eefb44903958475cc8ec9a82547a75cdbc318afa2165cbe626"
+    },
+    {
+      "path": "workflow/pages/10/input.json",
+      "bytes": 1197,
+      "sha256": "1be84e8599b1f6beac0bb7a58ab924af91a3254919de77d7578e5bc8a36dcab2"
+    },
+    {
+      "path": "workflow/pages/10/notes.json",
+      "bytes": 558,
+      "sha256": "0b8290600dba2a6362a206959a4c89ab06dd8bf9a720471f21856d29cbc63309"
+    },
+    {
+      "path": "workflow/pages/10/recall.json",
+      "bytes": 3760,
+      "sha256": "4e3849dd1da785739360390b00b2d2ff91504cefb69e7b932164dd9fed84223a"
+    },
+    {
+      "path": "workflow/pages/10/semantic.json",
+      "bytes": 656,
+      "sha256": "b8962e11a7342a69f7149b82d72907d36b901335fd3189fe3feda38dea3061f9"
+    },
+    {
+      "path": "workflow/pages/10/slide.html",
+      "bytes": 2183,
+      "sha256": "3164fcb010093e190f3e3b025b1363f8775a92e57842a5f409c92c0924ad4116"
+    },
+    {
+      "path": "workflow/pages/10/validation.json",
+      "bytes": 731,
+      "sha256": "4f056563c28615037060056e4656951bda4d04d6e109f2057be091c25b8c617f"
+    },
+    {
+      "path": "workflow/pages/11/decision.json",
+      "bytes": 10410,
+      "sha256": "168f825e0fb96545edf84a6cb8c5eeff80cb2b8cefdf71ffa69b3d109d88b257"
+    },
+    {
+      "path": "workflow/pages/11/image-decision.json",
+      "bytes": 127,
+      "sha256": "38fb9f7aa27e29d006d71525ddc1d0f9a8aa0ba4b38d67382f14aedbfd26b36d"
+    },
+    {
+      "path": "workflow/pages/11/input.json",
+      "bytes": 1128,
+      "sha256": "fef220c2528f934fd8aa77a984b4169616d12dc9a6078e4ee03ef305a288efed"
+    },
+    {
+      "path": "workflow/pages/11/notes.json",
+      "bytes": 619,
+      "sha256": "a5cc16432137395d4037e67edbe9a647f50af5f08cf3ff3c97fb427e19508882"
+    },
+    {
+      "path": "workflow/pages/11/recall.json",
+      "bytes": 7959,
+      "sha256": "929acc0bba5c8fd98cda0b8f2f9fdaaf910893f16c2c2053f07ed904732fedc9"
+    },
+    {
+      "path": "workflow/pages/11/semantic.json",
+      "bytes": 1131,
+      "sha256": "12e8ce14e869686b89cd5a44c66d4d1230267afcbed1ff1a999c84c8e4a818b4"
+    },
+    {
+      "path": "workflow/pages/11/slide.html",
+      "bytes": 3359,
+      "sha256": "988b81fb8a14850517c8bf8c49a94afc6ceda77d083307fafb3f3e8d7000f875"
+    },
+    {
+      "path": "workflow/pages/11/validation.json",
+      "bytes": 731,
+      "sha256": "d7e47bed2ce6081d3f1115184aee8625b6f208aa502996927ca9a8f8b3e781e7"
+    },
+    {
+      "path": "workflow/pages/12/decision.json",
+      "bytes": 10485,
+      "sha256": "f33475d3d9f53cbb4b343976afa0a386313cafd0b8a0e9f815e63586fd094dbc"
+    },
+    {
+      "path": "workflow/pages/12/image-decision.json",
+      "bytes": 217,
+      "sha256": "d6801f1c40f19af285e0ab5b8a684c7ed716f1740f35ddbf9c92217b0faee763"
+    },
+    {
+      "path": "workflow/pages/12/input.json",
+      "bytes": 1257,
+      "sha256": "5f59e296113dde8761e598459117ff0150fdbccded5aa7dbcc87b92040523852"
+    },
+    {
+      "path": "workflow/pages/12/notes.json",
+      "bytes": 584,
+      "sha256": "e717f1a156e2c2284dba02181b29116d0470067266ae3e9d1681877e7f188cb1"
+    },
+    {
+      "path": "workflow/pages/12/recall.json",
+      "bytes": 7943,
+      "sha256": "b4878719f2c33efae961c16ee964b5585a160830566e821db6a17052aef67de2"
+    },
+    {
+      "path": "workflow/pages/12/semantic.json",
+      "bytes": 1192,
+      "sha256": "420f43dd8f44ffe6eac0156ec83d0b1c9d7cb6e8b4eaf5dd82c66f0b8ac5b0d4"
+    },
+    {
+      "path": "workflow/pages/12/slide.html",
+      "bytes": 3650,
+      "sha256": "fb4f0578611f92b906edf3423f5574b10a8142ff6ca175694e7bd5d4523027bb"
+    },
+    {
+      "path": "workflow/pages/12/validation.json",
+      "bytes": 731,
+      "sha256": "4d50540f3904b53f7c8690a6bdfa44d3de83a5419c9367000b7028e027c4cd8c"
+    },
+    {
+      "path": "workflow/pages/13/decision.json",
+      "bytes": 10365,
+      "sha256": "6ad969cef8b4b6e02a8eaf4ea86babf1baa83621e679f979be3f90fbb1d21956"
+    },
+    {
+      "path": "workflow/pages/13/image-decision.json",
+      "bytes": 148,
+      "sha256": "93eb142b33ba8c4b54db90d6a0bd9c0a1e7f1abce2a8f5ce8557383e1def77ba"
+    },
+    {
+      "path": "workflow/pages/13/input.json",
+      "bytes": 1280,
+      "sha256": "3d2d51a229b8b5e0340254018d33f2fa550578b0e7fed1abbdba569e1e236825"
+    },
+    {
+      "path": "workflow/pages/13/notes.json",
+      "bytes": 626,
+      "sha256": "e1e40cc183162223d3c92ca7dbde38c8064d35d7dd53b5ccacbfc0f8e1ed4a04"
+    },
+    {
+      "path": "workflow/pages/13/recall.json",
+      "bytes": 7937,
+      "sha256": "2c48157f37b5aed34c5626e6003e9345b12d01f8b62ae472b2e2aa1139ac3291"
+    },
+    {
+      "path": "workflow/pages/13/semantic.json",
+      "bytes": 1117,
+      "sha256": "8c0ee39acd821c5f3df7d118fa87a565d8940a2f1447e2ed3e41ba94d7baa60c"
+    },
+    {
+      "path": "workflow/pages/13/slide.html",
+      "bytes": 3274,
+      "sha256": "e6a182d2d69a57ccbc147812dfca9415e2c15848f30672c39d57ba76613d7dc8"
+    },
+    {
+      "path": "workflow/pages/13/validation.json",
+      "bytes": 731,
+      "sha256": "c07a25960c0fff8c5a20959c572e23046ad00eadc47fc9317af307000f418d91"
+    },
+    {
+      "path": "workflow/pages/14/decision.json",
+      "bytes": 10491,
+      "sha256": "4dc7bbcf99c0c9173b11f727b52f8172a57358540ea7b9fe03e91992553536e6"
+    },
+    {
+      "path": "workflow/pages/14/image-decision.json",
+      "bytes": 224,
+      "sha256": "d3cefacc71f98f8eabc859ec6cedf5481f2e2608ac2641d2975ac8d12e15bb34"
+    },
+    {
+      "path": "workflow/pages/14/input.json",
+      "bytes": 1131,
+      "sha256": "c50f690a1512d395e19dc8a379677473cba81ac49fff4ef217aefa41d76de30c"
+    },
+    {
+      "path": "workflow/pages/14/notes.json",
+      "bytes": 606,
+      "sha256": "8034a5296df1e31b312b5efd7418a53436e4ebb89bedf1985b7e272ba2a8dc82"
+    },
+    {
+      "path": "workflow/pages/14/recall.json",
+      "bytes": 7946,
+      "sha256": "75e2ecc7512ced59ebb756dbfe18cc1ccf6b1dc15d86c523daaf6c33235ba0c4"
+    },
+    {
+      "path": "workflow/pages/14/semantic.json",
+      "bytes": 1199,
+      "sha256": "4ac1fd2e3aa6174669d324cedff5ca261f4c13188c25173b86b0c4e2c3c18a3f"
+    },
+    {
+      "path": "workflow/pages/14/slide.html",
+      "bytes": 3459,
+      "sha256": "a710d45c01ec55315ef02f41cf8ded83f5291a04b44c7b84f92e9a8742a25afe"
+    },
+    {
+      "path": "workflow/pages/14/validation.json",
+      "bytes": 731,
+      "sha256": "51df911ab1ed4eb130e50b6f3be2802a87c80202bf70a4310a2484d491797420"
+    },
+    {
+      "path": "workflow/pages/15/decision.json",
+      "bytes": 7401,
+      "sha256": "fa5f734566a37f496f5d53ecd5e16e9134a2942b226f226514937ca7d73c2e09"
+    },
+    {
+      "path": "workflow/pages/15/image-decision.json",
+      "bytes": 96,
+      "sha256": "fc6847e0505274e86ecb43388af60376fd02f3b6605787ab4bdf2e4d53057039"
+    },
+    {
+      "path": "workflow/pages/15/input.json",
+      "bytes": 1141,
+      "sha256": "0303d2a2f127f27d6592c3ff5537148c8ee422353f3b1341f5fbef6ba4d1d290"
+    },
+    {
+      "path": "workflow/pages/15/notes.json",
+      "bytes": 493,
+      "sha256": "f96a4806f27198af4bd100d43913c4b3f3ebc9ecb36d8db82021475e92b7106a"
+    },
+    {
+      "path": "workflow/pages/15/recall.json",
+      "bytes": 5570,
+      "sha256": "58c4e85a403ab0393c983a873a552287ad46017784fc6e2207bc99a9ce4cf442"
+    },
+    {
+      "path": "workflow/pages/15/semantic.json",
+      "bytes": 897,
+      "sha256": "db6a6d8c22ab354b4b64dc60e503cc4e4bad2e3868c64464b14b21edfd67ec98"
+    },
+    {
+      "path": "workflow/pages/15/slide.html",
+      "bytes": 2022,
+      "sha256": "794962b73867d1886de90d7fd125a932a3c3ebb7849218786f73d17e369d13a0"
+    },
+    {
+      "path": "workflow/pages/15/validation.json",
+      "bytes": 731,
+      "sha256": "4a375ee1f3ce7e3e835ab8c6ae2b22ae6097abd2dcc0666311bff65da1bbcb76"
+    },
+    {
+      "path": "workflow/pages/16/decision.json",
+      "bytes": 5077,
+      "sha256": "e2d9811f82ef74851da871f3ec430ac45e3331dacfb4e5d4d962ba3041106519"
+    },
+    {
+      "path": "workflow/pages/16/image-decision.json",
+      "bytes": 131,
+      "sha256": "735e735964b621dc36918d848db6a1d0bc23f690f5f4fd9ecc750100ecb7ab54"
+    },
+    {
+      "path": "workflow/pages/16/input.json",
+      "bytes": 1220,
+      "sha256": "cc9205735b069dcde36f07b31629306789d0da29804ad6b02350aa70f377184e"
+    },
+    {
+      "path": "workflow/pages/16/notes.json",
+      "bytes": 505,
+      "sha256": "97b3d6480c71c8b327e734d0ef4d1423612bcfd5d5829658355a707e1d96d7f5"
+    },
+    {
+      "path": "workflow/pages/16/recall.json",
+      "bytes": 3926,
+      "sha256": "bbf6becf145bc568256430c6d31f4b67cf16dba233c3e157f8b04c2efadf81de"
+    },
+    {
+      "path": "workflow/pages/16/semantic.json",
+      "bytes": 628,
+      "sha256": "e768313493ec0fd73c57ce0d54496b5ed312effbc919b0c0930dcaee32ddd815"
+    },
+    {
+      "path": "workflow/pages/16/slide.html",
+      "bytes": 6514,
+      "sha256": "1991a65f02966f529d345bbaa143a2523978d7b4bc489645e51ca7bb3c9e0200"
+    },
+    {
+      "path": "workflow/pages/16/validation.json",
+      "bytes": 731,
+      "sha256": "368e250165ef9fbc7e76f896bb2bb66dc6af2d53cb2d95650067c4e71c657868"
+    },
+    {
+      "path": "workflow/pages/17/decision.json",
+      "bytes": 7651,
+      "sha256": "ff40ea76e592e792b088725f9a65849e7c0cbcfd23d2fbbbdd8991aa8c7a5798"
+    },
+    {
+      "path": "workflow/pages/17/image-decision.json",
+      "bytes": 197,
+      "sha256": "54365865b8791a04bb03a5d94f45219973f85d0785a5ec7c34a1aba0c9099869"
+    },
+    {
+      "path": "workflow/pages/17/input.json",
+      "bytes": 1215,
+      "sha256": "d4cdc467684536c046666f0a66a0f5fb4da9cdf746cb7de940b48a9facae46e2"
+    },
+    {
+      "path": "workflow/pages/17/notes.json",
+      "bytes": 522,
+      "sha256": "4000e146e8f7d97cd6e2d8aca2f668e7f46be070ecaffb301eaf4c79a448b30d"
+    },
+    {
+      "path": "workflow/pages/17/recall.json",
+      "bytes": 5780,
+      "sha256": "7d92243075e0a8dfa506bad8e37981e92f6f70d9077d23fe05b920bf43347a69"
+    },
+    {
+      "path": "workflow/pages/17/semantic.json",
+      "bytes": 920,
+      "sha256": "b029a438b1565c4f5cbdb99b61d5f7ff35e8afb5cc2ef5d8981374b9cdb88bb7"
+    },
+    {
+      "path": "workflow/pages/17/slide.html",
+      "bytes": 1998,
+      "sha256": "8b93e3c5fcef3416ba958c56401e7c732c8a4d7d676659d927861e14f214fbb5"
+    },
+    {
+      "path": "workflow/pages/17/validation.json",
+      "bytes": 731,
+      "sha256": "52e3e576e88c5474f525fb277e5ea1d9d159715997ffb62d0a64867caf7496d0"
+    },
+    {
+      "path": "workflow/pages/18/decision.json",
+      "bytes": 7502,
+      "sha256": "62caf93c0ca17deef8182540021940660b23a4038234cb438eb7c1ace981ed12"
+    },
+    {
+      "path": "workflow/pages/18/image-decision.json",
+      "bytes": 118,
+      "sha256": "5fa44f5410eb9c17fd3f2e8b5e70c4a9803291fc3a296b68d0d32d4189c57186"
+    },
+    {
+      "path": "workflow/pages/18/input.json",
+      "bytes": 1163,
+      "sha256": "a52d709f0f863eb37d9038276356bf4f116f82b26716ba372c5c305609a529c7"
+    },
+    {
+      "path": "workflow/pages/18/notes.json",
+      "bytes": 538,
+      "sha256": "d0956174ee294917c50a81130132af279e98cdedd3877c48ea6de80351674256"
+    },
+    {
+      "path": "workflow/pages/18/recall.json",
+      "bytes": 5738,
+      "sha256": "91451e6bbcc5c4e8b8318b63e318796d08500a6c65d26782febf659d6ea94fb4"
+    },
+    {
+      "path": "workflow/pages/18/semantic.json",
+      "bytes": 867,
+      "sha256": "c4c078ed0df370419d0d9b49f9eca62ead1e23d746199a6d4d8d00ac88e8b3e4"
+    },
+    {
+      "path": "workflow/pages/18/slide.html",
+      "bytes": 2729,
+      "sha256": "98a68121f93f65ad0d6a76a1ba28c25dc12651fbef3bfa64475bb21e4bc8f862"
+    },
+    {
+      "path": "workflow/pages/18/validation.json",
+      "bytes": 731,
+      "sha256": "e71201ba99e3d66bcde10cb16e8abf1cfe640a4c98a78c326c495f708ccd7fe2"
+    },
+    {
+      "path": "workflow/pages/19/decision.json",
+      "bytes": 7639,
+      "sha256": "07c1a25c716e9646379c17bdcc893803736c5df96def31e26d67106680731977"
+    },
+    {
+      "path": "workflow/pages/19/image-decision.json",
+      "bytes": 189,
+      "sha256": "e335217bbfb8d1db0a30070258dfc5cb2701e80a3185d1cd7de134294a5654cf"
+    },
+    {
+      "path": "workflow/pages/19/input.json",
+      "bytes": 1275,
+      "sha256": "d9d9dc9853273729a39194b4dddd01a292602a8afa4897ac2767d4f39c8b8343"
+    },
+    {
+      "path": "workflow/pages/19/notes.json",
+      "bytes": 558,
+      "sha256": "71703f641c1ba5ee0f750beb5ff7c77dc830d7322dccc90d2a5e69d8d626b52b"
+    },
+    {
+      "path": "workflow/pages/19/recall.json",
+      "bytes": 5771,
+      "sha256": "ba3debceb8b78e9ebf032f304aa54bc394c95c570a54037c57e03a00cf741746"
+    },
+    {
+      "path": "workflow/pages/19/semantic.json",
+      "bytes": 913,
+      "sha256": "676032cf233ac6c4c5bab484ca04328a38b39df059ac5ceace9e609464f8ee13"
+    },
+    {
+      "path": "workflow/pages/19/slide.html",
+      "bytes": 2019,
+      "sha256": "4345914bfc9a5da28ab313d222b2089a471a1944f7d6c80b5441ea50780fc8e3"
+    },
+    {
+      "path": "workflow/pages/19/validation.json",
+      "bytes": 731,
+      "sha256": "e43706f1fc16ec1325f9d22a6fcbcc76b6bade6db67b65348d6281f51d16e05d"
+    },
+    {
+      "path": "workflow/pages/20/decision.json",
+      "bytes": 7526,
+      "sha256": "0e542314c28fa5d564e80ad7d050a8504c5952364cd8643da2212ea5d30aba3f"
+    },
+    {
+      "path": "workflow/pages/20/image-decision.json",
+      "bytes": 121,
+      "sha256": "980759169dc4ec07df90fee6081ba5806b1fdac0c79e924e33c7b4338bdcfbdb"
+    },
+    {
+      "path": "workflow/pages/20/input.json",
+      "bytes": 1196,
+      "sha256": "f97a0d9c166b06ff5d3abfb1c89efba843fcccd68fcf7fd323ddedc7d5a41d4f"
+    },
+    {
+      "path": "workflow/pages/20/notes.json",
+      "bytes": 588,
+      "sha256": "3f7833207610d3a78133c83268e4874578531bc67358044891d7b3bc79ae0b3a"
+    },
+    {
+      "path": "workflow/pages/20/recall.json",
+      "bytes": 5729,
+      "sha256": "e65104435a0ab26dd9e2ef6b325c1f379cbb960c00d0e2f7b0ce904689e94e12"
+    },
+    {
+      "path": "workflow/pages/20/semantic.json",
+      "bytes": 889,
+      "sha256": "a1709a41437c6e0bfd53546a36c5bfa1954af7502259e6b30fb5e900851a6d75"
+    },
+    {
+      "path": "workflow/pages/20/slide.html",
+      "bytes": 2777,
+      "sha256": "6a5b75df9dd413c039cb3c2ad63454db1fc8b1c734fa70b028bfd1b1db69fffe"
+    },
+    {
+      "path": "workflow/pages/20/validation.json",
+      "bytes": 731,
+      "sha256": "0aa740f4f330881eb92e0a83e345398632d7c6112ff0e034be847746dcf1cd23"
+    },
+    {
+      "path": "workflow/pages/21/decision.json",
+      "bytes": 6413,
+      "sha256": "acb80e5237541a0745abe0963743130836b13d5282c8c4f1e5b3b2ccb84f3488"
+    },
+    {
+      "path": "workflow/pages/21/image-decision.json",
+      "bytes": 108,
+      "sha256": "0dd96d3bca1b6acc7e7c5fdfc26e90bf56c1a8bc993efb2402686ff15670abb7"
+    },
+    {
+      "path": "workflow/pages/21/input.json",
+      "bytes": 1388,
+      "sha256": "c83d0fdf6066775130bc42521a5e1bcf464e884ae03083a91bbd356c9f8567ff"
+    },
+    {
+      "path": "workflow/pages/21/notes.json",
+      "bytes": 564,
+      "sha256": "5a0bc57e62116b0325d7974df72b24666e369808e12de6330617c9fe8d8fb6f2"
+    },
+    {
+      "path": "workflow/pages/21/recall.json",
+      "bytes": 4874,
+      "sha256": "fcb51000c5bc309d24b14d4545657a080b4bd2524733683c7f5e88e3770d6c94"
+    },
+    {
+      "path": "workflow/pages/21/semantic.json",
+      "bytes": 779,
+      "sha256": "96948e2bd95cf9f66477fbfeef1d962af02e51defef63a9cdb84f2b2eb1aeda1"
+    },
+    {
+      "path": "workflow/pages/21/slide.html",
+      "bytes": 2111,
+      "sha256": "c788befdc2f80d6ddaf17c5b27465afcf82138a093d6720acb8b979a0ab55ae4"
+    },
+    {
+      "path": "workflow/pages/21/validation.json",
+      "bytes": 731,
+      "sha256": "0827f6854f0bca7ccf36dab0f9b8f64952c1a4c4b9503f28a5579835966a14af"
+    },
+    {
+      "path": "workflow/pages/22/decision.json",
+      "bytes": 5281,
+      "sha256": "523614c2749e88b4a013470e23046576a45460bf47e54c07c2a3310fb683f8cd"
+    },
+    {
+      "path": "workflow/pages/22/image-decision.json",
+      "bytes": 96,
+      "sha256": "dee08a64eb8ddb719033f95a56c0d47bdd34618a197e95d9174b2a8f6d1667a9"
+    },
+    {
+      "path": "workflow/pages/22/input.json",
+      "bytes": 1557,
+      "sha256": "4281fd8de9519939eaa744affbd59655d85388aeb70b2023d301a5866a1f1507"
+    },
+    {
+      "path": "workflow/pages/22/notes.json",
+      "bytes": 580,
+      "sha256": "931fa6d4eb38373e3d28997ea909382e3c56735a69edcfbad673f9ebaa7cd4a1"
+    },
+    {
+      "path": "workflow/pages/22/recall.json",
+      "bytes": 4148,
+      "sha256": "68840901d36fea190130c30d0bca8f3e5af334e7b8ca70f11ff779520ecb20e0"
+    },
+    {
+      "path": "workflow/pages/22/semantic.json",
+      "bytes": 627,
+      "sha256": "4875027e4863aef720439d43230a424a75ec26ba90a2816c0ab26a0d6f1f4229"
+    },
+    {
+      "path": "workflow/pages/22/slide.html",
+      "bytes": 2330,
+      "sha256": "51f0fcb07941e9cf55c42b6b8dde242d121628d3e9d0324d1fefdce993ba9f24"
+    },
+    {
+      "path": "workflow/pages/22/validation.json",
+      "bytes": 731,
+      "sha256": "bc933c3f0b5fb9484fde8d9b8769427fb28c742f73f26968d87d0cced806028b"
+    },
+    {
+      "path": "workflow/pages/23/decision.json",
+      "bytes": 5296,
+      "sha256": "428d9af4916aa29479891fb45dc9ff44638d4bf992f54e7b9b07b5ca229391fb"
+    },
+    {
+      "path": "workflow/pages/23/image-decision.json",
+      "bytes": 105,
+      "sha256": "76e0d85ceec0c8d5adbea92764a940a760bccc36a35f3aa96acc1c7cf919e9b5"
+    },
+    {
+      "path": "workflow/pages/23/input.json",
+      "bytes": 1650,
+      "sha256": "bf0c1209e4a17e1bc03c651e177ba2bb883f25ffb2e42f0a2078f7810ef54baf"
+    },
+    {
+      "path": "workflow/pages/23/notes.json",
+      "bytes": 594,
+      "sha256": "144e2ab374eafe22f5c57a532e09a1cf920b02304a320c79ef06a26491a0995c"
+    },
+    {
+      "path": "workflow/pages/23/recall.json",
+      "bytes": 4146,
+      "sha256": "a43c9589e88bf56e2624c9686eec28d4a4450be1e4292948b3e5892a265c94ab"
+    },
+    {
+      "path": "workflow/pages/23/semantic.json",
+      "bytes": 635,
+      "sha256": "643f53e7746f7ab15723ea3e9e9cbe7223e1305b109f74bfca75a666a3355a0e"
+    },
+    {
+      "path": "workflow/pages/23/slide.html",
+      "bytes": 2354,
+      "sha256": "b248368cdec55e3232e56eba792e031d4a69eb81ae6a711018928e1cd66e071c"
+    },
+    {
+      "path": "workflow/pages/23/validation.json",
+      "bytes": 731,
+      "sha256": "4743b94579d82098c3aeed6751668b86ec9f238bdcbd5cad8df58922f6d866d0"
+    },
+    {
+      "path": "workflow/pages/24/decision.json",
+      "bytes": 7583,
+      "sha256": "86a8ec644945abf97c33f2032b72e8c63b2aec9ec9794a8f24518a511a84f2f6"
+    },
+    {
+      "path": "workflow/pages/24/image-decision.json",
+      "bytes": 294,
+      "sha256": "d41a36e44e103138eb8ab033c66c3f4b78a9918acd9dab581113cf6db20ce2c3"
+    },
+    {
+      "path": "workflow/pages/24/input.json",
+      "bytes": 1377,
+      "sha256": "9614317f169c59849f7f360ddb0a71da8f1b0be4b92857c55e872341ce62e3c8"
+    },
+    {
+      "path": "workflow/pages/24/notes.json",
+      "bytes": 643,
+      "sha256": "f1448fc9ff50a37e026060597cd1c8638115b38bc37e456c5a87d94be31238ff"
+    },
+    {
+      "path": "workflow/pages/24/recall.json",
+      "bytes": 5753,
+      "sha256": "ca8e528fcb9eefcb6c62d3b3dfdaf4151655f01a3b86a96f21327629aee65ec8"
+    },
+    {
+      "path": "workflow/pages/24/semantic.json",
+      "bytes": 904,
+      "sha256": "00fb1b1705c04f38d47cf139cec929006888f28ed84339e1bf1fa74eb433b3fb"
+    },
+    {
+      "path": "workflow/pages/24/slide.html",
+      "bytes": 2193,
+      "sha256": "bb6858b35586ffcc625744544d499620f63c89db93ae02fc80d5573d192ce890"
+    },
+    {
+      "path": "workflow/pages/24/validation.json",
+      "bytes": 731,
+      "sha256": "2c141a66ccdec5c8076d40cfeed46f18456b4b02bb1851e0b7f05258789bd45d"
+    },
+    {
+      "path": "workflow/pages/25/decision.json",
+      "bytes": 6385,
+      "sha256": "810f45f17c09d1666995aa7562ab2badaa1d9dce7acecba4fcd2684f05db1e4f"
+    },
+    {
+      "path": "workflow/pages/25/image-decision.json",
+      "bytes": 191,
+      "sha256": "509518a8edc64ed6ad9010d241e324659eaf22b48e33d8089ce40127060ca04e"
+    },
+    {
+      "path": "workflow/pages/25/input.json",
+      "bytes": 1365,
+      "sha256": "921bc82b89b09920823af8d91d4f6b57e01de35f21e591892d442afd51e6410f"
+    },
+    {
+      "path": "workflow/pages/25/notes.json",
+      "bytes": 595,
+      "sha256": "740f1a7282ddcf17187c9adfb93fb6e493baa23ba81ef549001173fa90ea2233"
+    },
+    {
+      "path": "workflow/pages/25/recall.json",
+      "bytes": 4814,
+      "sha256": "989e59730c5c01c61d9cc5e67d109a286a0c67878b182c733b28d4e8587d33b4"
+    },
+    {
+      "path": "workflow/pages/25/semantic.json",
+      "bytes": 808,
+      "sha256": "52d0ada313b5381ef6ac5207902a2f98930eb3ec2e170d5c8bcf054d638158ad"
+    },
+    {
+      "path": "workflow/pages/25/slide.html",
+      "bytes": 2421,
+      "sha256": "f4c013df01349a56d7f122190948d0231498e42b432c7cab3691adb40843406a"
+    },
+    {
+      "path": "workflow/pages/25/validation.json",
+      "bytes": 731,
+      "sha256": "3a2426a8e085ba30f12768233ca1dfce4cd36a554b9fada26d9e7d83f02b4eb9"
+    },
+    {
+      "path": "workflow/pages/26/decision.json",
+      "bytes": 5204,
+      "sha256": "45be36ec6d23c751aa15a4af123b9811d959806e25a4ffc0966907ca7e544374"
+    },
+    {
+      "path": "workflow/pages/26/image-decision.json",
+      "bytes": 121,
+      "sha256": "0a82d90d952bef7848004436d6cbdd9609357d10555658df698395fe049bf933"
+    },
+    {
+      "path": "workflow/pages/26/input.json",
+      "bytes": 1407,
+      "sha256": "61a2b1fc7bdfb4208a55a5b9a90eed344ab40692c2c2cd158584832aa73eceb3"
+    },
+    {
+      "path": "workflow/pages/26/notes.json",
+      "bytes": 723,
+      "sha256": "8a1955293e1d95dd4cdb0bcae08ceedb286a70ca3d3a670968b88540f1987047"
+    },
+    {
+      "path": "workflow/pages/26/recall.json",
+      "bytes": 3934,
+      "sha256": "3c5c58de1b515b572df94aad5040f3cfde623c31018ca899e0b5a25745d8e86d"
+    },
+    {
+      "path": "workflow/pages/26/semantic.json",
+      "bytes": 706,
+      "sha256": "a8af396329370db228811c08e90db120c900c67e72369c29930b8911c5a1857a"
+    },
+    {
+      "path": "workflow/pages/26/slide.html",
+      "bytes": 4748,
+      "sha256": "4797232815e4e02709c143005247c85d1f4a0ed70edad73a2cf595a82f578f96"
+    },
+    {
+      "path": "workflow/pages/26/validation.json",
+      "bytes": 731,
+      "sha256": "ca756f5a835e4e7890354742ce5e2b716af8f982135f83d2bb78386d0ac2a8aa"
+    },
+    {
+      "path": "workflow/pages/27/decision.json",
+      "bytes": 8937,
+      "sha256": "0a74bea1ae4a9bd6a9f0a523f63afbd08bdfdb34682e0728951916e30808d5b5"
+    },
+    {
+      "path": "workflow/pages/27/image-decision.json",
+      "bytes": 153,
+      "sha256": "252a2480ecedbe72173ccd55e56def96272f124710bf6a1b3fd287cc26625e45"
+    },
+    {
+      "path": "workflow/pages/27/input.json",
+      "bytes": 1411,
+      "sha256": "7518eb3be0b6cd1ca16425b174863f2a330f2f86e6e7155c9e4b9705a97b293f"
+    },
+    {
+      "path": "workflow/pages/27/notes.json",
+      "bytes": 711,
+      "sha256": "9e9b78e9540190db19493bb2956eb5ae269f4d890dba3aea7b2f4f2cb4cd4fea"
+    },
+    {
+      "path": "workflow/pages/27/recall.json",
+      "bytes": 6679,
+      "sha256": "9a0a10b3354a1d057efb2e939d29b595d087907c972092577237e84ddad1d5c1"
+    },
+    {
+      "path": "workflow/pages/27/semantic.json",
+      "bytes": 1093,
+      "sha256": "02f1f226e308292c3232fb7d9d43ff61a05d3187428d308a0f9e2d0729917353"
+    },
+    {
+      "path": "workflow/pages/27/slide.html",
+      "bytes": 2708,
+      "sha256": "8fd59de1925cfd7a976776b77a10c3daaa4c9727527068a1753faa390839f625"
+    },
+    {
+      "path": "workflow/pages/27/validation.json",
+      "bytes": 731,
+      "sha256": "2b3fbea0f8f453657c56a7718d972dd48cb4efe4238503adaafb58fa3ed6858a"
+    },
+    {
+      "path": "workflow/pages/28/decision.json",
+      "bytes": 7550,
+      "sha256": "7b066d518006d3d6f5255e73a88fccd210dbc098932231350b4f845a3f2cf189"
+    },
+    {
+      "path": "workflow/pages/28/image-decision.json",
+      "bytes": 87,
+      "sha256": "bc1ab910413010f4145c07293803c85cf617dfb1122efe4da004ba27bd5dfee3"
+    },
+    {
+      "path": "workflow/pages/28/input.json",
+      "bytes": 1071,
+      "sha256": "ca1715a3673f1ab4c3d71f8b8139dc8dc260d6d43ce63a9478bfea9e567fe5c8"
+    },
+    {
+      "path": "workflow/pages/28/notes.json",
+      "bytes": 537,
+      "sha256": "af7dcc03b18a00236e7d6c34cd54fd7dd5f86b932ed336e4e06059b5831ff5bb"
+    },
+    {
+      "path": "workflow/pages/28/recall.json",
+      "bytes": 5721,
+      "sha256": "b4dd0411a6d3390131e05d258f450d0c3d962c15662b2ca6c11c01a1a736d1d7"
+    },
+    {
+      "path": "workflow/pages/28/semantic.json",
+      "bytes": 902,
+      "sha256": "77e3983ff4434e005b6b6aa55d5ae35473453205bb93ed193606591418948f26"
+    },
+    {
+      "path": "workflow/pages/28/slide.html",
+      "bytes": 2048,
+      "sha256": "65b6f4daebb63bbf78b39ac11f80fc1b2d27ec9df233c2c452e842cb0d2fe7da"
+    },
+    {
+      "path": "workflow/pages/28/validation.json",
+      "bytes": 731,
+      "sha256": "b0ab217168700f9b8b75b1a2106c5e24661492df901a7fed1831ecbb8f4a5a7a"
+    },
+    {
+      "path": "workflow/pages/29/decision.json",
+      "bytes": 5089,
+      "sha256": "5c1e129fe3d6f1dd78543465a2d664396a0dc1a1420c56787fc43e896a2ed7d3"
+    },
+    {
+      "path": "workflow/pages/29/image-decision.json",
+      "bytes": 96,
+      "sha256": "6ea1fa911d54520afca06ac4352f93258a0eb56f71b16840a66c94720ed10e5f"
+    },
+    {
+      "path": "workflow/pages/29/input.json",
+      "bytes": 1223,
+      "sha256": "e44fd4c31190c346231012812543ea784eb64d2d71b0694528d77e13a10d5bc1"
+    },
+    {
+      "path": "workflow/pages/29/notes.json",
+      "bytes": 557,
+      "sha256": "61859a89e2cc5c0245dc2786a8d81eeb1f0c1c87b9f4bd39349ec41b44d739ea"
+    },
+    {
+      "path": "workflow/pages/29/recall.json",
+      "bytes": 3913,
+      "sha256": "c4660a9c5f7b925c925d41c750e31a850fe58bf7cce26ec750d651e6b9621992"
+    },
+    {
+      "path": "workflow/pages/29/semantic.json",
+      "bytes": 649,
+      "sha256": "8948429abe4e6db8fc8ba30aabe3bed43f2c2cce5114d7bd0eacf1811911d4be"
+    },
+    {
+      "path": "workflow/pages/29/slide.html",
+      "bytes": 2384,
+      "sha256": "69a10bb4c95ee17d7b08eebd7d3a7c9335c6942a717279686c751ee708eb7359"
+    },
+    {
+      "path": "workflow/pages/29/validation.json",
+      "bytes": 731,
+      "sha256": "9f1c508a8ed02358f66682b047ef18d7f84e3172ebc6c82ae294c64c57c3d05c"
+    },
+    {
+      "path": "workflow/pages/30/decision.json",
+      "bytes": 9160,
+      "sha256": "ea5cc5464268702e723f687c7080349480b42f5026d44c963d15e9ec79ef34b1"
+    },
+    {
+      "path": "workflow/pages/30/image-decision.json",
+      "bytes": 164,
+      "sha256": "d7d7734ac6e9f1c7ec7f25654c4c0c4f3ab2b7d571c7dd30001b2738e3ad53c1"
+    },
+    {
+      "path": "workflow/pages/30/input.json",
+      "bytes": 1627,
+      "sha256": "44682f2537b8b4735bd5700701c16528125c693fda9cdf2253256741aab28da1"
+    },
+    {
+      "path": "workflow/pages/30/notes.json",
+      "bytes": 711,
+      "sha256": "fed9aabbd9eaf766e5bfe894c1be34f4a707a42acf219df3372f21cc12a6447d"
+    },
+    {
+      "path": "workflow/pages/30/recall.json",
+      "bytes": 6632,
+      "sha256": "0fde99dd5a56d075224d5d8f699e5141542fb84b4262337fd791db71273c5569"
+    },
+    {
+      "path": "workflow/pages/30/semantic.json",
+      "bytes": 1222,
+      "sha256": "19380232827c34254bf73278dc54514bbdce8ddd4489b8b1f793b99378818e09"
+    },
+    {
+      "path": "workflow/pages/30/slide.html",
+      "bytes": 2511,
+      "sha256": "913adb0f27c3b3b6ae7a25ac102446f068a95c033f5a08974fe733b9aee3e4dc"
+    },
+    {
+      "path": "workflow/pages/30/validation.json",
+      "bytes": 731,
+      "sha256": "c5881dc9831688d6da6a8911f6189cb5a903c447d949b0eb1729a995a4fd078f"
+    },
+    {
+      "path": "workflow/rule-snapshots/11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424.json",
+      "bytes": 9535,
+      "sha256": "f3063504ff824bce0aea36ecadc6f099c2648652ed0df11a8f1e25e77dd78402"
+    },
+    {
+      "path": "workflow/rule-snapshots/3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70.json",
+      "bytes": 11054,
+      "sha256": "faf379d260d0489d42c381887ec4c5b111cd9ed52aca6df498d74704cdbb734b"
+    },
+    {
+      "path": "workflow/rule-snapshots/c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64.json",
+      "bytes": 10317,
+      "sha256": "175f154a6a95abc3d1aabc85e66dd4d40748c09170907708b3cac55b0333869e"
+    },
+    {
+      "path": "交付测试报告.md",
+      "bytes": 6240,
+      "sha256": "874a2bcde13447adf2f76c9b964708134997a933c0bdfcb89850a04da55c54ec"
+    },
+    {
+      "path": "使用说明.md",
+      "bytes": 2378,
+      "sha256": "d04e02c52e25edc234c70a9fc9bfc0a2c7989a8c046d85f66c15794d7b50970a"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/assets.json",
+      "bytes": 50909,
+      "sha256": "07dfd7092f415601264448e50eea0278742d621ee552e33915f81dee87a134ce"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_001_罗翔鲁豫访谈_命运与行动的平衡.png",
+      "bytes": 1859089,
+      "sha256": "07b856b37b9a45934d4d3ca5235a328fccb4ee4da4ec372de7b0156c9b273bf9"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_002_罗翔鲁豫访谈_谋生谋道与赋予价值.jpg",
+      "bytes": 287731,
+      "sha256": "152b11b9db72d3a12b09bb1b7630445eeeb2f7ef77c90420c1e8f7c93945f3a1"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_003_罗翔鲁豫访谈_向内求与泰然若素.jpg",
+      "bytes": 322845,
+      "sha256": "5af063f1d30ff11e87b26a832de60e8b634951faabd1b0e1fc267f18c563cf55"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_004_罗翔鲁豫访谈_长期眼光与选择价值.png",
+      "bytes": 1626915,
+      "sha256": "0fad69c07b6520c503d868761a02c3cde0352d45eb8b9dbc16167641e60d7b5f"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_005_罗翔鲁豫访谈_未知天命中尽力而为.png",
+      "bytes": 1035267,
+      "sha256": "54d2b7844ca9f30e4be6bec6328a9db64f5b2fddb87bbe118bb0478ae182796e"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_006_原文批注_职业炫耀与热情消退.png",
+      "bytes": 104358,
+      "sha256": "a8fe6f85f6a954a9aae599f26dae7ad08fdb7d051be4c0f08b3004ce5993b52d"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_007_原文批注_冷静考察与职业热爱.png",
+      "bytes": 59274,
+      "sha256": "a4908efe229099fa9b067f3c1876968354208c6b2ab666c9e30e6848a24a9d43"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_008_原文批注_职业选择与社会关系约束.png",
+      "bytes": 41384,
+      "sha256": "39d737d48c1c73bce64fa5ef5394e08c88fd8e1a9cfbc67aa61fc7cc2af08450"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_009_原文批注_人类幸福与自身完善.png",
+      "bytes": 64436,
+      "sha256": "68a7747be343f0081ce4964bc571c3f43ac561bd0dc99801615670855c50d926"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_010_原文批注_个人劳动与伟大人格.png",
+      "bytes": 31287,
+      "sha256": "3b871d991a1b326b05bc82e5aba3368b26ee7033bfda59100d500f093357ff31"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_011_原文批注_为人类工作与事业长存.png",
+      "bytes": 83476,
+      "sha256": "6dfd841cc6d8fd0de86ae1a55fb58c8ee62a37654a69a315e169617cf3f512ca"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/assets/ys_img_012_人物阅读插画_持书半身像.png",
+      "bytes": 1992817,
+      "sha256": "bae352f6c2e3fcdc2c93e3745638eec1c42cb192b4be24d161820e75595c4cb1"
+    },
+    {
+      "path": "原始材料/云上书屋宣讲材料/reference/青年在选择职业时的考虑——卡·马克思的中学考试德语作文 (卡尔·马克思) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "bytes": 1012771,
+      "sha256": "202af3795cc07df544d855eddc026ca362f57f70c1df5ca37d01a5a4a9c8a2d2"
+    },
+    {
+      "path": "原始材料/黄河科技学院2023—2024学年本科教学质量报告.pdf",
+      "bytes": 436238,
+      "sha256": "dcb0c247916b8c97af0713aa6268508034ce5c43533911d9bc29781721ffcda3"
+    },
+    {
+      "path": "大纲原稿.md",
+      "bytes": 20707,
+      "sha256": "d31f4aea2f5f8b21bff0c1842c4a01e7ce212a66d64a0b36670a4590ce1614ca"
+    },
+    {
+      "path": "来源与口径.json",
+      "bytes": 7514,
+      "sha256": "317ee5df7ec60740a250319ac0fa1ec45ea3b9ad73d91c8189d2df9ca444a370"
+    },
+    {
+      "path": "演讲备注.json",
+      "bytes": 18700,
+      "sha256": "fe1030f188aae60bf5674375f492b00aff3252ceef66e420f4db3d84a39a613a"
+    },
+    {
+      "path": "逐页交付索引.json",
+      "bytes": 5735,
+      "sha256": "69a8d1ba23eac42db3a2ba89f15850441b13082c710dbf05e587a6c51d144633"
+    }
+  ]
+}

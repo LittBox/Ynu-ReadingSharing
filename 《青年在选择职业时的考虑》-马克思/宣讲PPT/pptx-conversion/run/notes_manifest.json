@@ -1,0 +1,245 @@
+{
+  "source": "input/source-deck.pptx",
+  "notes": [
+    {
+      "page_index": 1,
+      "text": "{\n  \"id\": \"opening-cover\",\n  \"title\": \"第一份工作，只是起点\",\n  \"section\": \"开场引入\",\n  \"minutes\": 0.5,\n  \"purpose\": \"交代分享题目、书目、分享人和日期，建立理论宣讲场景。\",\n  \"talk\": [\n    \"介绍主题、汇报人与文本来源。\",\n    \"说明本场讨论青年择业中的热情、冷静与重新喜欢。\",\n    \"强调第一份工作是起点，接下来先观察就业环境。\"\n  ],\n  \"transition\": \"先从青年就业环境中的一条新闻进入今天的话题。\"\n}",
+      "text_sha256": "1047396b47909b6edbfaf06a335d89eacd43a3183b704e82a7a1eb0bdc4fd3a7",
+      "source_slide": "ppt/slides/slide1.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide1.xml",
+      "notes_xml": "input/notes/page_001/notesSlide.xml"
+    },
+    {
+      "page_index": 2,
+      "text": "{\n  \"id\": \"employment-news\",\n  \"title\": \"开场新闻：青年就业环境\",\n  \"section\": \"开场引入\",\n  \"minutes\": 1.5,\n  \"purpose\": \"以已核验的国家统计局新闻引出青年就业环境与个人选择的关系。\",\n  \"talk\": [\n    \"介绍国家统计局2026年9月15日答记者问：8月全国城镇调查失业率5.3%，环比上升0.1个百分点。\",\n    \"交代统计局对毕业生集中进入劳动力市场的季节性解释，不把总体指标当作青年专属指标。\",\n    \"用环境变化引出个人选择，不由单月数据直接判断某个人的前途。\"\n  ],\n  \"transition\": \"环境变化带来选择压力，接着请听众回应最担心什么。\"\n}",
+      "text_sha256": "4fcfb0c03d187e167644c2af3f5168fea433f921d7197bca2ed017d38f092623",
+      "source_slide": "ppt/slides/slide2.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide2.xml",
+      "notes_xml": "input/notes/page_002/notesSlide.xml"
+    },
+    {
+      "page_index": 3,
+      "text": "{\n  \"id\": \"choice-question\",\n  \"title\": \"你更怕选错，还是更怕没得选？\",\n  \"section\": \"开场引入\",\n  \"minutes\": 2.0,\n  \"purpose\": \"通过“选错／没得选”问题引出热情与现实。\",\n  \"talk\": [\n    \"请听众在更怕选错和更怕没得选之间作一次直观选择。\",\n    \"承接两种担心：选择判断与现实机会都值得考察。\",\n    \"过渡到17岁的马克思也曾面对热情与现实的问题。\"\n  ],\n  \"transition\": \"带着热情与现实的困惑，转向这篇文章为什么值得读。\",\n  \"interaction\": \"请现场举手或短暂回应。\"\n}",
+      "text_sha256": "ce3631394a09eb374ddb5088beabb67de5399dc82afea009ebd492c445592166",
+      "source_slide": "ppt/slides/slide3.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide3.xml",
+      "notes_xml": "input/notes/page_003/notesSlide.xml"
+    },
+    {
+      "page_index": 4,
+      "text": "{\n  \"id\": \"why-read-marx\",\n  \"title\": \"一篇17岁的文章，为什么今天还要读\",\n  \"section\": \"理论主体\",\n  \"minutes\": 1.0,\n  \"purpose\": \"说明阅读该文的意义，并交代四命题的讲述方式。\",\n  \"talk\": [\n    \"说明这是一篇面对青年真实职业选择的短文。\",\n    \"今天的读法是提炼考察方法，不把文章当成岗位答案。\",\n    \"用四个命题展开，原文截图可点击查看来源。\"\n  ],\n  \"transition\": \"四个命题先从最容易感受到的热情说起。\"\n}",
+      "text_sha256": "35313e5c51ade4d7d1d52cedd668c4f59fb7126795c8a8830d56b542863b2fe3",
+      "source_slide": "ppt/slides/slide4.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide4.xml",
+      "notes_xml": "input/notes/page_004/notesSlide.xml"
+    },
+    {
+      "page_index": 5,
+      "text": "{\n  \"id\": \"passion-and-examination\",\n  \"title\": \"热情需要冷静考察，才能成为选择依据\",\n  \"section\": \"理论主体\",\n  \"minutes\": 1.5,\n  \"purpose\": \"区分热情的驱动作用与决定职业选择的依据。\",\n  \"talk\": [\n    \"三个方面并列说明热情：提供动力、可能产生判断偏差、需要冷静考察。\",\n    \"分别联系能力与现实条件，说明喜欢本身不能替代判断。\",\n    \"收束为热情提供动力，冷静考察提供判断依据。\"\n  ],\n  \"transition\": \"热情需要判断依据，因此进入冷静考察。\"\n}",
+      "text_sha256": "618c55752b7fdd55d3302fce48cab20e3a871f92da1f579ad79bc099f163e66f",
+      "source_slide": "ppt/slides/slide5.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide5.xml",
+      "notes_xml": "input/notes/page_005/notesSlide.xml"
+    },
+    {
+      "page_index": 6,
+      "text": "{\n  \"id\": \"calm-examination\",\n  \"title\": \"冷静考察：不保证唯一答案，但不可放弃\",\n  \"section\": \"理论主体\",\n  \"minutes\": 2.0,\n  \"purpose\": \"阐明冷静考察的方法及本次宣讲的“充分条件”判断。\",\n  \"talk\": [\n    \"先说明考察能力、条件、后果与他人幸福四个维度。\",\n    \"保留原纲命题：“冷静的考察是确定正确职业选择的充分条件”。这是本次宣讲的理论判断，重点在考察方法而非保证唯一答案。\",\n    \"原纲关于“放弃考察几乎必然导致判断失真”的表述属于宣讲者理论判断，不当作原文直引或严格逻辑证明。\"\n  ],\n  \"transition\": \"即使进行考察，仍需面对职业选择的现实限制。\"\n}",
+      "text_sha256": "319235340dc4d5f39fd0597749896db35651168da3a2c46056005ac1e86e6542",
+      "source_slide": "ppt/slides/slide6.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide6.xml",
+      "notes_xml": "input/notes/page_006/notesSlide.xml"
+    },
+    {
+      "page_index": 7,
+      "text": "{\n  \"id\": \"reality-constraints\",\n  \"title\": \"不是所有“适合”，都会在第一次选择时出现\",\n  \"section\": \"理论主体\",\n  \"minutes\": 1.5,\n  \"purpose\": \"承认现实限制与岗位错位，强调第一份工作不是终局。\",\n  \"talk\": [\n    \"借示意图说明职业路径不止一个，图中场景不是现实人物或岗位证据。\",\n    \"现实限制、岗位错位和持续调整是本页并列观察点。\",\n    \"第一份工作并不穷尽职业生涯，给后续学习和实践留出空间。\"\n  ],\n  \"transition\": \"面对限制之后，进一步讨论个人幸福与自身完善。\"\n}",
+      "text_sha256": "24d23a62f9f11f8fd649cc90ead8980bd5c997fd85a237713472909b7019602d",
+      "source_slide": "ppt/slides/slide7.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide7.xml",
+      "notes_xml": "input/notes/page_007/notesSlide.xml"
+    },
+    {
+      "page_index": 8,
+      "text": "{\n  \"id\": \"happiness-and-perfection\",\n  \"title\": \"个人幸福与自身完善，不是二选一\",\n  \"section\": \"理论主体\",\n  \"minutes\": 1.5,\n  \"purpose\": \"说明个人幸福与自身完善在职业实践中统一的可能。\",\n  \"talk\": [\n    \"区分尊重个人与只顾自己，也避免把整体利益理解成抽象牺牲。\",\n    \"个人成长和他人需要可以在具体职业实践中发生联系。\",\n    \"落到人类幸福与自身完善的关系，避免作个人幸福的保证。\"\n  ],\n  \"transition\": \"回到原文，检查四个命题各自对应的文字依据。\"\n}",
+      "text_sha256": "dbf5ea870b20b113ad54acdb0d4103b503fb8f4d760a942555bc4bb63299717a",
+      "source_slide": "ppt/slides/slide8.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide8.xml",
+      "notes_xml": "input/notes/page_008/notesSlide.xml"
+    },
+    {
+      "page_index": 9,
+      "text": "{\n  \"id\": \"original-passages\",\n  \"title\": \"职业选择需要考察自身、现实与整体利益\",\n  \"section\": \"理论主体\",\n  \"minutes\": 1.5,\n  \"purpose\": \"建立四个命题与原文要点的对应，保留原文出处要求。\",\n  \"talk\": [\n    \"左侧四项是原文段落大意，右侧是本地打印稿原文批注截图。\",\n    \"对应解释热情、冷静考察、现实限制以及个人与整体。\",\n    \"网页译文与打印稿页码可核查，纸本译本版次仍未核实，不编造书目信息。\"\n  ],\n  \"transition\": \"看过原文要点后，把四个命题重新连成一条主线。\"\n}",
+      "text_sha256": "d60c61cddbc81460001614d64257cc6bbf57854fb99e4e7df2d5fc526c49b819",
+      "source_slide": "ppt/slides/slide9.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide9.xml",
+      "notes_xml": "input/notes/page_009/notesSlide.xml"
+    },
+    {
+      "page_index": 10,
+      "text": "{\n  \"id\": \"four-propositions\",\n  \"title\": \"从热情到实践：四个命题连成一条线\",\n  \"section\": \"理论主体\",\n  \"minutes\": 1.0,\n  \"purpose\": \"将四个命题连成主线，准备进入当代就业环境。\",\n  \"talk\": [\n    \"依次回顾热情、冷静考察、现实限制、幸福与完善。\",\n    \"箭头表示本次论述如何展开，不是职业生涯必经的固定阶段。\",\n    \"从理论方法转入就业数据，检验环境和判断之间的关系。\"\n  ],\n  \"transition\": \"有了考察方法，再看今天的就业环境。\"\n}",
+      "text_sha256": "b890b77d2c02aa4bfd608b56db0850409ca071c4edc655ea44808303efa1f64d",
+      "source_slide": "ppt/slides/slide10.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide10.xml",
+      "notes_xml": "input/notes/page_010/notesSlide.xml"
+    },
+    {
+      "page_index": 11,
+      "text": "{\n  \"id\": \"youth-employment-baseline\",\n  \"title\": \"16—24岁失业率环比上升3个百分点\",\n  \"section\": \"数据展示\",\n  \"minutes\": 2.0,\n  \"purpose\": \"以待核实指标呈现青年就业基本面。\",\n  \"talk\": [\n    \"先读统计范围：城镇、不含在校生的劳动力失业率。\",\n    \"比较7月与6月：16—24岁增加3个百分点，25—29岁增加0.1个百分点；6月值由环比差推算。\",\n    \"分母是劳动力人口，不能解释为全部同龄青年的比例；两组条形统一20%满宽。\"\n  ],\n  \"transition\": \"从就业基本面继续观察毕业生规模和去向结构。\"\n}",
+      "text_sha256": "56ffb63894496732dd2f9c2dce91655bbd215bf95b0bfc8594dc9ccce051365d",
+      "source_slide": "ppt/slides/slide11.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide11.xml",
+      "notes_xml": "input/notes/page_011/notesSlide.xml"
+    },
+    {
+      "page_index": 12,
+      "text": "{\n  \"id\": \"graduate-destinations\",\n  \"title\": \"毕业生规模与去向\",\n  \"section\": \"数据展示\",\n  \"minutes\": 2.0,\n  \"purpose\": \"从规模变化和去向分布两个方面呈现毕业生情况。\",\n  \"talk\": [\n    \"全国毕业生规模采用2024—2026届预计数，单位万人。\",\n    \"去向分布仅以黄河科技学院2024届本科生为案例，不能外推全国。\",\n    \"未落实14.83%由100%减去85.17%计算，不等同失业率；两组图使用各自明确的量尺。\"\n  ],\n  \"transition\": \"规模和去向之外，还要看行业岗位需求的变化。\"\n}",
+      "text_sha256": "24309724038ce9bb078c6af7f3a042acb707a62f65a9b763a35a8cf014655c1b",
+      "source_slide": "ppt/slides/slide12.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide12.xml",
+      "notes_xml": "input/notes/page_012/notesSlide.xml"
+    },
+    {
+      "page_index": 13,
+      "text": "{\n  \"id\": \"industry-demand\",\n  \"title\": \"行业需求观察：先分清长期结构与短期变化\",\n  \"section\": \"数据展示\",\n  \"minutes\": 2.0,\n  \"purpose\": \"呈现待核实的行业需求变化，区分短期与长期。\",\n  \"talk\": [\n    \"以2018年末为100，展示2023年末企业法人单位从业人数的行业变化。\",\n    \"信息软件与科研技术服务业增加，建筑业下降；从业存量不能直接替代当前招聘需求。\",\n    \"2026年8月短期观察单独说明，不与五年变化率拼接。\"\n  ],\n  \"transition\": \"行业需求之外，继续观察升学和体制内选择的热度。\"\n}",
+      "text_sha256": "c8550bc7c550d5632e2d7a0312fc55c9b70425b1f5a6c27d08c4cdc20951e62e",
+      "source_slide": "ppt/slides/slide13.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide13.xml",
+      "notes_xml": "input/notes/page_013/notesSlide.xml"
+    },
+    {
+      "page_index": 14,
+      "text": "{\n  \"id\": \"study-public-exam-trends\",\n  \"title\": \"升学与体制内热度的变化\",\n  \"section\": \"数据展示\",\n  \"minutes\": 1.5,\n  \"purpose\": \"并列呈现考研、考公报名规模变化及选择集中度。\",\n  \"talk\": [\n    \"先读考试年度：研考显示报名人数，国考显示资格审查通过人数。\",\n    \"说明2024—2026年的两组变化，两图均以500万人为满宽。\",\n    \"报考群体可能重叠、统计口径不同，不能加总，也不能据热度判断选择好坏。\"\n  ],\n  \"transition\": \"看完数据，明确这些数据能够与不能够回答的问题。\"\n}",
+      "text_sha256": "4b7105de0684c8fad113d70a0203c30590ff97de87c9d478b129530867649b9b",
+      "source_slide": "ppt/slides/slide14.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide14.xml",
+      "notes_xml": "input/notes/page_014/notesSlide.xml"
+    },
+    {
+      "page_index": 15,
+      "text": "{\n  \"id\": \"data-boundaries\",\n  \"title\": \"数据告诉我们什么，不告诉我们什么\",\n  \"section\": \"数据展示\",\n  \"minutes\": 0.5,\n  \"purpose\": \"明确数据的解释边界，并回到冷静考察。\",\n  \"talk\": [\n    \"数据帮助理解环境和群体变化。\",\n    \"明确群体指标不能替个人作决定。\",\n    \"把观察重新落到个人能力、现实条件与可验证信息。\"\n  ],\n  \"transition\": \"数据提供环境背景，接下来整理可供考察的方向。\"\n}",
+      "text_sha256": "e0cc58e5e05e97050bdcd14ab6eb36b85bba9a5add55f1f30db2c49d9f65705c",
+      "source_slide": "ppt/slides/slide15.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide15.xml",
+      "notes_xml": "input/notes/page_015/notesSlide.xml"
+    },
+    {
+      "page_index": 16,
+      "text": "{\n  \"id\": \"career-directions\",\n  \"title\": \"青年就业的八类方向\",\n  \"section\": \"就业方向地图\",\n  \"minutes\": 1.0,\n  \"purpose\": \"给出八类方向的整体框架，为逐类展开定位。\",\n  \"talk\": [\n    \"先给出原大纲的八类职业方向地图。\",\n    \"接下来用第17—20页四页逐类展开，不追求穷尽所有岗位。\",\n    \"分类用于定位后续能力考察，不是职业排名或推荐。\"\n  ],\n  \"transition\": \"沿原稿顺序，先展开体制内和国企。\"\n}",
+      "text_sha256": "13319fcd930aef1549534051a19c674c21e10493746b18ebce95f5152ed99fb1",
+      "source_slide": "ppt/slides/slide16.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide16.xml",
+      "notes_xml": "input/notes/page_016/notesSlide.xml"
+    },
+    {
+      "page_index": 17,
+      "text": "{\n  \"id\": \"public-sector-soe\",\n  \"title\": \"稳定型路径的典型入口\",\n  \"section\": \"就业方向地图\",\n  \"minutes\": 1.5,\n  \"purpose\": \"比较体制内与国企的典型入口。\",\n  \"talk\": [\n    \"区分体制内的公务员、事业单位与选调生入口。\",\n    \"区分央企、地方国企与国企管培入口。\",\n    \"本页说明分类差异，不承诺稳定性；插图是公共服务与企业协作的示意。\"\n  ],\n  \"transition\": \"看过稳定型路径，再看市场化路径的典型入口。\"\n}",
+      "text_sha256": "c7796061ef3c215e5c6ba109eb767c9eca87a222923b35bc41b2f6334d191ecc",
+      "source_slide": "ppt/slides/slide17.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide17.xml",
+      "notes_xml": "input/notes/page_017/notesSlide.xml"
+    },
+    {
+      "page_index": 18,
+      "text": "{\n  \"id\": \"private-foreign-enterprises\",\n  \"title\": \"市场化路径的典型入口\",\n  \"section\": \"就业方向地图\",\n  \"minutes\": 1.5,\n  \"purpose\": \"比较民企与外企的典型入口及原稿指出的取舍。\",\n  \"talk\": [\n    \"介绍民企的行业龙头、成长型公司与创业团队入口。\",\n    \"介绍外企的管培生、专业技术岗与区域分支入口。\",\n    \"把成长速度与稳定性放到具体公司、岗位和条件中考察。\"\n  ],\n  \"transition\": \"再把视野移到升学深造和基层项目。\"\n}",
+      "text_sha256": "dd8b689e8b526c3370d6e284617a341034b9ef29dff0fa77b9dde9cf85b6d73d",
+      "source_slide": "ppt/slides/slide18.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide18.xml",
+      "notes_xml": "input/notes/page_018/notesSlide.xml"
+    },
+    {
+      "page_index": 19,
+      "text": "{\n  \"id\": \"study-grassroots\",\n  \"title\": \"延迟选择与下沉选择\",\n  \"section\": \"就业方向地图\",\n  \"minutes\": 1.25,\n  \"purpose\": \"说明升学深造与基层项目是不同路径。\",\n  \"talk\": [\n    \"介绍国内考研、境外申请、直博或科研助理等深造入口。\",\n    \"介绍西部计划、三支一扶与社区工作者等基层入口。\",\n    \"两类都需独立考察，不一概称为退路；插图仅表现学习与社区服务。\"\n  ],\n  \"transition\": \"最后补充自由职业和军警方向，完成八类方向介绍。\"\n}",
+      "text_sha256": "8c303efdaf963c4733278ad04293c5a9338232343a9cdaba04eb5052c40c8aaa",
+      "source_slide": "ppt/slides/slide19.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide19.xml",
+      "notes_xml": "input/notes/page_019/notesSlide.xml"
+    },
+    {
+      "page_index": 20,
+      "text": "{\n  \"id\": \"freelance-uniformed\",\n  \"title\": \"非典型路径的典型入口\",\n  \"section\": \"就业方向地图\",\n  \"minutes\": 1.25,\n  \"purpose\": \"介绍自由职业与军警的典型入口及表达边界。\",\n  \"talk\": [\n    \"介绍内容创作、设计咨询与技术外包等自由职业入口。\",\n    \"沿大纲介绍军官、士官、公安与消防等入口，只讨论职业共性。\",\n    \"提醒听众考察进入条件，不凭身份标签判断；不涉及具体单位、人员或任务。\"\n  ],\n  \"transition\": \"方向列出后，进一步用能力和材料进行自查。\"\n}",
+      "text_sha256": "cadd2484a5efc267dd393c374d2a59276b3034900ea576833d7a6efcad95b074",
+      "source_slide": "ppt/slides/slide20.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide20.xml",
+      "notes_xml": "input/notes/page_020/notesSlide.xml"
+    },
+    {
+      "page_index": 21,
+      "text": "{\n  \"id\": \"competency-framework\",\n  \"title\": \"方向—能力—证据—误区\",\n  \"section\": \"能力矩阵\",\n  \"minutes\": 1.0,\n  \"purpose\": \"解释“方向—能力—材料—误区”自查框架。\",\n  \"talk\": [\n    \"说明方向、核心能力、可证明材料、常见误区四列分别回答什么问题。\",\n    \"能力项随方向变化，不强行统一为一套词。\",\n    \"矩阵用于自查，把能力转成可查看的作品、记录或结果，不充当招聘标准。\"\n  ],\n  \"transition\": \"先看前四类方向分别需要哪些能力。\"\n}",
+      "text_sha256": "e200019aef995648e0df21044a1a70c8db6e8d184dd06a05d843d872266f8acf",
+      "source_slide": "ppt/slides/slide21.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide21.xml",
+      "notes_xml": "input/notes/page_021/notesSlide.xml"
+    },
+    {
+      "page_index": 22,
+      "text": "{\n  \"id\": \"competency-first-four\",\n  \"title\": \"四类职业方向，需要怎样的能力证据\",\n  \"section\": \"能力矩阵\",\n  \"minutes\": 2.0,\n  \"purpose\": \"按体制内、国企、民企、外企分别列出能力项。\",\n  \"talk\": [\n    \"逐行比较体制内、国企、民企、外企的能力词条。\",\n    \"将能力与对应的材料示意联系起来，而非只列证书或经历名称。\",\n    \"逐行指出误区；材料和误区均为示意，不代表具体单位要求。\"\n  ],\n  \"transition\": \"再看后四类方向的能力项，保留各方向的差异。\"\n}",
+      "text_sha256": "bbc5a12204959908903d6a3dc778783f19c0e5760dba2810505452af1ed6fdae",
+      "source_slide": "ppt/slides/slide22.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide22.xml",
+      "notes_xml": "input/notes/page_022/notesSlide.xml"
+    },
+    {
+      "page_index": 23,
+      "text": "{\n  \"id\": \"competency-last-four\",\n  \"title\": \"后四类职业方向，需要怎样的能力证据\",\n  \"section\": \"能力矩阵\",\n  \"minutes\": 2.0,\n  \"purpose\": \"按升学、基层、自由职业、军警分别列出能力项。\",\n  \"talk\": [\n    \"逐行比较升学深造、基层项目、自由职业与军警的能力词条。\",\n    \"说明同一能力在不同方向的证明材料与权重会变化。\",\n    \"保留示意边界，军警只讨论规则、协作与责任等职业共性。\"\n  ],\n  \"transition\": \"能力清单需要结合证据使用，下面说明横向对照的边界。\"\n}",
+      "text_sha256": "e4944b378e850a09b9d82c7284837092210f63d4f9f248025229619207c37015",
+      "source_slide": "ppt/slides/slide23.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide23.xml",
+      "notes_xml": "input/notes/page_023/notesSlide.xml"
+    },
+    {
+      "page_index": 24,
+      "text": "{\n  \"id\": \"capability-evidence\",\n  \"title\": \"把“我喜欢”转成“我做过什么、能证明什么”\",\n  \"section\": \"能力矩阵\",\n  \"minutes\": 1.0,\n  \"purpose\": \"将兴趣表达转向可证明经历，并说明矩阵用法。\",\n  \"talk\": [\n    \"分别纠正兴趣等于能力、证书等于证据、听说等于标准三类误区。\",\n    \"把喜欢转成做过什么和能证明什么，并核对公开要求。\",\n    \"本页练习沿原纲：选1—2个方向，各找3条可验证信息；结尾另有3个方向、各2条的信息练习。\"\n  ],\n  \"transition\": \"把证据意识带入选拔与经历，讨论信息不对称。\"\n}",
+      "text_sha256": "9e8f2573968fb288dd35e128392488a28bce38f633e3050eb578c455bc87991d",
+      "source_slide": "ppt/slides/slide24.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide24.xml",
+      "notes_xml": "input/notes/page_024/notesSlide.xml"
+    },
+    {
+      "page_index": 25,
+      "text": "{\n  \"id\": \"selection-information\",\n  \"title\": \"选拔中的紧张，来自信息不对称\",\n  \"section\": \"案例与经历\",\n  \"minutes\": 1.5,\n  \"purpose\": \"围绕降低信息不对称说明可做的准备。\",\n  \"talk\": [\n    \"从信息不对称理解选拔中的紧张，不揣测具体个人或制造黑箱焦虑。\",\n    \"依次说明了解方向、验证证据、沟通边界和展示可培养性。\",\n    \"用作品、任务结果和反馈说明能力；插图是证据沟通示意，不是真实面试。\"\n  ],\n  \"transition\": \"从选拔准备转到实际组织中的适应与责任。\"\n}",
+      "text_sha256": "6ad07bfc46cdf51cac5d93004f2c3529017593049fb006bb748d92db27e82c3f",
+      "source_slide": "ppt/slides/slide25.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide25.xml",
+      "notes_xml": "input/notes/page_025/notesSlide.xml"
+    },
+    {
+      "page_index": 26,
+      "text": "{\n  \"id\": \"organizational-experience\",\n  \"title\": \"两年工作经历教我的职业共性\",\n  \"section\": \"案例与经历\",\n  \"minutes\": 2.0,\n  \"purpose\": \"从两年工作经历提炼职业共性与组织适应。\",\n  \"talk\": [\n    \"从两年工作经历中提炼组织化职业训练的共性。\",\n    \"五项并列：层级关系、流程执行、反馈机制、责任边界与成长路径。\",\n    \"仅使用原纲已有的概括，不补写具体单位、任务、装备、人员或时间地点。\"\n  ],\n  \"transition\": \"组织经历之后，再用待核验的罗翔案例观察职业认知变化。\",\n  \"cue\": \"不涉及单位、番号、任务、装备、人员、时间地点；不做负面评价和猎奇化。\"\n}",
+      "text_sha256": "ba93a6a6f97d56fe8c7cb5e1c52ba957c1bce1fb1f9034eb15561f88000827bb",
+      "source_slide": "ppt/slides/slide26.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide26.xml",
+      "notes_xml": "input/notes/page_026/notesSlide.xml"
+    },
+    {
+      "page_index": 27,
+      "text": "{\n  \"id\": \"luo-career-recognition\",\n  \"title\": \"选择时不喜欢，后来为什么喜欢了\",\n  \"section\": \"案例与经历\",\n  \"minutes\": 2.0,\n  \"purpose\": \"借已核验的公开访谈，说明职业认知可能在学习与实践中变化。\",\n  \"talk\": [\n    \"来源为南方周末账号在南方+发布的2020年5月4日公开访谈，截图保留标题和回答。\",\n    \"概括本人回答：父母选择法律，他当时不了解；后来觉得刑法课有趣，就喜欢学习。\",\n    \"职业认知在学习与实践中变化是宣讲提炼，不伪装成原话，也不使用未核验的鲁豫节目截图。\"\n  ],\n  \"transition\": \"把案例中的认知变化归结到选择与实践的关系。\"\n}",
+      "text_sha256": "963963867242ed97eca72ee29d3718fd502769f89f5b75b065bf14d61d2a92b8",
+      "source_slide": "ppt/slides/slide27.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide27.xml",
+      "notes_xml": "input/notes/page_027/notesSlide.xml"
+    },
+    {
+      "page_index": 28,
+      "text": "{\n  \"id\": \"practice-takeaway\",\n  \"title\": \"从“选对”到“做对”\",\n  \"section\": \"案例与经历\",\n  \"minutes\": 1.0,\n  \"purpose\": \"收束案例，说明从选择到实践的认知转化。\",\n  \"talk\": [\n    \"选择只是起点，不能穷尽之后的职业可能。\",\n    \"学习、任务与反馈会影响一个人如何认识职业。\",\n    \"“干一行爱一行”是一种可能的当代转化，既非必然结果，也不是原文直译。\"\n  ],\n  \"transition\": \"案例收束后，回到最初的理论考察方法。\"\n}",
+      "text_sha256": "63e9ce9a06763ac86dab607e7489e4f90a52a31503de69245e2dff264ccfc799",
+      "source_slide": "ppt/slides/slide28.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide28.xml",
+      "notes_xml": "input/notes/page_028/notesSlide.xml"
+    },
+    {
+      "page_index": 29,
+      "text": "{\n  \"id\": \"theory-return\",\n  \"title\": \"马克思给的不是答案，是考察方法\",\n  \"section\": \"结尾升华\",\n  \"minutes\": 1.0,\n  \"purpose\": \"回扣马克思文本的考察方法及当代转化边界。\",\n  \"talk\": [\n    \"回顾热情、冷静考察、现实限制、职业实践和幸福与完善的联系。\",\n    \"强调提供的是考察方法，不是替听众给出岗位答案。\",\n    \"在新的实践中继续考察，将理论收束到可执行的行动。\"\n  ],\n  \"transition\": \"将考察方法落到离场时的问题和行动提示。\"\n}",
+      "text_sha256": "c0aab119a8fd99a713069c4285292363266de30d51b1c767d1b32e8ab3aef67e",
+      "source_slide": "ppt/slides/slide29.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide29.xml",
+      "notes_xml": "input/notes/page_029/notesSlide.xml"
+    },
+    {
+      "page_index": 30,
+      "text": "{\n  \"id\": \"closing-question\",\n  \"title\": \"离场前，带走一个问题\",\n  \"section\": \"结尾升华\",\n  \"minutes\": 3.0,\n  \"purpose\": \"留下思考问题和三条行动提示，完成现场收束。\",\n  \"talk\": [\n    \"提出离场问题：如果第一份工作不是最适合的，准备如何在实践中重新理解它。\",\n    \"按本页原纲列3个方向、各找2条可验证信息，并准备能说明做过什么的证据。\",\n    \"保留调整空间；这是有实质内容的收尾，保留插图、导航和三个同级行动，不改成纯致谢封面。\"\n  ],\n  \"transition\": \"以原稿问题和三条行动提示结束本次分享。\",\n  \"interaction\": \"留1—2分钟现场回应或默想。\"\n}",
+      "text_sha256": "70e094ca9be3867a29fe1e1a260d842b32f4fa173e94676389632c2996e0a84c",
+      "source_slide": "ppt/slides/slide30.xml",
+      "source_notes_part": "ppt/notesSlides/notesSlide30.xml",
+      "notes_xml": "input/notes/page_030/notesSlide.xml"
+    }
+  ]
+}

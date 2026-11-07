@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_023",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/render/rendered.png",
+      "source_sha256": "f21a14797c9982633a5b06c6ed4b43d6299a81ebf4a45e1b5b0b80ee0d8ed3f6",
+      "rendered_sha256": "1da657cbba8a411734133c71e7eb34e09366923ae00bdab4fc99dc6c80540ebe",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Compared four unequal columns, four body rows and alternate lilac bands: source column boundaries, row heights and footer positions preserved.",
+        "text_content": "升学深造、基层项目、自由职业、军警 and all capability/evidence/misconception strings remain editable, with original line breaks and unobstructed final row.",
+        "object_completeness": "Thirty-eight native text boxes and thirty-seven native layout shapes preserve every source table cell and navigation marker; no table raster.",
+        "render_integrity": "Inspected actual LibreOffice full-slide render against source: text remains readable, no duplicate strokes, clipping or objects covering table content."
+      },
+      "pptx_sha256": "2b434841ed9b8c39a8f1cc806c561640fe566b53257d9c2eb8d231eec7de0860"
+    }
+  ]
+}

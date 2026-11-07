@@ -1,0 +1,292 @@
+{
+  "schema_version": "image2ppt-supplemental-page-qa-v1",
+  "passed": true,
+  "page_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027",
+  "state_owner": "page_jobs.json",
+  "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/manifest.json",
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/page.pptx",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "",
+    "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+    "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render/rendered.png",
+    "evidence": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/visual-review-evidence.json",
+    "evidence_template": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/visual-review-evidence.template.json",
+    "evidence_payload": {
+      "schema_version": "image2ppt-visual-review-evidence-v1",
+      "pages": [
+        {
+          "page_id": "page_027",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render/rendered.png",
+          "source_sha256": "c3ef8c021384b72d4bb78e6645420061a8defb6556e9c23ae30108c1496a9381",
+          "rendered_sha256": "c6692e4bc9aa3ed46099c73c507675259c9a14c2d7a9521e7ef1fb8d4781aade",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two source screenshot panels remain stacked at left and the selection/study explanation panels stay stacked at right, with original margins and divider positions.",
+            "text_content": "Title and right-side paraphrases are intact; source captions/date remain visible, and merged native footer text restores the period after 2020-05-04 without overlap.",
+            "object_completeness": "Nineteen native text boxes, thirty-three layout shapes and two original screenshot assets preserve all visible elements, including the source-link underline.",
+            "render_integrity": "Inspected actual LibreOffice render after footer repair: no overlapping adjacent footer spans, clipped right-panel text, duplicate screenshot text or missing body lines.",
+            "raster_assets": "Both original Southern Plus screenshots are reused with user approval and provenance hashes; their original interview header, excerpt text and source framing remain unchanged."
+          },
+          "pptx_sha256": "3e9a945441b1963989b71bbaac307f4690cc2848495da69da6b1d7d08809aaf9"
+        }
+      ]
+    }
+  },
+  "checks": {
+    "region_decomposition_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/inspect_region_decomposition.py",
+        "--manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/manifest.json",
+        "--out",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/region_decomposition_report.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-region-decomposition-report-v1\",\n  \"passed\": true,\n  \"pages\": [\n    {\n      \"manifest\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_027/manifest.json\",\n      \"passed\": true,\n      \"page_complexity\": \"structured\",\n      \"region_count\": 3,\n      \"regions\": [\n        {\n          \"id\": \"heading\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 18,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"content\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 32,\n          \"protected_anchor_count\": 6,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"footer\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 4,\n          \"protected_anchor_count\": 0,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        }\n      ],\n      \"summary\": {\n        \"manifest_objects\": 54,\n        \"assigned_objects\": 54,\n        \"protected_anchors\": 15,\n        \"compound_regions\": 0\n      },\n      \"warnings\": [],\n      \"errors\": []\n    }\n  ],\n  \"summary\": {\n    \"pages\": 1,\n    \"regions\": 3,\n    \"compound_regions\": 0\n  },\n  \"errors\": []\n}\n",
+      "stderr": ""
+    },
+    "region_decomposition": {
+      "schema_version": "image2ppt-region-decomposition-report-v1",
+      "passed": true,
+      "pages": [
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 32,
+              "protected_anchor_count": 6,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 4,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 54,
+            "assigned_objects": 54,
+            "protected_anchors": 15,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        }
+      ],
+      "summary": {
+        "pages": 1,
+        "regions": 3,
+        "compound_regions": 0
+      },
+      "errors": []
+    },
+    "arrow_postprocess_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/postprocess_manifest_arrows.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/page.pptx",
+        "--manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/manifest.json",
+        "--report",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/arrow_postprocess_report.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-manifest-arrow-postprocess-v1\",\n  \"passed\": true,\n  \"pptx\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_027/page.pptx\",\n  \"manifests\": [\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_027/manifest.json\"\n  ],\n  \"operations\": [],\n  \"errors\": [],\n  \"preservation\": {\n    \"non_slide_parts_preserved\": true,\n    \"non_slide_part_count\": 14,\n    \"notes_parts_preserved\": true,\n    \"notes_part_count\": 0\n  },\n  \"input_sha256\": \"3e9a945441b1963989b71bbaac307f4690cc2848495da69da6b1d7d08809aaf9\",\n  \"output_sha256\": \"3e9a945441b1963989b71bbaac307f4690cc2848495da69da6b1d7d08809aaf9\",\n  \"summary\": {\n    \"slides\": 1,\n    \"profiled_arrows\": 0,\n    \"connectors\": 0,\n    \"filled_arrows\": 0\n  }\n}\n",
+      "stderr": ""
+    },
+    "arrow_postprocess": {
+      "schema_version": "image2ppt-manifest-arrow-postprocess-v1",
+      "passed": true,
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/page.pptx",
+      "manifests": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/manifest.json"
+      ],
+      "operations": [],
+      "errors": [],
+      "preservation": {
+        "non_slide_parts_preserved": true,
+        "non_slide_part_count": 14,
+        "notes_parts_preserved": true,
+        "notes_part_count": 0
+      },
+      "input_sha256": "3e9a945441b1963989b71bbaac307f4690cc2848495da69da6b1d7d08809aaf9",
+      "output_sha256": "3e9a945441b1963989b71bbaac307f4690cc2848495da69da6b1d7d08809aaf9",
+      "summary": {
+        "slides": 1,
+        "profiled_arrows": 0,
+        "connectors": 0,
+        "filled_arrows": 0
+      }
+    },
+    "image2ppt_validation_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/cli/image2ppt/cli.py",
+        "page",
+        "validate",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027",
+        "--report",
+        "validation.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"pptx\": \"/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/page.pptx\",\n  \"zip_ok\": true,\n  \"slides\": 1,\n  \"images\": 2,\n  \"editable_text_shapes\": 19,\n  \"shape_count\": 52,\n  \"all_text\": \"案例与经历 开场问题 理论命题 就业数据 方向地图 能力证据 案例经历 行动反思 选择时不喜欢，后来为什么喜欢了 南方+公开访谈 · 2020-05-04 罗翔谈专业选择与学习兴趣 · 原网页截图 选择时 父母为他选择了法律专业，他当时并不了解法律。 并非因为已经喜欢法律而选择。 学习后 后来发现刑法课有趣，逐渐喜欢学习。 职业认知会在学习与实践中变化。 南方+公开访谈，2020-05-04。均为概括；“实践中变化”为宣讲提炼。 27 / 30\",\n  \"required_text\": [\n    \"案例与经历\",\n    \"开场问题\",\n    \"理论命题\",\n    \"就业数据\",\n    \"方向地图\",\n    \"能力证据\",\n    \"案例经历\",\n    \"行动反思\",\n    \"选择时不喜欢，后来为什么喜欢了\",\n    \"南方+公开访谈 · 2020-05-04\",\n    \"罗翔谈专业选择与学习兴趣 · 原网页截图\",\n    \"选择时\",\n    \"父母为他选择了法律专业，他当时并不了解法律。\",\n    \"并非因为已经喜欢法律而选择。\",\n    \"学习后\",\n    \"后来发现刑法课有趣，逐渐喜欢学习。\",\n    \"职业认知会在学习与实践中变化。\",\n    \"南方+公开访谈，2020-05-04\",\n    \"。均为概括；“实践中变化”为宣讲提炼。\",\n    \"27 / 30\"\n  ],\n  \"missing_required_text\": [],\n  \"missing_parts\": [],\n  \"missing_relationship_targets\": [],\n  \"missing_asset_provenance\": [],\n  \"missing_manifest_images\": [],\n  \"missing_provenance_sources\": [],\n  \"invalid_asset_provenance\": [],\n  \"media_hash_mismatches\": [],\n  \"asset_provenance_checked\": 2,\n  \"manifest_image_count\": 2,\n  \"media_manifest_mismatch\": false,\n  \"relationship_targets_checked\": 11,\n  \"warnings\": [],\n  \"page_contract_violations\": [],\n  \"passed\": true\n}\n",
+      "stderr": ""
+    },
+    "image2ppt_validation": {
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/page.pptx",
+      "zip_ok": true,
+      "slides": 1,
+      "images": 2,
+      "editable_text_shapes": 19,
+      "shape_count": 52,
+      "all_text": "案例与经历 开场问题 理论命题 就业数据 方向地图 能力证据 案例经历 行动反思 选择时不喜欢，后来为什么喜欢了 南方+公开访谈 · 2020-05-04 罗翔谈专业选择与学习兴趣 · 原网页截图 选择时 父母为他选择了法律专业，他当时并不了解法律。 并非因为已经喜欢法律而选择。 学习后 后来发现刑法课有趣，逐渐喜欢学习。 职业认知会在学习与实践中变化。 南方+公开访谈，2020-05-04。均为概括；“实践中变化”为宣讲提炼。 27 / 30",
+      "required_text": [
+        "案例与经历",
+        "开场问题",
+        "理论命题",
+        "就业数据",
+        "方向地图",
+        "能力证据",
+        "案例经历",
+        "行动反思",
+        "选择时不喜欢，后来为什么喜欢了",
+        "南方+公开访谈 · 2020-05-04",
+        "罗翔谈专业选择与学习兴趣 · 原网页截图",
+        "选择时",
+        "父母为他选择了法律专业，他当时并不了解法律。",
+        "并非因为已经喜欢法律而选择。",
+        "学习后",
+        "后来发现刑法课有趣，逐渐喜欢学习。",
+        "职业认知会在学习与实践中变化。",
+        "南方+公开访谈，2020-05-04",
+        "。均为概括；“实践中变化”为宣讲提炼。",
+        "27 / 30"
+      ],
+      "missing_required_text": [],
+      "missing_parts": [],
+      "missing_relationship_targets": [],
+      "missing_asset_provenance": [],
+      "missing_manifest_images": [],
+      "missing_provenance_sources": [],
+      "invalid_asset_provenance": [],
+      "media_hash_mismatches": [],
+      "asset_provenance_checked": 2,
+      "manifest_image_count": 2,
+      "media_manifest_mismatch": false,
+      "relationship_targets_checked": 11,
+      "warnings": [],
+      "page_contract_violations": [],
+      "passed": true
+    },
+    "arrow_inspection_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/inspect_arrow_atomicity.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/page.pptx",
+        "--manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/manifest.json",
+        "--out",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/arrow_inspection_report.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-manifest-arrow-inspection-v1\",\n  \"passed\": true,\n  \"pptx\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_027/page.pptx\",\n  \"errors\": [],\n  \"summary\": {\n    \"expected_arrows\": 0,\n    \"inspected_arrows\": 0,\n    \"connectors\": 0,\n    \"filled_arrows\": 0,\n    \"fragmented_or_missing\": 0\n  },\n  \"arrows\": []\n}\n",
+      "stderr": ""
+    },
+    "arrow_inspection": {
+      "schema_version": "image2ppt-manifest-arrow-inspection-v1",
+      "passed": true,
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/page.pptx",
+      "errors": [],
+      "summary": {
+        "expected_arrows": 0,
+        "inspected_arrows": 0,
+        "connectors": 0,
+        "filled_arrows": 0,
+        "fragmented_or_missing": 0
+      },
+      "arrows": []
+    },
+    "render_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/render_image2ppt_qa.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/page.pptx",
+        "--out-dir",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render",
+        "--report",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render_report.json",
+        "--source",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+        "--timeout",
+        "120",
+        "--existing-rendered",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render/rendered.png"
+      ],
+      "returncode": 0,
+      "stdout": "{\"status\": \"rendered\", \"report\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_027/render_report.json\"}\n",
+      "stderr": ""
+    },
+    "render": {
+      "schema_version": "image2ppt-render-qa-v1",
+      "status": "rendered",
+      "renderer": "existing-rendered-png",
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/page.pptx",
+      "out_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render",
+      "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render/rendered.png",
+      "rendered_slides": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render/rendered.png"
+      ],
+      "source_image": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+      "raw": {
+        "status": "rendered",
+        "renderer": "existing-rendered-png",
+        "backend": "user-supplied-powerpoint-render",
+        "slides": [
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render/rendered.png"
+        ]
+      },
+      "diff_metrics": {
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render/rendered.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 4.0,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      }
+    }
+  },
+  "errors": []
+}

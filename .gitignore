@@ -1,0 +1,139 @@
+# =========================
+# 操作系统 (OS) 生成的文件
+# =========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# =========================
+# IDE / 编辑器 配置文件
+# =========================
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# JetBrains (IntelliJ IDEA, WebStorm, PyCharm 等)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Sublime Text
+*.sublime-workspace
+
+# =========================
+# 环境变量与敏感信息 (非常重要)
+# =========================
+# 防止把密码、API Key 传到 GitHub
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# 日志与临时文件
+# =========================
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+tmp/
+temp/
+
+# =========================
+# Node.js / 前端常用 (如果你写 JS/TS/Vue/React)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+build/
+.next/
+.nuxt/
+coverage/
+
+# =========================
+# Python 常用 (如果你写 Python)
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.python-version
+*.egg-info/
+
+# =========================
+# Java / Kotlin 常用
+# =========================
+*.class
+target/
+.gradle/
+build/
+out/
+
+# =========================
+# C / C++ 常用
+# =========================
+*.o
+*.obj
+*.exe
+*.out
+*.app
+build/
+
+# =========================
+# Go 常用
+# =========================
+*.exe
+*.test
+*.out
+vendor/
+
+# =========================
+# Rust 常用
+# =========================
+/target/
+**/*.rs.bk
+
+# =========================
+# 其他压缩/编译产物
+# =========================
+*.zip
+*.tar.gz
+*.rar
+
+# 忽略 Python 虚拟环境相关文件
+pyvenv.cfg
+activate
+activate.bat
+activate.csh
+activate.fish
+Activate.ps1
+pip*
+Scripts/
+Lib/
+include/
+# 忽略所有名字以 -venv 结尾的文件夹（包括你的 .image2ppt-venv）
+*-venv/
+# 或者直接精准忽略这个特定文件夹
+.image2ppt-venv/

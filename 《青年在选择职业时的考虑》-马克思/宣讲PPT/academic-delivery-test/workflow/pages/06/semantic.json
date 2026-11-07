@@ -1,0 +1,22 @@
+{
+  "page_id": "calm-examination",
+  "input_sha256": "c3887fb3c318ef4ba0d9a023658a668125d0e7606d19aa76fce5cd2b64ce890a",
+  "rules_sha256": "11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424",
+  "assessments": [
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L02",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "四个简短考察维度并列，同权呈现"
+    }
+  ],
+  "selected_id": "L02",
+  "selection_reason": "四项采用等面积2×2考察清单，保留方法结论与充分条件限定。",
+  "layout_confirmed": true
+}

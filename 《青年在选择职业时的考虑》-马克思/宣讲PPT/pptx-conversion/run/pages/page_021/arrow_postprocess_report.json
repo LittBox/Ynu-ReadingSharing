@@ -1,0 +1,24 @@
+{
+  "schema_version": "image2ppt-manifest-arrow-postprocess-v1",
+  "passed": true,
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/page.pptx",
+  "manifests": [
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/manifest.json"
+  ],
+  "operations": [],
+  "errors": [],
+  "preservation": {
+    "non_slide_parts_preserved": true,
+    "non_slide_part_count": 12,
+    "notes_parts_preserved": true,
+    "notes_part_count": 0
+  },
+  "input_sha256": "be1c2f86c89fb524b28d0dc67721a26a707aecaf05f336cfc9abb4995e743c48",
+  "output_sha256": "be1c2f86c89fb524b28d0dc67721a26a707aecaf05f336cfc9abb4995e743c48",
+  "summary": {
+    "slides": 1,
+    "profiled_arrows": 0,
+    "connectors": 0,
+    "filled_arrows": 0
+  }
+}

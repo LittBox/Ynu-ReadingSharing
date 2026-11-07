@@ -1,0 +1,27 @@
+{
+  "page_id": "career-directions",
+  "source_page": 16,
+  "text": "### 第 16 页｜八大方向总览\n\n- **页面标题**：青年就业的八类方向\n- **核心文字**：\n  - 体制内\n  - 国企\n  - 民企\n  - 外企\n  - 升学深造\n  - 基层项目\n  - 自由职业\n  - 军警\n- **视觉/版式**：八宫格方向地图；每格一个方向图标；先给地图，再分页展开。\n- **资源**：`assets/career-map-overview.png`\n- **口播提示**：先给地图，再分两页展开，不追求穷尽所有岗位。\n",
+  "roles": [
+    {
+      "role": "section",
+      "text": "青年就业的八类方向",
+      "reason": "分类总览"
+    },
+    {
+      "role": "group",
+      "text": "八类方向",
+      "reason": "并列类别，不强制互斥"
+    }
+  ],
+  "features": {
+    "purpose": "overview",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 8,
+    "evidence": [
+      "text"
+    ]
+  },
+  "retrieval_query": "青年就业八类方向同级总览：体制内、国企、民企、外企、升学深造、基层项目、自由职业、军警。八宫格两行四列，每格同权标题加线形图标，无先后与推荐排名，下一步展开四页。"
+}

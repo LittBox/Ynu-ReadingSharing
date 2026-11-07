@@ -1,0 +1,34 @@
+{
+  "page_id": "passion-and-examination",
+  "input_sha256": "360b6fa1a303b0e1831cca319408337ebc09f3a5b226b5212b1fe50055607bb1",
+  "rules_sha256": "11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424",
+  "assessments": [
+    {
+      "id": "L02",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "用户明确三项同权横排，已人工验收"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "非收尾"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "不需要问题行动分栏"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    }
+  ],
+  "selected_id": "L02",
+  "selection_reason": "复用验收三卡与线形图标，禁止制造递进或主次。",
+  "layout_confirmed": true
+}

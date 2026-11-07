@@ -1,0 +1,4 @@
+{
+  "action": "reuse_icons",
+  "reason": "既有Lucide图标准确表达三个角度，不需生成位图。"
+}

@@ -1,0 +1,28 @@
+{
+  "page_id": "reality-constraints",
+  "source_page": 7,
+  "text": "### 第 7 页｜命题三：我们不能总是选择适合我们的职业\n\n- **页面标题**：不是所有“适合”，都会在第一次选择时出现\n- **核心文字**：\n  - 现实限制客观存在\n  - 能力与岗位可能错位\n  - 第一份工作不等于终局\n- **视觉/版式**：三段式横向卡片；可用“路径分叉”抽象图。\n- **资源**：`assets/reality-limits.png`\n- **口播提示**：承接数据部分，说明“没得选”也是择业的一部分。\n",
+  "roles": [
+    {
+      "role": "claim",
+      "text": "不是所有适合，都会在第一次选择时出现",
+      "reason": "对现实限制的概括"
+    },
+    {
+      "role": "group",
+      "text": "现实限制／岗位错位／持续调整",
+      "reason": "三个解释角度"
+    }
+  ],
+  "features": {
+    "purpose": "argument",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 3,
+    "evidence": [
+      "text",
+      "illustration"
+    ]
+  },
+  "retrieval_query": "现实限制、能力岗位错位、第一份工作不是终局三项同级解释；左侧青年在多条职业路径前观察路标的简约示意，右三标题条与论证。路径开放而非人生单向成功阶梯。"
+}

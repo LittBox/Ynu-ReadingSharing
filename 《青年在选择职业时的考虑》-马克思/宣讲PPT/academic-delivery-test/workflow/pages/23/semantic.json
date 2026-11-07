@@ -1,0 +1,22 @@
+{
+  "page_id": "competency-last-four",
+  "input_sha256": "52966deb592c3c70b064bce8afd9dab4194f5c0eccb8c262f8a09cc611bff369",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "assessments": [
+    {
+      "id": "L06",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "四行四维矩阵，与前页统一"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    }
+  ],
+  "selected_id": "L06",
+  "selection_reason": "与前四类能力矩阵同列宽字号与表头，各项完整保留。",
+  "layout_confirmed": true
+}

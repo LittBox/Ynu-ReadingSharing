@@ -1,0 +1,28 @@
+{
+  "page_id": "youth-employment-baseline",
+  "source_page": 11,
+  "text": "### 第 11 页｜青年就业基本面\n\n- **页面标题**：青年就业的基本面\n- **核心文字**：\n  - 1—2 个关键指标\n  - 口径说明\n  - 来源与年份脚注\n- **视觉/版式**：柱状图或折线图；图表下方固定来源脚注；文字区加半透明暖白底板。\n- **资源**：`assets/youth-employment-rate.png`\n- **口播提示**：先给基本面，不急着下结论。\n",
+  "roles": [
+    {
+      "role": "claim",
+      "text": "16—24岁失业率环比上升3个百分点",
+      "reason": "数据结论"
+    },
+    {
+      "role": "data",
+      "text": "14.9/17.9/7.1/7.2%",
+      "reason": "同口径比较"
+    }
+  ],
+  "features": {
+    "purpose": "data",
+    "relation": "comparison",
+    "density": "mixed",
+    "group_count": 2,
+    "evidence": [
+      "source_image",
+      "numeric_data"
+    ]
+  },
+  "retrieval_query": "已验收数据样板：左澎湃真实来源截图，右两年龄组6月7月失业率，同20%量尺；标题黑灰，主色仅用于数据条；6月推算清楚标示。"
+}

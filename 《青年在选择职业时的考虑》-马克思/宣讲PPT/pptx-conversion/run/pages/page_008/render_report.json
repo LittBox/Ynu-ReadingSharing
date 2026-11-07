@@ -1,0 +1,35 @@
+{
+  "schema_version": "image2ppt-render-qa-v1",
+  "status": "rendered",
+  "renderer": "existing-rendered-png",
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/page.pptx",
+  "out_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/render",
+  "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/render/rendered.png",
+  "rendered_slides": [
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/render/rendered.png"
+  ],
+  "source_image": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/source.png",
+  "raw": {
+    "status": "rendered",
+    "renderer": "existing-rendered-png",
+    "backend": "user-supplied-powerpoint-render",
+    "slides": [
+      "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/render/rendered.png"
+    ]
+  },
+  "diff_metrics": {
+    "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/source.png",
+    "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/render/rendered.png",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "rendered_original_size": [
+      2000,
+      1125
+    ],
+    "mean_abs_rgb_diff_0_255": 2.94,
+    "max_abs_rgb_diff_0_255": 255,
+    "note": "Indicative only; the page still requires visual review."
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "page_id": "practice-takeaway",
+  "input_sha256": "191eb487d8be22e4a75767b19b2e84c503b2bed2612fbd8313b78e8638b6e1e7",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "embedding": {
+    "model": "Apple NaturalLanguage zh-Hans sentenceEmbedding",
+    "revision": 1,
+    "dimension": 640
+  },
+  "channels": {
+    "keyword": "BM25 over Chinese bigrams/Latin tokens",
+    "vector": "cosine similarity of real Chinese sentence embeddings",
+    "semantic": "pending agent analysis"
+  },
+  "candidates": [
+    {
+      "id": "L01",
+      "family": "C01",
+      "name": "封面横幅",
+      "keywords": [
+        "开场",
+        "封面",
+        "题目",
+        "书目",
+        "讲者",
+        "日期",
+        "起点"
+      ],
+      "semantic_description": "讲座首页，主标题置于加高出血横幅；上方留空，无导航、标志或文字。副标题、书目等说明全在横幅下，汇报人及时间用横向浅色圆角信息标签排列。",
+      "conditions": {
+        "purposes": [
+          "cover"
+        ]
+      },
+      "apply": "用于首页或仅感谢聆听等无实质内容的结束页；不得因页码最后就选用。有实质内容的收尾另按内容检索。出血横幅上方留空；下方说明与汇报主题、汇报人、时间分层，三个基本信息标签同级并使用space-between分布，只填已有字段。",
+      "avoid": "不要把此封面横幅规则用于正文观点句。",
+      "keyword_score": 4.03108,
+      "vector_cosine": 0.98976,
+      "keyword_rank": 2,
+      "vector_rank": 1,
+      "recall_rrf": 0.03252247488101534
+    },
+    {
+      "id": "L08",
+      "family": "C02",
+      "name": "有依据的步骤路径",
+      "keywords": [
+        "递进",
+        "步骤",
+        "先后",
+        "流程",
+        "阶段",
+        "推导"
+      ],
+      "semantic_description": "内容明确存在时间先后、依赖或推导，各步骤沿阅读方向展示，有依据时使用连接线。编号对应步骤而不是强弱，后一步不自动最大。",
+      "conditions": {
+        "relations": [
+          "sequence"
+        ]
+      },
+      "apply": "为每条连接写清楚依赖或先后依据，长度由内容决定。",
+      "avoid": "并列观点不能因有01/02/03就套步骤流程。",
+      "keyword_score": 5.66824,
+      "vector_cosine": 0.9854,
+      "keyword_rank": 1,
+      "vector_rank": 3,
+      "recall_rrf": 0.032266458495966696
+    },
+    {
+      "id": "L07",
+      "family": "C06",
+      "name": "插图问题与行动卡",
+      "keywords": [
+        "收束",
+        "反思",
+        "问题",
+        "行动",
+        "调整",
+        "探索",
+        "配图"
+      ],
+      "semantic_description": "以一个开放问题回扣主题，并给出两到三项独立行动。左侧相关简约主题插图与问题，右侧等高行动卡，标题条下接说明，问题不填充。",
+      "conditions": {
+        "purposes": [
+          "closing"
+        ],
+        "group_min": 2,
+        "group_max": 3
+      },
+      "apply": "有反思问题、论证或行动等实质内容的收尾页，保留正文导航、透明底问题、左插图右同权行动卡，不套封面横幅。布局确认后复用合适插图，否则按用户风格生成并标示意。即使是样板最后一页也按内容判断。",
+      "avoid": "不把三项行动强行画成必经流程；不能用图取代原问题。",
+      "keyword_score": 1.46448,
+      "vector_cosine": 0.9894,
+      "keyword_rank": 4,
+      "vector_rank": 2,
+      "recall_rrf": 0.031754032258064516
+    },
+    {
+      "id": "L11",
+      "family": "C06",
+      "name": "问题与文字行动分栏",
+      "keywords": [
+        "收束",
+        "行动",
+        "清单",
+        "问题",
+        "无图"
+      ],
+      "semantic_description": "问题和两到三项具体行动构成收尾，已有较多文字或无合适图像时采用问题与行动分栏；行动标题条与正文框统一。",
+      "conditions": {
+        "purposes": [
+          "closing"
+        ],
+        "group_min": 2,
+        "group_max": 3
+      },
+      "apply": "仅当空间利用合理且没有用户必须配图要求时采用。",
+      "avoid": "用户明确要求插图时不能用纯文字版替代。",
+      "keyword_score": 1.52051,
+      "vector_cosine": 0.98274,
+      "keyword_rank": 3,
+      "vector_rank": 4,
+      "recall_rrf": 0.03149801587301587
+    }
+  ],
+  "excluded": [
+    {
+      "id": "L02",
+      "reasons": [
+        "relation=sequence not in ['parallel']"
+      ]
+    },
+    {
+      "id": "L03",
+      "reasons": [
+        "relation=sequence not in ['parallel']",
+        "density=short not in ['long', 'mixed']"
+      ]
+    },
+    {
+      "id": "L04",
+      "reasons": [
+        "missing evidence source_image"
+      ]
+    },
+    {
+      "id": "L05",
+      "reasons": [
+        "missing evidence numeric_data",
+        "missing evidence source_image"
+      ]
+    },
+    {
+      "id": "L06",
+      "reasons": [
+        "missing evidence table"
+      ]
+    },
+    {
+      "id": "L09",
+      "reasons": [
+        "relation=sequence not in ['whole_parts', 'priority']"
+      ]
+    },
+    {
+      "id": "L10",
+      "reasons": [
+        "relation=sequence not in ['causal', 'conditional']"
+      ]
+    },
+    {
+      "id": "L12",
+      "reasons": [
+        "missing evidence source_image"
+      ]
+    },
+    {
+      "id": "L13",
+      "reasons": [
+        "missing evidence illustration"
+      ]
+    },
+    {
+      "id": "L14",
+      "reasons": [
+        "relation=sequence not in ['parallel']",
+        "too few groups"
+      ]
+    }
+  ],
+  "status": "requires_semantic_review"
+}

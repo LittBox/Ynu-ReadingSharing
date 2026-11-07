@@ -1,0 +1,19 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_021",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/render/rendered.png",
+      "source_sha256": "01ece4ba5c1d8fb73220d0899ec97a008b6f3a9cc3af90c47932de9e9b8c05ee",
+      "rendered_sha256": "0a59ac54f356e7b03b710b30f3e3d7a3687352da4fb08b7af167fc8c15551f10",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Compared matching aspect ratios: purple four-column header, three full-width body bands, lower takeaway and footer retain source positions.",
+        "text_content": "All four column headings and body phrases remain visible, including source line breaks 入/口 and 标/准; Source Han sans glyph details differ slightly without clipping.",
+        "object_completeness": "Thirty-four native text boxes and thirty-two layout objects preserve the complete table, navigation pills, active chapter marker and footer rule.",
+        "render_integrity": "Inspected actual LibreOffice rendered.png against source.png; no duplicated text, missing cells, full-page image, overlap or garbled CJK characters."
+      }
+    }
+  ]
+}

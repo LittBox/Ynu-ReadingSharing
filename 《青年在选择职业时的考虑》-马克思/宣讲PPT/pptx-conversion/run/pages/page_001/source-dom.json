@@ -1,0 +1,246 @@
+{
+  "id": "opening-cover",
+  "title": "第一份工作，只是起点",
+  "size": [
+    1920,
+    1080
+  ],
+  "texts": [
+    {
+      "text": "第一份工作，只是起点",
+      "box": [
+        96,
+        264.328125,
+        1171.203125,
+        139
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 117.12,
+      "weight": "600",
+      "color": "#ffffff",
+      "lineHeight": "142.886px",
+      "letterSpacing": "normal",
+      "z": 4,
+      "tag": "H1",
+      "cls": "ac-title"
+    },
+    {
+      "text": "青年择业中的热情、冷静与重新喜欢",
+      "box": [
+        127.796875,
+        557.765625,
+        737.28125,
+        55
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 46.08,
+      "weight": "500",
+      "color": "#25232a",
+      "lineHeight": "69.12px",
+      "letterSpacing": "normal",
+      "z": 9,
+      "tag": "P",
+      "cls": "ac-lead"
+    },
+    {
+      "text": "读《青年在选择职业时的考虑》有感",
+      "box": [
+        127.796875,
+        642.0625,
+        568.328125,
+        42
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 35.52,
+      "weight": "400",
+      "color": "#56515e",
+      "lineHeight": "55.056px",
+      "letterSpacing": "normal",
+      "z": 11,
+      "tag": "P",
+      "cls": "ac-muted"
+    },
+    {
+      "text": "汇报主题：青年择业 · 理论与实践",
+      "box": [
+        172.78125,
+        816.34375,
+        398.75,
+        32
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 26.88,
+      "weight": "500",
+      "color": "#660874",
+      "lineHeight": "41.664px",
+      "letterSpacing": "normal",
+      "z": 14,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "汇报人：曾湘雨",
+      "box": [
+        954.734375,
+        816.34375,
+        188.171875,
+        32
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 26.88,
+      "weight": "500",
+      "color": "#660874",
+      "lineHeight": "41.664px",
+      "letterSpacing": "normal",
+      "z": 16,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "时间：2026-10-17",
+      "box": [
+        1526.09375,
+        816.34375,
+        221.125,
+        32
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 26.88,
+      "weight": "500",
+      "color": "#660874",
+      "lineHeight": "41.664px",
+      "letterSpacing": "normal",
+      "z": 18,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "内容依据：原始宣讲大纲。",
+      "box": [
+        96,
+        952.546875,
+        276.484375,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 21,
+      "tag": "SPAN",
+      "cls": ""
+    },
+    {
+      "text": "01 / 30",
+      "box": [
+        1752.265625,
+        952.546875,
+        71.734375,
+        27
+      ],
+      "font": "Inter, \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI Variable\", \"Segoe UI\", system-ui, -apple-system, sans-serif, \"PingFang SC\", \"Hiragino Sans GB\", \"Source Han Sans SC\", \"Noto Sans SC\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", 微软雅黑, sans-serif",
+      "size": 23.04,
+      "weight": "400",
+      "color": "#665f6d",
+      "lineHeight": "32.256px",
+      "letterSpacing": "normal",
+      "z": 23,
+      "tag": "SPAN",
+      "cls": ""
+    }
+  ],
+  "shapes": [
+    {
+      "type": "fill",
+      "box": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc",
+      "radius": 0,
+      "z": 0
+    },
+    {
+      "type": "fill",
+      "box": [
+        0,
+        151.19,
+        1920,
+        367.19
+      ],
+      "fill": "#660874",
+      "radius": 0,
+      "z": 2
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        550.77,
+        1728,
+        140.34
+      ],
+      "edge": "Left",
+      "width": 3,
+      "color": "#660874",
+      "style": "solid",
+      "z": 7
+    },
+    {
+      "type": "fill",
+      "box": [
+        134.39,
+        804.25,
+        475.53,
+        57.84
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 13
+    },
+    {
+      "type": "fill",
+      "box": [
+        916.34,
+        804.25,
+        264.95,
+        57.84
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 15
+    },
+    {
+      "type": "fill",
+      "box": [
+        1487.7,
+        804.25,
+        297.91,
+        57.84
+      ],
+      "fill": "#f2edf5",
+      "radius": 999,
+      "z": 17
+    },
+    {
+      "type": "border",
+      "box": [
+        96,
+        937.67,
+        1728,
+        45.14
+      ],
+      "edge": "Top",
+      "width": 1,
+      "color": "#d9cfdf",
+      "style": "solid",
+      "z": 19
+    }
+  ],
+  "images": [],
+  "svgs": []
+}

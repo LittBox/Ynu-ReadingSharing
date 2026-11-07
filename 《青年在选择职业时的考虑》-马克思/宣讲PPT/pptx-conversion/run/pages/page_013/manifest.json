@@ -1,0 +1,1430 @@
+{
+  "schema_version": 2,
+  "slide": {
+    "width": 13.333,
+    "height": 7.5,
+    "size_mode": "wide",
+    "background": "#fbfafc"
+  },
+  "content_box": {
+    "left": 0,
+    "top": 9.374999999955946e-05,
+    "width": 13.333,
+    "height": 7.499812500000001,
+    "fit": "contain"
+  },
+  "source": {
+    "path": "source.png",
+    "width_px": 1920,
+    "height_px": 1080
+  },
+  "page_strategy": "Retain measured source composition; editable text and layout primitives; explicitly approved original visual assets.",
+  "text_inventory": [
+    "数据展示",
+    "开场问题",
+    "理论命题",
+    "就业数据",
+    "方向地图",
+    "能力证据",
+    "案例经历",
+    "行动反思",
+    "行业需求观察：先分清长期结构与短期变化",
+    "国家统计局 · 2025-02-27",
+    "信息软件与科研技术服务业从业变化",
+    "2023年末从业人数指数",
+    "2018年基期",
+    "100",
+    "信息软件",
+    "151.4",
+    "科研技术",
+    "153",
+    "建筑业",
+    "88.1",
+    "2018年末=100；统一满宽160",
+    "信息软件：+51.4%",
+    "科研技术：+53.0%",
+    "建筑业：−11.9%",
+    "近期观察：2026年8月，信息软件就业增加，制造业就业总体稳定。",
+    "企业法人单位从业人数是存量，不能直接回答“现在招多少人”；近期观察与五年变化率不拼接。",
+    "来源：国家统计局第五次经济普查、公报第三号；2025-02-27解读；2026-09-15答记者问。",
+    "13 / 30"
+  ],
+  "visual_inventory": [
+    {
+      "id": "asset_000",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/image_0.png",
+      "description": "国家统计局 · 2025-02-27"
+    },
+    {
+      "id": "asset_001",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/image_1.png",
+      "description": "信息软件与科研技术服务业从业变化"
+    },
+    {
+      "id": "native-layout",
+      "kind": "native-structure",
+      "representation": "native",
+      "description": "Measured editable solid panels, borders, table rows, and page navigation."
+    }
+  ],
+  "background_strategy": {
+    "mode": "native-or-script",
+    "source_consistency_contract": "Solid source fills, measured panel bounds, original purple palette and positions are preserved.",
+    "removed_foreground": "No flattened source background; all readable HTML text is represented by native text boxes.",
+    "comparison_note": "Solid background and panel fills are measured directly from source HTML."
+  },
+  "quality_checks": {
+    "font_size_calibrated": true,
+    "visual_inventory_matched": true,
+    "background_strategy_checked": true,
+    "shape_corner_geometry_checked": true
+  },
+  "quality_evidence": {
+    "font_size_calibrated": {
+      "observation": "Text sizes and line positions measured from browser DOM at 1920 by 1080; native point sizes use slide physical scale.",
+      "artifact": "source-dom.json"
+    },
+    "visual_inventory_matched": {
+      "observation": "All 2 source visual assets and 28 layout shapes are inventoried individually.",
+      "artifact": "source-dom.json"
+    },
+    "background_strategy_checked": {
+      "observation": "Source solid background and panel colors retained as native fills, without full-slide source image.",
+      "artifact": "source-dom.json"
+    },
+    "shape_corner_geometry_checked": {
+      "observation": "Round rectangles use measured CSS radius constrained to source dimensions; table lines remain straight.",
+      "artifact": "source-dom.json"
+    }
+  },
+  "text_boxes": [
+    {
+      "id": "text_000",
+      "text": "数据展示",
+      "box_px": [
+        96,
+        35.984375,
+        124.046875,
+        38
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 14.88,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 45
+    },
+    {
+      "id": "text_001",
+      "text": "开场问题",
+      "box_px": [
+        375.25,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 75
+    },
+    {
+      "id": "text_002",
+      "text": "理论命题",
+      "box_px": [
+        591.921875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 95
+    },
+    {
+      "id": "text_003",
+      "text": "就业数据",
+      "box_px": [
+        808.609375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 115
+    },
+    {
+      "id": "text_004",
+      "text": "方向地图",
+      "box_px": [
+        1025.296875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 135
+    },
+    {
+      "id": "text_005",
+      "text": "能力证据",
+      "box_px": [
+        1241.984375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 155
+    },
+    {
+      "id": "text_006",
+      "text": "案例经历",
+      "box_px": [
+        1458.671875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 175
+    },
+    {
+      "id": "text_007",
+      "text": "行动反思",
+      "box_px": [
+        1675.359375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 195
+    },
+    {
+      "id": "text_008",
+      "text": "行业需求观察：先分清长期结构与短期变化",
+      "box_px": [
+        96,
+        132.59375,
+        1133.609375,
+        74
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 29.699,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 225
+    },
+    {
+      "id": "text_009",
+      "text": "国家统计局 · 2025-02-27",
+      "box_px": [
+        116.1875,
+        494.09375,
+        227.984375,
+        26
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.08,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 315
+    },
+    {
+      "id": "text_010",
+      "text": "信息软件与科研技术服务业从业变化",
+      "box_px": [
+        116.1875,
+        802.109375,
+        327.5625,
+        26
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.08,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 365
+    },
+    {
+      "id": "text_011",
+      "text": "2023年末从业人数指数",
+      "box_px": [
+        905.265625,
+        252.6875,
+        387.6875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.72,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 415
+    },
+    {
+      "id": "text_012",
+      "text": "2018年基期",
+      "box_px": [
+        905.265625,
+        322.1875,
+        150.4375,
+        36
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 13.92,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 445
+    },
+    {
+      "id": "text_013",
+      "text": "100",
+      "box_px": [
+        1708.8125,
+        322.1875,
+        51.4375,
+        36
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 13.92,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 485
+    },
+    {
+      "id": "text_014",
+      "text": "信息软件",
+      "box_px": [
+        905.265625,
+        372.359375,
+        116.375,
+        36
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 13.92,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 515
+    },
+    {
+      "id": "text_015",
+      "text": "151.4",
+      "box_px": [
+        1708.8125,
+        372.359375,
+        74.65625,
+        36
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 13.92,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 555
+    },
+    {
+      "id": "text_016",
+      "text": "科研技术",
+      "box_px": [
+        905.265625,
+        422.53125,
+        116.375,
+        36
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 13.92,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 585
+    },
+    {
+      "id": "text_017",
+      "text": "153",
+      "box_px": [
+        1708.8125,
+        422.53125,
+        51.4375,
+        36
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 13.92,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 625
+    },
+    {
+      "id": "text_018",
+      "text": "建筑业",
+      "box_px": [
+        905.265625,
+        472.703125,
+        88.53125,
+        36
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 13.92,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 655
+    },
+    {
+      "id": "text_019",
+      "text": "88.1",
+      "box_px": [
+        1708.8125,
+        472.703125,
+        59.1875,
+        36
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 13.92,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 695
+    },
+    {
+      "id": "text_020",
+      "text": "2018年末=100；统一满宽160",
+      "box_px": [
+        905.265625,
+        520.875,
+        282.953125,
+        27
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.56,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 715
+    },
+    {
+      "id": "text_021",
+      "text": "信息软件：+51.4%",
+      "box_px": [
+        905.265625,
+        637.15625,
+        185.5,
+        27
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.56,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 735
+    },
+    {
+      "id": "text_022",
+      "text": "科研技术：+53.0%",
+      "box_px": [
+        905.265625,
+        668.84375,
+        185.5,
+        27
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.56,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 745
+    },
+    {
+      "id": "text_023",
+      "text": "建筑业：−11.9%",
+      "box_px": [
+        905.265625,
+        700.53125,
+        164.375,
+        27
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.56,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 755
+    },
+    {
+      "id": "text_024",
+      "text": "近期观察：2026年8月，信息软件就业增加，制造业就业总体稳定。",
+      "box_px": [
+        905.265625,
+        816.8125,
+        633.96875,
+        27
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.56,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 775
+    },
+    {
+      "id": "text_025",
+      "text": "企业法人单位从业人数是存量，不能直接回答“现在招多少人”；近期观察与五年变化率不拼接。",
+      "box_px": [
+        96,
+        870.109375,
+        888.921875,
+        27
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 10.56,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 795
+    },
+    {
+      "id": "text_026",
+      "text": "来源：国家统计局第五次经济普查、公报第三号；2025-02-27解读；2026-09-15答记者问。",
+      "box_px": [
+        96,
+        952.546875,
+        937.015625,
+        30
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 825
+    },
+    {
+      "id": "text_027",
+      "text": "13 / 30",
+      "box_px": [
+        1752.265625,
+        952.546875,
+        76.734375,
+        30
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 845
+    }
+  ],
+  "shapes": [
+    {
+      "id": "shape_000",
+      "z_index": 0,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc"
+    },
+    {
+      "id": "shape_001",
+      "z_index": 60,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        326.39,
+        25.91,
+        197.48,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_002",
+      "z_index": 80,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        543.06,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_003",
+      "z_index": 100,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        759.75,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#660874",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "chapter_marker_3",
+      "type": "rect",
+      "box_px": [
+        796.59,
+        81.07,
+        21.12,
+        11.34
+      ],
+      "polygon_px": [
+        [
+          796.59,
+          81.07
+        ],
+        [
+          817.7099999999999,
+          81.07
+        ],
+        [
+          807.15,
+          92.41
+        ]
+      ],
+      "fill": "#660874",
+      "stroke": "none",
+      "z_index": 101
+    },
+    {
+      "id": "shape_004",
+      "z_index": 120,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        976.44,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_005",
+      "z_index": 140,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1193.13,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_006",
+      "z_index": 160,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1409.81,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_007",
+      "z_index": 180,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1626.5,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_008",
+      "z_index": 270,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        245.69,
+        751.67,
+        291.81
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_009",
+      "z_index": 270,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        245.69,
+        847.67,
+        245.69
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_010",
+      "z_index": 270,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        847.67,
+        245.69,
+        847.67,
+        537.5
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_011",
+      "z_index": 270,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        537.5,
+        847.67,
+        537.5
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_012",
+      "z_index": 270,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        245.69,
+        96,
+        537.5
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_013",
+      "z_index": 320,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        553.69,
+        751.67,
+        291.83
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_014",
+      "z_index": 320,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        553.69,
+        847.67,
+        553.69
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_015",
+      "z_index": 320,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        847.67,
+        553.69,
+        847.67,
+        845.52
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_016",
+      "z_index": 320,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        845.52,
+        847.67,
+        845.52
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_017",
+      "z_index": 320,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        553.69,
+        96,
+        845.52
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_018",
+      "z_index": 450,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1078.05,
+        323.64,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9"
+    },
+    {
+      "id": "shape_019",
+      "z_index": 460,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1078.05,
+        323.64,
+        382.23,
+        30.23
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_020",
+      "z_index": 520,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1078.05,
+        373.81,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9"
+    },
+    {
+      "id": "shape_021",
+      "z_index": 530,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1078.05,
+        373.81,
+        578.7,
+        30.23
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_022",
+      "z_index": 590,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1078.05,
+        423.98,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9"
+    },
+    {
+      "id": "shape_023",
+      "z_index": 600,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1078.05,
+        423.98,
+        584.81,
+        30.23
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_024",
+      "z_index": 660,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1078.05,
+        474.16,
+        611.58,
+        30.23
+      ],
+      "fill": "#e7e5e9"
+    },
+    {
+      "id": "shape_025",
+      "z_index": 670,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1078.05,
+        474.16,
+        336.73,
+        30.23
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_026",
+      "z_index": 800,
+      "stroke": "#d5d5d9",
+      "type": "line",
+      "points_px": [
+        96,
+        937.67,
+        1824,
+        937.67
+      ],
+      "stroke_width": 0.4999875
+    }
+  ],
+  "images": [
+    {
+      "id": "asset_000",
+      "path": "assets/image_0.png",
+      "box_px": [
+        116.19,
+        262.88,
+        327.63,
+        218.42
+      ],
+      "alt": "国家统计局 · 2025-02-27",
+      "z_index": 292
+    },
+    {
+      "id": "asset_001",
+      "path": "assets/image_1.png",
+      "box_px": [
+        116.19,
+        570.88,
+        623.1288421052632,
+        218.44
+      ],
+      "alt": "信息软件与科研技术服务业从业变化",
+      "z_index": 342
+    }
+  ],
+  "asset_provenance": [
+    {
+      "path": "assets/image_0.png",
+      "source": "assets/image_0.png",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "d66a7fc00f3e64259b1fdd1f1e860d5886a706e4cbf0ea4555647d79ecfbb7c7",
+      "asset_sha256": "d66a7fc00f3e64259b1fdd1f1e860d5886a706e4cbf0ea4555647d79ecfbb7c7",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions."
+    },
+    {
+      "path": "assets/image_1.png",
+      "source": "assets/image_1.png",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "f0e3f6398453aad67b6f688887133a3983f18d11a1732be2ddce458deb22eecd",
+      "asset_sha256": "f0e3f6398453aad67b6f688887133a3983f18d11a1732be2ddce458deb22eecd",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions."
+    }
+  ],
+  "image2ppt_region_decomposition": {
+    "schema_version": "image2ppt-region-decomposition-v1",
+    "page_complexity": "structured",
+    "source_size_px": [
+      1920,
+      1080
+    ],
+    "regions": [
+      {
+        "id": "heading",
+        "label": "Chapter navigation and title",
+        "source_bbox_px": [
+          0,
+          0,
+          1920,
+          235
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_000",
+            "shape_001",
+            "shape_002",
+            "shape_003",
+            "chapter_marker_3",
+            "shape_004",
+            "shape_005",
+            "shape_006",
+            "shape_007"
+          ],
+          "text_boxes": [
+            "text_000",
+            "text_001",
+            "text_002",
+            "text_003",
+            "text_004",
+            "text_005",
+            "text_006",
+            "text_007",
+            "text_008"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_000",
+            "kind": "card-edge",
+            "manifest_id": "shape_000",
+            "source_bbox_px": [
+              0,
+              0,
+              1920,
+              1080
+            ]
+          },
+          {
+            "id": "anchor_shape_001",
+            "kind": "card-edge",
+            "manifest_id": "shape_001",
+            "source_bbox_px": [
+              326.39,
+              25.91,
+              197.48,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_002",
+            "kind": "card-edge",
+            "manifest_id": "shape_002",
+            "source_bbox_px": [
+              543.06,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_003",
+            "kind": "card-edge",
+            "manifest_id": "shape_003",
+            "source_bbox_px": [
+              759.75,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_chapter_marker_3",
+            "kind": "card-edge",
+            "manifest_id": "chapter_marker_3",
+            "source_bbox_px": [
+              796.59,
+              81.07,
+              21.12,
+              11.34
+            ]
+          },
+          {
+            "id": "anchor_shape_004",
+            "kind": "card-edge",
+            "manifest_id": "shape_004",
+            "source_bbox_px": [
+              976.44,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_005",
+            "kind": "card-edge",
+            "manifest_id": "shape_005",
+            "source_bbox_px": [
+              1193.13,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_006",
+            "kind": "card-edge",
+            "manifest_id": "shape_006",
+            "source_bbox_px": [
+              1409.81,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_007",
+            "kind": "card-edge",
+            "manifest_id": "shape_007",
+            "source_bbox_px": [
+              1626.5,
+              25.91,
+              197.5,
+              56.16
+            ]
+          }
+        ]
+      },
+      {
+        "id": "content",
+        "label": "Main content and source visuals",
+        "source_bbox_px": [
+          0,
+          235,
+          1920,
+          695
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_008",
+            "shape_009",
+            "shape_010",
+            "shape_011",
+            "shape_012",
+            "shape_013",
+            "shape_014",
+            "shape_015",
+            "shape_016",
+            "shape_017",
+            "shape_018",
+            "shape_019",
+            "shape_020",
+            "shape_021",
+            "shape_022",
+            "shape_023",
+            "shape_024",
+            "shape_025"
+          ],
+          "text_boxes": [
+            "text_009",
+            "text_010",
+            "text_011",
+            "text_012",
+            "text_013",
+            "text_014",
+            "text_015",
+            "text_016",
+            "text_017",
+            "text_018",
+            "text_019",
+            "text_020",
+            "text_021",
+            "text_022",
+            "text_023",
+            "text_024",
+            "text_025"
+          ],
+          "images": [
+            "asset_000",
+            "asset_001"
+          ]
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_008",
+            "kind": "card-edge",
+            "manifest_id": "shape_008",
+            "source_bbox_px": [
+              96,
+              245.69,
+              751.67,
+              291.81
+            ]
+          },
+          {
+            "id": "anchor_shape_013",
+            "kind": "card-edge",
+            "manifest_id": "shape_013",
+            "source_bbox_px": [
+              96,
+              553.69,
+              751.67,
+              291.83
+            ]
+          },
+          {
+            "id": "anchor_shape_018",
+            "kind": "card-edge",
+            "manifest_id": "shape_018",
+            "source_bbox_px": [
+              1078.05,
+              323.64,
+              611.58,
+              30.23
+            ]
+          },
+          {
+            "id": "anchor_shape_019",
+            "kind": "card-edge",
+            "manifest_id": "shape_019",
+            "source_bbox_px": [
+              1078.05,
+              323.64,
+              382.23,
+              30.23
+            ]
+          },
+          {
+            "id": "anchor_shape_020",
+            "kind": "card-edge",
+            "manifest_id": "shape_020",
+            "source_bbox_px": [
+              1078.05,
+              373.81,
+              611.58,
+              30.23
+            ]
+          },
+          {
+            "id": "anchor_shape_021",
+            "kind": "card-edge",
+            "manifest_id": "shape_021",
+            "source_bbox_px": [
+              1078.05,
+              373.81,
+              578.7,
+              30.23
+            ]
+          },
+          {
+            "id": "anchor_shape_022",
+            "kind": "card-edge",
+            "manifest_id": "shape_022",
+            "source_bbox_px": [
+              1078.05,
+              423.98,
+              611.58,
+              30.23
+            ]
+          },
+          {
+            "id": "anchor_shape_023",
+            "kind": "card-edge",
+            "manifest_id": "shape_023",
+            "source_bbox_px": [
+              1078.05,
+              423.98,
+              584.81,
+              30.23
+            ]
+          },
+          {
+            "id": "anchor_shape_024",
+            "kind": "card-edge",
+            "manifest_id": "shape_024",
+            "source_bbox_px": [
+              1078.05,
+              474.16,
+              611.58,
+              30.23
+            ]
+          },
+          {
+            "id": "anchor_shape_025",
+            "kind": "card-edge",
+            "manifest_id": "shape_025",
+            "source_bbox_px": [
+              1078.05,
+              474.16,
+              336.73,
+              30.23
+            ]
+          }
+        ]
+      },
+      {
+        "id": "footer",
+        "label": "Source citation and page number",
+        "source_bbox_px": [
+          0,
+          930,
+          1920,
+          150
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_026"
+          ],
+          "text_boxes": [
+            "text_026",
+            "text_027"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": []
+      }
+    ]
+  }
+}

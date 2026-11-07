@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_022",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_022/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_022/render/rendered.png",
+      "source_sha256": "628e5d8bcaa9fe7a8c4dc7411fec17e2e21400a567a1f1ef69b5d6d2c10b17c9",
+      "rendered_sha256": "d94ebdd3a7f2a83a5471d4e55378cfd13bf7422e8935abce8c0bf92538e2cde6",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Four unequal source columns and four alternating white/lilac rows align with the source table; title and source footer retain margins.",
+        "text_content": "体制内、国企、民企、外企 and every capability, material example and misconception match source wording and line breaks without clipping.",
+        "object_completeness": "All 35 editable text boxes and 37 native shapes are retained, including four row bands, header cells and native horizontal dividers.",
+        "render_integrity": "Actual LibreOffice render inspected at full slide; no flattened table image, doubled text, obscured cells or missing glyphs."
+      },
+      "pptx_sha256": "663a976395b8f215bbdf6af07d9ac6f8ecd5e47c3d33998004de4a8c9cab8a39"
+    }
+  ]
+}

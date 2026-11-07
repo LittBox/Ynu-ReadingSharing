@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_012",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_012/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_012/render/rendered.png",
+      "source_sha256": "77d8fe060c8940f903e072522d856fd57a58270a18f8ebb5085bc08cff18b14b",
+      "rendered_sha256": "04585187e7cbf0662990626c1877393c951a43e438f9e28aaed868bb752f1ac7",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two source-document panels stay stacked on the left and two bar-chart groups stay on the right with original title/footer hierarchy.",
+        "text_content": "All graduate counts 1179, 1222, 1270 and outcomes 78.93%, 5.52%, 0.72%, 14.83% remain readable native text with intact explanatory footnote.",
+        "object_completeness": "Seven purple bars, seven gray tracks, two source panels, labels and navigation are all present with proportional lengths.",
+        "render_integrity": "Actual LibreOffice render has legible sans Chinese, no text clipping or off-slide elements; native chart and labels are not flattened.",
+        "raster_assets": "Both original supplied documentary screenshots retain their aspect ratios, left aligned source positions and full content inside separate thin-border panels."
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "page_id": "private-foreign-enterprises",
+  "input_sha256": "205531825dd3afad76fe81c974072195a0f455c02663eb1bd563d85f465e7936",
+  "rules_sha256": "3d21861a2b4bc6e5c7e2b030913744e7666e3796279db713e4cd0e27660a6c70",
+  "assessments": [
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L02",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "两方向各三入口，等宽同权"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "非收尾"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "非问题行动"
+    }
+  ],
+  "selected_id": "L02",
+  "selection_reason": "双栏同权，统一图标帮助识别，底部取舍提醒。",
+  "layout_confirmed": true
+}

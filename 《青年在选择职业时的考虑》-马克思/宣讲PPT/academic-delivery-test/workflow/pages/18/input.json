@@ -1,0 +1,27 @@
+{
+  "page_id": "private-foreign-enterprises",
+  "source_page": 18,
+  "text": "### 第 18 页｜民企与外企\n\n- **页面标题**：市场化路径的典型入口\n- **核心文字**：\n  - 民企：行业龙头、成长型公司、创业团队\n  - 外企：管培生、专业技术岗、区域分支\n- **视觉/版式**：左右双栏；用“成长速度”与“稳定性”的取舍做底部提示。\n- **资源**：`assets/career-private-foreign.png`\n- **口播提示**：强调“成长速度”与“稳定性”的取舍。\n",
+  "roles": [
+    {
+      "role": "section",
+      "text": "市场化路径的典型入口",
+      "reason": "分类"
+    },
+    {
+      "role": "group",
+      "text": "民企／外企",
+      "reason": "并列方向"
+    }
+  ],
+  "features": {
+    "purpose": "comparison",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 2,
+    "evidence": [
+      "text"
+    ]
+  },
+  "retrieval_query": "民企与外企典型入口并列，两栏三类入口：行业龙头成长型公司创业团队，管培生专业技术岗区域分支；底部提示成长速度与稳定性取舍，不给绝对推荐。"
+}

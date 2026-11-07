@@ -1,0 +1,40 @@
+{
+  "page_id": "reality-constraints",
+  "input_sha256": "8048016d2f9f58f5950dc24c3cd4bd353268ce1a0576a961bf1bdf09a38e4add",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "assessments": [
+    {
+      "id": "L13",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "开放路径示意配三项解释，图不承担证据"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.5,
+      "reason": "不是收尾问题与行动"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "不只是文字收尾"
+    },
+    {
+      "id": "L02",
+      "eligible": false,
+      "semantic_score": 0.65,
+      "reason": "能表达并列但没有所需情境图槽"
+    }
+  ],
+  "selected_id": "L13",
+  "selection_reason": "左侧约43%宽4:3主题图，右侧三项等高解释；文字不能嵌入生成图。",
+  "layout_confirmed": true
+}

@@ -1,0 +1,151 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_021",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_21.png",
+      "source_sha256": "01ece4ba5c1d8fb73220d0899ec97a008b6f3a9cc3af90c47932de9e9b8c05ee",
+      "rendered_sha256": "4775f40700d6fee65d85752d864305ab8818d4ce5744cacf23d07fa655c78160",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Compared matching aspect ratios: purple four-column header, three full-width body bands, lower takeaway and footer retain source positions.",
+        "text_content": "All four column headings and body phrases remain visible, including source line breaks 入/口 and 标/准; Source Han sans glyph details differ slightly without clipping.",
+        "object_completeness": "Thirty-four native text boxes and thirty-two layout objects preserve the complete table, navigation pills, active chapter marker and footer rule.",
+        "render_integrity": "Final merged slide21 inspected: four table columns, all three body rows, original line breaks and bottom conclusion match the accepted page; no overlap or clipped glyphs."
+      }
+    },
+    {
+      "page_id": "page_022",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_022/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_22.png",
+      "source_sha256": "628e5d8bcaa9fe7a8c4dc7411fec17e2e21400a567a1f1ef69b5d6d2c10b17c9",
+      "rendered_sha256": "b850f8ae0474ddd7ef4e8c5b9e9627c9b06e322ca81726901e62d53939285622",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Four unequal source columns and four alternating white/lilac rows align with the source table; title and source footer retain margins.",
+        "text_content": "体制内、国企、民企、外企 and every capability, material example and misconception match source wording and line breaks without clipping.",
+        "object_completeness": "All 35 editable text boxes and 37 native shapes are retained, including four row bands, header cells and native horizontal dividers.",
+        "render_integrity": "Final merged slide22 inspected: all four career rows remain complete with alternating bands, visible examples and uninterrupted footer; no text crosses cell boundaries."
+      }
+    },
+    {
+      "page_id": "page_023",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_23.png",
+      "source_sha256": "f21a14797c9982633a5b06c6ed4b43d6299a81ebf4a45e1b5b0b80ee0d8ed3f6",
+      "rendered_sha256": "649ce259e93b45f6c06a82b851851cd1092794cb70ac12b022b9237496732896",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Compared four unequal columns, four body rows and alternate lilac bands: source column boundaries, row heights and footer positions preserved.",
+        "text_content": "升学深造、基层项目、自由职业、军警 and all capability/evidence/misconception strings remain editable, with original line breaks and unobstructed final row.",
+        "object_completeness": "Thirty-eight native text boxes and thirty-seven native layout shapes preserve every source table cell and navigation marker; no table raster.",
+        "render_integrity": "Final merged slide23 inspected: final 军警 row, earlier three rows, footer qualification and all cell text remain visible and aligned after assembly."
+      }
+    },
+    {
+      "page_id": "page_024",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_24.png",
+      "source_sha256": "a1f4e0f4b6101da346378a1647dd162264f36b060595d04027caceea61896214",
+      "rendered_sha256": "d5b6269f6b85637436ccc28879e8e8c84dd36e5a196db4d9eb69b7c441f14a27",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "The three equal-width panels retain their purple header strips, white bodies, border edges and even source gutters; takeaway remains below panels.",
+        "text_content": "Interest/ability, certificate/evidence and rumor/standard headings and all three misconception/correction paragraphs are complete with source line breaks.",
+        "object_completeness": "Twenty-seven native text boxes and twenty-eight native layout shapes preserve numbered headers 01/02/03, paragraph pairs and purple takeaway.",
+        "render_integrity": "Final merged slide24 inspected: three misconception/correction panels and numeric takeaway remain complete with the source card spacing and no panel overflow."
+      }
+    },
+    {
+      "page_id": "page_025",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_025/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_25.png",
+      "source_sha256": "921640ebc5f33bb65870a2a11168e6350236db4fd96d0e6c57c84285680d782f",
+      "rendered_sha256": "7a3b9aef3e3840ed17360b44c306730c53db9712f395b8beecf40e29d898a1c7",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Left illustration occupies the original bordered panel; four right-side cards retain the two-by-two grid, purple headers and source gutters.",
+        "text_content": "Selection-tension title, four card headings and two-line body text, image caption and source footer match source wording without clipping.",
+        "object_completeness": "Twenty-eight editable text boxes, thirty-nine layout shapes and one original illustration preserve every source component, including the active 案例经历 marker.",
+        "render_integrity": "Final merged slide25 inspected: original left discussion image and the four right cards retain proper layering, legible body lines and intact caption.",
+        "raster_assets": "Original discussion illustration is reused with user approval and checked byte/hash provenance; two people, portfolio, laptop and papers keep proportions and original framing."
+      }
+    },
+    {
+      "page_id": "page_026",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_026/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_26.png",
+      "source_sha256": "ec8e0333117ad919f2abcb56d7a058d4f5094d63d6c168288ded6ca7bcb7e453",
+      "rendered_sha256": "e31d57d567756f75ca64641a21efc031048b6a6f82c33c90f9b7a7ba87e46688",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Five narrow equal-width cards retain source positions, purple headers, icon centers and two-line descriptions, with takeaway and footer below.",
+        "text_content": "Title and five career-commonality headings and descriptions match the source; 01–05 numbering, bottom conclusion and boundary note stay legible.",
+        "object_completeness": "Thirty-two native text boxes, forty layout shapes and five separately replaceable original icons account for every source element.",
+        "render_integrity": "Final merged slide26 inspected: all five icons remain source purple with repaired CSS stroke width; their centers and the five descriptions match accepted render without black fallback.",
+        "raster_assets": "Five source SVG icons retain paths and inherited purple #660874 stroke with source 1.5 width; original building, clipboard, globe, shield and cap silhouettes are intact."
+      }
+    },
+    {
+      "page_id": "page_027",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_27.png",
+      "source_sha256": "c3ef8c021384b72d4bb78e6645420061a8defb6556e9c23ae30108c1496a9381",
+      "rendered_sha256": "f8f0f0fd09fce132428ec186b26de0528bb3bda4a20dd9d20a15dc2944089691",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two source screenshot panels remain stacked at left and the selection/study explanation panels stay stacked at right, with original margins and divider positions.",
+        "text_content": "Title and right-side paraphrases are intact; source captions/date remain visible, and merged native footer text restores the period after 2020-05-04 without overlap.",
+        "object_completeness": "Nineteen native text boxes, thirty-three layout shapes and two original screenshot assets preserve all visible elements, including the source-link underline.",
+        "render_integrity": "Final merged slide27 inspected: both screenshots and two explanation panels remain intact; repaired footer period after 2020-05-04 and underline are visible without text overlap.",
+        "raster_assets": "Both original Southern Plus screenshots are reused with user approval and provenance hashes; their original interview header, excerpt text and source framing remain unchanged."
+      }
+    },
+    {
+      "page_id": "page_028",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_028/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_28.png",
+      "source_sha256": "5205168f7147a2466d670a1dac682ec1717f5a3f5a0df3dd4968e6fa213f0215",
+      "rendered_sha256": "2c7e5de0cc757fd2bffb434f18a154a2f4de2063b50a88efb72924d1cda1ff6e",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Three equal source panels retain their header bands and paragraph placement; the bottom choice-practice-understanding sequence remains below the cards.",
+        "text_content": "All three headings and two-line paragraphs preserve original wording; bottom labels 选择、实践、重新理解 remain native editable text without arrow glyph duplication.",
+        "object_completeness": "Twenty-six native text boxes and thirty native shapes preserve cards, navigation, footer and two single-object native arrows.",
+        "render_integrity": "Final merged slide28 inspected: both rightward native arrows remain attached and visible between the three bottom labels; all three panels and the footer are intact.",
+        "arrow_geometry": "Two thin purple straight arrows point right at source y873, spanning x187–223 and x328–364; each shaft owns its small open arrowhead and stays between labels."
+      }
+    },
+    {
+      "page_id": "page_029",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_29.png",
+      "source_sha256": "9d9f00ab3f4f4fadb239b3cb06db4cfc53831d5aaacdbc1b9f0cd10d7f31252c",
+      "rendered_sha256": "6049986d14a5331affb293754d32f061f704825d3f39fbe3dd15899724b12084",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Five equal white cards retain purple headers and source spacing; all descriptions remain vertically centered and the process takeaway stays below cards.",
+        "text_content": "Marx-method title, five headings, corresponding descriptions and the full final sentence remain unchanged; all sequence labels are native text.",
+        "object_completeness": "Thirty-two editable text boxes and forty-four native shapes preserve every source item, with four single-object arrows replacing four arrow glyphs.",
+        "render_integrity": "Final merged slide29 inspected: four native arrowheads point right with correct label spacing; all five cards and the entire final sentence fit above the footer.",
+        "arrow_geometry": "Four thin purple arrows point right at y873 between 热情、考察、限制、实践、统一; shafts span 187–223, 328–364, 468–504 and 607–643 with attached open heads."
+      }
+    },
+    {
+      "page_id": "page_030",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_030/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_30.png",
+      "source_sha256": "bf4b8aa4cb756880f036caef097973006177675fb182c21ac002aa02ca8176c4",
+      "rendered_sha256": "dd93106f8a66a95328683146ac0440e29464c622a5745ca825053186f77d02d7",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Left career-exploration illustration and two-line question keep their source composition; three right-side action cards retain equal widths, header strips and original vertical spacing.",
+        "text_content": "Closing title, three numbered actions, numeric targets 3 directions/2 facts, two-line question and source footer remain complete with no body clipping.",
+        "object_completeness": "Twenty-five editable text boxes, twenty-eight native layout shapes and one original illustration retain all source objects including emphasis on 重新理解.",
+        "render_integrity": "Final merged slide30 inspected: fork-path illustration, emphasized two-line question and all three right action cards remain intact with no overlap or clipped text.",
+        "raster_assets": "Original woman-at-fork illustration is reused under explicit approval; person, suitcase and three-way path preserve original image framing, color and proportions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page_id": "graduate-destinations",
+  "source_page": 12,
+  "text": "### 第 12 页｜毕业生规模与去向\n\n- **页面标题**：毕业生规模与去向\n- **核心文字**：\n  - 规模变化\n  - 去向大类分布\n  - 来源与年份脚注\n- **视觉/版式**：左侧规模趋势图，右侧去向分布图；底部统一口径说明。\n- **资源**：`assets/graduates-scale-destination.png`\n- **口播提示**：说明“去向分布”比单一就业率更能反映结构。\n",
+  "roles": [
+    {
+      "role": "data",
+      "text": "1179／1222／1270万人",
+      "reason": "全国毕业生预计规模"
+    },
+    {
+      "role": "data",
+      "text": "单校去向分布",
+      "reason": "限定黄河科技学院本科2024届"
+    }
+  ],
+  "features": {
+    "purpose": "data",
+    "relation": "comparison",
+    "density": "mixed",
+    "group_count": 2,
+    "evidence": [
+      "source_image",
+      "numeric_data"
+    ]
+  },
+  "retrieval_query": "全国2024至2026届毕业生预计规模1179、1222、1270万人；另列黄河科技学院2024本科去向案例78.93就业、5.52升学、0.72创业、14.83未落实。左真实来源截图，右上全国规模下单校去向，不能把单校与全国拼作同样总体。"
+}

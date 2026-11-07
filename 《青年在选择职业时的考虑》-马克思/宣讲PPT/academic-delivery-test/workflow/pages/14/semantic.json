@@ -1,0 +1,46 @@
+{
+  "page_id": "study-public-exam-trends",
+  "input_sha256": "403f34b34d0e2daf3ea8cc9980bfd05c2491e40c258826750cfc7f410302f92c",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "assessments": [
+    {
+      "id": "L12",
+      "eligible": false,
+      "semantic_score": 0.4,
+      "reason": "不能只对照截图，需明确数量趋势"
+    },
+    {
+      "id": "L05",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "两组历年数量独立绘制并注明不同口径"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非收尾"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L04",
+      "eligible": false,
+      "semantic_score": 0.4,
+      "reason": "缺少同量尺量化结构"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非行动"
+    }
+  ],
+  "selected_id": "L05",
+  "selection_reason": "两组条图同500万人满宽、同考试年度；左两网页来源，报名人数不同口径不作加总。",
+  "layout_confirmed": true
+}

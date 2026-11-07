@@ -1,0 +1,21 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_007",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_007/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_007/render/rendered.png",
+      "source_sha256": "8568bee8f0cdbb3605a81fa85f581942f820b432f45a4ee002c84d0e025830ca",
+      "rendered_sha256": "aab54beb296c2b30b92654c8c0e81d5347164e23bfd0551380811058764c6c47",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Large career-path illustration remains left of three stacked numbered cards with matching purple header bands and the same whitespace.",
+        "text_content": "The suitability title, reality limits, job mismatch and continued adjustment paragraphs remain fully editable with unchanged meaning and original line breaks.",
+        "object_completeness": "Original career illustration, its AI-generated-source caption, three cards, theory navigation and 07 / 30 footer are all present once.",
+        "render_integrity": "Actual LibreOffice render keeps clear CJK text and intact panels; no source-page underlay or duplicated body content is present.",
+        "raster_assets": "Original career illustration PNG is unchanged, including student, three illustrated routes and destination scenes; its original proportions and bounded left-panel placement are preserved."
+      },
+      "pptx_sha256": "bf8d10e6bb51c1baa0603553a1afb8c5b712feec028702c75884333d7c196e97"
+    }
+  ]
+}

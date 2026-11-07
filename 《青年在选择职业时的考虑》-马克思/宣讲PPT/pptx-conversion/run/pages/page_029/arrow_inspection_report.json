@@ -1,0 +1,71 @@
+{
+  "schema_version": "image2ppt-manifest-arrow-inspection-v1",
+  "passed": true,
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/page.pptx",
+  "errors": [],
+  "summary": {
+    "expected_arrows": 4,
+    "inspected_arrows": 4,
+    "connectors": 4,
+    "filled_arrows": 0,
+    "fragmented_or_missing": 0
+  },
+  "arrows": [
+    {
+      "slide_index": 1,
+      "shape_index": 40,
+      "id": "process_arrow_0",
+      "role": "connector",
+      "pptx_object": {
+        "kind": "cxnSp",
+        "preset": "line",
+        "text": "",
+        "connector": "straight",
+        "start_arrow": null,
+        "end_arrow": "arrow"
+      }
+    },
+    {
+      "slide_index": 1,
+      "shape_index": 41,
+      "id": "process_arrow_1",
+      "role": "connector",
+      "pptx_object": {
+        "kind": "cxnSp",
+        "preset": "line",
+        "text": "",
+        "connector": "straight",
+        "start_arrow": null,
+        "end_arrow": "arrow"
+      }
+    },
+    {
+      "slide_index": 1,
+      "shape_index": 42,
+      "id": "process_arrow_2",
+      "role": "connector",
+      "pptx_object": {
+        "kind": "cxnSp",
+        "preset": "line",
+        "text": "",
+        "connector": "straight",
+        "start_arrow": null,
+        "end_arrow": "arrow"
+      }
+    },
+    {
+      "slide_index": 1,
+      "shape_index": 43,
+      "id": "process_arrow_3",
+      "role": "connector",
+      "pptx_object": {
+        "kind": "cxnSp",
+        "preset": "line",
+        "text": "",
+        "connector": "straight",
+        "start_arrow": null,
+        "end_arrow": "arrow"
+      }
+    }
+  ]
+}

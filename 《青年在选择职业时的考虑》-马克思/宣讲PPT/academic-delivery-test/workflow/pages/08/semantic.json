@@ -1,0 +1,34 @@
+{
+  "page_id": "happiness-and-perfection",
+  "input_sha256": "7275efe2f1599c3fce5d0dde82426bb2647cff3d456d9012350bf535af340796",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "assessments": [
+    {
+      "id": "L02",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "三项澄清同权横排，第三项不是最大的总结框"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "无行动收尾"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "不需问题行动分栏"
+    }
+  ],
+  "selected_id": "L02",
+  "selection_reason": "三组结构标题与论证，同级等宽；核心判断透明底。",
+  "layout_confirmed": true
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "run_id": "run",
+  "status": "complete",
+  "page_count": 30,
+  "output": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+  "validation": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/validation.json",
+  "completed_at": "2026-10-19T04:10:08Z"
+}

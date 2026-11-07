@@ -1,0 +1,28 @@
+{
+  "page_id": "competency-framework",
+  "source_page": 21,
+  "text": "### 第 21 页｜能力矩阵总览\n\n- **页面标题**：方向—核心能力—可证明材料—常见误区\n- **核心文字**：\n  - 四列分别回答：去哪里、需要什么、如何证明、常见误判\n  - 能力项按方向单写，不强行统一成一套词\n  - 矩阵是自查工具，不是招聘标准\n- **视觉/版式**：四列表格；表头固定；底色用理性网格；每列配简短说明。\n- **资源**：`assets/competency-matrix-overview.png`\n- **口播提示**：说明接下来两页按方向分别看能力，不要求所有方向用同一套能力词。\n",
+  "roles": [
+    {
+      "role": "column",
+      "text": "方向／核心能力／可证明材料／常见误区",
+      "reason": "表格维度"
+    },
+    {
+      "role": "limitation",
+      "text": "自查工具而非招聘标准",
+      "reason": "适用范围"
+    }
+  ],
+  "features": {
+    "purpose": "matrix",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 4,
+    "evidence": [
+      "table",
+      "text"
+    ]
+  },
+  "retrieval_query": "能力矩阵总览，用四列表头方向、核心能力、可证明材料、常见误区，分别回答去哪里需要什么如何证明常见误判。表头主色白字，正文说明，不强行统一能力词，不是招聘标准。"
+}

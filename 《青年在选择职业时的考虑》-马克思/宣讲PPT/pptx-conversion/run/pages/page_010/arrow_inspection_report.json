@@ -1,0 +1,57 @@
+{
+  "schema_version": "image2ppt-manifest-arrow-inspection-v1",
+  "passed": true,
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/page.pptx",
+  "errors": [],
+  "summary": {
+    "expected_arrows": 3,
+    "inspected_arrows": 3,
+    "connectors": 3,
+    "filled_arrows": 0,
+    "fragmented_or_missing": 0
+  },
+  "arrows": [
+    {
+      "slide_index": 1,
+      "shape_index": 34,
+      "id": "flow_arrow_0",
+      "role": "connector",
+      "pptx_object": {
+        "kind": "cxnSp",
+        "preset": "line",
+        "text": "",
+        "connector": "straight",
+        "start_arrow": null,
+        "end_arrow": "arrow"
+      }
+    },
+    {
+      "slide_index": 1,
+      "shape_index": 35,
+      "id": "flow_arrow_1",
+      "role": "connector",
+      "pptx_object": {
+        "kind": "cxnSp",
+        "preset": "line",
+        "text": "",
+        "connector": "straight",
+        "start_arrow": null,
+        "end_arrow": "arrow"
+      }
+    },
+    {
+      "slide_index": 1,
+      "shape_index": 36,
+      "id": "flow_arrow_2",
+      "role": "connector",
+      "pptx_object": {
+        "kind": "cxnSp",
+        "preset": "line",
+        "text": "",
+        "connector": "straight",
+        "start_arrow": null,
+        "end_arrow": "arrow"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page_id": "public-sector-soe",
+  "source_page": 17,
+  "text": "### 第 17 页｜体制内与国企\n\n- **页面标题**：稳定型路径的典型入口\n- **核心文字**：\n  - 体制内：公务员、事业单位、选调生\n  - 国企：央企、地方国企、国企管培\n- **视觉/版式**：左右双栏；每栏列 3 个入口；讲入口差异，不讲“哪个更好”。\n- **资源**：`assets/career-public-soe.png`\n- **口播提示**：讲入口差异，不讲“哪个更好”。\n",
+  "roles": [
+    {
+      "role": "section",
+      "text": "稳定型路径的典型入口",
+      "reason": "原纲分类"
+    },
+    {
+      "role": "group",
+      "text": "体制内／国企",
+      "reason": "两个并列方向"
+    }
+  ],
+  "features": {
+    "purpose": "comparison",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 2,
+    "evidence": [
+      "text",
+      "illustration"
+    ]
+  },
+  "retrieval_query": "体制内与国企两种同级入口：公务员、事业单位、选调生；央企、地方国企、国企管培。左简约公共服务与工业协作双场景示意，右两个同权类别框，不用真实机关标识，不暗示保证稳定。"
+}

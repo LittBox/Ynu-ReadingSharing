@@ -1,0 +1,8 @@
+{
+  "action": "reuse_evidence",
+  "files": [
+    "09-marx-examination.png",
+    "09-marx-humanity.png"
+  ],
+  "reason": "原文必须保真，不生成替代图。"
+}

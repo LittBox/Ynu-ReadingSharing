@@ -1,0 +1,2911 @@
+{
+  "schema_version": "image2ppt-supplemental-final-qa-v1",
+  "passed": true,
+  "state_owner": "page_jobs.json",
+  "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+  "manifests": [
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_001/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_002/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_003/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_004/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_005/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_006/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_007/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_009/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_011/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_012/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_015/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_016/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_017/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_018/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_019/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_020/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_022/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_025/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_026/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_028/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_030/manifest.json"
+  ],
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "",
+    "evidence": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/visual-review-evidence.json",
+    "evidence_template": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/visual-review-evidence.template.json",
+    "evidence_payload": {
+      "schema_version": "image2ppt-visual-review-evidence-v1",
+      "pages": [
+        {
+          "page_id": "page_001",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_001/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_01.png",
+          "source_sha256": "0e1654a97122e5180335d2254650864a4de728886d0ee12adcd330900627aa78",
+          "rendered_sha256": "465153d086ab640c59a8f57df0844881df1c853166d9728e76dd756a5f2b611f",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Purple horizontal title band, white top margin, left subtitle rule and three lower information pills occupy the same source positions.",
+            "text_content": "All eight source strings including first-job title, book name, presenter, 2026-10-17 and 01 / 30 are visible without clipping; Source Han Sans replaces the unavailable PingFang with a close sans-serif family.",
+            "object_completeness": "Seven native filled panels and rules plus eight text boxes reproduce the cover; the source has no foreground imagery or arrows.",
+            "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render shows clean purple and pale backgrounds, intact CJK glyphs and no baked screenshot text or duplicated objects. Final image is byte-identical to the accepted page render."
+          }
+        },
+        {
+          "page_id": "page_002",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_002/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_02.png",
+          "source_sha256": "86f4ff8e0f787efe9d47413748f2267145804fd33fd4d1fda2910ee9a525e067",
+          "rendered_sha256": "3e8b0eed15c8dbcf228014d7d13715dc563407f8ff70d0cdfa7b6eacc5b572ad",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Original two-column news composition retained; lower screenshot and caption moved above footer to repair overlap already present in HTML, with all content intact.",
+            "text_content": "News values 5.3 percent and 0.1 percentage point, question and statistical-scope clarification remain native and readable; right paragraph reduced four percent as one group to fit original lines.",
+            "object_completeness": "Both original National Bureau screenshots, seven navigation pills, two purple right-card headers and all captions are present once.",
+            "render_integrity": "Final assembled deck render visually inspected: LibreOffice render has clean Source Han CJK, no missing glyphs or generated substitute imagery; footer source citation and screenshot caption no longer overlap. Final image is byte-identical to the accepted page render.",
+            "raster_assets": "Two news screenshots use approved original PNG bytes and preserve embedded content and aspect ratios; only lower screenshot position changed to clear its caption."
+          }
+        },
+        {
+          "page_id": "page_003",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_003/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_03.png",
+          "source_sha256": "97c3f1a3ca0c3e290d2d1bd9cccdb9bbc415e72aaf0310249a8d931feac71fa8",
+          "rendered_sha256": "024f3d2ad2bb1cbcc91f0ce28638b14e0e8fdb59c46dcef966bb1367f21acad6",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two equal A/B choice cards retain purple headers, aligned card edges and the large shared blank response areas from the source.",
+            "text_content": "The question, choice A and B labels, two concerns and closing Marx-at-17 sentence match the source and remain visible native text without clipping.",
+            "object_completeness": "All seven navigation pills, both choice panels, title, closing sentence and 03 / 30 footer appear once; this source has no raster assets.",
+            "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render preserves pale background, clean sans CJK and clear separators without missing glyphs, duplicated source text or overlay images. Final image is byte-identical to the accepted page render."
+          }
+        },
+        {
+          "page_id": "page_004",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_004/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_04.png",
+          "source_sha256": "083199a4e0cd5d6bf3e0733de1e020db308f21b6fc9fd11e6209fcb52488d305",
+          "rendered_sha256": "0229cac5e79a8eecf96aa6aec81ef655308dabb51bae843f08fbdc96b87b0aeb",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two stacked original excerpt panels at left and three purple-header argument cards at right retain source alignment and vertical spacing.",
+            "text_content": "Title about reading the seventeen-year-old article, three numbered argument headings, all explanatory lines and source footer remain complete and unclipped.",
+            "object_completeness": "Both highlighted quotations, three explanation cards, seven navigation pills and page number 04 / 30 are all present once.",
+            "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render preserves yellow highlights as original imagery and native sans-serif surrounding text; no duplicate quotations or clipped panels. Final image is byte-identical to the accepted page render.",
+            "raster_assets": "Two original source-excerpt PNG assets are reused unchanged with their highlighted lines and intrinsic aspect ratios; captions remain separate editable text."
+          }
+        },
+        {
+          "page_id": "page_005",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_005/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_05.png",
+          "source_sha256": "45675b8526cd8da3bbdba2293154999bd5d5b420312ac3bd5f1ab7746071eca9",
+          "rendered_sha256": "f680e603934e44b8ff5567f9484468d329144bc4b7a89c5865e75acaf8127ad7",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Three equally sized argument cards keep their original purple header bands, left-anchored icons, aligned claims and lower takeaway.",
+            "text_content": "The passion and calm-examination title, all three claim/body pairs and the final takeaway remain editable, complete and within the original card boundaries.",
+            "object_completeness": "Flame, scale and clipboard icons appear once in the correct cards; navigation, numbered headings and 05 / 30 footer match the source.",
+            "render_integrity": "Final assembled deck render visually inspected: Genuine LibreOffice render preserves clear native CJK and three clean original icon silhouettes, without text overlap or source-page underlay. Final image is byte-identical to the accepted page render.",
+            "raster_assets": "All three original SVG paths retained; resolved source CSS stroke width 1.5 is baked into normalization and visually matches the original thinner purple strokes."
+          }
+        },
+        {
+          "page_id": "page_006",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_006/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_06.png",
+          "source_sha256": "9695eba4c07879760bccbef769d078054a85eec817d9aaf91f14635959f29aab",
+          "rendered_sha256": "7a4adf80ebd54c941d7e4cd2f8872e2f5674055be557f6f6c1f55d984fca8e50",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Four equal rectangular cards retain the original two-by-two grid, purple heading bands and wide horizontal gutter.",
+            "text_content": "Ability, conditions, consequences and others happiness questions all remain complete native lines; title, caution statement and methodological footer are legible.",
+            "object_completeness": "Four numbered headings and all four questions, active theory navigation and page 06 / 30 footer are present once; source contains no icons or relationships.",
+            "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render shows intact sans CJK and clean card borders, with no text spill, duplicate text or image underlay. Final image is byte-identical to the accepted page render."
+          }
+        },
+        {
+          "page_id": "page_007",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_007/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_07.png",
+          "source_sha256": "8568bee8f0cdbb3605a81fa85f581942f820b432f45a4ee002c84d0e025830ca",
+          "rendered_sha256": "aab54beb296c2b30b92654c8c0e81d5347164e23bfd0551380811058764c6c47",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Large career-path illustration remains left of three stacked numbered cards with matching purple header bands and the same whitespace.",
+            "text_content": "The suitability title, reality limits, job mismatch and continued adjustment paragraphs remain fully editable with unchanged meaning and original line breaks.",
+            "object_completeness": "Original career illustration, its AI-generated-source caption, three cards, theory navigation and 07 / 30 footer are all present once.",
+            "render_integrity": "Final assembled deck render visually inspected: Actual LibreOffice render keeps clear CJK text and intact panels; no source-page underlay or duplicated body content is present. Final image is byte-identical to the accepted page render.",
+            "raster_assets": "Original career illustration PNG is unchanged, including student, three illustrated routes and destination scenes; its original proportions and bounded left-panel placement are preserved."
+          }
+        },
+        {
+          "page_id": "page_008",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_08.png",
+          "source_sha256": "4c58cbbd5e862aa719837fc4f9e3cb6eb9634a49938933908d50507aaf58e61a",
+          "rendered_sha256": "0034a5ddc2d17f58177b207ec6ee4056dbebc619b84594bf948542746bec32ac",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Three tall evenly spaced cards preserve the original respect-self, others and career-practice columns with purple top bands.",
+            "text_content": "Personal happiness title, three explanations with source two-line breaks and the concluding unity sentence remain editable and fully visible.",
+            "object_completeness": "All three numbered headings, six body lines, concluding sentence and page 08 / 30 footer are present; no pictorial content was expected.",
+            "render_integrity": "Final assembled deck render visually inspected: Real LibreOffice render shows stable source-style card geometry and clear sans CJK; text remains inside each card without clipping or duplicate layers. Final image is byte-identical to the accepted page render."
+          }
+        },
+        {
+          "page_id": "page_009",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_009/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_09.png",
+          "source_sha256": "d13ef1035e08dad58f8082cafeba7529f6a61da7f7e8e1fade053d33433a2724",
+          "rendered_sha256": "ac691f8485eb4684cfb7a425718c08befce469f12e40aff6cd072ec5b1e1407f",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Four numbered summary rows at left align with two highlighted excerpt panels at right, retaining source white margins and purple headings.",
+            "text_content": "Title, four summary labels and explanations, quotation captions and footer distinction between paraphrase and quotation are complete and readable.",
+            "object_completeness": "All four rounded number badges, four summary cards, two original quotation images and 09 / 30 footer appear once.",
+            "render_integrity": "Final assembled deck render visually inspected: LibreOffice render has clean sans CJK and no clipped captions; native text stays separate from source quotation imagery, with only minor badge-shadow differences. Final image is byte-identical to the accepted page render.",
+            "raster_assets": "Both highlighted excerpt PNGs are original approved assets; highlighting, quotation text and image aspect ratios match the source."
+          }
+        },
+        {
+          "page_id": "page_010",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_10.png",
+          "source_sha256": "62dda800883e81541053a3af87a733e50bf94653b268619ee150ca77a41835d3",
+          "rendered_sha256": "2e4631aa653ae8a4369024c73ca3b4c1c3f1cd03ae583c716311fa63e87f8166",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Four tall proposition cards maintain equal widths and original spacing; the lower takeaway sequence sits on its source baseline above the footer.",
+            "text_content": "Four proposition headings and statements remain unchanged; takeaway wording is split into four native labels without losing any words, and the footer qualification stays intact.",
+            "object_completeness": "Four cards, four takeaway labels and three individual right-pointing connectors appear once; all seven navigation pills and page 10 / 30 remain present.",
+            "render_integrity": "Final assembled deck render visually inspected: Actual fresh LibreOffice render shows clear sans CJK and no clipping; arrow replacements do not overlap adjacent labels or introduce duplicate glyphs. Final image is byte-identical to the accepted page render.",
+            "arrow_geometry": "Three thin native straight connectors replace source arrow glyphs at measured x187–222,327–362,546–580 and y873; open medium heads point right and match original inline arrow proportions, each is one object."
+          }
+        },
+        {
+          "page_id": "page_011",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_011/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_11.png",
+          "source_sha256": "63d6ef39490b68c96caf90d3bb1198bfccebcdced7fc0c5073049d82001eb14e",
+          "rendered_sha256": "58b936c82aff5ae71fc5728d3bd6828fd6510e9160bd9485a4fcfe92fdffb3df",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "News screenshot remains left and the two age-group comparisons right, preserving title, navigation, reading note and footer positions.",
+            "text_content": "Native labels retain 14.9%, 17.9%, 7.1%, 7.2% and age groups; Source Han Sans SC is a clean sans substitute with minor spacing differences and no clipping.",
+            "object_completeness": "All four bar lengths, four gray tracks, all labels and one news screenshot appear once; June fills corrected to source #ad83b5 and July retained purple.",
+            "render_integrity": "Final assembled slide keeps the corrected light-purple June bars and dark-purple July bars, with all four percentages clearly displayed. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "raster_assets": "Original article screenshot retained at measured left-panel bounds with full headline and body; source asset hash is recorded and preserved."
+          }
+        },
+        {
+          "page_id": "page_012",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_012/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_12.png",
+          "source_sha256": "77d8fe060c8940f903e072522d856fd57a58270a18f8ebb5085bc08cff18b14b",
+          "rendered_sha256": "ec2b32551aacccbe28e62375b595bf335ed8da08e45dcd89be7d67768099b5b1",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two source-document panels stay stacked on the left and two bar-chart groups stay on the right with original title/footer hierarchy.",
+            "text_content": "All graduate counts 1179, 1222, 1270 and outcomes 78.93%, 5.52%, 0.72%, 14.83% remain readable native text with intact explanatory footnote.",
+            "object_completeness": "Seven purple bars, seven gray tracks, two source panels, labels and navigation are all present with proportional lengths.",
+            "render_integrity": "Final assembled slide keeps all three graduate counts and four outcome bars, source panels and caution footnote without any overlap. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "raster_assets": "Both original supplied documentary screenshots retain their aspect ratios, left aligned source positions and full content inside separate thin-border panels."
+          }
+        },
+        {
+          "page_id": "page_013",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_13.png",
+          "source_sha256": "cf4429332b29cc2d5c1920488e96e434e4634f8063e5bc64db2d504edc517e50",
+          "rendered_sha256": "118085deb20c1901c061c7222007547db210d23db2e77e393e23c4ec151a2fe9",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two bordered evidence panels remain left; employment-index chart and three change summaries remain right, with matching whitespace and bottom caveat.",
+            "text_content": "Index labels 100, 151.4, 153, 88.1 and changes +51.4%, +53.0%, -11.9% remain intact; Chinese title and caveats fit without clipping.",
+            "object_completeness": "Four purple index bars and gray backgrounds, two original screenshots, chart title, three change lines and recent-observation line are visible once.",
+            "render_integrity": "Final assembled slide keeps the four index bars, three percentage changes and original statistics-bureau screenshots intact. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "raster_assets": "Statistics bureau webpage screenshot and article excerpt remain independent original images; their content and aspect ratios match source panels."
+          }
+        },
+        {
+          "page_id": "page_014",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_14.png",
+          "source_sha256": "6701ca98c2beed9d47d6bdcb7f793649eac91cf7099f51f2d1d0ce6d0ebe0607",
+          "rendered_sha256": "00467cc5e31644a0cd2289467c4ef432345c670f11740d0590391e5421938242",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two evidence screenshots stacked left match source placement; postgraduate and civil-service charts remain separate groups right with wide source spacing.",
+            "text_content": "All years 2024–2026 and counts 438, 388, 343, 303.3, 341.6, 371.8 retained as native text; qualification wording and caution remain unclipped.",
+            "object_completeness": "Six bars and tracks, two screenshots with captions, title, units and original caution are each present; downward and upward chart patterns preserved.",
+            "render_integrity": "Final assembled slide keeps the decreasing postgraduate counts and increasing civil-service qualification counts, with both source screenshots unchanged. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "raster_assets": "Education Ministry and Xinhua original screenshots retain blue header identity, text content and left-aligned contain geometry without distortion."
+          }
+        },
+        {
+          "page_id": "page_015",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_015/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_15.png",
+          "source_sha256": "961013a5523e297ff04adffa2d38bbd8f74ace1e89f5d21f2ab71cb0ad5124f8",
+          "rendered_sha256": "4c993f16e4229f985d7108a99e8da7a9ff0e68af57147fec000a783425dc8792",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Three equal bordered cards with purple header strips match source, retaining central body text and the bottom three-stage takeaway.",
+            "text_content": "All three headings and complete body sentences remain native text with original source line breaks; bottom wording split into three editable phrase spans.",
+            "object_completeness": "Three card frames and headers, numbered labels, body text, title, footer and two progression arrows all appear once.",
+            "render_integrity": "Final assembled slide keeps all three white/purple cards and both right-pointing native connectors between the original takeaway phrases. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "arrow_geometry": "Two thin native connectors at source x266–302 and x484–520, y873 point right between the three phrases; each owns its small triangle head on one object."
+          }
+        },
+        {
+          "page_id": "page_016",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_016/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_16.png",
+          "source_sha256": "c82eac055037898d7b786c9401cf672f42c92eaa8b370c4ce7974b93ab5e4b05",
+          "rendered_sha256": "244d26c170214d6b98bed0824a3b468bd94727f6cdd16355c05294c869f0afd7",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Eight equal career cards remain in two rows of four, with purple title banner and header strips; source spacing and bottom takeaway preserved.",
+            "text_content": "Eight career-direction labels, title, disclaimer and Lucide attribution remain native editable Chinese text and fit their original areas.",
+            "object_completeness": "All eight distinct icons are present once in correct category cards, with eight card frames, headings and complete navigation/footer.",
+            "render_integrity": "Final assembled slide keeps all eight purple source icons in the correct two-row/four-column cards, with matching thin stroke styles. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "raster_assets": "Original SVG paths were normalized with actual source CSS purple #660874 stroke and 1.6 width, correcting first render; all eight shapes, proportions and original positions now match."
+          }
+        },
+        {
+          "page_id": "page_017",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_017/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_17.png",
+          "source_sha256": "7136d984798fa51525f04b00791e0e449e5b46b929235dfdf36f9223f55e0591",
+          "rendered_sha256": "d258e89c42de5cb99c823aad9fc36fe99bebee5413dd8e6c58fcffa459163927",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Large career illustration remains in the left bordered panel; civil-service and state-enterprise entry panels remain stacked on the right.",
+            "text_content": "Title plus 公务员, 事业单位, 选调生, 央企, 地方国企, 国企管培 remain editable with matching hierarchy and source line spacing.",
+            "object_completeness": "One original illustration, two white cards with purple headings, all six entry labels, explanatory caption and disclaimer appear once.",
+            "render_integrity": "Final assembled slide keeps the original illustration at left and both six-entry public-sector/state-enterprise panels at right with no clipping. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "raster_assets": "Original purple public-service/enterprise collaboration illustration is reused unchanged, retains all people and equipment, and matches left source-panel bounds."
+          }
+        },
+        {
+          "page_id": "page_018",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_018/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_18.png",
+          "source_sha256": "3c02b9eb37149c39e9fe43429c83bd3379f97c571228bae3935bbb229d399a43",
+          "rendered_sha256": "03ff3035b05d70447523d71af38eb754bf66f47cfcf8c897b3a87668b129dba1",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two broad equal cards retain source private-enterprise left and foreign-enterprise right placement, centered icons and bottom purple takeaway.",
+            "text_content": "Category headings, industry-leading/growth/startup phrase and management-trainee/technical/regional phrase retain wording as native text without clipping.",
+            "object_completeness": "Briefcase and globe icons appear once in their correct cards; two headers, card outlines, body lines, title and footer are complete.",
+            "render_integrity": "Final assembled slide keeps the briefcase and globe icons purple, body text readable and original equal-width card layout intact. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "raster_assets": "Two original SVG icons normalized with actual purple stroke and 1.6 source width preserve original paths, shape identity and measured placements."
+          }
+        },
+        {
+          "page_id": "page_019",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_019/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_19.png",
+          "source_sha256": "1e11d67eb3400b347a0e8cadf2ee33531d50e1e258b173ae592699a3c46f63a5",
+          "rendered_sha256": "e4086da7a82838f7b87029ce2098456124a548c2b20593f279b70dc0c6c6260e",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Original study/community illustration remains left; two stacked study and grassroots-entry cards preserve right-side layout and purple title hierarchy.",
+            "text_content": "All six entries including 国内考研, 境外申请, 直博/科研助理, 西部计划, 三支一扶, 社区工作者 remain native text with source wording.",
+            "object_completeness": "One complete illustration, two category cards, all six body labels, title, caption and final disclaimer appear once.",
+            "render_integrity": "Final assembled slide keeps the study/community illustration and all six study/grassroots entries with original panel composition intact. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "raster_assets": "Original illustration retains student, books, community meeting and purple visual palette, placed at original aspect ratio inside the measured left panel."
+          }
+        },
+        {
+          "page_id": "page_020",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_020/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_20.png",
+          "source_sha256": "af63fa56463ab899ceed6e27a2a6f722ff0796787cf365eb9aa47b6d6845036f",
+          "rendered_sha256": "2aa71b74bd539e44c55fe79301bb0fdca4b0c470ddcd49ff201f089bcf5770da",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Freelance and military/police entry cards remain side by side with centered icons, purple headings and original bottom takeaway spacing.",
+            "text_content": "Body phrases 内容创作/设计咨询/技术外包 and 军官/士官/公安/消防等 preserve wording; title, takeaway and scope disclaimer remain native and unclipped.",
+            "object_completeness": "Laptop and shield icons, two complete cards, two body lines, title, navigation, takeaway and footer each appear once.",
+            "render_integrity": "Final assembled slide keeps the laptop/shield icons purple, both career-path descriptions and lower purple takeaway fully readable. Inspected the current final LibreOffice render against the accepted source/page rendering; no missing or duplicated slide elements.",
+            "raster_assets": "Original laptop and shield SVG paths use source purple #660874 and 1.6 stroke normalization, retaining matching silhouettes and centered positions."
+          }
+        },
+        {
+          "page_id": "page_021",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_21.png",
+          "source_sha256": "01ece4ba5c1d8fb73220d0899ec97a008b6f3a9cc3af90c47932de9e9b8c05ee",
+          "rendered_sha256": "4775f40700d6fee65d85752d864305ab8818d4ce5744cacf23d07fa655c78160",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Compared matching aspect ratios: purple four-column header, three full-width body bands, lower takeaway and footer retain source positions.",
+            "text_content": "All four column headings and body phrases remain visible, including source line breaks 入/口 and 标/准; Source Han sans glyph details differ slightly without clipping.",
+            "object_completeness": "Thirty-four native text boxes and thirty-two layout objects preserve the complete table, navigation pills, active chapter marker and footer rule.",
+            "render_integrity": "Final merged slide21 inspected: four table columns, all three body rows, original line breaks and bottom conclusion match the accepted page; no overlap or clipped glyphs."
+          }
+        },
+        {
+          "page_id": "page_022",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_022/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_22.png",
+          "source_sha256": "628e5d8bcaa9fe7a8c4dc7411fec17e2e21400a567a1f1ef69b5d6d2c10b17c9",
+          "rendered_sha256": "b850f8ae0474ddd7ef4e8c5b9e9627c9b06e322ca81726901e62d53939285622",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Four unequal source columns and four alternating white/lilac rows align with the source table; title and source footer retain margins.",
+            "text_content": "体制内、国企、民企、外企 and every capability, material example and misconception match source wording and line breaks without clipping.",
+            "object_completeness": "All 35 editable text boxes and 37 native shapes are retained, including four row bands, header cells and native horizontal dividers.",
+            "render_integrity": "Final merged slide22 inspected: all four career rows remain complete with alternating bands, visible examples and uninterrupted footer; no text crosses cell boundaries."
+          }
+        },
+        {
+          "page_id": "page_023",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_23.png",
+          "source_sha256": "f21a14797c9982633a5b06c6ed4b43d6299a81ebf4a45e1b5b0b80ee0d8ed3f6",
+          "rendered_sha256": "649ce259e93b45f6c06a82b851851cd1092794cb70ac12b022b9237496732896",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Compared four unequal columns, four body rows and alternate lilac bands: source column boundaries, row heights and footer positions preserved.",
+            "text_content": "升学深造、基层项目、自由职业、军警 and all capability/evidence/misconception strings remain editable, with original line breaks and unobstructed final row.",
+            "object_completeness": "Thirty-eight native text boxes and thirty-seven native layout shapes preserve every source table cell and navigation marker; no table raster.",
+            "render_integrity": "Final merged slide23 inspected: final 军警 row, earlier three rows, footer qualification and all cell text remain visible and aligned after assembly."
+          }
+        },
+        {
+          "page_id": "page_024",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_24.png",
+          "source_sha256": "a1f4e0f4b6101da346378a1647dd162264f36b060595d04027caceea61896214",
+          "rendered_sha256": "d5b6269f6b85637436ccc28879e8e8c84dd36e5a196db4d9eb69b7c441f14a27",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "The three equal-width panels retain their purple header strips, white bodies, border edges and even source gutters; takeaway remains below panels.",
+            "text_content": "Interest/ability, certificate/evidence and rumor/standard headings and all three misconception/correction paragraphs are complete with source line breaks.",
+            "object_completeness": "Twenty-seven native text boxes and twenty-eight native layout shapes preserve numbered headers 01/02/03, paragraph pairs and purple takeaway.",
+            "render_integrity": "Final merged slide24 inspected: three misconception/correction panels and numeric takeaway remain complete with the source card spacing and no panel overflow."
+          }
+        },
+        {
+          "page_id": "page_025",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_025/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_25.png",
+          "source_sha256": "921640ebc5f33bb65870a2a11168e6350236db4fd96d0e6c57c84285680d782f",
+          "rendered_sha256": "7a3b9aef3e3840ed17360b44c306730c53db9712f395b8beecf40e29d898a1c7",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Left illustration occupies the original bordered panel; four right-side cards retain the two-by-two grid, purple headers and source gutters.",
+            "text_content": "Selection-tension title, four card headings and two-line body text, image caption and source footer match source wording without clipping.",
+            "object_completeness": "Twenty-eight editable text boxes, thirty-nine layout shapes and one original illustration preserve every source component, including the active 案例经历 marker.",
+            "render_integrity": "Final merged slide25 inspected: original left discussion image and the four right cards retain proper layering, legible body lines and intact caption.",
+            "raster_assets": "Original discussion illustration is reused with user approval and checked byte/hash provenance; two people, portfolio, laptop and papers keep proportions and original framing."
+          }
+        },
+        {
+          "page_id": "page_026",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_026/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_26.png",
+          "source_sha256": "ec8e0333117ad919f2abcb56d7a058d4f5094d63d6c168288ded6ca7bcb7e453",
+          "rendered_sha256": "e31d57d567756f75ca64641a21efc031048b6a6f82c33c90f9b7a7ba87e46688",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Five narrow equal-width cards retain source positions, purple headers, icon centers and two-line descriptions, with takeaway and footer below.",
+            "text_content": "Title and five career-commonality headings and descriptions match the source; 01–05 numbering, bottom conclusion and boundary note stay legible.",
+            "object_completeness": "Thirty-two native text boxes, forty layout shapes and five separately replaceable original icons account for every source element.",
+            "render_integrity": "Final merged slide26 inspected: all five icons remain source purple with repaired CSS stroke width; their centers and the five descriptions match accepted render without black fallback.",
+            "raster_assets": "Five source SVG icons retain paths and inherited purple #660874 stroke with source 1.5 width; original building, clipboard, globe, shield and cap silhouettes are intact."
+          }
+        },
+        {
+          "page_id": "page_027",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_27.png",
+          "source_sha256": "c3ef8c021384b72d4bb78e6645420061a8defb6556e9c23ae30108c1496a9381",
+          "rendered_sha256": "f8f0f0fd09fce132428ec186b26de0528bb3bda4a20dd9d20a15dc2944089691",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Two source screenshot panels remain stacked at left and the selection/study explanation panels stay stacked at right, with original margins and divider positions.",
+            "text_content": "Title and right-side paraphrases are intact; source captions/date remain visible, and merged native footer text restores the period after 2020-05-04 without overlap.",
+            "object_completeness": "Nineteen native text boxes, thirty-three layout shapes and two original screenshot assets preserve all visible elements, including the source-link underline.",
+            "render_integrity": "Final merged slide27 inspected: both screenshots and two explanation panels remain intact; repaired footer period after 2020-05-04 and underline are visible without text overlap.",
+            "raster_assets": "Both original Southern Plus screenshots are reused with user approval and provenance hashes; their original interview header, excerpt text and source framing remain unchanged."
+          }
+        },
+        {
+          "page_id": "page_028",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_028/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_28.png",
+          "source_sha256": "5205168f7147a2466d670a1dac682ec1717f5a3f5a0df3dd4968e6fa213f0215",
+          "rendered_sha256": "2c7e5de0cc757fd2bffb434f18a154a2f4de2063b50a88efb72924d1cda1ff6e",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Three equal source panels retain their header bands and paragraph placement; the bottom choice-practice-understanding sequence remains below the cards.",
+            "text_content": "All three headings and two-line paragraphs preserve original wording; bottom labels 选择、实践、重新理解 remain native editable text without arrow glyph duplication.",
+            "object_completeness": "Twenty-six native text boxes and thirty native shapes preserve cards, navigation, footer and two single-object native arrows.",
+            "render_integrity": "Final merged slide28 inspected: both rightward native arrows remain attached and visible between the three bottom labels; all three panels and the footer are intact.",
+            "arrow_geometry": "Two thin purple straight arrows point right at source y873, spanning x187–223 and x328–364; each shaft owns its small open arrowhead and stays between labels."
+          }
+        },
+        {
+          "page_id": "page_029",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_29.png",
+          "source_sha256": "9d9f00ab3f4f4fadb239b3cb06db4cfc53831d5aaacdbc1b9f0cd10d7f31252c",
+          "rendered_sha256": "6049986d14a5331affb293754d32f061f704825d3f39fbe3dd15899724b12084",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Five equal white cards retain purple headers and source spacing; all descriptions remain vertically centered and the process takeaway stays below cards.",
+            "text_content": "Marx-method title, five headings, corresponding descriptions and the full final sentence remain unchanged; all sequence labels are native text.",
+            "object_completeness": "Thirty-two editable text boxes and forty-four native shapes preserve every source item, with four single-object arrows replacing four arrow glyphs.",
+            "render_integrity": "Final merged slide29 inspected: four native arrowheads point right with correct label spacing; all five cards and the entire final sentence fit above the footer.",
+            "arrow_geometry": "Four thin purple arrows point right at y873 between 热情、考察、限制、实践、统一; shafts span 187–223, 328–364, 468–504 and 607–643 with attached open heads."
+          }
+        },
+        {
+          "page_id": "page_030",
+          "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_030/source.png",
+          "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_30.png",
+          "source_sha256": "bf4b8aa4cb756880f036caef097973006177675fb182c21ac002aa02ca8176c4",
+          "rendered_sha256": "dd93106f8a66a95328683146ac0440e29464c622a5745ca825053186f77d02d7",
+          "reviewed": true,
+          "checks": {
+            "composition_layout": "Left career-exploration illustration and two-line question keep their source composition; three right-side action cards retain equal widths, header strips and original vertical spacing.",
+            "text_content": "Closing title, three numbered actions, numeric targets 3 directions/2 facts, two-line question and source footer remain complete with no body clipping.",
+            "object_completeness": "Twenty-five editable text boxes, twenty-eight native layout shapes and one original illustration retain all source objects including emphasis on 重新理解.",
+            "render_integrity": "Final merged slide30 inspected: fork-path illustration, emphasized two-line question and all three right action cards remain intact with no overlap or clipped text.",
+            "raster_assets": "Original woman-at-fork illustration is reused under explicit approval; person, suitcase and three-way path preserve original image framing, color and proportions."
+          }
+        }
+      ]
+    }
+  },
+  "checks": {
+    "region_decomposition_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/inspect_region_decomposition.py",
+        "--run",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run",
+        "--out",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_region_decomposition.json"
+      ],
+      "returncode": 0,
+      "stdout": "5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_025/manifest.json\",\n      \"passed\": true,\n      \"page_complexity\": \"structured\",\n      \"region_count\": 3,\n      \"regions\": [\n        {\n          \"id\": \"heading\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 18,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"content\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 47,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"footer\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 3,\n          \"protected_anchor_count\": 0,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        }\n      ],\n      \"summary\": {\n        \"manifest_objects\": 68,\n        \"assigned_objects\": 68,\n        \"protected_anchors\": 18,\n        \"compound_regions\": 0\n      },\n      \"warnings\": [],\n      \"errors\": []\n    },\n    {\n      \"manifest\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_026/manifest.json\",\n      \"passed\": true,\n      \"page_complexity\": \"structured\",\n      \"region_count\": 3,\n      \"regions\": [\n        {\n          \"id\": \"heading\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 18,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"content\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 56,\n          \"protected_anchor_count\": 10,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"footer\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 3,\n          \"protected_anchor_count\": 0,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        }\n      ],\n      \"summary\": {\n        \"manifest_objects\": 77,\n        \"assigned_objects\": 77,\n        \"protected_anchors\": 19,\n        \"compound_regions\": 0\n      },\n      \"warnings\": [],\n      \"errors\": []\n    },\n    {\n      \"manifest\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_027/manifest.json\",\n      \"passed\": true,\n      \"page_complexity\": \"structured\",\n      \"region_count\": 3,\n      \"regions\": [\n        {\n          \"id\": \"heading\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 18,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"content\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 32,\n          \"protected_anchor_count\": 6,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"footer\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 4,\n          \"protected_anchor_count\": 0,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        }\n      ],\n      \"summary\": {\n        \"manifest_objects\": 54,\n        \"assigned_objects\": 54,\n        \"protected_anchors\": 15,\n        \"compound_regions\": 0\n      },\n      \"warnings\": [],\n      \"errors\": []\n    },\n    {\n      \"manifest\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_028/manifest.json\",\n      \"passed\": true,\n      \"page_complexity\": \"structured\",\n      \"region_count\": 3,\n      \"regions\": [\n        {\n          \"id\": \"heading\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 18,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"content\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 35,\n          \"protected_anchor_count\": 8,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"footer\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 3,\n          \"protected_anchor_count\": 0,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        }\n      ],\n      \"summary\": {\n        \"manifest_objects\": 56,\n        \"assigned_objects\": 56,\n        \"protected_anchors\": 17,\n        \"compound_regions\": 0\n      },\n      \"warnings\": [],\n      \"errors\": []\n    },\n    {\n      \"manifest\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_029/manifest.json\",\n      \"passed\": true,\n      \"page_complexity\": \"structured\",\n      \"region_count\": 3,\n      \"regions\": [\n        {\n          \"id\": \"heading\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 18,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"content\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 55,\n          \"protected_anchor_count\": 14,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"footer\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 3,\n          \"protected_anchor_count\": 0,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        }\n      ],\n      \"summary\": {\n        \"manifest_objects\": 76,\n        \"assigned_objects\": 76,\n        \"protected_anchors\": 23,\n        \"compound_regions\": 0\n      },\n      \"warnings\": [],\n      \"errors\": []\n    },\n    {\n      \"manifest\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_030/manifest.json\",\n      \"passed\": true,\n      \"page_complexity\": \"structured\",\n      \"region_count\": 3,\n      \"regions\": [\n        {\n          \"id\": \"heading\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 18,\n          \"protected_anchor_count\": 9,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"content\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 33,\n          \"protected_anchor_count\": 6,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        },\n        {\n          \"id\": \"footer\",\n          \"strategy\": \"mixed-reconstruction\",\n          \"risk_level\": \"medium\",\n          \"manifest_object_count\": 3,\n          \"protected_anchor_count\": 0,\n          \"compound_diagram\": false,\n          \"passed\": true,\n          \"errors\": []\n        }\n      ],\n      \"summary\": {\n        \"manifest_objects\": 54,\n        \"assigned_objects\": 54,\n        \"protected_anchors\": 15,\n        \"compound_regions\": 0\n      },\n      \"warnings\": [],\n      \"errors\": []\n    }\n  ],\n  \"summary\": {\n    \"pages\": 30,\n    \"regions\": 91,\n    \"compound_regions\": 0\n  },\n  \"errors\": []\n}\n",
+      "stderr": ""
+    },
+    "region_decomposition": {
+      "schema_version": "image2ppt-region-decomposition-report-v1",
+      "passed": true,
+      "pages": [
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_001/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 2,
+              "protected_anchor_count": 2,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 10,
+              "protected_anchor_count": 3,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 15,
+            "assigned_objects": 15,
+            "protected_anchors": 5,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_002/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 32,
+              "protected_anchor_count": 6,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 7,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 57,
+            "assigned_objects": 57,
+            "protected_anchors": 15,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_003/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 19,
+              "protected_anchor_count": 4,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 40,
+            "assigned_objects": 40,
+            "protected_anchors": 13,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_004/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 41,
+              "protected_anchor_count": 8,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 62,
+            "assigned_objects": 62,
+            "protected_anchors": 17,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_005/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 36,
+              "protected_anchor_count": 6,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 57,
+            "assigned_objects": 57,
+            "protected_anchors": 15,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_006/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 37,
+              "protected_anchor_count": 8,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 58,
+            "assigned_objects": 58,
+            "protected_anchors": 17,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_007/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 34,
+              "protected_anchor_count": 7,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 55,
+            "assigned_objects": 55,
+            "protected_anchors": 16,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 31,
+              "protected_anchor_count": 6,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 52,
+            "assigned_objects": 52,
+            "protected_anchors": 15,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_009/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 54,
+              "protected_anchor_count": 14,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 5,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 77,
+            "assigned_objects": 77,
+            "protected_anchors": 23,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 4,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 36,
+              "protected_anchor_count": 8,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "takeaway-sequence",
+              "strategy": "native-object-decomposition",
+              "risk_level": "high",
+              "manifest_object_count": 7,
+              "protected_anchor_count": 3,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 64,
+            "assigned_objects": 64,
+            "protected_anchors": 20,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_011/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 33,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 5,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 56,
+            "assigned_objects": 56,
+            "protected_anchors": 18,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_012/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 47,
+              "protected_anchor_count": 16,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 68,
+            "assigned_objects": 68,
+            "protected_anchors": 25,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 37,
+              "protected_anchor_count": 10,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 58,
+            "assigned_objects": 58,
+            "protected_anchors": 19,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 43,
+              "protected_anchor_count": 14,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 64,
+            "assigned_objects": 64,
+            "protected_anchors": 23,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_015/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 35,
+              "protected_anchor_count": 6,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 56,
+            "assigned_objects": 56,
+            "protected_anchors": 15,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_016/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 19,
+              "protected_anchor_count": 10,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 65,
+              "protected_anchor_count": 16,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 87,
+            "assigned_objects": 87,
+            "protected_anchors": 26,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_017/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 29,
+              "protected_anchor_count": 5,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 50,
+            "assigned_objects": 50,
+            "protected_anchors": 14,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_018/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 21,
+              "protected_anchor_count": 4,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 42,
+            "assigned_objects": 42,
+            "protected_anchors": 13,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_019/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 29,
+              "protected_anchor_count": 5,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 50,
+            "assigned_objects": 50,
+            "protected_anchors": 14,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_020/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 21,
+              "protected_anchor_count": 4,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 42,
+            "assigned_objects": 42,
+            "protected_anchors": 13,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 45,
+              "protected_anchor_count": 6,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 66,
+            "assigned_objects": 66,
+            "protected_anchors": 15,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_022/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 51,
+              "protected_anchor_count": 7,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 72,
+            "assigned_objects": 72,
+            "protected_anchors": 16,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 54,
+              "protected_anchor_count": 7,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 75,
+            "assigned_objects": 75,
+            "protected_anchors": 16,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 34,
+              "protected_anchor_count": 6,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 55,
+            "assigned_objects": 55,
+            "protected_anchors": 15,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_025/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 47,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 68,
+            "assigned_objects": 68,
+            "protected_anchors": 18,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_026/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 56,
+              "protected_anchor_count": 10,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 77,
+            "assigned_objects": 77,
+            "protected_anchors": 19,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 32,
+              "protected_anchor_count": 6,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 4,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 54,
+            "assigned_objects": 54,
+            "protected_anchors": 15,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_028/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 35,
+              "protected_anchor_count": 8,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 56,
+            "assigned_objects": 56,
+            "protected_anchors": 17,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 55,
+              "protected_anchor_count": 14,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 76,
+            "assigned_objects": 76,
+            "protected_anchors": 23,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_030/manifest.json",
+          "passed": true,
+          "page_complexity": "structured",
+          "region_count": 3,
+          "regions": [
+            {
+              "id": "heading",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 18,
+              "protected_anchor_count": 9,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "content",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 33,
+              "protected_anchor_count": 6,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            },
+            {
+              "id": "footer",
+              "strategy": "mixed-reconstruction",
+              "risk_level": "medium",
+              "manifest_object_count": 3,
+              "protected_anchor_count": 0,
+              "compound_diagram": false,
+              "passed": true,
+              "errors": []
+            }
+          ],
+          "summary": {
+            "manifest_objects": 54,
+            "assigned_objects": 54,
+            "protected_anchors": 15,
+            "compound_regions": 0
+          },
+          "warnings": [],
+          "errors": []
+        }
+      ],
+      "summary": {
+        "pages": 30,
+        "regions": 91,
+        "compound_regions": 0
+      },
+      "errors": []
+    },
+    "postprocess_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/postprocess_manifest_arrows.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+        "--run",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run",
+        "--report",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_arrow_postprocess.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-manifest-arrow-postprocess-v1\",\n  \"passed\": true,\n  \"pptx\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/final/source-deck_edited.pptx\",\n  \"manifests\": [\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_001/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_002/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_003/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_004/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_005/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_006/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_007/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_008/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_009/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_010/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_011/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_012/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_013/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_014/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_015/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_016/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_017/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_018/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_019/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_020/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_021/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_022/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_023/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_024/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_025/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_026/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_027/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_028/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_029/manifest.json\",\n    \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/pages/page_030/manifest.json\"\n  ],\n  \"operations\": [\n    {\n      \"slide_index\": 10,\n      \"shape_index\": 34,\n      \"object_id\": 60,\n      \"name\": \"flow_arrow_0\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"arrow\"\n    },\n    {\n      \"slide_index\": 10,\n      \"shape_index\": 35,\n      \"object_id\": 61,\n      \"name\": \"flow_arrow_1\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"arrow\"\n    },\n    {\n      \"slide_index\": 10,\n      \"shape_index\": 36,\n      \"object_id\": 62,\n      \"name\": \"flow_arrow_2\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"arrow\"\n    },\n    {\n      \"slide_index\": 15,\n      \"shape_index\": 28,\n      \"object_id\": 53,\n      \"name\": \"takeaway_arrow_0\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"triangle\"\n    },\n    {\n      \"slide_index\": 15,\n      \"shape_index\": 29,\n      \"object_id\": 54,\n      \"name\": \"takeaway_arrow_1\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"triangle\"\n    },\n    {\n      \"slide_index\": 28,\n      \"shape_index\": 28,\n      \"object_id\": 53,\n      \"name\": \"process_arrow_0\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"arrow\"\n    },\n    {\n      \"slide_index\": 28,\n      \"shape_index\": 29,\n      \"object_id\": 54,\n      \"name\": \"process_arrow_1\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"arrow\"\n    },\n    {\n      \"slide_index\": 29,\n      \"shape_index\": 40,\n      \"object_id\": 71,\n      \"name\": \"process_arrow_0\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"arrow\"\n    },\n    {\n      \"slide_index\": 29,\n      \"shape_index\": 41,\n      \"object_id\": 72,\n      \"name\": \"process_arrow_1\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"arrow\"\n    },\n    {\n      \"slide_index\": 29,\n      \"shape_index\": 42,\n      \"object_id\": 73,\n      \"name\": \"process_arrow_2\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"arrow\"\n    },\n    {\n      \"slide_index\": 29,\n      \"shape_index\": 43,\n      \"object_id\": 74,\n      \"name\": \"process_arrow_3\",\n      \"role\": \"connector\",\n      \"kind\": \"cxnSp\",\n      \"connector\": \"straight\",\n      \"geometry\": \"line\",\n      \"start_arrow\": null,\n      \"end_arrow\": \"arrow\"\n    }\n  ],\n  \"errors\": [],\n  \"preservation\": {\n    \"non_slide_parts_preserved\": true,\n    \"non_slide_part_count\": 143,\n    \"notes_parts_preserved\": true,\n    \"notes_part_count\": 62\n  },\n  \"input_sha256\": \"d3a496a313ec6082b175450bb21d3632168d692637f895a000619ffc8f0e0992\",\n  \"output_sha256\": \"d3a496a313ec6082b175450bb21d3632168d692637f895a000619ffc8f0e0992\",\n  \"summary\": {\n    \"slides\": 30,\n    \"profiled_arrows\": 11,\n    \"connectors\": 11,\n    \"filled_arrows\": 0\n  }\n}\n",
+      "stderr": ""
+    },
+    "postprocess": {
+      "schema_version": "image2ppt-manifest-arrow-postprocess-v1",
+      "passed": true,
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+      "manifests": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_001/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_002/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_003/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_004/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_005/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_006/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_007/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_009/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_011/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_012/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_015/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_016/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_017/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_018/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_019/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_020/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_022/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_025/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_026/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_028/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/manifest.json",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_030/manifest.json"
+      ],
+      "operations": [
+        {
+          "slide_index": 10,
+          "shape_index": 34,
+          "object_id": 60,
+          "name": "flow_arrow_0",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "arrow"
+        },
+        {
+          "slide_index": 10,
+          "shape_index": 35,
+          "object_id": 61,
+          "name": "flow_arrow_1",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "arrow"
+        },
+        {
+          "slide_index": 10,
+          "shape_index": 36,
+          "object_id": 62,
+          "name": "flow_arrow_2",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "arrow"
+        },
+        {
+          "slide_index": 15,
+          "shape_index": 28,
+          "object_id": 53,
+          "name": "takeaway_arrow_0",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "triangle"
+        },
+        {
+          "slide_index": 15,
+          "shape_index": 29,
+          "object_id": 54,
+          "name": "takeaway_arrow_1",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "triangle"
+        },
+        {
+          "slide_index": 28,
+          "shape_index": 28,
+          "object_id": 53,
+          "name": "process_arrow_0",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "arrow"
+        },
+        {
+          "slide_index": 28,
+          "shape_index": 29,
+          "object_id": 54,
+          "name": "process_arrow_1",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "arrow"
+        },
+        {
+          "slide_index": 29,
+          "shape_index": 40,
+          "object_id": 71,
+          "name": "process_arrow_0",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "arrow"
+        },
+        {
+          "slide_index": 29,
+          "shape_index": 41,
+          "object_id": 72,
+          "name": "process_arrow_1",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "arrow"
+        },
+        {
+          "slide_index": 29,
+          "shape_index": 42,
+          "object_id": 73,
+          "name": "process_arrow_2",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "arrow"
+        },
+        {
+          "slide_index": 29,
+          "shape_index": 43,
+          "object_id": 74,
+          "name": "process_arrow_3",
+          "role": "connector",
+          "kind": "cxnSp",
+          "connector": "straight",
+          "geometry": "line",
+          "start_arrow": null,
+          "end_arrow": "arrow"
+        }
+      ],
+      "errors": [],
+      "preservation": {
+        "non_slide_parts_preserved": true,
+        "non_slide_part_count": 143,
+        "notes_parts_preserved": true,
+        "notes_part_count": 62
+      },
+      "input_sha256": "d3a496a313ec6082b175450bb21d3632168d692637f895a000619ffc8f0e0992",
+      "output_sha256": "d3a496a313ec6082b175450bb21d3632168d692637f895a000619ffc8f0e0992",
+      "summary": {
+        "slides": 30,
+        "profiled_arrows": 11,
+        "connectors": 11,
+        "filled_arrows": 0
+      }
+    },
+    "image2ppt_validation_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/cli/image2ppt/runtime/validate_pptx.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+        "--deck-manifest",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/deck_manifest.json",
+        "--report",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_structural_validation.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"pptx\": \"/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx\",\n  \"deck_manifest\": \"/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/deck_manifest.json\",\n  \"expected_pages\": 30,\n  \"slides\": 30,\n  \"page_manifests_missing\": [],\n  \"page_validation_missing\": [],\n  \"failed_page_validations\": [],\n  \"page_contract_violations\": [],\n  \"notes_expected\": 30,\n  \"notes_found\": 30,\n  \"notes_hash_mismatches\": [],\n  \"missing_parts\": [],\n  \"warnings\": [],\n  \"passed\": true\n}\n",
+      "stderr": ""
+    },
+    "image2ppt_validation": {
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+      "deck_manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/deck_manifest.json",
+      "expected_pages": 30,
+      "slides": 30,
+      "page_manifests_missing": [],
+      "page_validation_missing": [],
+      "failed_page_validations": [],
+      "page_contract_violations": [],
+      "notes_expected": 30,
+      "notes_found": 30,
+      "notes_hash_mismatches": [],
+      "missing_parts": [],
+      "warnings": [],
+      "passed": true
+    },
+    "arrow_inspection_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/inspect_arrow_atomicity.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+        "--run",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run",
+        "--out",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_arrow_inspection.json"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"schema_version\": \"image2ppt-manifest-arrow-inspection-v1\",\n  \"passed\": true,\n  \"pptx\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/final/source-deck_edited.pptx\",\n  \"errors\": [],\n  \"summary\": {\n    \"expected_arrows\": 11,\n    \"inspected_arrows\": 11,\n    \"connectors\": 11,\n    \"filled_arrows\": 0,\n    \"fragmented_or_missing\": 0\n  },\n  \"arrows\": [\n    {\n      \"slide_index\": 10,\n      \"shape_index\": 34,\n      \"id\": \"flow_arrow_0\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"arrow\"\n      }\n    },\n    {\n      \"slide_index\": 10,\n      \"shape_index\": 35,\n      \"id\": \"flow_arrow_1\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"arrow\"\n      }\n    },\n    {\n      \"slide_index\": 10,\n      \"shape_index\": 36,\n      \"id\": \"flow_arrow_2\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"arrow\"\n      }\n    },\n    {\n      \"slide_index\": 15,\n      \"shape_index\": 28,\n      \"id\": \"takeaway_arrow_0\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"triangle\"\n      }\n    },\n    {\n      \"slide_index\": 15,\n      \"shape_index\": 29,\n      \"id\": \"takeaway_arrow_1\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"triangle\"\n      }\n    },\n    {\n      \"slide_index\": 28,\n      \"shape_index\": 28,\n      \"id\": \"process_arrow_0\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"arrow\"\n      }\n    },\n    {\n      \"slide_index\": 28,\n      \"shape_index\": 29,\n      \"id\": \"process_arrow_1\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"arrow\"\n      }\n    },\n    {\n      \"slide_index\": 29,\n      \"shape_index\": 40,\n      \"id\": \"process_arrow_0\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"arrow\"\n      }\n    },\n    {\n      \"slide_index\": 29,\n      \"shape_index\": 41,\n      \"id\": \"process_arrow_1\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"arrow\"\n      }\n    },\n    {\n      \"slide_index\": 29,\n      \"shape_index\": 42,\n      \"id\": \"process_arrow_2\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"arrow\"\n      }\n    },\n    {\n      \"slide_index\": 29,\n      \"shape_index\": 43,\n      \"id\": \"process_arrow_3\",\n      \"role\": \"connector\",\n      \"pptx_object\": {\n        \"kind\": \"cxnSp\",\n        \"preset\": \"line\",\n        \"text\": \"\",\n        \"connector\": \"straight\",\n        \"start_arrow\": null,\n        \"end_arrow\": \"arrow\"\n      }\n    }\n  ]\n}\n",
+      "stderr": ""
+    },
+    "arrow_inspection": {
+      "schema_version": "image2ppt-manifest-arrow-inspection-v1",
+      "passed": true,
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+      "errors": [],
+      "summary": {
+        "expected_arrows": 11,
+        "inspected_arrows": 11,
+        "connectors": 11,
+        "filled_arrows": 0,
+        "fragmented_or_missing": 0
+      },
+      "arrows": [
+        {
+          "slide_index": 10,
+          "shape_index": 34,
+          "id": "flow_arrow_0",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "arrow"
+          }
+        },
+        {
+          "slide_index": 10,
+          "shape_index": 35,
+          "id": "flow_arrow_1",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "arrow"
+          }
+        },
+        {
+          "slide_index": 10,
+          "shape_index": 36,
+          "id": "flow_arrow_2",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "arrow"
+          }
+        },
+        {
+          "slide_index": 15,
+          "shape_index": 28,
+          "id": "takeaway_arrow_0",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "triangle"
+          }
+        },
+        {
+          "slide_index": 15,
+          "shape_index": 29,
+          "id": "takeaway_arrow_1",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "triangle"
+          }
+        },
+        {
+          "slide_index": 28,
+          "shape_index": 28,
+          "id": "process_arrow_0",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "arrow"
+          }
+        },
+        {
+          "slide_index": 28,
+          "shape_index": 29,
+          "id": "process_arrow_1",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "arrow"
+          }
+        },
+        {
+          "slide_index": 29,
+          "shape_index": 40,
+          "id": "process_arrow_0",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "arrow"
+          }
+        },
+        {
+          "slide_index": 29,
+          "shape_index": 41,
+          "id": "process_arrow_1",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "arrow"
+          }
+        },
+        {
+          "slide_index": 29,
+          "shape_index": 42,
+          "id": "process_arrow_2",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "arrow"
+          }
+        },
+        {
+          "slide_index": 29,
+          "shape_index": 43,
+          "id": "process_arrow_3",
+          "role": "connector",
+          "pptx_object": {
+            "kind": "cxnSp",
+            "preset": "line",
+            "text": "",
+            "connector": "straight",
+            "start_arrow": null,
+            "end_arrow": "arrow"
+          }
+        }
+      ]
+    },
+    "render_command": {
+      "command": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/.image2ppt-venv/bin/python",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/.image2ppt-runtime/scripts/render_image2ppt_qa.py",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+        "--out-dir",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render",
+        "--report",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render_report.json",
+        "--timeout",
+        "180"
+      ],
+      "returncode": 0,
+      "stdout": "{\"status\": \"rendered\", \"report\": \"/Users/admin/Desktop/\\u4e91\\u4e0a\\u4e66\\u5c4b/\\u5ba3\\u8bb2PPT/pptx-conversion/run/final/image2ppt_render_report.json\"}\n",
+      "stderr": ""
+    },
+    "render": {
+      "schema_version": "image2ppt-render-qa-v1",
+      "status": "rendered",
+      "renderer": "libreoffice",
+      "pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx",
+      "out_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render",
+      "rendered_png": null,
+      "rendered_slides": [
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_01.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_02.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_03.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_04.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_05.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_06.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_07.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_08.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_09.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_10.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_11.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_12.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_13.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_14.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_15.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_16.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_17.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_18.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_19.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_20.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_21.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_22.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_23.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_24.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_25.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_26.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_27.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_28.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_29.png",
+        "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_30.png"
+      ],
+      "source_image": null,
+      "raw": {
+        "status": "rendered",
+        "renderer": "libreoffice",
+        "backend": "soffice-pdf-pdfium",
+        "command": [
+          "/opt/homebrew/bin/soffice",
+          "--headless",
+          "-env:UserInstallation=file:///var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-vizwi5rb/profile",
+          "--convert-to",
+          "pdf",
+          "--outdir",
+          "/var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-vizwi5rb",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx"
+        ],
+        "stdout": "convert /Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/source-deck_edited.pptx as a Impress document -> /private/var/folders/74/99kkpvr17wb1qpbypt2670tr0000gn/T/image2ppt-libreoffice-vizwi5rb/source-deck_edited.pdf using filter : impress_pdf_Export\n",
+        "stderr": "2026-10-19 12:15:04.011 soffice[8528:153465] Task policy set failed: 4 ((os/kern) invalid argument)\n",
+        "elapsed_seconds": 11.152,
+        "slides": [
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_01.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_02.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_03.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_04.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_05.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_06.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_07.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_08.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_09.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_10.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_11.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_12.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_13.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_14.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_15.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_16.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_17.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_18.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_19.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_20.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_21.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_22.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_23.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_24.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_25.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_26.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_27.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_28.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_29.png",
+          "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_30.png"
+        ]
+      }
+    },
+    "page_diff_metrics": [
+      {
+        "page_index": 1,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_001/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_01.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 2.71,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 2,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_002/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_02.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 8.65,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 3,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_003/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_03.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 2.71,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 4,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_004/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_04.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 5.36,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 5,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_005/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_05.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.12,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 6,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_006/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_06.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.63,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 7,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_007/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_07.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 4.02,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 8,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_08.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 2.94,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 9,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_009/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_09.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 4.47,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 10,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_10.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 2.88,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 11,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_011/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_11.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 7.0,
+        "max_abs_rgb_diff_0_255": 250,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 12,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_012/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_12.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.75,
+        "max_abs_rgb_diff_0_255": 250,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 13,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_13.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 4.38,
+        "max_abs_rgb_diff_0_255": 250,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 14,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_14.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.3,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 15,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_015/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_15.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 2.9,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 16,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_016/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_16.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 2.18,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 17,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_017/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_17.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 2.62,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 18,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_018/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_18.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 2.86,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 19,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_019/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_19.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.05,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 20,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_020/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_20.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 2.75,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 21,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_21.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.46,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 22,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_022/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_22.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 4.82,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 23,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_23.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 5.13,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 24,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_24.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 5.06,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 25,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_025/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_25.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.8,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 26,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_026/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_26.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.52,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 27,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_27.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.97,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 28,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_028/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_28.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.21,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 29,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_29.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.44,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      },
+      {
+        "page_index": 30,
+        "source_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_030/source.png",
+        "rendered_png": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_30.png",
+        "source_size": [
+          1920,
+          1080
+        ],
+        "rendered_original_size": [
+          2000,
+          1125
+        ],
+        "mean_abs_rgb_diff_0_255": 3.26,
+        "max_abs_rgb_diff_0_255": 255,
+        "note": "Indicative only; the page still requires visual review."
+      }
+    ]
+  },
+  "errors": []
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "run_id": "run",
+  "page_id": "page_024",
+  "page_index": 24,
+  "page_dir": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024",
+  "source_image": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/source.png",
+  "source_size_px": {
+    "width": 1920,
+    "height": 1080
+  },
+  "slide": {
+    "width": 13.333,
+    "height": 7.5,
+    "size_mode": "wide"
+  },
+  "content_box": {
+    "left": 0,
+    "top": 9.374999999955946e-05,
+    "width": 13.333,
+    "height": 7.499812500000001,
+    "fit": "contain"
+  },
+  "max_concurrent_pages": 3,
+  "allowed_write_scope": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024",
+  "forbidden_paths": [
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/deck_manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/page_jobs.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/notes_manifest.json",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final",
+    "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/input"
+  ],
+  "required_outputs": {
+    "manifest": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/manifest.json",
+    "imagegen_jobs": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/imagegen-jobs.json",
+    "page_pptx": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/page.pptx",
+    "preview": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/preview.png",
+    "contact_sheet": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/split_assets_contact.png",
+    "validation": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/validation.json",
+    "page_result": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/page_result.json"
+  },
+  "image_backend": {
+    "backend_id": "builtin-imagegen",
+    "tool_name": "image_gen.imagegen",
+    "tool_call": "image_gen.imagegen",
+    "fallback_command": "image2ppt image generate/edit",
+    "runtime_home": "/Users/admin/Desktop/2026秋季学期课程资料/2-新技术专题-ky/workspace/12_external_repos/nature-skills/skills/nature-image2ppt",
+    "model": null,
+    "requires_openai_api_key": false,
+    "mode_policy": "generate-or-edit-per-asset",
+    "chroma_key_helper": "image2ppt image process-sheet",
+    "input_context_policy": "generation needs prompt; for editing inspect every local input with view_image first, then pass prompt plus absolute local paths in referenced_image_paths",
+    "save_path_policy": "accept only an explicit output_hint or local path returned by image_gen.imagegen, verify it exists, import the selected output, and never scan for the newest file",
+    "handoff_rule": "call image_gen.imagegen serially, then import the selected local output; use image2ppt image generate/edit only when the built-in tool fallback policy applies",
+    "fallback_order": [
+      "codex-oauth",
+      "openai-compatible-api"
+    ],
+    "fallback_selection_policy": "auto uses codex-oauth only for GPT Image model ids with compatible auth; all other model ids use openai-compatible-api",
+    "required_parameters": {
+      "generate": [
+        "prompt"
+      ],
+      "edit": [
+        "prompt",
+        "referenced_image_paths"
+      ]
+    },
+    "fallback_policy": {
+      "on": [
+        "tool-unavailable",
+        "tool-error",
+        "input-unreadable",
+        "no-valid-local-output"
+      ],
+      "missing_optional_parameters": false
+    }
+  }
+}

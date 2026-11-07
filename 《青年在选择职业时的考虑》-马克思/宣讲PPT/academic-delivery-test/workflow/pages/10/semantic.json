@@ -1,0 +1,22 @@
+{
+  "page_id": "four-propositions",
+  "input_sha256": "0e96ac956b8ca79ed9185f4c9d82d36633262798e328b24bcc1941871f1dbc46",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "assessments": [
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L08",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "原纲明确横向论述线，四节点不制造主次"
+    }
+  ],
+  "selected_id": "L08",
+  "selection_reason": "四节点横向同宽，箭头仅表示讲述线，底部指向职业实践。",
+  "layout_confirmed": true
+}

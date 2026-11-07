@@ -1,0 +1,21 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_027",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/render/rendered.png",
+      "source_sha256": "c3ef8c021384b72d4bb78e6645420061a8defb6556e9c23ae30108c1496a9381",
+      "rendered_sha256": "c6692e4bc9aa3ed46099c73c507675259c9a14c2d7a9521e7ef1fb8d4781aade",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two source screenshot panels remain stacked at left and the selection/study explanation panels stay stacked at right, with original margins and divider positions.",
+        "text_content": "Title and right-side paraphrases are intact; source captions/date remain visible, and merged native footer text restores the period after 2020-05-04 without overlap.",
+        "object_completeness": "Nineteen native text boxes, thirty-three layout shapes and two original screenshot assets preserve all visible elements, including the source-link underline.",
+        "render_integrity": "Inspected actual LibreOffice render after footer repair: no overlapping adjacent footer spans, clipped right-panel text, duplicate screenshot text or missing body lines.",
+        "raster_assets": "Both original Southern Plus screenshots are reused with user approval and provenance hashes; their original interview header, excerpt text and source framing remain unchanged."
+      },
+      "pptx_sha256": "3e9a945441b1963989b71bbaac307f4690cc2848495da69da6b1d7d08809aaf9"
+    }
+  ]
+}

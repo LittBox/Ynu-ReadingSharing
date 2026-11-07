@@ -1,0 +1,472 @@
+{
+  "schema_version": 2,
+  "slide": {
+    "width": 13.333,
+    "height": 7.5,
+    "size_mode": "wide",
+    "background": "#fbfafc"
+  },
+  "content_box": {
+    "left": 0,
+    "top": 9.374999999955946e-05,
+    "width": 13.333,
+    "height": 7.499812500000001,
+    "fit": "contain"
+  },
+  "source": {
+    "path": "source.png",
+    "width_px": 1920,
+    "height_px": 1080
+  },
+  "page_strategy": "Retain measured source composition; editable text and layout primitives; explicitly approved original visual assets.",
+  "text_inventory": [
+    "第一份工作，只是起点",
+    "青年择业中的热情、冷静与重新喜欢",
+    "读《青年在选择职业时的考虑》有感",
+    "汇报主题：青年择业 · 理论与实践",
+    "汇报人：曾湘雨",
+    "时间：2026-10-17",
+    "内容依据：原始宣讲大纲。",
+    "01 / 30"
+  ],
+  "visual_inventory": [
+    {
+      "id": "native-layout",
+      "kind": "native-structure",
+      "representation": "native",
+      "description": "Measured editable solid panels, borders, table rows, and page navigation."
+    }
+  ],
+  "background_strategy": {
+    "mode": "native-or-script",
+    "source_consistency_contract": "Solid source fills, measured panel bounds, original purple palette and positions are preserved.",
+    "removed_foreground": "No flattened source background; all readable HTML text is represented by native text boxes.",
+    "comparison_note": "Solid background and panel fills are measured directly from source HTML."
+  },
+  "quality_checks": {
+    "font_size_calibrated": true,
+    "visual_inventory_matched": true,
+    "background_strategy_checked": true,
+    "shape_corner_geometry_checked": true
+  },
+  "quality_evidence": {
+    "font_size_calibrated": {
+      "observation": "Text sizes and line positions measured from browser DOM at 1920 by 1080; native point sizes use slide physical scale.",
+      "artifact": "source-dom.json"
+    },
+    "visual_inventory_matched": {
+      "observation": "All 0 source visual assets and 7 layout shapes are inventoried individually.",
+      "artifact": "source-dom.json"
+    },
+    "background_strategy_checked": {
+      "observation": "Source solid background and panel colors retained as native fills, without full-slide source image.",
+      "artifact": "source-dom.json"
+    },
+    "shape_corner_geometry_checked": {
+      "observation": "Round rectangles use measured CSS radius constrained to source dimensions; table lines remain straight.",
+      "artifact": "source-dom.json"
+    }
+  },
+  "text_boxes": [
+    {
+      "id": "text_000",
+      "text": "第一份工作，只是起点",
+      "box_px": [
+        96,
+        264.328125,
+        1176.203125,
+        142
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 58.559,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 45
+    },
+    {
+      "id": "text_001",
+      "text": "青年择业中的热情、冷静与重新喜欢",
+      "box_px": [
+        127.796875,
+        557.765625,
+        742.28125,
+        58
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 23.039,
+      "font_size_source": "measured",
+      "color": "#25232a",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 95
+    },
+    {
+      "id": "text_002",
+      "text": "读《青年在选择职业时的考虑》有感",
+      "box_px": [
+        127.796875,
+        642.0625,
+        573.328125,
+        45
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 17.76,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 115
+    },
+    {
+      "id": "text_003",
+      "text": "汇报主题：青年择业 · 理论与实践",
+      "box_px": [
+        172.78125,
+        816.34375,
+        403.75,
+        35
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 13.44,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 145
+    },
+    {
+      "id": "text_004",
+      "text": "汇报人：曾湘雨",
+      "box_px": [
+        954.734375,
+        816.34375,
+        193.171875,
+        35
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 13.44,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 165
+    },
+    {
+      "id": "text_005",
+      "text": "时间：2026-10-17",
+      "box_px": [
+        1526.09375,
+        816.34375,
+        226.125,
+        35
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 13.44,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 185
+    },
+    {
+      "id": "text_006",
+      "text": "内容依据：原始宣讲大纲。",
+      "box_px": [
+        96,
+        952.546875,
+        281.484375,
+        30
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 215
+    },
+    {
+      "id": "text_007",
+      "text": "01 / 30",
+      "box_px": [
+        1752.265625,
+        952.546875,
+        76.734375,
+        30
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1.0,
+      "fit_text": false,
+      "z_index": 235
+    }
+  ],
+  "shapes": [
+    {
+      "id": "shape_000",
+      "z_index": 0,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc"
+    },
+    {
+      "id": "shape_001",
+      "z_index": 20,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        0,
+        151.19,
+        1920,
+        367.19
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_002",
+      "z_index": 70,
+      "stroke": "#660874",
+      "type": "line",
+      "points_px": [
+        96,
+        550.77,
+        96,
+        691.11
+      ],
+      "stroke_width": 1.4999624999999999
+    },
+    {
+      "id": "shape_003",
+      "z_index": 130,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        134.39,
+        804.25,
+        475.53,
+        57.84
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.92,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_004",
+      "z_index": 150,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        916.34,
+        804.25,
+        264.95,
+        57.84
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.92,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_005",
+      "z_index": 170,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1487.7,
+        804.25,
+        297.91,
+        57.84
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.92,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_006",
+      "z_index": 190,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        937.67,
+        1824,
+        937.67
+      ],
+      "stroke_width": 0.4999875
+    }
+  ],
+  "images": [],
+  "asset_provenance": [],
+  "image2ppt_region_decomposition": {
+    "schema_version": "image2ppt-region-decomposition-v1",
+    "page_complexity": "structured",
+    "source_size_px": [
+      1920,
+      1080
+    ],
+    "regions": [
+      {
+        "id": "heading",
+        "label": "Chapter navigation and title",
+        "source_bbox_px": [
+          0,
+          0,
+          1920,
+          235
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_000",
+            "shape_001"
+          ],
+          "text_boxes": [],
+          "images": []
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_000",
+            "kind": "card-edge",
+            "manifest_id": "shape_000",
+            "source_bbox_px": [
+              0,
+              0,
+              1920,
+              1080
+            ]
+          },
+          {
+            "id": "anchor_shape_001",
+            "kind": "card-edge",
+            "manifest_id": "shape_001",
+            "source_bbox_px": [
+              0,
+              151.19,
+              1920,
+              367.19
+            ]
+          }
+        ]
+      },
+      {
+        "id": "content",
+        "label": "Main content and source visuals",
+        "source_bbox_px": [
+          0,
+          235,
+          1920,
+          695
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_002",
+            "shape_003",
+            "shape_004",
+            "shape_005"
+          ],
+          "text_boxes": [
+            "text_000",
+            "text_001",
+            "text_002",
+            "text_003",
+            "text_004",
+            "text_005"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_003",
+            "kind": "card-edge",
+            "manifest_id": "shape_003",
+            "source_bbox_px": [
+              134.39,
+              804.25,
+              475.53,
+              57.84
+            ]
+          },
+          {
+            "id": "anchor_shape_004",
+            "kind": "card-edge",
+            "manifest_id": "shape_004",
+            "source_bbox_px": [
+              916.34,
+              804.25,
+              264.95,
+              57.84
+            ]
+          },
+          {
+            "id": "anchor_shape_005",
+            "kind": "card-edge",
+            "manifest_id": "shape_005",
+            "source_bbox_px": [
+              1487.7,
+              804.25,
+              297.91,
+              57.84
+            ]
+          }
+        ]
+      },
+      {
+        "id": "footer",
+        "label": "Source citation and page number",
+        "source_bbox_px": [
+          0,
+          930,
+          1920,
+          150
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_006"
+          ],
+          "text_boxes": [
+            "text_006",
+            "text_007"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": []
+      }
+    ]
+  }
+}

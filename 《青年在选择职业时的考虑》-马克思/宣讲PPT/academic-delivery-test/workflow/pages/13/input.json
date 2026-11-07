@@ -1,0 +1,28 @@
+{
+  "page_id": "industry-demand",
+  "source_page": 13,
+  "text": "### 第 13 页｜行业需求趋势\n\n- **页面标题**：哪些行业在招人，哪些在收缩\n- **核心文字**：\n  - 2—3 个行业趋势\n  - 口径说明\n  - 来源与年份脚注\n- **视觉/版式**：趋势条形图或热力表；区分“短期波动”和“长期趋势”。\n- **资源**：`assets/industry-demand-trend.png`\n- **口播提示**：提醒听众区分“短期波动”和“长期趋势”。\n",
+  "roles": [
+    {
+      "role": "data",
+      "text": "三行业从业人数变化",
+      "reason": "五经普企业法人单位同口径"
+    },
+    {
+      "role": "limitation",
+      "text": "从业存量不等于当期招聘流量",
+      "reason": "证据边界"
+    }
+  ],
+  "features": {
+    "purpose": "data",
+    "relation": "comparison",
+    "density": "mixed",
+    "group_count": 3,
+    "evidence": [
+      "source_image",
+      "numeric_data"
+    ]
+  },
+  "retrieval_query": "三个行业企业法人单位从业人数2018至2023变化，信息软件+51.4%、科研技术+53.0%、建筑-11.9%。左国家统计局原网页截图，右2018=100同量尺指数条，用指数153/151.4/88.1表现增减；明确存量不是当期招人数量，区分近期观察。"
+}

@@ -1,0 +1,28 @@
+{
+  "page_id": "original-passages",
+  "source_page": 9,
+  "text": "### 第 9 页｜原文里的关键句\n\n- **页面标题**：原文里的关键句\n- **核心文字**：\n  - 四组原文要点，与四个命题一一对应\n  - 每组 1—2 句短引或段落大意\n  - 只放 1—2 张批注图片，其余用前四页文字要点展开\n- **视觉/版式**：两张批注图片并排或上下排列；每组短句配对应命题标签；不逐句念原文。\n- **资源**：`assets/marx-annotated-1.webp`、`assets/marx-annotated-2.webp`\n- **口播提示**：只放 1—2 张批注图片，其余用前四页文字要点展开；不逐句念原文。\n",
+  "roles": [
+    {
+      "role": "claim",
+      "text": "职业选择需要考察自身、现实与整体利益",
+      "reason": "四命题概括"
+    },
+    {
+      "role": "evidence",
+      "text": "两张原文批注",
+      "reason": "保真原始材料"
+    }
+  ],
+  "features": {
+    "purpose": "source_reading",
+    "relation": "parallel",
+    "density": "mixed",
+    "group_count": 4,
+    "evidence": [
+      "source_image",
+      "text"
+    ]
+  },
+  "retrieval_query": "复用已验收原文命题页，左四命题宽栏等高，右两张批注图保真；两栏整体上下对齐，段落大意与原文区分。"
+}

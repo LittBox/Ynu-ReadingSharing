@@ -1,0 +1,46 @@
+{
+  "page_id": "why-read-marx",
+  "input_sha256": "321ebf06bebfe3b27eb71bf505e07d333cf8d8ae598a01d8207d050bdbe5c233",
+  "rules_sha256": "11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424",
+  "assessments": [
+    {
+      "id": "L04",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "读法说明以真实原文为证据，适合分栏"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "不是行动收尾"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0.2,
+      "reason": "非行动建议"
+    },
+    {
+      "id": "L09",
+      "eligible": false,
+      "semantic_score": 0.6,
+      "reason": "总分可表达但没有原文保真槽"
+    },
+    {
+      "id": "L12",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "不做两证据比较"
+    }
+  ],
+  "selected_id": "L04",
+  "selection_reason": "左侧原文批注，上下两图；右侧阅读动机三组说明，图文共同高度。",
+  "layout_confirmed": true
+}

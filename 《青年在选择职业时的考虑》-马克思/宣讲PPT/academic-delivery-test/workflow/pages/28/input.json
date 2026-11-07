@@ -1,0 +1,27 @@
+{
+  "page_id": "practice-takeaway",
+  "source_page": 28,
+  "text": "### 第 28 页｜案例小结\n\n- **页面标题**：从“选对”到“做对”\n- **核心文字**：\n  - 选择是起点\n  - 实践会重塑认知\n  - 干一行爱一行是可能的转化\n- **视觉/版式**：纯文字页；三行递进式排版；关键词加粗。\n- **资源**：无图，文字页\n- **口播提示**：回扣“当代转化”的边界。\n",
+  "roles": [
+    {
+      "role": "claim",
+      "text": "从选对到做对",
+      "reason": "当代转化的概括"
+    },
+    {
+      "role": "group",
+      "text": "选择起点／实践过程／可能转化",
+      "reason": "论述递进"
+    }
+  ],
+  "features": {
+    "purpose": "summary",
+    "relation": "sequence",
+    "density": "short",
+    "group_count": 3,
+    "evidence": [
+      "text"
+    ]
+  },
+  "retrieval_query": "案例小结从选择起点到实践重塑认知再到干一行爱一行可能转化，原纲有递进依据；仅表可能不是保证。三节点同权横向，不把第三项做大。"
+}

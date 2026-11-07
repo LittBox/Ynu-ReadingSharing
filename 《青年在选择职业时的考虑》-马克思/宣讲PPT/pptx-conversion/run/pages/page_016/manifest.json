@@ -1,0 +1,1961 @@
+{
+  "schema_version": 2,
+  "slide": {
+    "width": 13.333,
+    "height": 7.5,
+    "size_mode": "wide",
+    "background": "#fbfafc"
+  },
+  "content_box": {
+    "left": 0,
+    "top": 0.00009374999999955946,
+    "width": 13.333,
+    "height": 7.499812500000001,
+    "fit": "contain"
+  },
+  "source": {
+    "path": "source.png",
+    "width_px": 1920,
+    "height_px": 1080
+  },
+  "page_strategy": "Retain measured source composition; editable text and layout primitives; explicitly approved original visual assets.",
+  "text_inventory": [
+    "就业方向地图",
+    "开场问题",
+    "理论命题",
+    "就业数据",
+    "方向地图",
+    "能力证据",
+    "案例经历",
+    "行动反思",
+    "青年就业的八类方向",
+    "体制内",
+    "国企",
+    "民企",
+    "外企",
+    "升学深造",
+    "基层项目",
+    "自由职业",
+    "军警",
+    "先建立方向地图，再逐类考察入口与能力。",
+    "分类沿用大纲，不是岗位推荐或排名。图标：Lucide（ISC）。",
+    "16 / 30"
+  ],
+  "visual_inventory": [
+    {
+      "id": "asset_000",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/icon_0.png",
+      "description": "Original source SVG icon"
+    },
+    {
+      "id": "asset_001",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/icon_1.png",
+      "description": "Original source SVG icon"
+    },
+    {
+      "id": "asset_002",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/icon_2.png",
+      "description": "Original source SVG icon"
+    },
+    {
+      "id": "asset_003",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/icon_3.png",
+      "description": "Original source SVG icon"
+    },
+    {
+      "id": "asset_004",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/icon_4.png",
+      "description": "Original source SVG icon"
+    },
+    {
+      "id": "asset_005",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/icon_5.png",
+      "description": "Original source SVG icon"
+    },
+    {
+      "id": "asset_006",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/icon_6.png",
+      "description": "Original source SVG icon"
+    },
+    {
+      "id": "asset_007",
+      "kind": "foreground-asset",
+      "representation": "user-provided-original",
+      "path": "assets/icon_7.png",
+      "description": "Original source SVG icon"
+    },
+    {
+      "id": "native-layout",
+      "kind": "native-structure",
+      "representation": "native",
+      "description": "Measured editable solid panels, borders, table rows, and page navigation."
+    }
+  ],
+  "background_strategy": {
+    "mode": "native-or-script",
+    "source_consistency_contract": "Solid source fills, measured panel bounds, original purple palette and positions are preserved.",
+    "removed_foreground": "No flattened source background; all readable HTML text is represented by native text boxes.",
+    "comparison_note": "Solid background and panel fills are measured directly from source HTML."
+  },
+  "quality_checks": {
+    "font_size_calibrated": true,
+    "visual_inventory_matched": true,
+    "background_strategy_checked": true,
+    "shape_corner_geometry_checked": true
+  },
+  "quality_evidence": {
+    "font_size_calibrated": {
+      "observation": "Text sizes and line positions measured from browser DOM at 1920 by 1080; native point sizes use slide physical scale.",
+      "artifact": "source-dom.json"
+    },
+    "visual_inventory_matched": {
+      "observation": "All 8 source visual assets and 59 layout shapes are inventoried individually.",
+      "artifact": "source-dom.json"
+    },
+    "background_strategy_checked": {
+      "observation": "Source solid background and panel colors retained as native fills, without full-slide source image.",
+      "artifact": "source-dom.json"
+    },
+    "shape_corner_geometry_checked": {
+      "observation": "Round rectangles use measured CSS radius constrained to source dimensions; table lines remain straight.",
+      "artifact": "source-dom.json"
+    }
+  },
+  "text_boxes": [
+    {
+      "id": "text_000",
+      "text": "就业方向地图",
+      "box_px": [
+        96,
+        35.984375,
+        183.5625,
+        38
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 14.88,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 45
+    },
+    {
+      "id": "text_001",
+      "text": "开场问题",
+      "box_px": [
+        375.25,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 75
+    },
+    {
+      "id": "text_002",
+      "text": "理论命题",
+      "box_px": [
+        591.921875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 95
+    },
+    {
+      "id": "text_003",
+      "text": "就业数据",
+      "box_px": [
+        808.609375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 115
+    },
+    {
+      "id": "text_004",
+      "text": "方向地图",
+      "box_px": [
+        1025.296875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 135
+    },
+    {
+      "id": "text_005",
+      "text": "能力证据",
+      "box_px": [
+        1241.984375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 155
+    },
+    {
+      "id": "text_006",
+      "text": "案例经历",
+      "box_px": [
+        1458.671875,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 175
+    },
+    {
+      "id": "text_007",
+      "text": "行动反思",
+      "box_px": [
+        1675.359375,
+        38.765625,
+        104.765625,
+        32
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 12.474,
+      "font_size_source": "measured",
+      "color": "#56515e",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 195
+    },
+    {
+      "id": "text_008",
+      "text": "青年就业的八类方向",
+      "box_px": [
+        117.109375,
+        141.765625,
+        539.609375,
+        74
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 29.699,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 225
+    },
+    {
+      "id": "text_009",
+      "text": "体制内",
+      "box_px": [
+        121.953125,
+        280.984375,
+        114.453125,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 285
+    },
+    {
+      "id": "text_010",
+      "text": "国企",
+      "box_px": [
+        563.546875,
+        280.984375,
+        77.96875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 335
+    },
+    {
+      "id": "text_011",
+      "text": "民企",
+      "box_px": [
+        1005.140625,
+        280.984375,
+        77.96875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 385
+    },
+    {
+      "id": "text_012",
+      "text": "外企",
+      "box_px": [
+        1446.734375,
+        280.984375,
+        77.96875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 435
+    },
+    {
+      "id": "text_013",
+      "text": "升学深造",
+      "box_px": [
+        121.953125,
+        571.875,
+        150.921875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 485
+    },
+    {
+      "id": "text_014",
+      "text": "基层项目",
+      "box_px": [
+        563.546875,
+        571.875,
+        150.921875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 535
+    },
+    {
+      "id": "text_015",
+      "text": "自由职业",
+      "box_px": [
+        1005.140625,
+        571.875,
+        150.921875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 585
+    },
+    {
+      "id": "text_016",
+      "text": "军警",
+      "box_px": [
+        1446.734375,
+        571.875,
+        77.96875,
+        47
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 18.24,
+      "font_size_source": "measured",
+      "color": "#ffffff",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 635
+    },
+    {
+      "id": "text_017",
+      "text": "先建立方向地图，再逐类考察入口与能力。",
+      "box_px": [
+        96,
+        844.828125,
+        751.890625,
+        50
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 19.656,
+      "font_size_source": "measured",
+      "color": "#660874",
+      "bold": true,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 675
+    },
+    {
+      "id": "text_018",
+      "text": "分类沿用大纲，不是岗位推荐或排名。图标：Lucide（ISC）。",
+      "box_px": [
+        96,
+        952.546875,
+        630.078125,
+        30
+      ],
+      "font": "Source Han Sans SC",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 705
+    },
+    {
+      "id": "text_019",
+      "text": "16 / 30",
+      "box_px": [
+        1752.265625,
+        952.546875,
+        76.734375,
+        30
+      ],
+      "font": "Helvetica Neue",
+      "font_size": 11.52,
+      "font_size_source": "measured",
+      "color": "#665f6d",
+      "bold": false,
+      "wrap": "none",
+      "line_height": 1,
+      "fit_text": false,
+      "z_index": 725
+    }
+  ],
+  "shapes": [
+    {
+      "id": "shape_000",
+      "z_index": 0,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": "#fbfafc"
+    },
+    {
+      "id": "shape_001",
+      "z_index": 60,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        326.39,
+        25.91,
+        197.48,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_002",
+      "z_index": 80,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        543.06,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_003",
+      "z_index": 100,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        759.75,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_004",
+      "z_index": 120,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        976.44,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#660874",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "chapter_marker_4",
+      "type": "rect",
+      "box_px": [
+        1013.2800000000001,
+        81.07,
+        21.12,
+        11.34
+      ],
+      "polygon_px": [
+        [
+          1013.2800000000001,
+          81.07
+        ],
+        [
+          1034.4,
+          81.07
+        ],
+        [
+          1023.84,
+          92.41
+        ]
+      ],
+      "fill": "#660874",
+      "stroke": "none",
+      "z_index": 121
+    },
+    {
+      "id": "shape_005",
+      "z_index": 140,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1193.13,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_006",
+      "z_index": 160,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1409.81,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_007",
+      "z_index": 180,
+      "stroke": "none",
+      "type": "roundRect",
+      "box_px": [
+        1626.5,
+        25.91,
+        197.5,
+        56.16
+      ],
+      "fill": "#f2edf5",
+      "source_corner_radius_px": 28.08,
+      "corner_category": "pill",
+      "corner_reason": "Measured CSS corner radius clipped to half the shorter side."
+    },
+    {
+      "id": "shape_008",
+      "z_index": 210,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        129.59,
+        576.83,
+        95.56
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_009",
+      "z_index": 260,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_010",
+      "z_index": 260,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        264.03,
+        499.2,
+        264.03
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_011",
+      "z_index": 260,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        499.2,
+        264.03,
+        499.2,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_012",
+      "z_index": 260,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        516.53,
+        499.2,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_013",
+      "z_index": 260,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        264.03,
+        96,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_014",
+      "z_index": 270,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        97,
+        265.03,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_015",
+      "z_index": 310,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        537.59,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_016",
+      "z_index": 310,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        537.59,
+        264.03,
+        940.79,
+        264.03
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_017",
+      "z_index": 310,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        940.79,
+        264.03,
+        940.79,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_018",
+      "z_index": 310,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        537.59,
+        516.53,
+        940.79,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_019",
+      "z_index": 310,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        537.59,
+        264.03,
+        537.59,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_020",
+      "z_index": 320,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        538.59,
+        265.03,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_021",
+      "z_index": 360,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        979.19,
+        264.03,
+        403.2,
+        252.5
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_022",
+      "z_index": 360,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        979.19,
+        264.03,
+        1382.39,
+        264.03
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_023",
+      "z_index": 360,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1382.39,
+        264.03,
+        1382.39,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_024",
+      "z_index": 360,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        979.19,
+        516.53,
+        1382.39,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_025",
+      "z_index": 360,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        979.19,
+        264.03,
+        979.19,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_026",
+      "z_index": 370,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        980.19,
+        265.03,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_027",
+      "z_index": 410,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1420.78,
+        264.03,
+        403.22,
+        252.5
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_028",
+      "z_index": 410,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1420.78,
+        264.03,
+        1824,
+        264.03
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_029",
+      "z_index": 410,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1824,
+        264.03,
+        1824,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_030",
+      "z_index": 410,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1420.78,
+        516.53,
+        1824,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_031",
+      "z_index": 410,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1420.78,
+        264.03,
+        1420.78,
+        516.53
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_032",
+      "z_index": 420,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1421.78,
+        265.03,
+        401.22,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_033",
+      "z_index": 460,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        96,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_034",
+      "z_index": 460,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        554.92,
+        499.2,
+        554.92
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_035",
+      "z_index": 460,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        499.2,
+        554.92,
+        499.2,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_036",
+      "z_index": 460,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        807.4399999999999,
+        499.2,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_037",
+      "z_index": 460,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        554.92,
+        96,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_038",
+      "z_index": 470,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        97,
+        555.92,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_039",
+      "z_index": 510,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        537.59,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_040",
+      "z_index": 510,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        537.59,
+        554.92,
+        940.79,
+        554.92
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_041",
+      "z_index": 510,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        940.79,
+        554.92,
+        940.79,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_042",
+      "z_index": 510,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        537.59,
+        807.4399999999999,
+        940.79,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_043",
+      "z_index": 510,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        537.59,
+        554.92,
+        537.59,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_044",
+      "z_index": 520,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        538.59,
+        555.92,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_045",
+      "z_index": 560,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        979.19,
+        554.92,
+        403.2,
+        252.52
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_046",
+      "z_index": 560,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        979.19,
+        554.92,
+        1382.39,
+        554.92
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_047",
+      "z_index": 560,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1382.39,
+        554.92,
+        1382.39,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_048",
+      "z_index": 560,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        979.19,
+        807.4399999999999,
+        1382.39,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_049",
+      "z_index": 560,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        979.19,
+        554.92,
+        979.19,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_050",
+      "z_index": 570,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        980.19,
+        555.92,
+        401.2,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_051",
+      "z_index": 610,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1420.78,
+        554.92,
+        403.22,
+        252.52
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "id": "shape_052",
+      "z_index": 610,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1420.78,
+        554.92,
+        1824,
+        554.92
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_053",
+      "z_index": 610,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1824,
+        554.92,
+        1824,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_054",
+      "z_index": 610,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1420.78,
+        807.4399999999999,
+        1824,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_055",
+      "z_index": 610,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        1420.78,
+        554.92,
+        1420.78,
+        807.4399999999999
+      ],
+      "stroke_width": 0.4999875
+    },
+    {
+      "id": "shape_056",
+      "z_index": 620,
+      "stroke": "none",
+      "type": "rect",
+      "box_px": [
+        1421.78,
+        555.92,
+        401.22,
+        76.98
+      ],
+      "fill": "#660874"
+    },
+    {
+      "id": "shape_057",
+      "z_index": 680,
+      "stroke": "#d9cfdf",
+      "type": "line",
+      "points_px": [
+        96,
+        937.67,
+        1824,
+        937.67
+      ],
+      "stroke_width": 0.4999875
+    }
+  ],
+  "images": [
+    {
+      "id": "asset_000",
+      "path": "assets/icon_0.png",
+      "box_px": [
+        240,
+        371.17,
+        115.19,
+        115.19
+      ],
+      "alt": "Original source SVG icon",
+      "z_index": 302
+    },
+    {
+      "id": "asset_001",
+      "path": "assets/icon_1.png",
+      "box_px": [
+        681.59,
+        371.17,
+        115.19,
+        115.19
+      ],
+      "alt": "Original source SVG icon",
+      "z_index": 352
+    },
+    {
+      "id": "asset_002",
+      "path": "assets/icon_2.png",
+      "box_px": [
+        1123.19,
+        371.17,
+        115.19,
+        115.19
+      ],
+      "alt": "Original source SVG icon",
+      "z_index": 402
+    },
+    {
+      "id": "asset_003",
+      "path": "assets/icon_3.png",
+      "box_px": [
+        1564.8,
+        371.17,
+        115.19,
+        115.19
+      ],
+      "alt": "Original source SVG icon",
+      "z_index": 452
+    },
+    {
+      "id": "asset_004",
+      "path": "assets/icon_4.png",
+      "box_px": [
+        240,
+        662.08,
+        115.19,
+        115.19
+      ],
+      "alt": "Original source SVG icon",
+      "z_index": 502
+    },
+    {
+      "id": "asset_005",
+      "path": "assets/icon_5.png",
+      "box_px": [
+        681.59,
+        662.08,
+        115.19,
+        115.19
+      ],
+      "alt": "Original source SVG icon",
+      "z_index": 552
+    },
+    {
+      "id": "asset_006",
+      "path": "assets/icon_6.png",
+      "box_px": [
+        1123.19,
+        662.08,
+        115.19,
+        115.19
+      ],
+      "alt": "Original source SVG icon",
+      "z_index": 602
+    },
+    {
+      "id": "asset_007",
+      "path": "assets/icon_7.png",
+      "box_px": [
+        1564.8,
+        662.08,
+        115.19,
+        115.19
+      ],
+      "alt": "Original source SVG icon",
+      "z_index": 652
+    }
+  ],
+  "asset_provenance": [
+    {
+      "path": "assets/icon_0.png",
+      "source": "assets/icon_0.svg",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "d0eb9702301621224ff4e7d6cdb1120ee83a92fb0eb6223a640a273222ce8f7d",
+      "asset_sha256": "2dda751c4872016b4cdf8248614974af7dd46bd40a39ab478e1d2a396aab9db9",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions. Original HTML icon CSS stroke #660874, width 1.6 resolved before raster normalization.",
+      "normalization": "svg-to-png"
+    },
+    {
+      "path": "assets/icon_1.png",
+      "source": "assets/icon_1.svg",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "427282a68ff7573d187742bb3ac404f375e0319e116774134bf54271ce4a0bf5",
+      "asset_sha256": "c601727626168364858fd2b98a73490a932538646395a036c9e197c56418a782",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions. Original HTML icon CSS stroke #660874, width 1.6 resolved before raster normalization.",
+      "normalization": "svg-to-png"
+    },
+    {
+      "path": "assets/icon_2.png",
+      "source": "assets/icon_2.svg",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "bc9087b79f506e1f541339d16f4ff2d6ae49c6c1c530150614c843d2a875c440",
+      "asset_sha256": "0464c7135a8997cae0383d782004770041293583010bc7a28be6dc601aec7998",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions. Original HTML icon CSS stroke #660874, width 1.6 resolved before raster normalization.",
+      "normalization": "svg-to-png"
+    },
+    {
+      "path": "assets/icon_3.png",
+      "source": "assets/icon_3.svg",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "e34aa211d71d1f4c467eddd8995bc2f94f29fce413f0d03dc43bfef038244b8e",
+      "asset_sha256": "6b6c238c6ad698b55e0c2c5563eddf3823bfeff8f5b161559bf9e7f5be27763f",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions. Original HTML icon CSS stroke #660874, width 1.6 resolved before raster normalization.",
+      "normalization": "svg-to-png"
+    },
+    {
+      "path": "assets/icon_4.png",
+      "source": "assets/icon_4.svg",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "2018eda581c02fb2977904da312d7567d1ddfc421d454bd107a9d09c64114cbd",
+      "asset_sha256": "f63f74e4fe03809e968d7cdd269cabc343b9c99e86d08727dc40ea151395bfe0",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions. Original HTML icon CSS stroke #660874, width 1.6 resolved before raster normalization.",
+      "normalization": "svg-to-png"
+    },
+    {
+      "path": "assets/icon_5.png",
+      "source": "assets/icon_5.svg",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "de64ab7df7d96a760b99040687037f1dfd78b4f73e4ac6336708a81dbf734fd3",
+      "asset_sha256": "7d330a3e81803a927151eb3ec3b375d797ebed70225290995203c0a92e1c1a13",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions. Original HTML icon CSS stroke #660874, width 1.6 resolved before raster normalization.",
+      "normalization": "svg-to-png"
+    },
+    {
+      "path": "assets/icon_6.png",
+      "source": "assets/icon_6.svg",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "6d606607d51cba8ddb510ef488046bebdfaf87ef2ed734361e331b5ee54d447b",
+      "asset_sha256": "13987ca2078d5fd3b6e1b243509fa6b6cd41b5b1b9b84312e9edd0c9a906207d",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions. Original HTML icon CSS stroke #660874, width 1.6 resolved before raster normalization.",
+      "normalization": "svg-to-png"
+    },
+    {
+      "path": "assets/icon_7.png",
+      "source": "assets/icon_7.svg",
+      "source_type": "user-provided",
+      "user_approved_reuse": true,
+      "approval_note": "用户明确回复“全部原样复用（推荐）”：本HTML全部原始图片及SVG图标原样复用，只重建文字、表格和布局。",
+      "source_sha256": "4963dcbff4b3580bf1fdec28a6a09f33d037df9b28fc0685f82adcb7da18b2b9",
+      "asset_sha256": "9a99a950bd1e9563cd5c9dd6ebea1ca26c54ed2803e6668e34eef9c1aeb8958c",
+      "provenance_note": "Original user-provided HTML asset; PNG copied byte-for-byte, or original SVG normalized to PNG without changing paths, color, or proportions. Original HTML icon CSS stroke #660874, width 1.6 resolved before raster normalization.",
+      "normalization": "svg-to-png"
+    }
+  ],
+  "image2ppt_region_decomposition": {
+    "schema_version": "image2ppt-region-decomposition-v1",
+    "page_complexity": "structured",
+    "source_size_px": [
+      1920,
+      1080
+    ],
+    "regions": [
+      {
+        "id": "heading",
+        "label": "Chapter navigation and title",
+        "source_bbox_px": [
+          0,
+          0,
+          1920,
+          235
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_000",
+            "shape_001",
+            "shape_002",
+            "shape_003",
+            "shape_004",
+            "chapter_marker_4",
+            "shape_005",
+            "shape_006",
+            "shape_007",
+            "shape_008"
+          ],
+          "text_boxes": [
+            "text_000",
+            "text_001",
+            "text_002",
+            "text_003",
+            "text_004",
+            "text_005",
+            "text_006",
+            "text_007",
+            "text_008"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_000",
+            "kind": "card-edge",
+            "manifest_id": "shape_000",
+            "source_bbox_px": [
+              0,
+              0,
+              1920,
+              1080
+            ]
+          },
+          {
+            "id": "anchor_shape_001",
+            "kind": "card-edge",
+            "manifest_id": "shape_001",
+            "source_bbox_px": [
+              326.39,
+              25.91,
+              197.48,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_002",
+            "kind": "card-edge",
+            "manifest_id": "shape_002",
+            "source_bbox_px": [
+              543.06,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_003",
+            "kind": "card-edge",
+            "manifest_id": "shape_003",
+            "source_bbox_px": [
+              759.75,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_004",
+            "kind": "card-edge",
+            "manifest_id": "shape_004",
+            "source_bbox_px": [
+              976.44,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_chapter_marker_4",
+            "kind": "card-edge",
+            "manifest_id": "chapter_marker_4",
+            "source_bbox_px": [
+              1013.2800000000001,
+              81.07,
+              21.12,
+              11.34
+            ]
+          },
+          {
+            "id": "anchor_shape_005",
+            "kind": "card-edge",
+            "manifest_id": "shape_005",
+            "source_bbox_px": [
+              1193.13,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_006",
+            "kind": "card-edge",
+            "manifest_id": "shape_006",
+            "source_bbox_px": [
+              1409.81,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_007",
+            "kind": "card-edge",
+            "manifest_id": "shape_007",
+            "source_bbox_px": [
+              1626.5,
+              25.91,
+              197.5,
+              56.16
+            ]
+          },
+          {
+            "id": "anchor_shape_008",
+            "kind": "card-edge",
+            "manifest_id": "shape_008",
+            "source_bbox_px": [
+              96,
+              129.59,
+              576.83,
+              95.56
+            ]
+          }
+        ]
+      },
+      {
+        "id": "content",
+        "label": "Main content and source visuals",
+        "source_bbox_px": [
+          0,
+          235,
+          1920,
+          695
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_009",
+            "shape_010",
+            "shape_011",
+            "shape_012",
+            "shape_013",
+            "shape_014",
+            "shape_015",
+            "shape_016",
+            "shape_017",
+            "shape_018",
+            "shape_019",
+            "shape_020",
+            "shape_021",
+            "shape_022",
+            "shape_023",
+            "shape_024",
+            "shape_025",
+            "shape_026",
+            "shape_027",
+            "shape_028",
+            "shape_029",
+            "shape_030",
+            "shape_031",
+            "shape_032",
+            "shape_033",
+            "shape_034",
+            "shape_035",
+            "shape_036",
+            "shape_037",
+            "shape_038",
+            "shape_039",
+            "shape_040",
+            "shape_041",
+            "shape_042",
+            "shape_043",
+            "shape_044",
+            "shape_045",
+            "shape_046",
+            "shape_047",
+            "shape_048",
+            "shape_049",
+            "shape_050",
+            "shape_051",
+            "shape_052",
+            "shape_053",
+            "shape_054",
+            "shape_055",
+            "shape_056"
+          ],
+          "text_boxes": [
+            "text_009",
+            "text_010",
+            "text_011",
+            "text_012",
+            "text_013",
+            "text_014",
+            "text_015",
+            "text_016",
+            "text_017"
+          ],
+          "images": [
+            "asset_000",
+            "asset_001",
+            "asset_002",
+            "asset_003",
+            "asset_004",
+            "asset_005",
+            "asset_006",
+            "asset_007"
+          ]
+        },
+        "protected_visual_anchors": [
+          {
+            "id": "anchor_shape_009",
+            "kind": "card-edge",
+            "manifest_id": "shape_009",
+            "source_bbox_px": [
+              96,
+              264.03,
+              403.2,
+              252.5
+            ]
+          },
+          {
+            "id": "anchor_shape_014",
+            "kind": "card-edge",
+            "manifest_id": "shape_014",
+            "source_bbox_px": [
+              97,
+              265.03,
+              401.2,
+              76.98
+            ]
+          },
+          {
+            "id": "anchor_shape_015",
+            "kind": "card-edge",
+            "manifest_id": "shape_015",
+            "source_bbox_px": [
+              537.59,
+              264.03,
+              403.2,
+              252.5
+            ]
+          },
+          {
+            "id": "anchor_shape_020",
+            "kind": "card-edge",
+            "manifest_id": "shape_020",
+            "source_bbox_px": [
+              538.59,
+              265.03,
+              401.2,
+              76.98
+            ]
+          },
+          {
+            "id": "anchor_shape_021",
+            "kind": "card-edge",
+            "manifest_id": "shape_021",
+            "source_bbox_px": [
+              979.19,
+              264.03,
+              403.2,
+              252.5
+            ]
+          },
+          {
+            "id": "anchor_shape_026",
+            "kind": "card-edge",
+            "manifest_id": "shape_026",
+            "source_bbox_px": [
+              980.19,
+              265.03,
+              401.2,
+              76.98
+            ]
+          },
+          {
+            "id": "anchor_shape_027",
+            "kind": "card-edge",
+            "manifest_id": "shape_027",
+            "source_bbox_px": [
+              1420.78,
+              264.03,
+              403.22,
+              252.5
+            ]
+          },
+          {
+            "id": "anchor_shape_032",
+            "kind": "card-edge",
+            "manifest_id": "shape_032",
+            "source_bbox_px": [
+              1421.78,
+              265.03,
+              401.22,
+              76.98
+            ]
+          },
+          {
+            "id": "anchor_shape_033",
+            "kind": "card-edge",
+            "manifest_id": "shape_033",
+            "source_bbox_px": [
+              96,
+              554.92,
+              403.2,
+              252.52
+            ]
+          },
+          {
+            "id": "anchor_shape_038",
+            "kind": "card-edge",
+            "manifest_id": "shape_038",
+            "source_bbox_px": [
+              97,
+              555.92,
+              401.2,
+              76.98
+            ]
+          },
+          {
+            "id": "anchor_shape_039",
+            "kind": "card-edge",
+            "manifest_id": "shape_039",
+            "source_bbox_px": [
+              537.59,
+              554.92,
+              403.2,
+              252.52
+            ]
+          },
+          {
+            "id": "anchor_shape_044",
+            "kind": "card-edge",
+            "manifest_id": "shape_044",
+            "source_bbox_px": [
+              538.59,
+              555.92,
+              401.2,
+              76.98
+            ]
+          },
+          {
+            "id": "anchor_shape_045",
+            "kind": "card-edge",
+            "manifest_id": "shape_045",
+            "source_bbox_px": [
+              979.19,
+              554.92,
+              403.2,
+              252.52
+            ]
+          },
+          {
+            "id": "anchor_shape_050",
+            "kind": "card-edge",
+            "manifest_id": "shape_050",
+            "source_bbox_px": [
+              980.19,
+              555.92,
+              401.2,
+              76.98
+            ]
+          },
+          {
+            "id": "anchor_shape_051",
+            "kind": "card-edge",
+            "manifest_id": "shape_051",
+            "source_bbox_px": [
+              1420.78,
+              554.92,
+              403.22,
+              252.52
+            ]
+          },
+          {
+            "id": "anchor_shape_056",
+            "kind": "card-edge",
+            "manifest_id": "shape_056",
+            "source_bbox_px": [
+              1421.78,
+              555.92,
+              401.22,
+              76.98
+            ]
+          }
+        ]
+      },
+      {
+        "id": "footer",
+        "label": "Source citation and page number",
+        "source_bbox_px": [
+          0,
+          930,
+          1920,
+          150
+        ],
+        "risk_level": "medium",
+        "strategy": "mixed-reconstruction",
+        "reason": "Source DOM measurements preserve the semantic group and object geometry.",
+        "manifest_ids": {
+          "shapes": [
+            "shape_057"
+          ],
+          "text_boxes": [
+            "text_018",
+            "text_019"
+          ],
+          "images": []
+        },
+        "protected_visual_anchors": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_001",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_001/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_001/render/rendered.png",
+      "source_sha256": "0e1654a97122e5180335d2254650864a4de728886d0ee12adcd330900627aa78",
+      "rendered_sha256": "465153d086ab640c59a8f57df0844881df1c853166d9728e76dd756a5f2b611f",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Purple horizontal title band, white top margin, left subtitle rule and three lower information pills occupy the same source positions.",
+        "text_content": "All eight source strings including first-job title, book name, presenter, 2026-10-17 and 01 / 30 are visible without clipping; Source Han Sans replaces the unavailable PingFang with a close sans-serif family.",
+        "object_completeness": "Seven native filled panels and rules plus eight text boxes reproduce the cover; the source has no foreground imagery or arrows.",
+        "render_integrity": "Actual LibreOffice render shows clean purple and pale backgrounds, intact CJK glyphs and no baked screenshot text or duplicated objects."
+      }
+    }
+  ]
+}

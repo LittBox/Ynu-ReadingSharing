@@ -1,0 +1,34 @@
+{
+  "page_id": "choice-question",
+  "input_sha256": "68b8ef1e66d1314b8ab22c35d84351800e69cf91c0917db95d0225481ec1a492",
+  "rules_sha256": "11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424",
+  "assessments": [
+    {
+      "id": "L02",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "两种担忧短句并列，同宽同强度"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "没有行动或插图要求"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "非收尾行动"
+    }
+  ],
+  "selected_id": "L02",
+  "selection_reason": "两栏选项标签与正文；不暗示选项优劣，保留现场互动。",
+  "layout_confirmed": true
+}

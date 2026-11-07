@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_018",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_018/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_018/render/rendered.png",
+      "source_sha256": "3c02b9eb37149c39e9fe43429c83bd3379f97c571228bae3935bbb229d399a43",
+      "rendered_sha256": "ee78ee155a80d03f0615c5e7420d4509764bbb880604e0adbc9addbbf3873c02",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Two broad equal cards retain source private-enterprise left and foreign-enterprise right placement, centered icons and bottom purple takeaway.",
+        "text_content": "Category headings, industry-leading/growth/startup phrase and management-trainee/technical/regional phrase retain wording as native text without clipping.",
+        "object_completeness": "Briefcase and globe icons appear once in their correct cards; two headers, card outlines, body lines, title and footer are complete.",
+        "render_integrity": "Real LibreOffice render shows sharp native text and clean card geometry, with source whitespace retained and no duplicated elements.",
+        "raster_assets": "Two original SVG icons normalized with actual purple stroke and 1.6 source width preserve original paths, shape identity and measured placements."
+      }
+    }
+  ]
+}

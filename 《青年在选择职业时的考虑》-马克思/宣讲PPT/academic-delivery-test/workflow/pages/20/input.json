@@ -1,0 +1,27 @@
+{
+  "page_id": "freelance-uniformed",
+  "source_page": 20,
+  "text": "### 第 20 页｜自由职业与军警\n\n- **页面标题**：非典型路径的典型入口\n- **核心文字**：\n  - 自由职业：内容创作、设计咨询、技术外包\n  - 军警：军官/士官、公安、消防等\n- **视觉/版式**：左右双栏；军警只讲职业共性，不使用可识别军装照。\n- **资源**：`assets/career-freelance-uniformed.png`\n- **口播提示**：军警只讲职业共性，不涉及可识别信息；为后面部队经历页做铺垫。\n",
+  "roles": [
+    {
+      "role": "section",
+      "text": "非典型路径的典型入口",
+      "reason": "原稿分类"
+    },
+    {
+      "role": "group",
+      "text": "自由职业／军警",
+      "reason": "并列方向"
+    }
+  ],
+  "features": {
+    "purpose": "comparison",
+    "relation": "parallel",
+    "density": "short",
+    "group_count": 2,
+    "evidence": [
+      "text"
+    ]
+  },
+  "retrieval_query": "自由职业与军警并列入口，内容创作设计咨询技术外包；军官士官公安消防等。抽象线形笔记本和盾牌，不使用任何可识别军装照；这里只讲职业共性。"
+}

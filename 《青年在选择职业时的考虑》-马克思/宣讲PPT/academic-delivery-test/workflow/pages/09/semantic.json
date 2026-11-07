@@ -1,0 +1,34 @@
+{
+  "page_id": "original-passages",
+  "input_sha256": "68d7462588540e96004a215fdc59ecfe6713040e7c1d5a6f335a9016dd10737c",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "assessments": [
+    {
+      "id": "L12",
+      "eligible": false,
+      "semantic_score": 0.5,
+      "reason": "两图非对照实验，只是原文支持"
+    },
+    {
+      "id": "L04",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "四命题概括与两张引文，已验收上下对齐"
+    },
+    {
+      "id": "L03",
+      "eligible": false,
+      "semantic_score": 0.5,
+      "reason": "缺少原文图片栏"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    }
+  ],
+  "selected_id": "L04",
+  "selection_reason": "完整复用用户验收的宽栏与对齐。",
+  "layout_confirmed": true
+}

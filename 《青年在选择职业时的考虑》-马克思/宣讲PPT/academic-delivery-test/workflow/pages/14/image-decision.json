@@ -1,0 +1,8 @@
+{
+  "action": "capture_source",
+  "files": [
+    "14-postgrad-source-header.png",
+    "14-civil-source-header.png"
+  ],
+  "reason": "真实教育部与新华社网页，保留来源截图，不生成图表中的数字。"
+}

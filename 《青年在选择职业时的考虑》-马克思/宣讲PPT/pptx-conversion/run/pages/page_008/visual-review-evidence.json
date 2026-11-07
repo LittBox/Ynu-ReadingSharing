@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_008",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/render/rendered.png",
+      "source_sha256": "4c58cbbd5e862aa719837fc4f9e3cb6eb9634a49938933908d50507aaf58e61a",
+      "rendered_sha256": "0034a5ddc2d17f58177b207ec6ee4056dbebc619b84594bf948542746bec32ac",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Three tall evenly spaced cards preserve the original respect-self, others and career-practice columns with purple top bands.",
+        "text_content": "Personal happiness title, three explanations with source two-line breaks and the concluding unity sentence remain editable and fully visible.",
+        "object_completeness": "All three numbered headings, six body lines, concluding sentence and page 08 / 30 footer are present; no pictorial content was expected.",
+        "render_integrity": "Real LibreOffice render shows stable source-style card geometry and clear sans CJK; text remains inside each card without clipping or duplicate layers."
+      },
+      "pptx_sha256": "f4f3e2eeacb0373801feffde6f2f3b72f75ed765baa4920831e33f518cffa5cb"
+    }
+  ]
+}

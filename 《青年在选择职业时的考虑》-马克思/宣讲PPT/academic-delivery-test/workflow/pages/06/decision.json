@@ -1,0 +1,176 @@
+{
+  "page_id": "calm-examination",
+  "input_sha256": "c3887fb3c318ef4ba0d9a023658a668125d0e7606d19aa76fce5cd2b64ce890a",
+  "rules_sha256": "11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424",
+  "embedding": {
+    "model": "Apple NaturalLanguage zh-Hans sentenceEmbedding",
+    "revision": 1,
+    "dimension": 640
+  },
+  "channels": {
+    "keyword": "BM25 over Chinese bigrams/Latin tokens",
+    "vector": "cosine similarity of real Chinese sentence embeddings",
+    "semantic": "agent contextual analysis with per-candidate reasons; not keyword labels or a second embedding score"
+  },
+  "candidates": [
+    {
+      "id": "L02",
+      "family": "C02",
+      "name": "短并列横向论证框",
+      "keywords": [
+        "并列",
+        "三项",
+        "同权",
+        "短句",
+        "图标",
+        "横排"
+      ],
+      "semantic_description": "两到四个并列观点，各有简短说明，使用等宽同权的横向分组标题与下接论证框。核心判断独立使用主题色文字，语义图标辅助各项含义。",
+      "conditions": {
+        "relations": [
+          "parallel"
+        ],
+        "group_min": 2,
+        "group_max": 4,
+        "densities": [
+          "short"
+        ]
+      },
+      "apply": "标题条等高、内容框同权；每组保留原论点与说明。",
+      "avoid": "不用箭头暗示递进，不做两小一大，不让短句独占整页宽。",
+      "keyword_score": 6.61653,
+      "vector_cosine": 0.9923,
+      "keyword_rank": 1,
+      "vector_rank": 2,
+      "recall_rrf": 0.03252247488101534,
+      "semantic": {
+        "id": "L02",
+        "eligible": true,
+        "semantic_score": 1,
+        "reason": "四个简短考察维度并列，同权呈现"
+      },
+      "combined_score": 0.85
+    },
+    {
+      "id": "L01",
+      "family": "C01",
+      "name": "封面横幅",
+      "keywords": [
+        "开场",
+        "封面",
+        "题目",
+        "书目",
+        "讲者",
+        "日期",
+        "起点"
+      ],
+      "semantic_description": "讲座首页，主标题置于加高出血横幅；上方留空，无导航、标志或文字。副标题、书目等说明全在横幅下，汇报人及时间用横向浅色圆角信息标签排列。",
+      "conditions": {
+        "purposes": [
+          "cover"
+        ]
+      },
+      "apply": "用于首页或仅感谢聆听等无实质内容的结束页；不得因页码最后就选用。有实质内容的收尾另按内容检索。出血横幅上方留空；下方说明与汇报主题、汇报人、时间分层，三个基本信息标签同级并使用space-between分布，只填已有字段。",
+      "avoid": "不要把此封面横幅规则用于正文观点句。",
+      "keyword_score": 3.07371,
+      "vector_cosine": 0.99498,
+      "keyword_rank": 2,
+      "vector_rank": 1,
+      "recall_rrf": 0.03252247488101534,
+      "semantic": {
+        "id": "L01",
+        "eligible": false,
+        "semantic_score": 0,
+        "reason": "非封面"
+      },
+      "combined_score": 0.4
+    }
+  ],
+  "excluded": [
+    {
+      "id": "L03",
+      "reasons": [
+        "density=short not in ['long', 'mixed']"
+      ]
+    },
+    {
+      "id": "L04",
+      "reasons": [
+        "missing evidence source_image"
+      ]
+    },
+    {
+      "id": "L05",
+      "reasons": [
+        "missing evidence numeric_data",
+        "missing evidence source_image"
+      ]
+    },
+    {
+      "id": "L06",
+      "reasons": [
+        "missing evidence table"
+      ]
+    },
+    {
+      "id": "L07",
+      "reasons": [
+        "too many groups"
+      ]
+    },
+    {
+      "id": "L08",
+      "reasons": [
+        "relation=parallel not in ['sequence']"
+      ]
+    },
+    {
+      "id": "L09",
+      "reasons": [
+        "relation=parallel not in ['whole_parts', 'priority']"
+      ]
+    },
+    {
+      "id": "L10",
+      "reasons": [
+        "relation=parallel not in ['causal', 'conditional']"
+      ]
+    },
+    {
+      "id": "L11",
+      "reasons": [
+        "too many groups"
+      ]
+    },
+    {
+      "id": "L12",
+      "reasons": [
+        "missing evidence source_image"
+      ]
+    }
+  ],
+  "status": "layout_confirmed",
+  "selected_id": "L02",
+  "semantic_review": {
+    "page_id": "calm-examination",
+    "input_sha256": "c3887fb3c318ef4ba0d9a023658a668125d0e7606d19aa76fce5cd2b64ce890a",
+    "rules_sha256": "11efb0f1f7a2ac1fe99d9dbbd8220b55213d8cbb9e3e9a0f4f3080937d6a5424",
+    "assessments": [
+      {
+        "id": "L01",
+        "eligible": false,
+        "semantic_score": 0,
+        "reason": "非封面"
+      },
+      {
+        "id": "L02",
+        "eligible": true,
+        "semantic_score": 1,
+        "reason": "四个简短考察维度并列，同权呈现"
+      }
+    ],
+    "selected_id": "L02",
+    "selection_reason": "四项采用等面积2×2考察清单，保留方法结论与充分条件限定。",
+    "layout_confirmed": true
+  }
+}

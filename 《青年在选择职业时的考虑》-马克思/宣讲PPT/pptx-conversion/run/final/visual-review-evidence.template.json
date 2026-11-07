@@ -1,0 +1,447 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_001",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_001/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_01.png",
+      "source_sha256": "0e1654a97122e5180335d2254650864a4de728886d0ee12adcd330900627aa78",
+      "rendered_sha256": "465153d086ab640c59a8f57df0844881df1c853166d9728e76dd756a5f2b611f",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": ""
+      }
+    },
+    {
+      "page_id": "page_002",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_002/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_02.png",
+      "source_sha256": "86f4ff8e0f787efe9d47413748f2267145804fd33fd4d1fda2910ee9a525e067",
+      "rendered_sha256": "3e8b0eed15c8dbcf228014d7d13715dc563407f8ff70d0cdfa7b6eacc5b572ad",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_003",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_003/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_03.png",
+      "source_sha256": "97c3f1a3ca0c3e290d2d1bd9cccdb9bbc415e72aaf0310249a8d931feac71fa8",
+      "rendered_sha256": "024f3d2ad2bb1cbcc91f0ce28638b14e0e8fdb59c46dcef966bb1367f21acad6",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": ""
+      }
+    },
+    {
+      "page_id": "page_004",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_004/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_04.png",
+      "source_sha256": "083199a4e0cd5d6bf3e0733de1e020db308f21b6fc9fd11e6209fcb52488d305",
+      "rendered_sha256": "0229cac5e79a8eecf96aa6aec81ef655308dabb51bae843f08fbdc96b87b0aeb",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_005",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_005/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_05.png",
+      "source_sha256": "45675b8526cd8da3bbdba2293154999bd5d5b420312ac3bd5f1ab7746071eca9",
+      "rendered_sha256": "f680e603934e44b8ff5567f9484468d329144bc4b7a89c5865e75acaf8127ad7",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_006",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_006/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_06.png",
+      "source_sha256": "9695eba4c07879760bccbef769d078054a85eec817d9aaf91f14635959f29aab",
+      "rendered_sha256": "7a4adf80ebd54c941d7e4cd2f8872e2f5674055be557f6f6c1f55d984fca8e50",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": ""
+      }
+    },
+    {
+      "page_id": "page_007",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_007/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_07.png",
+      "source_sha256": "8568bee8f0cdbb3605a81fa85f581942f820b432f45a4ee002c84d0e025830ca",
+      "rendered_sha256": "aab54beb296c2b30b92654c8c0e81d5347164e23bfd0551380811058764c6c47",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_008",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_008/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_08.png",
+      "source_sha256": "4c58cbbd5e862aa719837fc4f9e3cb6eb9634a49938933908d50507aaf58e61a",
+      "rendered_sha256": "0034a5ddc2d17f58177b207ec6ee4056dbebc619b84594bf948542746bec32ac",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": ""
+      }
+    },
+    {
+      "page_id": "page_009",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_009/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_09.png",
+      "source_sha256": "d13ef1035e08dad58f8082cafeba7529f6a61da7f7e8e1fade053d33433a2724",
+      "rendered_sha256": "ac691f8485eb4684cfb7a425718c08befce469f12e40aff6cd072ec5b1e1407f",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_010",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_010/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_10.png",
+      "source_sha256": "62dda800883e81541053a3af87a733e50bf94653b268619ee150ca77a41835d3",
+      "rendered_sha256": "2e4631aa653ae8a4369024c73ca3b4c1c3f1cd03ae583c716311fa63e87f8166",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "arrow_geometry": ""
+      }
+    },
+    {
+      "page_id": "page_011",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_011/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_11.png",
+      "source_sha256": "63d6ef39490b68c96caf90d3bb1198bfccebcdced7fc0c5073049d82001eb14e",
+      "rendered_sha256": "58b936c82aff5ae71fc5728d3bd6828fd6510e9160bd9485a4fcfe92fdffb3df",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_012",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_012/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_12.png",
+      "source_sha256": "77d8fe060c8940f903e072522d856fd57a58270a18f8ebb5085bc08cff18b14b",
+      "rendered_sha256": "ec2b32551aacccbe28e62375b595bf335ed8da08e45dcd89be7d67768099b5b1",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_013",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_013/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_13.png",
+      "source_sha256": "cf4429332b29cc2d5c1920488e96e434e4634f8063e5bc64db2d504edc517e50",
+      "rendered_sha256": "118085deb20c1901c061c7222007547db210d23db2e77e393e23c4ec151a2fe9",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_014",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_014/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_14.png",
+      "source_sha256": "6701ca98c2beed9d47d6bdcb7f793649eac91cf7099f51f2d1d0ce6d0ebe0607",
+      "rendered_sha256": "00467cc5e31644a0cd2289467c4ef432345c670f11740d0590391e5421938242",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_015",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_015/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_15.png",
+      "source_sha256": "961013a5523e297ff04adffa2d38bbd8f74ace1e89f5d21f2ab71cb0ad5124f8",
+      "rendered_sha256": "4c993f16e4229f985d7108a99e8da7a9ff0e68af57147fec000a783425dc8792",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "arrow_geometry": ""
+      }
+    },
+    {
+      "page_id": "page_016",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_016/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_16.png",
+      "source_sha256": "c82eac055037898d7b786c9401cf672f42c92eaa8b370c4ce7974b93ab5e4b05",
+      "rendered_sha256": "244d26c170214d6b98bed0824a3b468bd94727f6cdd16355c05294c869f0afd7",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_017",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_017/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_17.png",
+      "source_sha256": "7136d984798fa51525f04b00791e0e449e5b46b929235dfdf36f9223f55e0591",
+      "rendered_sha256": "d258e89c42de5cb99c823aad9fc36fe99bebee5413dd8e6c58fcffa459163927",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_018",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_018/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_18.png",
+      "source_sha256": "3c02b9eb37149c39e9fe43429c83bd3379f97c571228bae3935bbb229d399a43",
+      "rendered_sha256": "03ff3035b05d70447523d71af38eb754bf66f47cfcf8c897b3a87668b129dba1",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_019",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_019/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_19.png",
+      "source_sha256": "1e11d67eb3400b347a0e8cadf2ee33531d50e1e258b173ae592699a3c46f63a5",
+      "rendered_sha256": "e4086da7a82838f7b87029ce2098456124a548c2b20593f279b70dc0c6c6260e",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_020",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_020/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_20.png",
+      "source_sha256": "af63fa56463ab899ceed6e27a2a6f722ff0796787cf365eb9aa47b6d6845036f",
+      "rendered_sha256": "2aa71b74bd539e44c55fe79301bb0fdca4b0c470ddcd49ff201f089bcf5770da",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_021",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_021/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_21.png",
+      "source_sha256": "01ece4ba5c1d8fb73220d0899ec97a008b6f3a9cc3af90c47932de9e9b8c05ee",
+      "rendered_sha256": "4775f40700d6fee65d85752d864305ab8818d4ce5744cacf23d07fa655c78160",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": ""
+      }
+    },
+    {
+      "page_id": "page_022",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_022/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_22.png",
+      "source_sha256": "628e5d8bcaa9fe7a8c4dc7411fec17e2e21400a567a1f1ef69b5d6d2c10b17c9",
+      "rendered_sha256": "b850f8ae0474ddd7ef4e8c5b9e9627c9b06e322ca81726901e62d53939285622",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": ""
+      }
+    },
+    {
+      "page_id": "page_023",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_023/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_23.png",
+      "source_sha256": "f21a14797c9982633a5b06c6ed4b43d6299a81ebf4a45e1b5b0b80ee0d8ed3f6",
+      "rendered_sha256": "649ce259e93b45f6c06a82b851851cd1092794cb70ac12b022b9237496732896",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": ""
+      }
+    },
+    {
+      "page_id": "page_024",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_24.png",
+      "source_sha256": "a1f4e0f4b6101da346378a1647dd162264f36b060595d04027caceea61896214",
+      "rendered_sha256": "d5b6269f6b85637436ccc28879e8e8c84dd36e5a196db4d9eb69b7c441f14a27",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": ""
+      }
+    },
+    {
+      "page_id": "page_025",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_025/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_25.png",
+      "source_sha256": "921640ebc5f33bb65870a2a11168e6350236db4fd96d0e6c57c84285680d782f",
+      "rendered_sha256": "7a3b9aef3e3840ed17360b44c306730c53db9712f395b8beecf40e29d898a1c7",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_026",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_026/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_26.png",
+      "source_sha256": "ec8e0333117ad919f2abcb56d7a058d4f5094d63d6c168288ded6ca7bcb7e453",
+      "rendered_sha256": "e31d57d567756f75ca64641a21efc031048b6a6f82c33c90f9b7a7ba87e46688",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_027",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_027/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_27.png",
+      "source_sha256": "c3ef8c021384b72d4bb78e6645420061a8defb6556e9c23ae30108c1496a9381",
+      "rendered_sha256": "f8f0f0fd09fce132428ec186b26de0528bb3bda4a20dd9d20a15dc2944089691",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    },
+    {
+      "page_id": "page_028",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_028/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_28.png",
+      "source_sha256": "5205168f7147a2466d670a1dac682ec1717f5a3f5a0df3dd4968e6fa213f0215",
+      "rendered_sha256": "2c7e5de0cc757fd2bffb434f18a154a2f4de2063b50a88efb72924d1cda1ff6e",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "arrow_geometry": ""
+      }
+    },
+    {
+      "page_id": "page_029",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_029/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_29.png",
+      "source_sha256": "9d9f00ab3f4f4fadb239b3cb06db4cfc53831d5aaacdbc1b9f0cd10d7f31252c",
+      "rendered_sha256": "6049986d14a5331affb293754d32f061f704825d3f39fbe3dd15899724b12084",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "arrow_geometry": ""
+      }
+    },
+    {
+      "page_id": "page_030",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_030/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/final/image2ppt_render/slide_30.png",
+      "source_sha256": "bf4b8aa4cb756880f036caef097973006177675fb182c21ac002aa02ca8176c4",
+      "rendered_sha256": "dd93106f8a66a95328683146ac0440e29464c622a5745ca825053186f77d02d7",
+      "reviewed": false,
+      "checks": {
+        "composition_layout": "",
+        "text_content": "",
+        "object_completeness": "",
+        "render_integrity": "",
+        "raster_assets": ""
+      }
+    }
+  ]
+}

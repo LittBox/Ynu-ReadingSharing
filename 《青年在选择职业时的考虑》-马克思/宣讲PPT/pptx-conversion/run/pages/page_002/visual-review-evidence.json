@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_002",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_002/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_002/render/rendered.png",
+      "source_sha256": "86f4ff8e0f787efe9d47413748f2267145804fd33fd4d1fda2910ee9a525e067",
+      "rendered_sha256": "3e8b0eed15c8dbcf228014d7d13715dc563407f8ff70d0cdfa7b6eacc5b572ad",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Original two-column news composition retained; lower screenshot and caption moved above footer to repair overlap already present in HTML, with all content intact.",
+        "text_content": "News values 5.3 percent and 0.1 percentage point, question and statistical-scope clarification remain native and readable; right paragraph reduced four percent as one group to fit original lines.",
+        "object_completeness": "Both original National Bureau screenshots, seven navigation pills, two purple right-card headers and all captions are present once.",
+        "render_integrity": "LibreOffice render has clean Source Han CJK, no missing glyphs or generated substitute imagery; footer source citation and screenshot caption no longer overlap.",
+        "raster_assets": "Two news screenshots use approved original PNG bytes and preserve embedded content and aspect ratios; only lower screenshot position changed to clear its caption."
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_016",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_016/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_016/render/rendered.png",
+      "source_sha256": "c82eac055037898d7b786c9401cf672f42c92eaa8b370c4ce7974b93ab5e4b05",
+      "rendered_sha256": "244d26c170214d6b98bed0824a3b468bd94727f6cdd16355c05294c869f0afd7",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "Eight equal career cards remain in two rows of four, with purple title banner and header strips; source spacing and bottom takeaway preserved.",
+        "text_content": "Eight career-direction labels, title, disclaimer and Lucide attribution remain native editable Chinese text and fit their original areas.",
+        "object_completeness": "All eight distinct icons are present once in correct category cards, with eight card frames, headings and complete navigation/footer.",
+        "render_integrity": "Inspected fresh LibreOffice rendering after SVG CSS correction; native text and borders are crisp with no clipping or duplication.",
+        "raster_assets": "Original SVG paths were normalized with actual source CSS purple #660874 stroke and 1.6 width, correcting first render; all eight shapes, proportions and original positions now match."
+      }
+    }
+  ]
+}

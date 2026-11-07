@@ -1,0 +1,188 @@
+{
+  "page_id": "original-passages",
+  "input_sha256": "68d7462588540e96004a215fdc59ecfe6713040e7c1d5a6f335a9016dd10737c",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "embedding": {
+    "model": "Apple NaturalLanguage zh-Hans sentenceEmbedding",
+    "revision": 1,
+    "dimension": 640
+  },
+  "channels": {
+    "keyword": "BM25 over Chinese bigrams/Latin tokens",
+    "vector": "cosine similarity of real Chinese sentence embeddings",
+    "semantic": "pending agent analysis"
+  },
+  "candidates": [
+    {
+      "id": "L12",
+      "family": "C03",
+      "name": "双证据等权对照",
+      "keywords": [
+        "对照",
+        "两组",
+        "证据",
+        "图像",
+        "比较"
+      ],
+      "semantic_description": "两张同级证据图或两组材料需要直接比较，使用同尺寸图槽和同层级标签，保持比例与来源，解释差异而不制造优先级。",
+      "conditions": {
+        "purposes": [
+          "evidence_comparison"
+        ],
+        "evidence_all": [
+          "source_image"
+        ]
+      },
+      "apply": "图槽同高、原图完整；对照条件必须可比。",
+      "avoid": "不能为了两栏对称裁去关键图文或改变比例。",
+      "keyword_score": 2.3433,
+      "vector_cosine": 0.98758,
+      "keyword_rank": 3,
+      "vector_rank": 1,
+      "recall_rrf": 0.032266458495966696
+    },
+    {
+      "id": "L04",
+      "family": "C03",
+      "name": "概括与原文证据分栏",
+      "keywords": [
+        "引用",
+        "原文",
+        "批注",
+        "截图",
+        "高亮",
+        "解读",
+        "概括"
+      ],
+      "semantic_description": "一侧列出对原文的若干概括，另一侧保留原始段落截图和出处。概括不是直引，证据图完整呈现文字与高亮，图文占比依据材料容量。",
+      "conditions": {
+        "purposes": [
+          "source_reading"
+        ],
+        "evidence_all": [
+          "source_image"
+        ]
+      },
+      "apply": "概括栏编号清楚、正文左对齐；按文字容量分配栏宽，不固定为窄栏。左右采用共同外边界，首项顶边与首图框顶边对齐、末项底边与末图框底边对齐；同级概括等高分布。保真图contain，来源就近呈现。",
+      "avoid": "禁止重画原文、裁关键内容；不得生成插图替代引用证据。",
+      "keyword_score": 7.0479,
+      "vector_cosine": 0.98581,
+      "keyword_rank": 1,
+      "vector_rank": 3,
+      "recall_rrf": 0.032266458495966696
+    },
+    {
+      "id": "L03",
+      "family": "C02",
+      "name": "长并列纵向分组",
+      "keywords": [
+        "并列",
+        "长段",
+        "列表",
+        "逐行",
+        "编号"
+      ],
+      "semantic_description": "多个同级观点带较长说明或需要逐行阅读，使用统一标题条与下方内容框纵向排列。序号服务讲述指代，文本左对齐。",
+      "conditions": {
+        "relations": [
+          "parallel"
+        ],
+        "densities": [
+          "long",
+          "mixed"
+        ]
+      },
+      "apply": "仅在文本容量或实际栏宽需要时纵排，各项同权。",
+      "avoid": "不能把短句纵排成大量空荡通栏。",
+      "keyword_score": 2.36125,
+      "vector_cosine": 0.98705,
+      "keyword_rank": 2,
+      "vector_rank": 2,
+      "recall_rrf": 0.03225806451612903
+    },
+    {
+      "id": "L01",
+      "family": "C01",
+      "name": "封面横幅",
+      "keywords": [
+        "开场",
+        "封面",
+        "题目",
+        "书目",
+        "讲者",
+        "日期",
+        "起点"
+      ],
+      "semantic_description": "讲座首页，主标题置于加高出血横幅；上方留空，无导航、标志或文字。副标题、书目等说明全在横幅下，汇报人及时间用横向浅色圆角信息标签排列。",
+      "conditions": {
+        "purposes": [
+          "cover"
+        ]
+      },
+      "apply": "用于首页或仅感谢聆听等无实质内容的结束页；不得因页码最后就选用。有实质内容的收尾另按内容检索。出血横幅上方留空；下方说明与汇报主题、汇报人、时间分层，三个基本信息标签同级并使用space-between分布，只填已有字段。",
+      "avoid": "不要把此封面横幅规则用于正文观点句。",
+      "keyword_score": 0.0,
+      "vector_cosine": 0.98495,
+      "keyword_rank": 4,
+      "vector_rank": 4,
+      "recall_rrf": 0.03125
+    }
+  ],
+  "excluded": [
+    {
+      "id": "L02",
+      "reasons": [
+        "density=mixed not in ['short']"
+      ]
+    },
+    {
+      "id": "L05",
+      "reasons": [
+        "missing evidence numeric_data"
+      ]
+    },
+    {
+      "id": "L06",
+      "reasons": [
+        "missing evidence table"
+      ]
+    },
+    {
+      "id": "L07",
+      "reasons": [
+        "too many groups"
+      ]
+    },
+    {
+      "id": "L08",
+      "reasons": [
+        "relation=parallel not in ['sequence']"
+      ]
+    },
+    {
+      "id": "L09",
+      "reasons": [
+        "relation=parallel not in ['whole_parts', 'priority']"
+      ]
+    },
+    {
+      "id": "L10",
+      "reasons": [
+        "relation=parallel not in ['causal', 'conditional']"
+      ]
+    },
+    {
+      "id": "L11",
+      "reasons": [
+        "too many groups"
+      ]
+    },
+    {
+      "id": "L13",
+      "reasons": [
+        "missing evidence illustration"
+      ]
+    }
+  ],
+  "status": "requires_semantic_review"
+}

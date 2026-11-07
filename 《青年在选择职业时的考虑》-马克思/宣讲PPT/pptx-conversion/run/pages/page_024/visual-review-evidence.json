@@ -1,0 +1,20 @@
+{
+  "schema_version": "image2ppt-visual-review-evidence-v1",
+  "pages": [
+    {
+      "page_id": "page_024",
+      "source": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/source.png",
+      "rendered": "/Users/admin/Desktop/云上书屋/宣讲PPT/pptx-conversion/run/pages/page_024/render/rendered.png",
+      "source_sha256": "a1f4e0f4b6101da346378a1647dd162264f36b060595d04027caceea61896214",
+      "rendered_sha256": "0641b4b317ae26c03d172d777de07808dbe1afe82998575c1fc1724e84a0190e",
+      "reviewed": true,
+      "checks": {
+        "composition_layout": "The three equal-width panels retain their purple header strips, white bodies, border edges and even source gutters; takeaway remains below panels.",
+        "text_content": "Interest/ability, certificate/evidence and rumor/standard headings and all three misconception/correction paragraphs are complete with source line breaks.",
+        "object_completeness": "Twenty-seven native text boxes and twenty-eight native layout shapes preserve numbered headers 01/02/03, paragraph pairs and purple takeaway.",
+        "render_integrity": "Compared actual LibreOffice slide to source at full size: no paragraph overflows panel boundaries, no duplicate text and no rasterized text content."
+      },
+      "pptx_sha256": "4d676822c58afcf215c1a5fe5bbab147a5f6922fa104fe6713c92a36dbf4d31c"
+    }
+  ]
+}

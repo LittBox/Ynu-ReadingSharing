@@ -1,0 +1,46 @@
+{
+  "page_id": "youth-employment-baseline",
+  "input_sha256": "864ee51dfb40bbf01755922f6701e38b0ad361ec9c09bb7930f465d26dfe90cc",
+  "rules_sha256": "c153932f45a0628da7975b1698f7be81a09c90f03717717e62fd1c070a1dae64",
+  "assessments": [
+    {
+      "id": "L05",
+      "eligible": true,
+      "semantic_score": 1,
+      "reason": "已验收左来源右数据条，口径相同"
+    },
+    {
+      "id": "L12",
+      "eligible": false,
+      "semantic_score": 0.3,
+      "reason": "不是图片对照"
+    },
+    {
+      "id": "L07",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "不是收尾"
+    },
+    {
+      "id": "L04",
+      "eligible": false,
+      "semantic_score": 0.5,
+      "reason": "没有量化比较结构"
+    },
+    {
+      "id": "L11",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "不是文字行动"
+    },
+    {
+      "id": "L01",
+      "eligible": false,
+      "semantic_score": 0,
+      "reason": "非封面"
+    }
+  ],
+  "selected_id": "L05",
+  "selection_reason": "复用验收样板的数据图、原网页截图及口径限定。",
+  "layout_confirmed": true
+}
